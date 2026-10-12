@@ -63,6 +63,14 @@ Sur n≥0, considérons les deux fonctions **P(n)=1+n** (performance immédiate)
 
 **[Lire le théorème et la cosmodésie de la correction](04-performance-et-corrigibilite.html)**
 
+## V. Transparence des sources — La trace ouvre des corrections
+
+**THÉORÈME 6 :** toute stratégie correcte fondée sur une information F reste réalisable après enrichissement par une trace fiable E, grâce à π′(F,E)=π(F).
+
+**THÉORÈME 7 :** deux histoires h₀,h₁ ayant F(h₀)=F(h₁) mais nécessitant des corrections incompatibles sont indiscernables avec F seul ; si E(h₀)≠E(h₁), la politique enrichie peut choisir les deux corrections adaptées.
+
+**[Lire les deux preuves et le corollaire de décision optimale](05-transparence-et-correction.html)**
+
 ## Les résultats dans l'architecture Grande Unicité
 
 La totalité « IL Y A » définit le noyau ; le théorème de compression situe les différences qu'un modèle peut perdre ; celui de provenance identifie les conditions de reconstruction de l'histoire d'une idée ; le contre-modèle de performance motive l'étude des capacités futures de correction. **VROT : Variation · Relation · Orientation · Trace** relie leur usage dans le programme de recherche de Xavier Endres.
