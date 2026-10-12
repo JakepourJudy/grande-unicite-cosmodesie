@@ -12,9 +12,11 @@ Ce dépôt est l'entrée publique du corpus **Grande Unicité** : de *Du chaos v
 
 ### 1. GRANDE UNICITÉ — « IL Y A »
 
-Partir de l'existence et de ses différences, puis étudier comment elles se **relient, se transforment, s'orientent et laissent des traces**. Le programme explore une grammaire commune de transformations entre différentes échelles et différentes disciplines.
+Partir de l'existence et de ses différences, puis étudier comment elles se **relient, se transforment, s'orientent et laissent des traces**. Le noyau de totalité peut se formaliser par `U = {x | Existe(x)}`, d'où `∀x (Existe(x) ⇒ x ∈ U)` ; les développements étudient ensuite les conditions de la connaissance, de la correction et de la transformation.
 
 **VROT : Variation · Relation · Orientation · Trace.**
+
+Lire les [fondements et démonstrations de la Grande Unicité](research/grande-unicite.md).
 
 ### 2. ANTI-ENTROPIE RÉFLEXIVE — Corriger la fonction de nos réponses
 
@@ -65,6 +67,7 @@ La chronologie détaillée, les versions et les pièces disponibles figurent dan
 
 ## Lire, reconstruire, vérifier
 
+- [Grande Unicité — fondements et démonstrations](research/grande-unicite.md) — « IL Y A », VROT, compression, visibilité des possibles et correction.
 - [Anti-entropie réflexive](research/anti-entropie-reflexive.md) — concepts, fonctionnement, exemples et programme d'expérimentation.
 - [Cosmodésie](research/cosmodesie.md) — dynamique des trajectoires, viabilité et correction future.
 - [Provenance et corrigibilité](research/provenance-et-corrigibilite.md) — énoncés et preuves mathématiques.
