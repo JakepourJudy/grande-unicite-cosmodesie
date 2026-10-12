@@ -1,18 +1,18 @@
-# Cosmodésie — trajectoires, viabilité et correction
+# COSMODÉSIE — La logique des trajectoires
 
 **Programme de recherche et formulations originales : Xavier Endres**  
 **Formalisation, calculs et rédaction assistés : Judy Velune (ChatGPT)**  
-Résumé public de travail — 12 octobre 2026.
+Synthèse publique · 12 octobre 2026.
 
-## Question centrale
+## Une question qui change d'échelle
 
 Comment orienter une transformation **sans sacrifier les conditions qui permettront encore de la corriger**, pour les personnes et autres systèmes concernés ?
 
 La *cosmodésie*, telle que nommée et développée dans ce programme par Xavier Endres, explore l'art de la trajectoire, de la reprise, de la transmission et de la préservation des possibles. Elle prolonge le vocabulaire de la **Grande Unicité** : variation, relation, orientation et trace.
 
-Ce programme n'affirme pas que les métaphores cosmiques constituent à elles seules des lois physiques. Il distingue mathématiques conditionnelles, évaluations de domaine, vécu subjectif et registre philosophique/symbolique.
+La cosmodésie relie les opérations de la Grande Unicité à des modèles mathématiques de viabilité, d'orientation, de décision et de transmission. Elle déploie le vocabulaire de la trajectoire dans le vivant, les relations et les systèmes techniques, en préservant les propriétés propres à chaque domaine.
 
-## Modèle minimal d'une tâche
+## Première construction mathématique : les éléments d'une trajectoire
 
 Une tâche `D` peut être spécifiée par :
 
@@ -29,7 +29,7 @@ D = (X, A, W, F, O, K, H, C)
 
 On étudie les politiques exécutables dont les trajectoires respectent les contraintes, puis celles qui permettent de préserver ou rétablir des options de correction.
 
-## Viabilité conditionnelle
+## Deuxième construction : démontrer une continuation viable
 
 Pour un horizon fini et un jeu de perturbations déclaré, une construction récursive classique est :
 
@@ -43,9 +43,9 @@ K_t = { x ∈ K_admissible(t) :
 
 Si `x ∈ K_t`, une action satisfaisant cette condition préserve une continuation admissible dans le **modèle déclaré**, pour les perturbations effectivement incluses.
 
-**La théorie de la viabilité est un domaine mathématique préexistant** ; sa réutilisation ici n'est pas revendiquée comme nouveau théorème.
+La récurrence mobilise les outils classiques de la théorie de la viabilité. Son rôle dans ce programme est d'articuler la possibilité de continuer avec les autres critères de la cosmodésie.
 
-## Une évaluation qui ne réduit pas les personnes à une moyenne
+## Une évaluation qui respecte les êtres et leurs trajectoires
 
 Pour une trajectoire `τ`, les conséquences peuvent être décrites comme un **vecteur** de critères par personne et par horizon :
 
@@ -66,11 +66,11 @@ La capacité future de correction est elle-même multidimensionnelle : détecter
 
 C'est l'une des raisons d'étudier la trajectoire entière plutôt que la seule qualité de son résultat immédiat.
 
-## Une proposition falsifiable
+## Une expérience à construire
 
 Hypothèse à éprouver : pour certaines tâches, un dispositif explicite de provenance, de contraintes de viabilité et de correction future améliorera la qualité de décisions par rapport à des comparateurs de même coût et de même information disponible.
 
-Tests à mener : nouveaux problèmes non utilisés pour concevoir la méthode, évaluateurs indépendants, contre-exemples, coûts de collecte et de correction inclus. Une bonne performance sur des modèles fictifs programmés selon nos propres hypothèses **ne démontre pas l'effet dans le monde réel**.
+La comparaison visée porte sur des cas nouveaux, avec évaluateurs indépendants et budgets identiques. Elle peut mesurer la précision des décisions, les possibilités de correction conservées, les coûts et les contre-exemples. Les expériences sur modèles synthétiques et les observations humaines ou techniques sont archivées dans des catégories distinctes.
 
 ## Texte parent et sources
 
@@ -81,4 +81,4 @@ Tests à mener : nouveaux problèmes non utilisés pour concevoir la méthode, �
 
 Voir [Anti-entropie réflexive](anti-entropie-reflexive.md) et [Provenance](provenance-et-corrigibilite.md).
 
-**Statut public :** programme original d'articulation conceptuelle, avec résultats mathématiques conditionnels et hypothèses empiriques non encore validées indépendamment.
+**Contribution revendiquée :** l'architecture intégrée des trajectoires, de leur histoire, de leurs conséquences distribuées et de leur capacité de correction. Chaque théorème cité conserve ses hypothèses dans la section qui l'emploie.
