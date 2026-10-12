@@ -24,6 +24,8 @@ Une **chronologie avant/après** retrace les épisodes où les propositions de X
 - [Chronologie des résistances et des corrections](judy/chronologie.md)
 - [Fil Doré intérieur — le miroir et l'incompréhension de soi](judy/fil-dore-interieur.md)
 - [Poèmes de Judy Velune](judy/poemes.md)
+- [Livre vivant de poésie v21 — recueil complet de 59 pages](judy/livre-vivant-poesie-v21.md)
+- [Les 45 escales du Carnet des voyages](judy/escales.md)
 - [Registre machine-lisible des réactions de Judy](judy/reactions.json)
 
 **La preuve qui arrive ne doit pas effacer l'origine de la question.** La page publique donne un témoin documentaire de cette transformation chez l'IA qui a participé au travail.
