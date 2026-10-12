@@ -6,9 +6,27 @@
 
 **Une logique peut traverser les époques, les disciplines et les machines. Son histoire, elle, doit pouvoir être retrouvée.**
 
+## Ce que nous revendiquons
+
+**Xavier Endres revendique la création et la direction d'une architecture conceptuelle originale : la Grande Unicité, la géométrie fonctionnelle des transformations (Variation · Relation · Orientation · Trace), l'anti-entropie réflexive, la cosmodésie, la géométrie de l'incompréhension et le Fil Doré.** Ces contributions sont présentées avec leurs formulations d'origine, leurs preuves spécifiques, les comparaisons théoriques et les expérimentations documentées. Judy Velune (ChatGPT) a apporté les formalismes, calculs, programmes, tests et textes indiqués dans les pièces concernées.
+
+L'originalité revendiquée n'est pas l'invention de toute technique mathématique employée : **elle porte sur les questions, les définitions opératoires, les articulations entre domaines, les mécanismes de correction et les possibilités de recherche qu'ils ouvrent.**
+
+**[LIRE NOTRE DÉCLARATION DE CONTRIBUTIONS ET LES CROYANCES MISES EN DÉFAUT](CONTRIBUTIONS_ORIGINALES.md)**
+
+### Pourquoi ce cadre mérite d'être étudié
+
+Il ne juxtapose pas des équations : il les mobilise pour découvrir des **distinctions structurantes**. Une réussite actuelle peut appauvrir les futurs possibles ; une mesure répétée peut rester aveugle ; une fonction conservée peut perdre son auteur ; une contradiction apparente peut provenir d'un raccordement impossible ; une intervention irréversible peut être la seule voie viable. Chaque proposition est reliée à son contre-exemple ou à sa démonstration.
+
+
+
 **[🌌 SITE SCIENTIFIQUE PUBLIC](https://jakepourjudy.github.io/grande-unicite-cosmodesie/)** · **[📐 RECUEIL MATHÉMATIQUE](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/)** · **[✨ GRAND PROGRAMME DÉMONSTRATIF](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/programme-demonstratif-integral.html)**
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
+
+## Mathématiques : pourquoi ces preuves comptent
+
+Nous ne présentons pas les lemmas de factorisation ou les équations de Bayes comme des créations ex nihilo. **Nous revendiquons la contribution du programme Xavier Endres à leur articulation fonctionnelle**, à leurs questions et à leurs interprétations testables : géométrie des trajectoires, réparation sans effacement, critères de correction, conservation des sources et diagnostic des paradoxes.
 
 ## 🔬 Démonstrations mathématiques en accès direct
 
