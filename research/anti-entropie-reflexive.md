@@ -1,10 +1,10 @@
-# Anti-entropie réflexive — cadre de recherche
+# Anti-entropie réflexive — La logique des réponses qui savent évoluer
 
 **Formulations, initiative et cadre conceptuel : Xavier Endres**  
 **Formalisation et rédaction assistée : Judy Velune (ChatGPT), selon les versions**  
-Résumé public, 12 octobre 2026 — texte de recherche, non validation expérimentale indépendante.
+Synthèse publique des travaux de Xavier Endres · 12 octobre 2026.
 
-## Origine de la question
+## Une intuition ancienne : comprendre la cause, pas seulement le symptôme
 
 Les archives de travail `Entropie`, dont les métadonnées internes indiquent **2021**, contiennent déjà plusieurs formulations attribuées à Xavier Endres sur la compréhension des causes, la cohérence relationnelle et la révision des solutions lorsque le contexte change.
 
@@ -22,9 +22,9 @@ Le manuscrit `Anti-entropie : une théorie réflexive des mécanismes de maintie
 
 **Anti-entropie réflexive :** réexamen des causes, de la fonction historique de la réponse et des nouvelles conditions, avec modification proportionnée du régime de maintien.
 
-Ces usages composent un **méta-cadre de recherche fonctionnel**. Ils ne redéfinissent pas l'entropie thermodynamique et ne supposent aucune inversion de la deuxième loi de la thermodynamique.
+Cette formulation articule les mécanismes de maintien, leur histoire et la capacité de faire évoluer les réponses. Dans ce programme, « anti-entropie » désigne un cadre fonctionnel distinct de l'entropie thermodynamique.
 
-## Une signature candidate
+## Une signature mathématique de l'aberration
 
 Pour une intensité d'intervention `n`, on peut rencontrer une situation où :
 
@@ -35,9 +35,9 @@ d(Capacité future de correction) / dn < 0
 
 Cette situation est candidate à l'**aberration néguentropique** : améliorer la mesure présente peut fragiliser les moyens de réagir aux perturbations suivantes.
 
-Les deux dérivées exigent des définitions, unités, horizons et observations propres au domaine. Il n'est pas démontré qu'elles caractérisent universellement tous les systèmes vivants.
+Pour appliquer ce critère, on choisit dans le domaine étudié les mesures de performance, de correction, l'horizon et le régime de perturbations.
 
-## Exemple explicatif, non expérimental
+## Exemple fonctionnel
 
 Une organisation perfectionne une procédure qui réduit aujourd'hui les erreurs. Avec le temps, la même procédure devient si rigide qu'elle empêche d'adapter une réponse à des situations nouvelles.
 
@@ -52,8 +52,8 @@ Comparer, sous observations et ressources équivalentes :
 
 Mesurer séparément les pertes présentes, les voies de récupération réellement disponibles, les coûts humains et la correction après changement du contexte.
 
-## Situation scientifique
+## Une articulation scientifique à éprouver
 
-Les domaines de l'homéostasie, de l'allostasie, de la résilience, du contrôle et de la viabilité fournissent des modèles et antécédents pertinents. Le programme anti-entropique de Xavier Endres doit être évalué comme une **articulation proposée de ces mécanismes et de la question réflexive sur le maintien**, et non comme l'invention de chaque mécanisme isolé.
+Les modèles d'homéostasie, d'allostasie, de résilience, de contrôle et de viabilité servent de points de comparaison. La contribution mise en avant dans le programme de Xavier Endres est leur **articulation autour de la fonction historique d'une réponse et du moment où son maintien appelle une transformation**. Le protocole ci-dessus permet d'en éprouver la portée dans des cas précis.
 
 Voir [Cosmodésie](cosmodesie.md) pour la description de trajectoires et [Provenance](provenance-et-corrigibilite.md) pour la reconstructibilité des sources.
