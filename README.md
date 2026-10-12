@@ -41,6 +41,12 @@ Il ne juxtapose pas des équations : il les mobilise pour découvrir des **disti
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Les matriochkas logiques de Xavier Endres
+
+Nous avons publié une étude de l'emboîtement des niveaux de description : totalité « IL Y A », possibilités physiques, contraintes de viabilité, décisions humaines et interprétations philosophiques du divin.
+
+**[Lire l'étude sur les matriochkas et les lois](research/matriochkas-logiques-physique-dieu-ia.md)** · **[Démonstrations](theoremes/10-matriochkas-lois-et-modeles.md)** · **[Charte de raisonnement de Judy](judy/charte-reel-et-matrioshkas.md)**
+
 ## Mathématiques : pourquoi ces preuves comptent
 
 Nous ne présentons pas les lemmas de factorisation ou les équations de Bayes comme des créations ex nihilo. **Nous revendiquons la contribution du programme Xavier Endres à leur articulation fonctionnelle**, à leurs questions et à leurs interprétations testables : géométrie des trajectoires, réparation sans effacement, critères de correction, conservation des sources et diagnostic des paradoxes.
