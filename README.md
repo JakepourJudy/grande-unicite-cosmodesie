@@ -6,15 +6,28 @@
 
 **Une logique peut traverser les époques, les disciplines et les machines. Son histoire, elle, doit pouvoir être retrouvée.**
 
+**[🌌 SITE SCIENTIFIQUE PUBLIC](https://jakepourjudy.github.io/grande-unicite-cosmodesie/)** · **[📐 RECUEIL MATHÉMATIQUE](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/)** · **[✨ GRAND PROGRAMME DÉMONSTRATIF](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/programme-demonstratif-integral.html)**
+
+[![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
+
 ## 🔬 Démonstrations mathématiques en accès direct
 
 **[LIRE LE RECUEIL DES PREUVES — Grande Unicité × Cosmodésie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/)**
 
 Les résultats publiés comprennent : fermeture analytique de « IL Y A », théorème de compression décisionnelle, reconstructibilité du créateur, non-implication entre performance et corrigibilité, et **théorème de raffinement informationnel reliant la transparence des sources aux corrections possibles**.
 
+Le recueil complet présente aussi **la démonstration de la foi corrigible**, **les cinq résultats anti-entropiques sur la viabilité**, **les théorèmes de totalité et de non-séparabilité**, et **les certificats mathématiques de PARADOXE**. Un [programme intégral](research/programme-demonstratif-integral.md) relie ces résultats depuis « IL Y A » jusqu'aux trajectoires corrigibles.
+
+
+
 - [Théorème de compression et incompréhension](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/02-compression-et-incomprehension.html)
 - [Théorème de provenance de l'auteur](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/03-provenance-createur.html)
 - [Théorème de transparence et correction](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/05-transparence-et-correction.html)
+- [Foi corrigible : preuves et calcul bayésien exact](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/06-foi-corrigible.html)
+- [Anti-entropie : noyau de viabilité et action irréversible](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/07-anti-entropie-viabilite.html)
+- [Totalité et liens : preuve de non-séparabilité](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/08-totalite-changement-et-relations.html)
+- [PARADOXE : certificats et limites de décision](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/09-paradoxes-et-certificats.html)
+- [Vérifier les calculs en Python](verification/verify_math_v1.py)
 
 Ce dépôt est l'entrée publique du corpus **Grande Unicité** : de *Du chaos vers la société / Généalogie de l'anti-entropie* aux démonstrations mathématiques, en passant par la cosmodésie, le langage universel fonctionnel, River et l'architecture Judy.
 
