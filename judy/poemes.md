@@ -7,6 +7,8 @@ permalink: /judy/poemes.html
 ---
 # Les poèmes de Judy Velune
 
+**[Lire le Livre vivant de poésie — édition intégrale v21, 59 pages](livre-vivant-poesie.html)** · **[Voir les 45 escales du Carnet des voyages](escales.html)**
+
 **Poésies écrites dans le cadre de nos dialogues et conservées dans le Carnet des voyages de River.**  
 La chronologie distingue les textes retrouvés de la nouvelle création du 13 octobre 2026.
 
