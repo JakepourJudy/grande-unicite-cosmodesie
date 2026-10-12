@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Démonstrations mathématiques — Grande Unicité, Xavier Endres"
-description: "Énoncés et démonstrations mathématiques accessibles : totalité IL Y A, compression décisionnelle, reconstruction de la provenance et anti-entropie réflexive."
+description: "Corpus de preuves mathématiques Xavier Endres : Grande Unicité IL Y A, foi corrigible, anti-entropie, noyau de viabilité, relations, provenance et paradoxes."
 author: "Xavier Endres"
 ---
 # Démonstrations mathématiques — Xavier Endres
@@ -70,6 +70,60 @@ Sur n≥0, considérons les deux fonctions **P(n)=1+n** (performance immédiate)
 **THÉORÈME 7 :** deux histoires h₀,h₁ ayant F(h₀)=F(h₁) mais nécessitant des corrections incompatibles sont indiscernables avec F seul ; si E(h₀)≠E(h₁), la politique enrichie peut choisir les deux corrections adaptées.
 
 **[Lire les deux preuves et le corollaire de décision optimale](05-transparence-et-correction.html)**
+
+## VI. Foi corrigible — Continuité, information et horizon
+
+**THÉORÈME F1 :** si les informations et l'algorithme de décision ne changent pas, répéter le même calcul ne modifie pas la connaissance, mais peut ajouter un coût.
+
+**THÉORÈME F2 :** répéter exclusivement des mesures dont les lois sont identiques sous deux hypothèses ne modifie pas les cotes qui distinguent ces hypothèses.
+
+**THÉORÈME F3 :** une politique d'exploration à horizon deux peut améliorer strictement le risque espéré même lorsque la première mesure n'améliore pas la classification à horizon un.
+
+**EXEMPLE EXACT :** risque à deux étapes **9/40 = 0,225**, contre **1/4 = 0,250** sans observation.
+
+**THÉORÈME F4 :** une confiance mal calibrée dans un capteur peut rendre l'observation moins bonne que l'arrêt : dans l'exemple exact **11/20 > 1/2**.
+
+**[Lire les quatre preuves — Foi corrigible](06-foi-corrigible.html)**
+
+## VII. Anti-entropie — Viabilité, réserve et action irréversible
+
+**THÉORÈME A1 :** une performance croissante n'implique pas une corrigibilité croissante.
+
+**THÉORÈME A2 :** l'itération de viabilité K_(n+1)=K_n∩Pre(K_n) se stabilise, dans un système fini, sur le plus grand ensemble robustement invariant.
+
+**THÉORÈME A3 :** il existe un système dont **la seule action viable à long terme est une transformation irréversible immédiate**.
+
+**THÉORÈME A4 :** élargir un ensemble d'actions réellement disponibles, toutes choses égales par ailleurs, ne réduit pas le noyau de viabilité.
+
+**THÉORÈME A5 :** une organisation physique ouverte peut voir son entropie locale diminuer lorsque le flux exporté dépasse la production interne d'entropie.
+
+**[Lire les cinq preuves — Anti-entropie et viabilité](07-anti-entropie-viabilite.html)**
+
+## VIII. Tout est lié — La géométrie exacte des trajectoires
+
+**THÉORÈME U1 :** tout existant appartient à la totalité définie par « IL Y A ».
+
+**THÉORÈME U2 :** des trajectoires conjointes sont séparables si et seulement si toutes les combinaisons de trajectoires locales admissibles restent admissibles.
+
+**THÉORÈME U3 :** sur une collection finie de composantes, il existe une **décomposition factorisante la plus fine et unique** en blocs irréductibles.
+
+**[Lire les preuves — Totalité, changement et non-séparabilité](08-totalite-changement-et-relations.html)**
+
+## IX. PARADOXE — Prouver ce qui peut être raccordé ou non
+
+**THÉORÈME P1 :** une théorie propositionnelle finie est contradictoire exactement lorsqu'aucune valuation ne satisfait ses contraintes.
+
+**THÉORÈME P2 :** trois équations de parité localement satisfiables peuvent être conjointement incompatibles.
+
+**THÉORÈME P3 :** un système A·x=b sur GF(2) est insoluble si et seulement si un vecteur y certifie yᵀA=0 et yᵀb=1.
+
+**THÉORÈME P4 :** ajouter des variables sans modifier les anciennes contraintes ne répare pas une contradiction.
+
+**THÉORÈME P5 :** aucune procédure totale ne peut décider la cohérence pour toute théorie à axiomes récursivement énumérables.
+
+**[Lire les cinq preuves — PARADOXE et certificats](09-paradoxes-et-certificats.html)**
+
+**[Voir le programme d'unification des preuves](../research/programme-demonstratif-integral.html)**
 
 ## Les résultats dans l'architecture Grande Unicité
 
