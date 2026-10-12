@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Deux théorèmes de provenance et de corrigibilité"
+description: "Programme de Xavier Endres — Deux théorèmes de provenance et de corrigibilité"
+author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+---
 # Deux théorèmes de provenance et de corrigibilité
 
 **Xavier Endres — questions, cadre conceptuel et programme de recherche**  
@@ -94,4 +100,4 @@ Quand un lien n'est pas établi, préférer `UNKNOWN` à une généalogie invent
 - [W3C PROV-DM](https://www.w3.org/TR/prov-dm/) et [W3C PROV-O](https://www.w3.org/TR/prov-o/), standards de représentation de provenance.
 - [DataCite Metadata Schema](https://schema.datacite.org/), métadonnées bibliographiques structurées.
 
-Voir [PROVENANCE.md](../PROVENANCE.md) pour les limites de l'archive chronologique.
+Voir [PROVENANCE.md](../PROVENANCE.html) pour les limites de l'archive chronologique.

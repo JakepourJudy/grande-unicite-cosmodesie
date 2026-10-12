@@ -15,6 +15,14 @@ Cette page donne directement les **énoncés, équations et preuves**, avant de 
 
 **[Lire la déclaration des contributions originales et les croyances mises en défaut](../CONTRIBUTIONS_ORIGINALES.html)**
 
+## Accès direct — La nécessité fonctionnelle
+
+Le [chapitre 11 — Quand un mécanisme devient remplaçable](11-necessite-fonctionnelle.html) présente quatorze résultats N0–N13 : certificat de dominance, compression pertinente, information redondante, reformulation, alarme, contexte, certitude calibrée, copies de sources, proxy, options, coût passé, provenance, arrêt et témoin de réparation.
+
+Chaque résultat expose ses conditions, sa preuve et un contre-cas. L'[atlas de 32 mécanismes humains et IA](../research/mecanismes-non-necessaires.html) les relie à des situations concrètes ; le [vérificateur](../verification/verify_necessity_v1.py) contrôle des instances finies exactes.
+
+[Guide du corpus](../GUIDE_LECTURE.html) · [MFC d'organisation](../MFC_ORGANISATION_GITHUB.html)
+
 ## I. « IL Y A » — Fermeture de la totalité
 
 Soit D un domaine de discours, et E(x) le prédicat « x existe » dans D. Définissons **U = {x ∈ D : E(x)}**.

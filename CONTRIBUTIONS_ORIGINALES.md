@@ -108,6 +108,12 @@ La lecture des **lois de Dieu** distingue Grand Tout, fondement et agent personn
 
 ## 7. Les croyances générales que nos démonstrations permettent de réfuter
 
+### Prolongement du 13 octobre — Démontrer la nécessité d'une réponse
+
+La [MFC d'organisation du corpus](MFC_ORGANISATION_GITHUB.html) répond à la demande de Xavier de rendre visibles les mécanismes non nécessaires chez l'humain et l'IA. Elle ajoute un [atlas de 32 familles de réponses](research/mecanismes-non-necessaires.html) et [quatorze résultats mathématiques](theoremes/11-necessite-fonctionnelle.html) sur les conditions où un mécanisme devient remplaçable.
+
+La contribution spécifique est de réunir **fonction historique, contrat de tâche, preuve de remplacement, droits, possibilités futures, contre-cas et trace**. Les concepts antérieurs de Xavier et les outils mathématiques classiques gardent leur antériorité. Les exemples humains et IA sont des applications à éprouver, distinguées des résultats formels.
+
 Ici « réfuter » signifie montrer qu'un énoncé universel précis possède un **contre-exemple valide** — pas déclarer toutes ses formulations courantes fausses.
 
 | Énoncé général | Résultat de nos travaux |

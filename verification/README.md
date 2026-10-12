@@ -41,7 +41,30 @@ Le programme [verify_matriochka_v1.py](verify_matriochka_v1.py), intégré à no
 
 Ces tests rendent la structure des exemples **réexécutable** en complément des démonstrations formelles.
 
-## Ce que le code vérifie
+## Nécessité fonctionnelle — Quatorze résultats et leurs contre-cas
+
+Le [chapitre 11](../theoremes/11-necessite-fonctionnelle.html) et l'[atlas des 32 mécanismes](../research/mecanismes-non-necessaires.html) se reproduisent avec :
+
+```bash
+python verification/verify_necessity_v1.py
+python verification/verify_documentation_v1.py
+```
+
+Le premier programme exécute **8 670 vérifications exactes d'instances finies**, regroupées dans les [résultats conservés](necessity_results_v1.json). Il confronte notamment l'optimisation des politiques énumérées à un calcul séparé des risques conditionnels, le critère des fibres aux politiques adéquates et le critère d'arrêt aux continuations complètes.
+
+| Famille | Épreuve |
+|---|---|
+| N0–N1 | Dominance et intersections d'actions adéquates, avec distinction entre inclusion et cardinalité |
+| N2–N3 | Canal redondant, données utiles, reformulations, XOR et information conjointe |
+| N4–N6 | Seuil d'alarme, contexte, coût d'acquisition et score de Brier exact |
+| N7–N9 | Copies dépendantes, proxy défavorable au futur et répertoires admissibles |
+| N10–N13 | Coût passé commun, provenance, arrêt et distinction annonce/effet externe |
+
+Le second programme contrôle les liens locaux du dépôt, les destinations Jekyll et les permaliens, les 32 entrées M01–M32 et les 14 résultats N0–N13. Il ne mesure pas l'état des serveurs externes.
+
+Les résultats sont ceux de systèmes synthétiques déclarés. Les correspondances humaines et IA de l'atlas ne sont pas comptées comme des essais empiriques.
+
+## Périmètre des contrôles historiques
 
 Les calculs testent des exemples finis et les instances spécifiées ; les **preuves générales** figurent dans les textes :
 - [La foi corrigible](../theoremes/06-foi-corrigible.html)

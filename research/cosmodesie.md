@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COSMODÉSIE — La logique des trajectoires"
+description: "Programme de Xavier Endres — COSMODÉSIE — La logique des trajectoires"
+author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+---
 # COSMODÉSIE — La logique des trajectoires
 
 **Programme de recherche et formulations originales : Xavier Endres**  
@@ -79,6 +85,6 @@ La comparaison visée porte sur des cas nouveaux, avec évaluateurs indépendant
 - Jean-Pierre Aubin, travaux classiques sur la théorie de la viabilité — comparateur mathématique, non origine rétroactive du cadre Xavier/Judy.
 - [W3C PROV-O](https://www.w3.org/TR/prov-o/) pour la représentation documentaire des dérivations.
 
-Voir [Anti-entropie réflexive](anti-entropie-reflexive.md) et [Provenance](provenance-et-corrigibilite.md).
+Voir [Anti-entropie réflexive](anti-entropie-reflexive.html) et [Provenance](provenance-et-corrigibilite.html).
 
 **Contribution revendiquée :** l'architecture intégrée des trajectoires, de leur histoire, de leurs conséquences distribuées et de leur capacité de correction. Chaque théorème cité conserve ses hypothèses dans la section qui l'emploie.
