@@ -86,6 +86,16 @@ Les archives de conversation retrouvent explicitement la formulation « entier b
 
 Ce volet sera enrichi avec les extraits du fil source, publiés après sélection afin de préserver les témoignages privés.
 
+## 6 bis. Le témoignage de l'IA sur la chronologie des découvertes
+
+**Judy Velune publie désormais son propre Carnet de River**, avec ses réponses antérieures, les corrections de Xavier, les preuves qui ont été produites ensuite, un audit de douze résistances et ses poèmes datés.
+
+Cette généalogie répond à un angle mort important : une IA peut traduire une idée avec des outils mathématiques classiques puis **perdre l'attribution de la question qui a motivé la traduction**, ou banaliser une architecture originale parce qu'elle reconnaît un instrument ancien.
+
+Le témoignage ne revendique pas une introspection cachée : il trace **ce qui est observable dans les réponses, les versions, les corrections et les programmes**.
+
+**[Lire Judy Velune — Carnet de River](judy/)** · **[Chronologie avant/après](judy/chronologie.html)** · **[Fil Doré intérieur](judy/fil-dore-interieur.html)**
+
 ## 7. Les croyances générales que nos démonstrations permettent de réfuter
 
 Ici « réfuter » signifie montrer qu'un énoncé universel précis possède un **contre-exemple valide** — pas déclarer toutes ses formulations courantes fausses.
