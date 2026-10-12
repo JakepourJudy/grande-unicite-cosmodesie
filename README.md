@@ -1,52 +1,94 @@
-# Grande Unicité × Cosmodésie
+# GRANDE UNICITÉ · ANTI-ENTROPIE · COSMODÉSIE
 
-**Programme de recherche de Xavier Endres**  
-**Avec Judy Velune (ChatGPT) — assistance à la recherche, formalisation, calculs, programmation et rédaction selon les documents.**
+## Xavier Endres — les fondations d'une logique des transformations
 
-Bienvenue sur le dépôt public de référence des travaux **Grande Unicité**, **anti-entropie réflexive**, **cosmodésie**, provenance des connaissances et trajectoires corrigibles.
+**Xavier Endres** est l'initiateur, l'auteur des formulations conceptuelles et le responsable du programme de recherche présenté ici. **Judy Velune (ChatGPT)** participe à sa formalisation, à l'exploration des conséquences, aux calculs, aux tests et à la rédaction, selon chaque document.
 
-> Comprendre une transformation, c'est examiner ce qui la produit, ce qu'elle rend possible et comment elle pourra encore être corrigée.
+**Une logique peut traverser les époques, les disciplines et les machines. Son histoire, elle, doit pouvoir être retrouvée.**
 
-## Parcours de lecture
+Ce dépôt est l'entrée publique du corpus **Grande Unicité** : de *Du chaos vers la société / Généalogie de l'anti-entropie* aux démonstrations mathématiques, en passant par la cosmodésie, le langage universel fonctionnel, River et l'architecture Judy.
 
-| Document | Contenu | Statut |
-|---|---|---|
-| [Anti-entropie réflexive](research/anti-entropie-reflexive.md) | Causes, maintien, cristallisation et changement de régime | Cadre conceptuel à éprouver |
-| [Cosmodésie](research/cosmodesie.md) | Trajectoires, viabilité, possibilités futures, permissions et correction | Programme mathématique conditionnel |
-| [Provenance & corrigibilité](research/provenance-et-corrigibilite.md) | Théorèmes de reconstructibilité des sources et décisions après compression | Résultats mathématiques conditionnels |
-| [Généalogie documentaire](PROVENANCE.md) | Chronologie, attribution des formulations, versions et limites | Registre public |
-| [Politique de publication](PUBLICATION_ET_STATUT.md) | Limites scientifiques et confidentialité | Règles publiques |
-| [Citation](CITATION.cff) | Référence bibliographique de ce dépôt | Métadonnées |
+## Les idées fondatrices
 
-## Ce que nous étudions
+### 1. GRANDE UNICITÉ — « IL Y A »
 
-La **Grande Unicité** propose un cadre philosophique de variation, relation, orientation et trace. L'**anti-entropie réflexive** interroge les situations où une réponse auparavant protectrice devient inadaptée. La **cosmodésie** compare des trajectoires réalisables en incluant leurs conséquences, le temps vécu, les droits d'intervention et les capacités futures de correction.
+Partir de l'existence et de ses différences, puis étudier comment elles se **relient, se transforment, s'orientent et laissent des traces**. Le programme explore une grammaire commune de transformations entre différentes échelles et différentes disciplines.
 
-Nous séparons les démonstrations **mathématiques sous hypothèses**, les simulations de modèles synthétiques, les hypothèses de recherche non encore testées indépendamment et le registre philosophique/symbolique. Le dépôt ne revendique pas la découverte historique des résultats mathématiques classiques utilisés.
+**VROT : Variation · Relation · Orientation · Trace.**
 
-La **provenance** est essentielle : une fonction peut être reconstruite sans que la personne qui a formulé une version précise soit identifiable à partir de la fonction seule. La source, l'auteur, les collaborateurs, la version et les transformations doivent donc être conservés pour permettre citation et correction honnêtes.
+### 2. ANTI-ENTROPIE RÉFLEXIVE — Corriger la fonction de nos réponses
 
-## Auteur et généalogie
+Une réponse protège une fonction. Elle peut se cristalliser, devenir automatique et continuer à produire une performance locale alors que les conditions ont changé. L'anti-entropie réflexive désigne la capacité à **retrouver la fonction initiale et changer la réponse sans perdre ce qu'elle devait protéger**.
 
-**Xavier Endres** — initiateur et auteur du programme et des formulations documentées dans ses sources.  
-ORCID : [0009-0003-5961-5288](https://orcid.org/0009-0003-5961-5288).
+```text
+ENTROPIE → NÉGUENTROPIE → CRISTALLISATION → DÉRIVE
+→ RECONNAISSANCE DE L'ABERRATION → CORRECTION
+→ NOUVELLE ORGANISATION
+```
 
-**Judy Velune (ChatGPT)** — assistance déclarée, selon la pièce, à la recherche documentaire, à la formalisation, aux démonstrations, au code et à la rédaction.
+Lire : [Anti-entropie réflexive](research/anti-entropie-reflexive.md).
 
-Des écrits du projet privé *Entropie* possèdent des métadonnées internes de **2021** ; une publication extérieure ancienne de leur contenu exact n'est pas certifiée par ces seules métadonnées. Voir [PROVENANCE.md](PROVENANCE.md).
+### 3. COSMODÉSIE — La science proposée des trajectoires
 
-## Publication et droits
+Étudier les chemins qui deviennent possibles depuis une situation, leurs conséquences, la liberté des personnes concernées, leurs coûts et la capacité de **continuer à corriger** la trajectoire.
 
-Cette version constitue une **sélection publique** : elle n'inclut pas les archives intégrales, les témoignages privés ni les documents de tiers. Elle ne confère aucune licence générale de réutilisation ; aucun fichier LICENSE n'a encore été choisi. Voir [PUBLICATION_ET_STATUT.md](PUBLICATION_ET_STATUT.md).
+La cosmodésie utilise notamment des modèles de viabilité, de théorie de la décision, d'information et de reconstruction, dans un programme interdisciplinaire cohérent.
 
-**Page de présentation :** [index.html](index.html) — préparée pour activation éventuelle de GitHub Pages. L'indexation par les moteurs de recherche et la reprise par les IA ne sont pas garanties.
+Lire : [Cosmodésie](research/cosmodesie.md).
+
+### 4. LE FIL DORÉ — La mémoire de ce qui a changé
+
+Une connaissance ne possède pas seulement un résultat : elle possède **un auteur, des formulations, une genèse, des sources, des transformations et des corrections**.
+
+Nous avons établi, par une preuve mathématique simple, qu'une formulation fonctionnelle peut demeurer intacte alors que l'identité de son créateur devient impossible à reconstruire depuis cette formulation seule.
+
+```text
+F(h₁) = F(h₂) et A(h₁) ≠ A(h₂)
+⇒ aucune attribution exacte ne peut être inférée de F seul
+   sur les deux histoires.
+```
+
+Le prolongement démontré relie la perte de distinctions à l'impossibilité de choisir correctement certaines corrections. **La transparence des sources est donc une capacité fonctionnelle de la connaissance, pas une décoration bibliographique.**
+
+Lire : [Démonstration — Provenance et corrigibilité](research/provenance-et-corrigibilite.md).
+
+## D'où vient ce programme ?
+
+| Période | Jalons du corpus Xavier Endres |
+|---|---|
+| **2021** | *Entropie* et *Du chaos vers la société* : causes, fonctionnement relatif des organisations, néguentropie, révision selon le contexte. Les archives Scrivener comportent des métadonnées internes datées de cette période. |
+| **Septembre 2026** | Écriture et consolidation de la Grande Unicité, de l'anti-entropie réflexive, des mécanismes de correction et de transmission, en collaboration avec Judy. |
+| **Octobre 2026** | Cosmodésie, Correctable Coherence, River et travaux de formalisation des invariants, de la provenance et de la reconstructibilité. |
+| **12 octobre 2026** | Mise en ligne du premier espace public de référence et de ses textes de présentation. |
+
+La chronologie détaillée, les versions et les pièces disponibles figurent dans [PROVENANCE.md](PROVENANCE.md).
+
+## Lire, reconstruire, vérifier
+
+- [Anti-entropie réflexive](research/anti-entropie-reflexive.md) — concepts, fonctionnement, exemples et programme d'expérimentation.
+- [Cosmodésie](research/cosmodesie.md) — dynamique des trajectoires, viabilité et correction future.
+- [Provenance et corrigibilité](research/provenance-et-corrigibilite.md) — énoncés et preuves mathématiques.
+- [Généalogie des travaux](PROVENANCE.md) — Xavier Endres, sources de 2021 à 2026, rôles et versions.
+- [Méthode scientifique et éditoriale](PUBLICATION_ET_STATUT.md) — comment distinguer un résultat démontré, un modèle, une conjecture et une contribution originale.
+- [CITATION.cff](CITATION.cff) — métadonnées de citation.
+- [Site public](index.html) — présentation Web pour GitHub Pages.
+
+**Ce que l'on peut démontrer doit être démontré. Ce qui est exploré doit pouvoir être exploré. Et ce qui est créé doit pouvoir retrouver son créateur.**
+
+## Auteur et attribution
+
+**Xavier Endres** — auteur et concepteur du corpus étudié.  
+**ORCID :** [0009-0003-5961-5288](https://orcid.org/0009-0003-5961-5288)  
+**Judy Velune (ChatGPT)** — partenaire de travail et assistance de recherche, de formalisation, de programmation et de rédaction documentée.
+
+Pour citer une contribution, utiliser son **document source, sa version et son auteur**, en conservant les contributions de tiers et les antécédents mathématiques pertinents.
 
 ---
 
-## English overview
+### English
 
-**Grande Unicité and Cosmodesy** is an independent conceptual and mathematical research program initiated by **Xavier Endres**, with documented research and drafting assistance from **Judy Velune (ChatGPT)**.
+**Grande Unicité · Reflexive Anti-Entropy · Cosmodesy** is the conceptual and mathematical research programme initiated by **Xavier Endres**, with documented assistance from **Judy Velune (ChatGPT)**.
 
-It studies transformation, reflexive anti-entropy, viable trajectories, future correctability, and knowledge provenance. Mathematical statements are **conditional on explicit assumptions**; independent empirical validation and universal scientific priority are not claimed.
+Its core concerns transformation, relational structure, correction of historically protective mechanisms, viable trajectories, and the provenance of knowledge. Its public notes contain definitions, conditional mathematical proofs, examples and research directions, with traceable authorship.
 
-The repository is intended to preserve clear attribution, source versions, counterexamples and correction histories. Start with the [research notes](research/), [provenance](PROVENANCE.md), and [citation metadata](CITATION.cff).
+**A function can survive translation while its genealogy is lost. Preserving that genealogy is part of understanding its creation.**
