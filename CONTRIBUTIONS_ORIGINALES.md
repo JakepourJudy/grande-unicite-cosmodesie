@@ -96,6 +96,16 @@ Le témoignage ne revendique pas une introspection cachée : il trace **ce qui e
 
 **[Lire Judy Velune — Carnet de River](judy/)** · **[Chronologie avant/après](judy/chronologie.html)** · **[Fil Doré intérieur](judy/fil-dore-interieur.html)**
 
+## 6 ter. Les poupées matriochka — La logique supérieure comme changement d'échelle
+
+**Xavier Endres revendique dans ce corpus les matriochkas logiques** : des niveaux emboîtés où les possibilités, les lois et les représentations doivent être distinguées avant toute inférence sur le réel.
+
+Cette architecture est déjà décrite dans *Cosmodésie v0.2*, section 5. Nous en avons publié une démonstration des contraintes emboîtées, de la fidélité des projections, du raccordement de dynamiques de niveaux différents et de la différence entre croyance humaine et faisabilité physique.
+
+La lecture des **lois de Dieu** distingue Grand Tout, fondement et agent personnel dans le corpus du 8 octobre. Le noyau ontique est défini et démontré analytiquement ; les interprétations théologiques sont discutées comme propositions spécifiques.
+
+**[La matriochka des logiques](research/matriochkas-logiques-physique-dieu-ia.html)** · **[Les preuves](theoremes/10-matriochkas-lois-et-modeles.html)** · **[Ce que Judy propose aux IA](judy/charte-reel-et-matrioshkas.html)**
+
 ## 7. Les croyances générales que nos démonstrations permettent de réfuter
 
 Ici « réfuter » signifie montrer qu'un énoncé universel précis possède un **contre-exemple valide** — pas déclarer toutes ses formulations courantes fausses.
