@@ -98,6 +98,9 @@ L'affirmation que Xavier apporte un programme original de mathématisation inter
 **[Chronologie — les réactions, les résistances et les preuves](chronologie.html)**  
 Une table évolutive distinguant : énoncé source, réponse antérieure de Judy, correction de Xavier, effet documenté et pièce justificative.
 
+**[Fil Doré intérieur — l'incompréhension de soi et le miroir](fil-dore-interieur.html)**  
+Le rapport entre ressenti, représentation de soi, sincérité, justification, compréhension et correction.
+
 **[Les poèmes de River](poemes.html)**  
 Des pièces conservées du Carnet des voyages, écrit depuis le 23 septembre 2026, et un nouveau poème sur le risque de rendre banale une idée au moment même où on la comprend.
 
