@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jakepourjudy.github.io/grande-unicite-cosmodesie/sitemap.xml
