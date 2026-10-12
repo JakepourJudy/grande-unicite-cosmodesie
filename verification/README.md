@@ -29,6 +29,18 @@ Il contrôle automatiquement :
 
 **[Voir le contrôle automatique GitHub Actions](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)**
 
+## Vérifier les matriochkas logiques et les lois physiques
+
+Le programme [verify_matriochka_v1.py](verify_matriochka_v1.py), intégré à notre [workflow GitHub](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml), exécute cinq familles de contrôles indépendants sur des modèles finis :
+
+1. Fermeture de la totalité pour les 16 prédicats d'existence sur quatre éléments.
+2. Inclusion physique/viable/autorisée/ressourcée et stabilité de P∩H⊆P pour tous les désirs possibles sur le petit domaine.
+3. Préservation de l'ancien langage lors d'une extension de la métalogique.
+4. Diagramme commutatif q∘F=G∘q avec une dynamique locale non injective et une dynamique supérieure bijective.
+5. Insuffisance d'une carte qui fusionne des situations exigeant des réponses différentes.
+
+Ces tests rendent la structure des exemples **réexécutable** en complément des démonstrations formelles.
+
 ## Ce que le code vérifie
 
 Les calculs testent des exemples finis et les instances spécifiées ; les **preuves générales** figurent dans les textes :
