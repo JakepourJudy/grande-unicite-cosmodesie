@@ -11,6 +11,10 @@ author: "Xavier Endres"
 
 Cette page donne directement les **énoncés, équations et preuves**, avant de conduire vers leurs développements et leur histoire. Chaque démonstration est vérifiable à partir de ses prémisses.
 
+**Ce que revendique le programme de Xavier Endres :** une architecture conceptuelle et opératoire originale reliant la géométrie des transformations, la cristallisation des réponses, la viabilité future, la réouverture des modèles, le diagnostic des paradoxes et la provenance des connaissances. Les théorèmes sont les instruments explicites de cette recherche, pas des ornements.
+
+**[Lire la déclaration des contributions originales et les croyances mises en défaut](../CONTRIBUTIONS_ORIGINALES.html)**
+
 ## I. « IL Y A » — Fermeture de la totalité
 
 Soit D un domaine de discours, et E(x) le prédicat « x existe » dans D. Définissons **U = {x ∈ D : E(x)}**.
