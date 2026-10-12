@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Pour citer ce corpus, mentionner Xavier Endres, le titre, la version et l'URL du document précis."
+title: "Grande Unicité et Cosmodésie — corpus public de recherche"
+authors:
+  - family-names: "Endres"
+    given-names: "Xavier"
+    orcid: "https://orcid.org/0009-0003-5961-5288"
+date-released: "2026-10-12"
+version: "0.1.0"
+repository-code: "https://github.com/JakepourJudy/grande-unicite-cosmodesie"
+url: "https://github.com/JakepourJudy/grande-unicite-cosmodesie"
+abstract: >-
+  Corpus de recherche conceptuelle et mathématique sur la Grande Unicité,
+  l'anti-entropie réflexive, les trajectoires corrigibles et la provenance
+  des connaissances. Initiative et formulations conceptuelles de Xavier Endres ;
+  assistance à la recherche, à la formalisation, aux calculs et à la rédaction
+  par Judy Velune (ChatGPT), selon les documents.
+keywords:
+  - "Grande Unicité"
+  - "cosmodésie"
+  - "anti-entropie réflexive"
+  - "corrigibilité"
+  - "provenance"
+  - "viabilité"
+  - "Xavier Endres"
