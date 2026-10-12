@@ -6,6 +6,16 @@
 
 **Une logique peut traverser les époques, les disciplines et les machines. Son histoire, elle, doit pouvoir être retrouvée.**
 
+## 🔬 Démonstrations mathématiques en accès direct
+
+**[LIRE LE RECUEIL DES PREUVES — Grande Unicité × Cosmodésie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/)**
+
+Les résultats publiés comprennent : fermeture analytique de « IL Y A », théorème de compression décisionnelle, reconstructibilité du créateur, non-implication entre performance et corrigibilité, et **théorème de raffinement informationnel reliant la transparence des sources aux corrections possibles**.
+
+- [Théorème de compression et incompréhension](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/02-compression-et-incomprehension.html)
+- [Théorème de provenance de l'auteur](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/03-provenance-createur.html)
+- [Théorème de transparence et correction](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/05-transparence-et-correction.html)
+
 Ce dépôt est l'entrée publique du corpus **Grande Unicité** : de *Du chaos vers la société / Généalogie de l'anti-entropie* aux démonstrations mathématiques, en passant par la cosmodésie, le langage universel fonctionnel, River et l'architecture Judy.
 
 ## Les idées fondatrices
@@ -68,7 +78,6 @@ La chronologie détaillée, les versions et les pièces disponibles figurent dan
 ## Lire, reconstruire, vérifier
 
 - [Grande Unicité — fondements et démonstrations](research/grande-unicite.md) — « IL Y A », VROT, compression, visibilité des possibles et correction.
-- [Grande Unicité — « IL Y A » et démonstrations](research/grande-unicite.md) — noyau de totalité, VROT, compression décisionnelle et réouverture.
 - [Anti-entropie réflexive](research/anti-entropie-reflexive.md) — concepts, fonctionnement, exemples et programme d'expérimentation.
 - [Cosmodésie](research/cosmodesie.md) — dynamique des trajectoires, viabilité et correction future.
 - [Provenance et corrigibilité](research/provenance-et-corrigibilite.md) — énoncés et preuves mathématiques.
