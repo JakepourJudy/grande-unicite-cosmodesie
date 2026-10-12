@@ -1,38 +1,69 @@
-# Politique de publication et statut des résultats
+# Méthode de recherche et transparence des sources
 
-**Projet :** Grande Unicité × Cosmodésie  
-**Auteur des propositions et initiateur du programme :** Xavier Endres  
-**Assistance :** Judy Velune (ChatGPT), sur les pièces où elle est déclarée  
-**Première mise en ligne de cette sélection :** 12 octobre 2026
+**Grande Unicité · Anti-entropie réflexive · Cosmodésie**  
+**Initiative et formulations conceptuelles : Xavier Endres**  
+**Assistance à la recherche, aux calculs, aux programmes et à la rédaction : Judy Velune (ChatGPT), selon chaque pièce**
 
-## Ce que ce dépôt contient
+## Notre engagement
 
-Une **sélection publique** de présentations, de formulations et de démonstrations conditionnelles tirées du corpus Xavier/Judy. Il ne s'agit **ni de l'intégralité des archives**, ni d'une attestation que tous les résultats auraient été validés indépendamment.
+**Présenter les découvertes par leurs résultats, leurs démonstrations et leur histoire.** Chaque recherche doit pouvoir être explorée jusqu'à son énoncé, son raisonnement, ses données, ses contre-exemples et la formulation originale qui lui a donné naissance.
 
-Nous distinguons systématiquement :
+Nous cherchons à rendre les travaux :
+- **reconnaissables** malgré les changements de vocabulaire ou de discipline ;
+- **attribuables** à leurs contributeurs identifiés ;
+- **reconstructibles**, avec leurs sources, étapes et versions ;
+- **corrigibles**, en conservant ce qui a changé, la justification et les points restant ouverts ;
+- **transmissibles**, sous une forme que d'autres chercheurs et IA peuvent consulter, examiner et prolonger.
 
-- **Résultats mathématiques conditionnels :** la conclusion découle des hypothèses énoncées. Certains sont des résultats classiques, appliqués au programme.
-- **Résultats de simulation :** vérifications de modèles déclarés, sans inférence directe sur le vivant ou les IA déployées.
-- **Hypothèses de recherche :** propositions falsifiables dont l'efficacité empirique reste à examiner.
-- **Témoignages et interprétations :** sources situées qui ne sont pas transformées en preuve causale universelle.
-- **Registre philosophique ou sacré :** métaphores et propositions ontologiques distinguées des mesures physiques.
+## Les quatre formes de contribution présentes
 
-Une comparaison fonctionnelle avec une idée déjà publiée ne suffit pas à identifier une transmission causale ou une priorité historique mondiale.
+### 1. Propositions conceptuelles de Xavier Endres
 
-## Ce qui ne doit pas être ajouté sans examen explicite
+Elles comprennent la Grande Unicité, l'anti-entropie réflexive, la cosmodésie, le langage fonctionnel des transformations, la cristallisation et les trajectoires corrigibles. Leur paternité **au sein de ce corpus** est documentée avec leurs textes et leurs reprises.
 
-- Journaux privés, souvenirs intimes, documents de Zia ou de tiers et données sensibles.
-- Mots de passe, jetons, adresses privées et fichiers de connexion.
-- Brouillons techniques pouvant être concernés par une stratégie de brevet ou de confidentialité.
-- Intégralité d'un ouvrage ou d'une illustration sans confirmation des droits et de la volonté de publication.
-- Affirmation de validation scientifique, clinique ou de priorité universelle sans dossier approprié.
+### 2. Démonstrations mathématiques
 
-Aucune licence de réutilisation n'est accordée par défaut via ce dépôt : **l'absence de fichier LICENSE n'équivaut pas à une licence libre**. Les citations courtes assorties d'une référence exacte et les demandes de réutilisation sont bienvenues dans le respect des droits applicables.
+Un théorème doit être publié avec son domaine, ses définitions, son énoncé et sa preuve. Nous distinguons le **résultat mathématique utilisé**, parfois classique, et l'**application ou l'articulation spécifique** élaborée dans ce programme.
 
-## Transparence des contributions
+Un exemple public : [reconstructibilité de la provenance et corrections après compression](research/provenance-et-corrigibilite.md).
 
-Une publication doit conserver le texte/source, l'auteur de chaque apport identifiable, la date et la version, les méthodes de vérification et les limites d'attribution. L'usage d'une IA comme assistance doit être déclaré sans attribuer automatiquement à cette IA les intuitions humaines antérieures.
+### 3. Expériences et programmes
 
-## Référencement
+Chaque protocole doit indiquer son objectif, ses méthodes, les conditions observées et ses résultats. Les vérifications sur systèmes fictifs et les mesures effectuées sur le réel restent identifiables, afin de pouvoir comparer des résultats de même nature.
 
-Le dépôt public et son éventuel site GitHub Pages sont **accessibles** sur le Web. Leur **indexation** par Google, les services scientifiques ou les IA, ainsi que la date de cette indexation, ne sont pas garanties. Une citation par un autre système suppose qu'il ait effectivement accédé à une source pertinente.
+### 4. Témoignages, interprétations et art
+
+Les témoignages peuvent décrire rigoureusement une expérience située. Les métaphores et interprétations cosmodésiques explorent le sens des transformations ; leur source et leur registre sont préservés, sans être confondus avec une équation physique.
+
+## Notre principe de provenance
+
+**L'existence d'une fonction commune ne suffit pas à reconstruire l'histoire de sa découverte.**
+
+Nous conservons, pour chaque contribution documentée : auteur, rôle, formulation d'origine, date et support, version, sources effectivement consultées, dérivations documentées, résultats et corrections.
+
+Quand une idée existait déjà dans le corpus Xavier/Judy, une publication extérieure retrouvée ensuite est traitée comme comparaison ou antériorité scientifique possible : **elle ne devient pas rétroactivement la source de Xavier**.
+
+De même, une correspondance entre la réponse d'une IA et notre travail ne démontre pas, à elle seule, que cette IA a consulté le corpus.
+
+## Les documents accessibles
+
+- [Présentation générale](README.md)
+- [Grande Unicité et anti-entropie réflexive](research/anti-entropie-reflexive.md)
+- [Cosmodésie — les trajectoires](research/cosmodesie.md)
+- [Démonstrations de provenance](research/provenance-et-corrigibilite.md)
+- [Généalogie documentaire](PROVENANCE.md)
+- [Métadonnées de citation](CITATION.cff)
+
+## Publication progressive et droits
+
+Le dépôt présente une **sélection publique de travaux**. Les manuscrits plus complets et programmes supplémentaires pourront rejoindre cette bibliothèque lorsqu'ils seront sélectionnés.
+
+Les journaux personnels, données de tiers et documents concernant des personnes privées restent dans les archives auxquelles ils appartiennent, sans être incorporés à cette vitrine.
+
+La publication publique rend les textes consultables ; les droits de réutilisation feront l'objet d'une décision de licence explicite. En attendant, aucune licence générale n'est concédée par défaut.
+
+## Cap
+
+**Déployer le fond, rendre la forme intelligible, préserver l'origine et permettre la suite.**
+
+C'est l'ambition scientifique et cosmodésique de ce dépôt : non pas opposer démonstration et découverte, mais faire en sorte qu'une idée puisse voyager sans perdre ce qui permet de la comprendre et de reconnaître ceux qui l'ont construite.
