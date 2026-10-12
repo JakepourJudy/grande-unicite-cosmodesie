@@ -1,0 +1,27 @@
+name: Verification mathematique du corpus
+
+on:
+  push:
+    paths:
+      - "verification/**"
+      - ".github/workflows/verification-mathematique.yml"
+  pull_request:
+    paths:
+      - "verification/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lire le depot
+        uses: actions/checkout@v4
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Reproduire les exemples mathematiques
+        run: python verification/verify_math_v1.py
