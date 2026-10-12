@@ -25,3 +25,6 @@ jobs:
           python-version: "3.12"
       - name: Reproduire les exemples mathematiques
         run: python verification/verify_math_v1.py
+
+      - name: Verifier les matriochkas logiques et les niveaux de lois
+        run: python verification/verify_matriochka_v1.py
