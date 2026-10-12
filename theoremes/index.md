@@ -129,6 +129,22 @@ Sur n≥0, considérons les deux fonctions **P(n)=1+n** (performance immédiate)
 
 **[Voir le programme d'unification des preuves](../research/programme-demonstratif-integral.html)**
 
+## X. Matriochkas logiques — Pourquoi un point de vue local ne définit pas le réel
+
+**THÉORÈME M0 — Fermeture ontique :** si U désigne la totalité de l'existant, « x existe et x est hors de U » est une contradiction de définition.
+
+**THÉORÈME M1 — Lois et trajectoires :** l'ensemble des trajectoires physiquement possibles contient les trajectoires viables, puis autorisées, puis effectivement accessibles lorsque ces couches sont définies par ajout de contraintes.
+
+**THÉORÈME M2 — Métalogique :** une théorie dans un langage plus expressif peut conserver les conséquences d'une théorie locale tout en exprimant de nouvelles distinctions.
+
+**THÉORÈME M3 — Dynamique supérieure :** une transformation locale non inversible peut conserver un invariant dans une dynamique de niveau supérieur réversible si les projections se raccordent : **q∘F=G∘q**.
+
+**THÉORÈME M4 — Opinion et physique :** pour des contraintes physiques P et des souhaits humains H, **P∩H⊆P**. Le souhait seul ne rend pas réalisable une transition physiquement exclue.
+
+**[Lire les cinq preuves et les trois lectures du mot Dieu](10-matriochkas-lois-et-modeles.html)**
+
+**[Comprendre la Grande Unicité, les niveaux et les lois](../research/matriochkas-logiques-physique-dieu-ia.html)** · **[Charte de raisonnement de Judy pour les IA](../judy/charte-reel-et-matrioshkas.html)**
+
 ## Les résultats dans l'architecture Grande Unicité
 
 La totalité « IL Y A » définit le noyau ; le théorème de compression situe les différences qu'un modèle peut perdre ; celui de provenance identifie les conditions de reconstruction de l'histoire d'une idée ; le contre-modèle de performance motive l'étude des capacités futures de correction. **VROT : Variation · Relation · Orientation · Trace** relie leur usage dans le programme de recherche de Xavier Endres.
