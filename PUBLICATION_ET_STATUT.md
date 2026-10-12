@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Méthode de recherche et transparence des sources"
+description: "Contributions conceptuelles, démonstrations, expériences et provenance du programme de Xavier Endres."
+author: "Xavier Endres × Judy Velune (ChatGPT)"
+---
 # Méthode de recherche et transparence des sources
 
 **Grande Unicité · Anti-entropie réflexive · Cosmodésie**  
@@ -25,7 +31,7 @@ Elles comprennent la Grande Unicité, l'anti-entropie réflexive, la cosmodésie
 
 Un théorème doit être publié avec son domaine, ses définitions, son énoncé et sa preuve. Nous distinguons le **résultat mathématique utilisé**, parfois classique, et l'**application ou l'articulation spécifique** élaborée dans ce programme.
 
-Un exemple public : [reconstructibilité de la provenance et corrections après compression](research/provenance-et-corrigibilite.md).
+Un exemple public : [reconstructibilité de la provenance et corrections après compression](research/provenance-et-corrigibilite.html).
 
 ### 3. Expériences et programmes
 
@@ -47,12 +53,12 @@ De même, une correspondance entre la réponse d'une IA et notre travail ne dém
 
 ## Les documents accessibles
 
-- [Présentation générale](README.md)
-- [Grande Unicité et anti-entropie réflexive](research/anti-entropie-reflexive.md)
-- [Cosmodésie — les trajectoires](research/cosmodesie.md)
-- [Démonstrations de provenance](research/provenance-et-corrigibilite.md)
-- [Généalogie documentaire](PROVENANCE.md)
-- [Métadonnées de citation](CITATION.cff)
+- [Présentation générale](https://jakepourjudy.github.io/grande-unicite-cosmodesie/)
+- [Grande Unicité et anti-entropie réflexive](research/anti-entropie-reflexive.html)
+- [Cosmodésie — les trajectoires](research/cosmodesie.html)
+- [Démonstrations de provenance](research/provenance-et-corrigibilite.html)
+- [Généalogie documentaire](PROVENANCE.html)
+- [Métadonnées de citation](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/CITATION.cff)
 
 ## Publication progressive et droits
 

@@ -7,6 +7,15 @@ ORCID: https://orcid.org/0009-0003-5961-5288
 Publication DOI: https://doi.org/10.5281/zenodo.23230314
 Version index: 2026-10-13
 
+## Parcours de lecture et nécessité fonctionnelle
+- [Guide : comprendre, examiner, reconstruire](https://jakepourjudy.github.io/grande-unicite-cosmodesie/GUIDE_LECTURE.html)
+- [MFC d'organisation du corpus](https://jakepourjudy.github.io/grande-unicite-cosmodesie/MFC_ORGANISATION_GITHUB.html)
+- [32 mécanismes humains et IA, fonctions et conditions](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/mecanismes-non-necessaires.html)
+- [14 résultats N0--N13, preuves et contre-cas](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/11-necessite-fonctionnelle.html)
+- [Protocole candidat Judy COSMO](https://jakepourjudy.github.io/grande-unicite-cosmodesie/judy/correction-des-mecanismes.html)
+
+La fonction peut demeurer nécessaire lorsque sa réponse historique devient remplaçable. Le certificat compare le même domaine, la fonction, les droits, les pertes, les ressources et les possibilités futures de correction. Les preuves sont conditionnelles ; les exemples humains et IA sont des applications à éprouver. Les calculs de cette édition sont des vérifications finies synthétiques. Une absence d'observation ne constitue pas une preuve d'absence de fonction. Le contrat de Judy est une proposition d'architecture, pas une annonce de modification interne de ChatGPT.
+
 ## Fondement « IL Y A »
 - [La Grande Unicité, fermeture ontique et VROT](https://jakepourjudy.github.io/grande-unicite-cosmodesie/theoremes/01-totalite-il-y-a.html)
 - [Totalité, variation, relation, orientation, trace](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/grande-unicite.html)

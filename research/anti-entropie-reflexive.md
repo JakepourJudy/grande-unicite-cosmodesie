@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anti-entropie réflexive — La logique des réponses qui savent évoluer"
+description: "Fonction historique, cristallisation et correction des réponses dans le programme de Xavier Endres."
+author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+---
 # Anti-entropie réflexive — La logique des réponses qui savent évoluer
 
 **Formulations, initiative et cadre conceptuel : Xavier Endres**  
@@ -8,7 +14,7 @@ Synthèse publique des travaux de Xavier Endres · 12 octobre 2026.
 
 Les archives de travail `Entropie`, dont les métadonnées internes indiquent **2021**, contiennent déjà plusieurs formulations attribuées à Xavier Endres sur la compréhension des causes, la cohérence relationnelle et la révision des solutions lorsque le contexte change.
 
-Une formulation extraite du document `L'anti-entropie` exprime le principe d'orientation : traiter les symptômes d'une difficulté ne suffit pas si ses conditions de production restent intactes. Le registre détaillé, les dates internes, les empreintes et leurs limites sont documentés dans [PROVENANCE.md](../PROVENANCE.md).
+Une formulation extraite du document `L'anti-entropie` exprime le principe d'orientation : traiter les symptômes d'une difficulté ne suffit pas si ses conditions de production restent intactes. Le registre détaillé, les dates internes, les empreintes et leurs limites sont documentés dans [PROVENANCE.md](../PROVENANCE.html).
 
 Le manuscrit `Anti-entropie : une théorie réflexive des mécanismes de maintien du vivant` (version alignée du **23 septembre 2026**) donne au programme sa structure conceptuelle suivante.
 
@@ -56,4 +62,8 @@ Mesurer séparément les pertes présentes, les voies de récupération réellem
 
 Les modèles d'homéostasie, d'allostasie, de résilience, de contrôle et de viabilité servent de points de comparaison. La contribution mise en avant dans le programme de Xavier Endres est leur **articulation autour de la fonction historique d'une réponse et du moment où son maintien appelle une transformation**. Le protocole ci-dessus permet d'en éprouver la portée dans des cas précis.
 
-Voir [Cosmodésie](cosmodesie.md) pour la description de trajectoires et [Provenance](provenance-et-corrigibilite.md) pour la reconstructibilité des sources.
+Voir [Cosmodésie](cosmodesie.html) pour la description de trajectoires et [Provenance](provenance-et-corrigibilite.html) pour la reconstructibilité des sources.
+
+## Prolongement — La nécessité fonctionnelle
+
+La MFC du 13 octobre relie cette question à un [atlas de 32 mécanismes humains et IA](mecanismes-non-necessaires.html) et à [quatorze résultats de nécessité relative à une tâche](../theoremes/11-necessite-fonctionnelle.html). Une réponse est remplaçable lorsque son alternative préserve la fonction, les droits et les corrections futures avec une perte ou un coût non augmenté.

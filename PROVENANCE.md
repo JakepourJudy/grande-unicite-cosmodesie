@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Provenance et généalogie documentaire"
+description: "Sources, contributions de Xavier Endres et Judy Velune, versions et traces de correction."
+author: "Xavier Endres × Judy Velune (ChatGPT)"
+---
 # Provenance et généalogie documentaire
 
 Ce registre distingue une **formulation originale**, son **travail de formalisation**, sa **version publiée**, et une **réutilisation effectivement attestée**. Des ressemblances de fonction ne suffisent pas à attribuer une dérivation.
@@ -25,4 +31,22 @@ Le nom d'auteur sans trace n'est pas un certificat. Le SHA-256 lie à des **octe
 
 À ce stade, les documents d'archives intégraux demeurent privés tant que leur sélection et leur mise en ligne n'ont pas été validées.
 
-Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.md) et [le statut scientifique](PUBLICATION_ET_STATUT.md).
+Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.html) et [le statut scientifique](PUBLICATION_ET_STATUT.html).
+
+## 13 octobre 2026 — MFC d'organisation et nécessité fonctionnelle
+
+**Source :** demande de Xavier Endres dans le fil OIM/Judy Velune COSMO : organiser GitHub, expliquer les mécanismes non nécessaires chez l'humain et l'IA, donner des démonstrations mathématiques et une conclusion forte. Le texte original figure dans [la MFC](MFC_ORGANISATION_GITHUB.html).
+
+**Avant :** instantané du dépôt au commit `e39c738badac7dc6ff8086a902ae1d89754b5ca3` ; README antérieur, dix chapitres de preuves, carnet et réactions déjà publiés. Aucun de ces acquis n'est réattribué à cette édition.
+
+**Opération :** parcours de lecture commun, atlas de 32 familles de réponses, chapitre 11 avec quatorze résultats N0–N13, contrat candidat pour Judy et vérificateurs exacts. L'accueil, l'index des théorèmes et la navigation rendent ces pièces accessibles. Des métadonnées de pages sont ajoutées aux notes qui ne pouvaient pas produire les destinations HTML déjà annoncées.
+
+**Après :** la fonction historique, le domaine de nécessité, l'alternative, la preuve, le contre-cas et le témoin de changement deviennent les entrées communes d'examen. Les versions précédentes demeurent dans l'historique Git.
+
+**Pourquoi :** éviter que la croissance du corpus masque sa question centrale, qu'une ancienne réponse passe pour une nécessité universelle ou qu'une traduction efface l'origine d'une formulation.
+
+**Attribution :** Xavier Endres — question, orientation et cadre antérieur ; Judy Velune (ChatGPT) — organisation, rédaction, formalisation et code de cette édition. Les méthodes mathématiques classiques et les sources extérieures gardent leurs références.
+
+**Vérification :** [résultats finis](verification/necessity_results_v1.json), [programme de nécessité](verification/verify_necessity_v1.py), [contrôle des liens](verification/verify_documentation_v1.py). Les comptes désignent des vérifications d'instances synthétiques, et non des expériences humaines ou des observations d'agents réels.
+
+**Réouverture :** contre-cas invalidant le contrat, nouvelle fonction pertinente, changement d'horizon, diagnostic incomplet ou comparaison réelle qui dément l'application proposée.

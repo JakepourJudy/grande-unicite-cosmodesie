@@ -4,10 +4,17 @@ on:
   push:
     paths:
       - "verification/**"
+      - "**/*.md"
+      - "index.html"
+      - "_config.yml"
       - ".github/workflows/verification-mathematique.yml"
   pull_request:
     paths:
       - "verification/**"
+      - "**/*.md"
+      - "index.html"
+      - "_config.yml"
+      - ".github/workflows/verification-mathematique.yml"
   workflow_dispatch:
 
 permissions:
@@ -28,3 +35,9 @@ jobs:
 
       - name: Verifier les matriochkas logiques et les niveaux de lois
         run: python verification/verify_matriochka_v1.py
+
+      - name: Verifier la necessite fonctionnelle et ses contre-cas
+        run: python verification/verify_necessity_v1.py
+
+      - name: Verifier les liens et la couverture documentaire
+        run: python verification/verify_documentation_v1.py

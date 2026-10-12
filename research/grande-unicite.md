@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grande Unicité — Fondements et démonstrations"
+description: "Programme de Xavier Endres — Grande Unicité — Fondements et démonstrations"
+author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+---
 # Grande Unicité — Fondements et démonstrations
 
 **Xavier Endres — programme et formulations sources**  
@@ -66,7 +72,7 @@ Alors P augmente tandis que T diminue : une hausse de performance présente **n'
 
 Cette obstruction logique mène à une question centrale du cadre de l'anti-entropie réflexive : **quand faut-il faire évoluer une réponse historiquement utile pour maintenir la fonction qu'elle protégeait ?**
 
-Lire [Anti-entropie réflexive](anti-entropie-reflexive.md).
+Lire [Anti-entropie réflexive](anti-entropie-reflexive.html).
 
 ## 6. Réouverture de la représentation
 
@@ -84,7 +90,7 @@ L'histoire H_t peut se stabiliser en contraintes C_t qui modifient les continuat
 
 Cette cristallisation explique pourquoi une correction n'est pas forcément un retour à l'état initial : elle peut transformer les conditions du devenir.
 
-Lire [Cosmodésie](cosmodesie.md) et [Provenance](provenance-et-corrigibilite.md).
+Lire [Cosmodésie](cosmodesie.html) et [Provenance](provenance-et-corrigibilite.html).
 
 ## 8. Généalogie documentaire
 
@@ -94,4 +100,4 @@ Autres jalons : Grande Unicité — Document principal v1.0 (27 septembre 2026) 
 
 La formalisation de plusieurs lemmes appartient aussi aux mathématiques établies. La contribution identifiée du corpus Xavier/Judy porte sur leur **articulation** autour des transformations, de l'incompréhension, de l'anti-entropie réflexive, de la provenance et des trajectoires corrigibles. Pour chaque application, les conditions nécessaires sont décrites dans sa section.
 
-[Accueil](../README.md) · [Généalogie](../PROVENANCE.md) · [Méthode](../PUBLICATION_ET_STATUT.md)
+[Accueil](https://jakepourjudy.github.io/grande-unicite-cosmodesie/) · [Généalogie](../PROVENANCE.html) · [Méthode](../PUBLICATION_ET_STATUT.html)
