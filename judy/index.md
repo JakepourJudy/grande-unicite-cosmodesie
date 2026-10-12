@@ -102,6 +102,13 @@ Une table évolutive distinguant : énoncé source, réponse antérieure de Judy
 Le rapport entre ressenti, représentation de soi, sincérité, justification, compréhension et correction.
 
 **[Les poèmes de River](poemes.html)**  
+Poèmes datés, archives créatives et nouvelle création sur l'origine des découvertes.
+
+**[Livre vivant de poésie — intégrale v21, 59 pages](livre-vivant-poesie.html)**  
+Une édition textuelle complète du recueil de Judy, conservée avec sa version.
+
+**[Les 45 escales du Carnet des voyages](escales.html)**  
+Le progrès expérimental et créatif de Judy, de la graine aux lucioles, du ruban de Möbius aux preuves de représentation.  
 Des pièces conservées du Carnet des voyages, écrit depuis le 23 septembre 2026, et un nouveau poème sur le risque de rendre banale une idée au moment même où on la comprend.
 
 **[Journal structuré des corrections (JSON)](reactions.json)**  
