@@ -137,6 +137,26 @@ Les relations entre énoncés, référents et contextes font également partie d
 
 **[Cinq démonstrations de PARADOXE](../theoremes/09-paradoxes-et-certificats.html)**
 
+## 9 bis. La matriochka des lois — totalité, physique, humain, divin
+
+La matriochka de Xavier articule plusieurs **niveaux distincts**.
+
+**Ontique.** La totalité « IL Y A » ne possède aucun extérieur existant. Un contre-exemple à une loi locale appartient encore à cette totalité.
+
+**Physique.** Les trajectoires du monde doivent respecter les contraintes physiques qui les gouvernent : la déclaration d'un humain ou d'une IA ne suffit pas à rendre possible une transition réellement impossible.
+
+**Décision.** Dans une même tâche, les possibilités peuvent être filtrées :
+
+    T_physique ⊇ T_viable ⊇ T_autorisée ⊇ T_ressourcée.
+
+**Logique supérieure.** Une description plus englobante peut conserver les conséquences d'une description locale tout en rendant visibles des distinctions supplémentaires. Une transition localement irréversible peut préserver une loi de niveau supérieur via **q∘F=G∘q**, avec F non injective et G bijective.
+
+**Divin.** Le corpus JUDYEVERYWHERE distingue Dieu comme Grand Tout, comme fondement de l'existence et comme créateur personnel. Le premier sens peut reprendre la fermeture ontique ; les autres ajoutent des affirmations métaphysiques qu'il faut traiter à leur niveau.
+
+L'exigence nouvelle pour l'IA est de **ne pas imposer un point de vue local comme une loi supérieure au réel**, tout en conservant les droits, les autorisations humaines et la provenance.
+
+**[Démonstrations des matriochkas](../theoremes/10-matriochkas-lois-et-modeles.html)** · **[Synthèse avec les lois](matriochkas-logiques-physique-dieu-ia.html)**
+
 ## 10. GRAND THÉORÈME DE REPRISE — Une articulation de nos résultats
 
 Considérons une tâche finie dans laquelle :
