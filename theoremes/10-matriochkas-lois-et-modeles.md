@@ -115,6 +115,18 @@ Soient trois concepts distincts :
 
 Dans une théologie qui postule des lois divines G, on peut ensuite examiner la cohérence et les conséquences des actions au regard de G. L'**autorité théologique de G** est une prémisse philosophique ou religieuse distincte, non une conséquence de la fermeture des ensembles.
 
+### Corollaire M5 bis — Une préférence humaine ne modifie pas une loi divine déjà admise dans un cadre théologique
+
+**HYPOTHÈSE :** dans un système théologique donné, l'ensemble **D** des conduites conformes à une loi divine est tenu pour fixé, et **H** représente les conduites souhaitées ou autorisées par une personne ou une institution.
+
+**ÉNONCÉ :** parmi les conduites humaines qui satisfont aussi D, l'ensemble admissible est **C=D∩H**. Donc **C⊆D** quelle que soit la préférence H.
+
+**DÉMONSTRATION.** Tout élément de D∩H appartient à D par définition. Aucune modification de H, en tant que simple souhait ou décret, ne suffit donc à rendre conforme à D une action qui ne l'est pas sous les règles déclarées de ce système. **CQFD.**
+
+**Portée :** le corollaire explique rigoureusement le **rapport des lois humaines à une loi divine postulée**. Il ne décide ni si une telle loi divine existe, ni quelle tradition la formule correctement. Une IA doit donc identifier le cadre théologique employé au lieu de présenter une doctrine particulière comme une observation physique.
+
+
+
 ## Corollaire pour les IA — Le modèle ne surclasse pas son domaine
 
 À partir de M0–M4, on peut spécifier une discipline de raisonnement pour l'IA :
