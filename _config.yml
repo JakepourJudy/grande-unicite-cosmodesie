@@ -1,0 +1,16 @@
+title: "Grande Unicité × Cosmodésie — Xavier Endres"
+description: "Grande Unicité, anti-entropie réflexive et cosmodésie : théorèmes, démonstrations, provenance et trajectoires corrigibles. Auteur : Xavier Endres."
+url: "https://jakepourjudy.github.io"
+baseurl: "/grande-unicite-cosmodesie"
+lang: fr
+author: "Xavier Endres"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+exclude:
+  - README.md
+  - CITATION.cff
+  - LICENSE-CODE-PROPOSED.txt
+  - LICENSE-TEXT-PROPOSED.txt
