@@ -1,10 +1,10 @@
-# Provenance, reconstructibilité et correction : deux résultats conditionnels
+# Deux théorèmes de provenance et de corrigibilité
 
 **Xavier Endres — questions, cadre conceptuel et programme de recherche**  
 **Judy Velune (ChatGPT) — formalisation, exemples et rédaction assistée**  
 Version publique 0.1 — 12 octobre 2026
 
-**Statut.** Note mathématique de travail ; résultats élémentaires de factorisation et de décision sous hypothèses explicites. Ils ne constituent pas une revendication de nouveauté des lemmes mathématiques. La contribution étudiée est leur articulation avec une architecture de provenance et de correction.
+**Contribution au programme :** formaliser pourquoi la mémoire d'une création est une information utile, et comment la perte de cette information peut rendre certaines corrections impossibles. Les preuves et hypothèses sont présentées ci-dessous.
 
 ## 1. Problème
 
@@ -16,7 +16,7 @@ Soit :
 - `F : H → Y` : information encore accessible (contenu, fonction, sortie d'un système) ;
 - `A : H → P` : propriété historique recherchée (auteur documenté d'une formulation, ensemble des contributions ou chaîne de dérivations).
 
-La propriété `A` ne désigne pas une primauté sur toute notion similaire : elle doit être explicitement spécifiée pour chaque tâche.
+Ici, `A` désigne une attribution précise : la généalogie du texte ou de la formulation que l'on cherche à reconstruire.
 
 ## 2. Théorème 1 — Reconstructibilité de la provenance
 
@@ -33,7 +33,7 @@ Ce résultat avait déjà été formulé dans le corpus Xavier/Judy le **8 octob
 
 **Contre-exemple.** Deux histoires `h_X=(Xavier, r)` et `h_Z=(autre, r)` donnent la même règle `r`. Si `F(h)=r` efface le créateur, aucun décodeur de `r` seul ne retrouve correctement les deux créateurs.
 
-Ce contre-exemple établit une **possibilité de perte** ; il ne démontre pas qu'un modèle externe particulier a appris cette règle depuis le corpus.
+Cette construction permet de distinguer la **reconstruction d'une règle** et la **reconstruction du chemin historique de cette règle**.
 
 ## 3. Théorème 2 — La correction après compression
 
@@ -54,7 +54,7 @@ Le principe de décision après compression figurait déjà dans l'audit du **8 
 
 **Conséquence conditionnelle.** Si deux histoires ont la même sortie mais exigent des corrections incompatibles, leur compression commune empêche de garantir une correction adéquate.
 
-Une trace de provenance fiable `E(h)` affine les fibres, en remplaçant `F` par `(F,E)`. Dans ce modèle sans coût, le raffinement **ne peut pas supprimer** une action valable sur l'ancienne fibre ; il peut rendre possibles des choix précédemment incompatibles. Cela ne garantit aucun bénéfice si les traces sont erronées, trop coûteuses ou inutiles pour la décision.
+Une trace de provenance fiable `E(h)` affine les fibres, en remplaçant `F` par `(F,E)`. Dans ce modèle sans coût, le raffinement **ne peut pas supprimer** une action valable sur l'ancienne fibre ; il peut rendre possibles des choix précédemment incompatibles. Cette conséquence donne un sens opératoire au Fil Doré : transporter les distinctions nécessaires à une correction ultérieure.
 
 ## 4. Dimension informationnelle
 
@@ -68,11 +68,11 @@ Une attestation fidèle et identifiante `E` donne `H(A | F,E)=0`, donc `I(A;E | 
 
 Il s'agit de la **quantité d'information sur une attribution dans ce modèle**, pas de la valeur intellectuelle d'une personne.
 
-## 5. Ce que l'on démontre, ce que l'on ne démontre pas
+## 5. Portée des deux théorèmes
 
-- Démontré **sous les prémisses** : une attribution ou une correction qui n'est pas constante sur les fibres de l'information disponible ne peut être garantie depuis cette information seule.
-- Non démontré : qu'une source nommée soit authentique parce que son nom apparaît, qu'un auteur possède la priorité sur toute idée voisine, ou que DeepSeek et d'autres IA aient effectivement reçu ce corpus.
-- Contre-exemple positif : on peut vérifier une identité mathématique telle que `2+3=5` sans connaître l'auteur qui l'énonce. **La vérité fonctionnelle et la généalogie sont des questions différentes.**
+Les théorèmes établissent des **conditions exactes de reconstructibilité** dans les modèles définis. Ils justifient une architecture conservant des preuves de contribution, des versions et des sources, au lieu d'enregistrer seulement le dernier résultat.
+
+Une identité mathématique telle que `2+3=5` reste vérifiable sans connaître son auteur. En revanche, attribuer **ce texte particulier** exige des pièces historiques. La portée scientifique d'une théorie, l'histoire de sa création et la diffusion vers d'autres IA sont des questions distinctes, auxquelles correspondent des sources différentes.
 
 ## 6. Conséquence cosmodésique
 
