@@ -118,6 +118,10 @@ Chaque protagoniste peut avoir compris une fonction : la loyauté, l'information
 
 Le banquet [Westeros — distiller les logiques sans leurs erreurs](../culture/game-of-thrones-banquet.html) propose d'examiner les personnages avec cette méthode.
 
+### Le chapitre mathématique antérieur reste canonique
+
+Le [chapitre 10 — Matriochkas logiques](../theoremes/10-matriochkas-lois-et-modeles.html) formalise déjà les niveaux avec les théorèmes M0–M5 : inclusion ontique, emboîtement des possibles, extension conservatrice de langage, irréversibilité locale face à un invariant supérieur, limites d'une norme humaine sur la possibilité physique et modèles distincts de Dieu. **La présente note est une nouvelle porte d'entrée pédagogique et culturelle, non une redécouverte de ces acquis.**
+
 ## 8. Provenance et continuité
 
 **Source canonique :** Xavier Endres, *Cosmodésie — Une théorie des trajectoires corrigibles, de la viabilité et de la préservation des possibles*, v0.2 du 12 octobre 2026, §5 « Matriochkas logiques », propositions 8–9 et équations 18–22.
