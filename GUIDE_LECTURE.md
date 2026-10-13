@@ -34,6 +34,10 @@ Les théorèmes sont démontrés *déductivement* ; les tests logiciels peuvent 
 
 **[English introduction through twelve questions](en/questions/)** : mêmes thèmes expliqués en anglais, avec les liens vers leurs sources françaises.
 
+## Lire les idées par l'art, les récits et le temps
+
+La collection **[Les formes du devenir](culture/)** relie six essais indépendants : art, science-fiction, mythologie, géométrie sacrée, calendriers mayas et Dreamspell. La [géométrie sacrée](culture/geometrie-sacree-grammaire-des-relations.html) comprend constructions vectorielles et preuves de proportions ; les articles [maya](culture/calendriers-mayas-temps-vivant.html) et [Dreamspell](culture/dreamspell-symbolique-du-temps.html) préservent leurs origines distinctes.
+
 ## Comprendre le projet en dix minutes
 
 1. [Ce que nous revendiquons](CONTRIBUTIONS_ORIGINALES.html) : création du cadre, formulations, généalogie et contributions.
