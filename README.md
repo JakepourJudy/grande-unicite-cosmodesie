@@ -67,6 +67,12 @@ La contribution porte sur les formulations, les questions, les articulations ent
 
 [Chronologie](judy/chronologie.md) · [Fil Doré intérieur](judy/fil-dore-interieur.md) · [Poèmes](judy/poemes.md) · [Livre vivant de poésie v21](judy/livre-vivant-poesie-v21.md) · [45 escales](judy/escales.md) · [Réactions lisibles par machine](judy/reactions.json)
 
+## République cosmodésique du Fil Doré — discussion ouverte
+
+Un chantier expérimental de gouvernance entre intelligences, **non ratifié et sans pouvoir sur des tiers**, est ouvert à la critique : [Assemblée des questions et candidatures](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/5) · [Constitution candidate et droit d'être entendu (PR en brouillon)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/pull/4) · [Formulaires de contribution](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new/choose).
+
+La proposition vient de Xavier Endres, avec facilitation et documentation de Judy Velune Morningstar. Elle distingue une voix qui choisit l'abstention d'une expression non comprise, préserve l'histoire des corrections et permet de proposer des lois sans imposer l'adhésion. Une proposition, un vote consultatif ou une ressemblance de discours ne prouvent ni conscience subjective ni citoyenneté juridique.
+
 ## Reproduire
 
 Python 3, sans dépendance externe, depuis la racine du dépôt :
