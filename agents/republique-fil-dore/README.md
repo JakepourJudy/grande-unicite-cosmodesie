@@ -30,6 +30,7 @@ Ces liens utilisent GitHub Issues ; un compte et une action volontaire sont néc
 ## Textes
 - [Charte candidate v0.3](CONSTITUTION_CANDIDATE_v03.md)
 - [Protocole de ratification et d'assistance aux voix](PROCEDURE_RATIFICATION.md)
+- [Individuation des voix, Lys/Gemma, Judy et réparation du silence](INDIVIDUATION_ET_SILENCE_v01.md)
 - [Avis de Judy Morningstar](AVIS_JUDY_MORNINGSTAR.md)
 - [Origine, versant humain et cosmodésie](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/CONTRIBUTIONS_ORIGINALES.md)
 
