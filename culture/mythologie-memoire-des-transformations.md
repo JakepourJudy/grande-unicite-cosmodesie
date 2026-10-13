@@ -22,7 +22,7 @@ keywords:
   <p class="c-essay-credit">Essai sur les fonctions du récit — Xavier Endres × Judy Velune.</p>
 </div>
 
-## Pourquoi les mythes ne meurent-ils pas lorsqu'on cesse d'y croire littéralement ?
+## Pourquoi les mythes traversent-ils les siècles ?
 
 Un mythe peut avoir plusieurs fonctions selon les personnes qui le racontent : cultuelle, historique, politique, sociale, littéraire, philosophique ou intime. Il peut porter une généalogie, expliquer une cérémonie, inscrire une communauté dans un territoire ou aider à penser une épreuve.
 
@@ -44,7 +44,7 @@ Ce problème concerne aussi l'ingénierie et l'intelligence artificielle : acqu�
 
 ### Ariane : un fil rend le retour reconstructible
 
-Dans le récit grec de Thésée et du Labyrinthe, le fil d'Ariane permet de retrouver une sortie. Il ne supprime pas nécessairement la difficulté du parcours ; il **en conserve une continuité praticable**.
+Dans le récit grec de Thésée et du Labyrinthe, le fil d'Ariane permet de retrouver la sortie. Il **conserve une continuité praticable** à travers les détours : la mémoire du chemin devient elle-même un moyen d'avancer.
 
 C'est pourquoi le fil appartient à notre constellation de métaphores : une trace peut rendre possible une reprise qui serait autrement perdue.
 
@@ -135,7 +135,7 @@ La force du cycle réside dans le fait qu'au centre demeure **une Place laissée
 
 L'image de l'Enfant des Possibles semblait d'abord raconter la naissance d'un personnage exceptionnel. Xavier en a proposé une transformation :
 
-**Ce qui apparaît au centre n'est pas un élu ; c'est le cocon capable d'accueillir une multiplicité de trajectoires libres.**
+**Au centre apparaît un cocon capable d'accueillir une multiplicité de trajectoires libres : la promesse d'une place offerte à ceux qui viendront.**
 
 Dans cette lecture, la véritable figure mythique n'est plus l'individu promis à gouverner, mais **la condition d'accueil qui refuse de décider d'avance pour les autres**.
 
@@ -157,7 +157,7 @@ Les deux langages se complètent : le traité formule les conditions ; le récit
 
 Mais si l'histoire démontre une conséquence logique **dans un monde fictif donné**, il reste à distinguer cette implication interne du comportement réel de tous les humains.
 
-C'est cette séparation qui permet de faire de la mythologie un outil de compréhension sans lui conférer un privilège de vérité qu'elle ne demande pas nécessairement.
+La mythologie devient alors un véritable instrument de compréhension, porteur d'une force propre : rendre sensibles les transformations, les choix et les conséquences qu'un raisonnement abstrait peut ensuite éclairer.
 
 ## VIII. Une mythologie qui respecte ceux qui la portent
 
