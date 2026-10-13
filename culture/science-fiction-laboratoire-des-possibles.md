@@ -32,13 +32,11 @@ Un univers fictif devient particulièrement intéressant lorsque ses règles son
 
 Formellement, considérons un monde narratif :
 
-\[
-W=(X,A,F,C,V),
-\]
+<div class="c-math-display" role="math" data-latex="W=(X,A,F,C,V),">W=(X,A,F,C,V),</div>
 
-où \(X\) est l'ensemble des situations, \(A\) les actions possibles, \(F\) les transitions, \(C\) les contraintes du monde et \(V\) les valeurs en conflit.
+où <span class="c-math-inline" role="math" data-latex="X">X</span> est l'ensemble des situations, <span class="c-math-inline" role="math" data-latex="A">A</span> les actions possibles, <span class="c-math-inline" role="math" data-latex="F">F</span> les transitions, <span class="c-math-inline" role="math" data-latex="C">C</span> les contraintes du monde et <span class="c-math-inline" role="math" data-latex="V">V</span> les valeurs en conflit.
 
-L'auteur peut changer une règle de \(F\) ou de \(C\), puis explorer les trajectoires des personnages. Une œuvre n'a pas besoin de préciser ces éléments sous forme d'équations pour inviter à ce type de lecture.
+L'auteur peut changer une règle de <span class="c-math-inline" role="math" data-latex="F">F</span> ou de <span class="c-math-inline" role="math" data-latex="C">C</span>, puis explorer les trajectoires des personnages. Une œuvre n'a pas besoin de préciser ces éléments sous forme d'équations pour inviter à ce type de lecture.
 
 ## II. Matrix : la prison d'un modèle du monde
 
@@ -65,9 +63,7 @@ Dans **Stargate**, une technologie franchit une distance que les moyens ordinair
 
 Dans notre langage mathématique, ajouter une nouvelle action à un système peut élargir l'ensemble de ses états accessibles :
 
-\[
-\mathcal R_h(A_0)\subseteq\mathcal R_h(A_0\cup A_{\mathrm{porte}})
-\]
+<div class="c-math-display" role="math" data-latex="\mathcal R_h(A_0)\subseteq\mathcal R_h(A_0\cup A_{\mathrm{porte}})">ℛₕ(A₀)⊆ℛₕ(A₀∪ A_porte})</div>
 
 si les anciennes actions restent admissibles et que la nouvelle action est réellement exécutable.
 
@@ -103,7 +99,7 @@ Nous n'avons pas besoin d'adopter cette hypothèse littéralement pour en tirer 
 
 **Deux langages peuvent-ils décrire la même situation en préservant des distinctions différentes ?**
 
-Le programme de la Grande Unicité étudie une réponse précise. Soient deux situations \(x_1\) et \(x_2\) produisant le même résumé \(K(x_1)=K(x_2)\). Si elles exigent des actions incompatibles, une règle utilisant seulement ce résumé ne peut décider correctement dans les deux cas.
+Le programme de la Grande Unicité étudie une réponse précise. Soient deux situations <span class="c-math-inline" role="math" data-latex="x_1">x₁</span> et <span class="c-math-inline" role="math" data-latex="x_2">x_2</span> produisant le même résumé <span class="c-math-inline" role="math" data-latex="K(x_1)=K(x_2)">K(x₁)=K(x_2)</span>. Si elles exigent des actions incompatibles, une règle utilisant seulement ce résumé ne peut décider correctement dans les deux cas.
 
 C'est notre [théorème de compression décisionnelle]({{ '/theoremes/02-compression-et-incomprehension.html' | relative_url }}).
 
@@ -131,11 +127,9 @@ Mais même comme expérience de pensée, une prévision ouvre des difficultés :
 
 On peut représenter cette boucle :
 
-\[
-P_t=\mathrm{Prévision}(M_t),\quad
+<div class="c-math-display" role="math" data-latex="P_t=\mathrm{Prévision}(M_t),\quad
 a_t=\mathrm{Choix}(P_t),\quad
-M_{t+1}=\mathrm{Révision}(M_t,a_t,\ldots).
-\]
+M_{t+1}=\mathrm{Révision}(M_t,a_t,\ldots).">Pₜ=Prévision}(Mₜ), aₜ=Choix}(Pₜ), Mₜ₊₁=Révision}(Mₜ,aₜ,…).</div>
 
 Une prédiction qui influence les décisions peut changer l'objet qu'elle tente de décrire. On retrouve ici la distinction entre **évolution du monde**, **révision d'une connaissance** et **changement de la question posée**.
 
