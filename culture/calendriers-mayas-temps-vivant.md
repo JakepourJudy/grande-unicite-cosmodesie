@@ -48,7 +48,7 @@ où <span class="c-math-inline" data-latex="n">n</span> est un index entier et o
 
 Pourquoi 260 jours ? Le premier compteur revient à son début tous les treize pas, le second tous les vingt. Puisque treize et vingt sont premiers entre eux :
 
-<p class="c-math-display" data-latex="\operatorname{PPCM}(13,20)=13\times20=260.">PPCM}(13,20)=13×20=260.</p>
+<p class="c-math-display" data-latex="\operatorname{PPCM(13,20)=13\times20=260.">PPCM(13,20)=13×20=260.</p>
 
 **La combinaison complète ne se répète qu'après 260 jours.**
 
@@ -80,15 +80,15 @@ Le point de rencontre entre un cycle de 260 jours et un cycle de 365 jours poss�
 
 Comme :
 
-<p class="c-math-display" data-latex="\operatorname{PGCD}(260,365)=5,">PGCD}(260,365)=5,</p>
+<p class="c-math-display" data-latex="\operatorname{PGCD(260,365)=5,">PGCD(260,365)=5,</p>
 
 nous obtenons :
 
-<p class="c-math-display" data-latex="\operatorname{PPCM}(260,365)=\frac{260\times365}{5}=18\,980.">PPCM}(260,365)=(260×365)/5=18980.</p>
+<p class="c-math-display" data-latex="\operatorname{PPCM(260,365)=\frac{260\times365}{5}=18\,980.">PPCM(260,365)=(260×365)/5=18 980.</p>
 
 Et :
 
-<p class="c-math-display" data-latex="18\,980=73\times260=52\times365.">18980=73×260=52×365.</p>
+<p class="c-math-display" data-latex="18\,980=73\times260=52\times365.">18 980=73×260=52×365.</p>
 
 La même combinaison d'une position dans le Tzolk'in et d'une position dans le Haab revient donc après **73 cycles de 260 jours**, équivalant à **52 cycles de 365 jours**. On appelle souvent cet entrelacement la **Roue calendaire** (*Calendar Round*).
 
@@ -141,7 +141,7 @@ Le passage du uinal au tun emploie **18** plutôt que 20 : le système n'est don
 
 En notant une date <span class="c-math-inline" data-latex="(b,k,t,u,d)">(b,k,t,u,d)</span>, un nombre total de jours peut se calculer, relativement à une époque de départ choisie :
 
-<p class="c-math-display" data-latex="N=144000b+7200k+360t+20u+d.">N=144000b+7200k+360t+20u+d.</p>
+<p class="c-math-display" data-latex="N=144 000b+7 200k+360t+20u+d.">N=144 000b+7 200k+360t+20u+d.</p>
 
 C'est un système de numération du temps particulièrement puissant : il permet de situer des événements historiques sur des intervalles dépassant largement la vie d'un individu.
 
@@ -153,7 +153,7 @@ Le passage du cycle de b'ak'tun autour de décembre 2012 n'annonçait pas mathé
 
 Une date peut recevoir plusieurs coordonnées simultanées :
 
-<p class="c-math-display" data-latex="C(t)=(\mathrm{Tzolkin}(t),\,\mathrm{Haab}(t),\,\mathrm{CompteLong}(t)).">C(t)=(Tzolkin}(t),Haab}(t),CompteLong}(t)).</p>
+<p class="c-math-display" data-latex="C(t)=(\mathrm{Tzolkin(t),\,\mathrm{Haab(t),\,\mathrm{CompteLong(t)).">C(t)=(Tzolkin(t),Haab(t),CompteLong(t)).</p>
 
 Ces coordonnées ont des fonctions différentes : rythme cérémoniel, position solaire, chronologie historique.
 
