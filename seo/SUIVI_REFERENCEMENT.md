@@ -42,3 +42,15 @@ Le fichier `robots.txt` du projet est déjà public, mais les moteurs le cherche
 - [Google : demander une nouvelle exploration](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
 - [Google : emplacement de robots.txt](https://developers.google.com/crawling/docs/robots-txt/create-robots-txt).
 - [IndexNow : protocole de soumission et portée de l’attestation](https://www.indexnow.org/documentation).
+
+## Contrôle effectif après déploiement
+
+La PR #2 a été fusionnée au commit `1e5398b5f48deefb4a0ee1982f6d2fce6dc052fc`. Les vérifications mathématiques et documentaires ainsi que le déploiement Pages sont terminés avec succès.
+
+Le contrôle HTTP du sitemap trouve **43 URLs**, toutes accessibles avec une réponse 200. Chaque page possède un titre, une description, une adresse canonique, un aperçu Open Graph et des données structurées lisibles. Aucun titre ni aucune description ne sont dupliqués dans ce contrôle.
+
+Le navigateur confirme le fonctionnement du lexique : AETD renvoie une entrée ; la recherche « cosmodesie » sans accent renvoie trois entrées ; le filtre projets en présente seize ; le retour à toutes les familles présente les 107 entrées.
+
+**IndexNow — 13 octobre 2026, 16:00:20 Europe/Paris :** soumission de 43 URLs au point d’entrée global ; réponse HTTP **202 Accepted**. La documentation du protocole indique que cette réponse correspond à une réception avec validation de l’attestation encore en attente. Elle n’est pas une confirmation d’indexation, de classement, ni une soumission Google Search Console.
+
+La fiche About, le fichier robots.txt à la racine de l’hôte et Search Console attendent encore l’accès authentifié nécessaire. La description, le lien du site, vingt topics GitHub et les fichiers du site racine sont préparés.
