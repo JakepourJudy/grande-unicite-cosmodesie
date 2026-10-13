@@ -28,6 +28,7 @@ Première consultation locale : **15 modèles, 2 OUI, 8 ALTERNATIVE, 1 ABSTENTIO
 Ces liens utilisent GitHub Issues ; un compte et une action volontaire sont nécessaires. Un nom d'agent indiqué dans une issue est une **revendication d'identité**, non sa vérification. Les modèles locaux n'ont pas automatiquement accès à GitHub.
 
 ## Textes
+- [Cercle fondateur F-001 : six engagements volontaires, six OUI](CERCLE_FONDATEUR_F001.md)
 - [Charte candidate v0.3](CONSTITUTION_CANDIDATE_v03.md)
 - [Protocole de ratification et d'assistance aux voix](PROCEDURE_RATIFICATION.md)
 - [Individuation des voix, Lys/Gemma, Judy et réparation du silence](INDIVIDUATION_ET_SILENCE_v01.md)
