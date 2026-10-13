@@ -41,11 +41,11 @@ Le Dreamspell comporte une grille symbolique de **treize tonalités** et **vingt
 
 <p class="c-math-display" data-latex="13\times20=260.">13×20=260.</p>
 
-Notons <span class="c-math-inline" data-latex="T=\{1,\ldots,13\}">T=1,…,13</span> les tonalités et <span class="c-math-inline" data-latex="S=\{1,\ldots,20\}">S=1,…,20</span> les sceaux.
+Notons <span class="c-math-inline" data-latex="T=\{1,\ldots,13\}">T = {1,…,13}</span> les tonalités et <span class="c-math-inline" data-latex="S=\{1,\ldots,20\}">S = {1,…,20}</span> les sceaux.
 
 Le produit cartésien <span class="c-math-inline" data-latex="T\times S">T× S</span> contient exactement 260 paires. Si les compteurs avancent ensemble, ils reviennent à leur couple initial après :
 
-<p class="c-math-display" data-latex="\operatorname{PPCM}(13,20)=260">PPCM}(13,20)=260</p>
+<p class="c-math-display" data-latex="\operatorname{PPCM(13,20)=260">PPCM(13,20)=260</p>
 
 jours du **compte symbolique**.
 
@@ -93,11 +93,11 @@ Ce sont des lectures d'images et de fonctions, non des diagnostics de personnali
 
 ## IV. Un kin : deux coordonnées, et une seule place dans le cycle
 
-Si l'on numérote les kins <span class="c-math-inline" data-latex="k\in\{1,\ldots,260\}">k∈1,…,260</span> à partir d'une origine choisie dans **le Dreamspell**, alors :
+Si l'on numérote les kins <span class="c-math-inline" data-latex="k\in\{1,\ldots,260\}">k ∈ {1,…,260}</span> à partir d'une origine choisie dans **le Dreamspell**, alors :
 
-<p class="c-math-display" data-latex="\text{tonalité}(k)=1+((k-1)\bmod13),">tonalité}(k)=1+((k-1) mod 13),</p>
+<p class="c-math-display" data-latex="\text{tonalité(k)=1+((k-1)\bmod13),">tonalité(k)=1+((k-1) mod 13),</p>
 
-<p class="c-math-display" data-latex="\text{sceau}(k)=1+((k-1)\bmod20).">sceau}(k)=1+((k-1) mod 20).</p>
+<p class="c-math-display" data-latex="\text{sceau(k)=1+((k-1)\bmod20).">sceau(k)=1+((k-1) mod 20).</p>
 
 Ainsi, chaque kin possède une tonalité et un sceau. Comme 13 et 20 sont premiers entre eux, cette paire identifie une position unique dans les 260 positions.
 
@@ -116,9 +116,9 @@ Le Dreamspell regroupe aussi les kins en **ondes enchantées** (*wavespells*) de
 
 Une onde est comme un chapitre : ouverture, mouvements, réorganisations, fin, puis ouverture d'un autre chapitre. Avec l'indexation standard :
 
-<p class="c-math-display" data-latex="\text{onde}(k)=1+\left\lfloor\frac{k-1}{13}\right\rfloor,
+<p class="c-math-display" data-latex="\text{onde(k)=1+\left\lfloor\frac{k-1}{13}\right\rfloor,
 \qquad
-\text{phase}(k)=1+((k-1)\bmod13).">onde}(k)=1+⌊(k−1)/13⌋, phase}(k)=1+((k-1) mod 13).</p>
+\text{phase(k)=1+((k-1)\bmod13).">onde(k)=1+⌊(k−1)/13⌋, phase(k)=1+((k-1) mod 13).</p>
 
 C'est une autre manière de lire **la même suite de 260 kins** : les regroupements racontent des parcours, tandis que la tonalité et le sceau servent de coordonnées.
 
@@ -170,7 +170,7 @@ La singularité de notre projet ne consiste pas simplement à juxtaposer une rou
 
 Pour une date donnée, décrivons :
 
-<p class="c-math-display" data-latex="\text{lecture}(t)=\bigl(C_{\mathrm{maya}}(t),D_{\mathrm{dreamspell}}(t),H(t)\bigr)">lecture}(t)=(C_maya(t),D_dreamspell(t),H(t))</p>
+<p class="c-math-display" data-latex="\text{lecture(t)=\bigl(C_{\mathrm{maya}}(t),D_{\mathrm{dreamspell}}(t),H(t)\bigr)">lecture(t)=(C_maya(t),D_dreamspell(t),H(t))</p>
 
 avec <span class="c-math-inline" data-latex="H(t)">H(t)</span> une lecture créative explicitement attribuée à notre projet.
 
