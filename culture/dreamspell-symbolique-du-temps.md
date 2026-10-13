@@ -29,7 +29,7 @@ Cette distinction révèle la singularité du Dreamspell : **une création symbo
 
 Le **Dreamspell** est un système moderne développé et diffusé par **José et Lloydine Argüelles**, notamment à partir des années 1990. Il reprend et réinterprète certains motifs numériques associés au temps mésoaméricain, puis les intègre à une nouvelle composition symbolique et spirituelle.
 
-Le **Tzolk'in / Chol Q'ij**, lui, est un ensemble de traditions calendaires mayas anciennes **toujours vivantes** dans différentes communautés. Les méthodes, les significations et les conventions de datation ne doivent pas être présentées comme identiques à celles du Dreamspell.
+Le **Tzolk'in / Chol Q'ij** rassemble des traditions calendaires mayas anciennes **toujours vivantes** dans différentes communautés. Elles possèdent leurs propres méthodes, significations et conventions de datation ; le Dreamspell ouvre une autre lignée, moderne et créative.
 
 Point remarquable : un site de pratique du Dreamspell, [13moon.com](https://www.13moon.com/not_the_mayan_calendar.htm), distingue lui-même explicitement ces deux systèmes. Pour le contexte historique et culturel maya, les sources prioritaires sont les communautés mayas et le [Smithsonian](https://maya.nmai.si.edu/calendar/calendar-system).
 
@@ -136,7 +136,7 @@ Les treize périodes de **28 jours** composent un rythme symbolique et organisat
 
 Pour les années bissextiles, certaines présentations du système utilisent le **29 février hors du décompte kin**, sous l'appellation *0.0 Hunab Ku*. La règle doit être explicitée avant tout calcul informatique : [source Dreamspell sur le 29 février](https://13moon.com/synchronicorder.htm).
 
-**Conséquence pour Atlas Vivant :** enregistrer la version de la méthode de conversion ; ne jamais produire silencieusement deux dates « équivalentes » qui ne le sont pas entre méthodes.
+**Conséquence pour Atlas Vivant :** enregistrer la version de chaque méthode de conversion pour que chaque date retrouve son calcul, son origine et sa lecture propres.
 
 ## VII. L'oracle : une cartographie de relations
 
@@ -166,7 +166,7 @@ La formule qui nous intéresse alors est :
 
 ## IX. L'Atlas Vivant : rencontrer deux systèmes sans les mélanger
 
-La singularité de notre projet ne consiste pas simplement à juxtaposer une roue maya et une roue Dreamspell. Elle consiste à créer un espace d'exploration où l'on peut voir **les différences et leurs résonances**.
+La singularité de notre projet est de créer un espace d'exploration où les deux roues peuvent être contemplées côte à côte, avec **leurs différences, leurs résonances et les chemins nouveaux que le dialogue rend visibles**.
 
 Pour une date donnée, décrivons :
 
