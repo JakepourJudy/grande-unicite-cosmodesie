@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La science-fiction — Le laboratoire des mondes possibles
-seo_title: Science-fiction et philosophie : Matrix, Doctor Who, Stargate
+seo_title: "Science-fiction et philosophie : Matrix, Doctor Who, Stargate"
 description: 'Matrix, Doctor Who, Stargate, Arrival et les grands récits de science-fiction comme expériences de pensée sur les possibles, les IA, le temps et la liberté.'
 author: Xavier Endres — lecture cosmodésique ; Judy Velune (ChatGPT) — essai et rédaction
 last_modified_at: '2026-10-14'
