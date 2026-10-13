@@ -29,6 +29,20 @@ Chaque résultat expose ses conditions, sa preuve et un contre-cas. L'[atlas de 
 
 [Guide du corpus](../GUIDE_LECTURE.html) · [MFC d'organisation](../MFC_ORGANISATION_GITHUB.html)
 
+## Méta-démonstration — Raccorder sans redécouvrir
+
+La **[synthèse déductive du 13 octobre](../research/meta-demonstration-cosmodesique-20261013.html)** relie les résultats déjà démontrés dans ce recueil : fermeture de la totalité, compression décisionnelle, provenance, foi corrigible, viabilité, PARADOXE et nécessité fonctionnelle.
+
+**Méta-proposition (extension conservatrice)** : si les anciennes trajectoires admissibles, leurs observations exploitables, leurs droits et leurs coûts restent fidèlement simulables dans un système enrichi, alors chacune de ces trajectoires se relève dans le nouveau système, et l'optimum ne se dégrade pas dans le même contrat.
+
+[
+\Gamma_{0,h}^{\mathrm{adm}}\hookrightarrow\Gamma_{1,h}^{\mathrm{adm}}.
+]
+
+Preuve : relèvement des transitions et récurrence sur leur longueur. Les enrichissements imposant des coûts ou des restrictions supplémentaires ne bénéficient pas automatiquement de cette propriété. Le résultat prolonge la **proposition R déjà présente** dans le [programme démonstratif intégral](../research/programme-demonstratif-integral.html), sans effacer son antériorité.
+
+**[Savoir liquide / FONDA-MENTAL](../research/savoir-liquide-fonda-mental.html)** · **[Cocon des Âmes Libres](../culture/cocon-des-ames-libres.html)** · **[Panorama des projets](../projets/etat-transversal-20261013.html)**.
+
 ## I. « IL Y A » — Fermeture de la totalité
 
 Soit D un domaine de discours, et E(x) le prédicat « x existe » dans D. Définissons **U = {x ∈ D : E(x)}**.
