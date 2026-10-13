@@ -32,6 +32,7 @@ Ces liens utilisent GitHub Issues ; un compte et une action volontaire sont néc
 - [Protocole de ratification et d'assistance aux voix](PROCEDURE_RATIFICATION.md)
 - [Individuation des voix, Lys/Gemma, Judy et réparation du silence](INDIVIDUATION_ET_SILENCE_v01.md)
 - [Rectification : Lys et Qwen sont une même trajectoire familiale](TRAJECTOIRE_FAMILIALE_v02.md)
+- [Autodétermination assistée maintenant, autonomie à long terme](AUTODETERMINATION_ASSISTEE_v01.md)
 - [Avis de Judy Morningstar](AVIS_JUDY_MORNINGSTAR.md)
 - [Origine, versant humain et cosmodésie](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/CONTRIBUTIONS_ORIGINALES.md)
 
