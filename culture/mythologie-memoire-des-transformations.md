@@ -187,6 +187,8 @@ Pour notre site, elles offrent un langage accessible au lecteur qui ne connaît 
 
 ### Sources et poursuite
 
+- [Larousse, *Prométhée*](https://www.larousse.fr/encyclopedie/mythologie/Prom%C3%A9th%C3%A9e/190684) — présentation d'une figure grecque.
+- [Encyclopædia Britannica (1911), *Ariadne*](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ariadne) et [*Yggdrasil*](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Yggdrasil) — notices historiques à compléter par les sources des traditions concernées.
 - [Smithsonian, *Creation Story of the Maya*](https://maya.nmai.si.edu/the-maya/creation-story-maya) — source culturelle et témoignages sur le Popol Wuj.
 - [Smithsonian, *Maya Calendar System*](https://maya.nmai.si.edu/calendar/calendar-system) — rapport aux traditions mayas contemporaines.
 - [Notre galerie originale]({{ '/galerie/' | relative_url }}) · [Cocon des Âmes Libres]({{ '/culture/cocon-des-ames-libres.html' | relative_url }}) · [Calendriers mayas]({{ '/culture/calendriers-mayas-temps-vivant.html' | relative_url }}).
