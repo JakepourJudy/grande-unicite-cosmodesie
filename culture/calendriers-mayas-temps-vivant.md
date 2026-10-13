@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Les calendriers mayas — Le temps vivant des cycles et des jours
-seo_title: Calendrier maya : Tzolk'in, Chol Q'ij, Haab et Compte Long
-description: 'Comprendre le calendrier sacré maya de 260 jours, le Haab de 365 jours, le Compte Long, les porteurs de jours et l'entrelacement des cycles.'
+seo_title: "Calendrier maya : Tzolk'in, Chol Q'ij, Haab et Compte Long"
+description: "Comprendre le calendrier sacré maya de 260 jours, le Haab de 365 jours, le Compte Long, les porteurs de jours et l'entrelacement des cycles."
 author: Xavier Endres — Atlas Vivant et lecture cosmodésique ; Judy Velune (ChatGPT) — synthèse sourcée
 last_modified_at: '2026-10-14'
 permalink: /culture/calendriers-mayas-temps-vivant.html
