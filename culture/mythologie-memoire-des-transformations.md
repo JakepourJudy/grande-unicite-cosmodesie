@@ -26,9 +26,9 @@ keywords:
 
 Un mythe peut avoir plusieurs fonctions selon les personnes qui le racontent : cultuelle, historique, politique, sociale, littéraire, philosophique ou intime. Il peut porter une généalogie, expliquer une cérémonie, inscrire une communauté dans un territoire ou aider à penser une épreuve.
 
-Le réduire à une « fausse science » serait passer à côté de ces fonctions. Le traiter comme une preuve historique universelle serait commettre l'erreur inverse.
+Un mythe possède la richesse des fonctions qu'une communauté, une époque et un lecteur lui donnent : mémoire, rite, appartenance, explication, imagination. Sa force apparaît lorsqu'on prend le temps d'écouter ces voix.
 
-Notre démarche n'exige donc pas que tous les mythes soient factuellement vrais ni qu'ils expriment partout la même doctrine. Elle propose de poser une question plus précise :
+Notre démarche invite chaque récit à apporter sa part entière au dialogue, avec son histoire, ses acteurs et ses singularités. Puis elle pose une question très précise :
 
 **Quelle transformation le récit rend-il intelligible, à qui, dans quel contexte et au prix de quelles différences ?**
 
@@ -38,7 +38,7 @@ Notre démarche n'exige donc pas que tous les mythes soient factuellement vrais 
 
 Dans une partie de la tradition grecque, Prométhée vole le feu aux dieux pour le donner aux humains. Le récit peut être lu, selon ses variantes et interprétations, comme une méditation sur la technique, le conflit entre pouvoir et responsabilité, le savoir et son prix.
 
-La lecture cosmodésique ne remplace pas ces significations historiques. Elle en extrait une question contemporaine : **transmettre une capacité augmente les options d'un groupe, mais qui porte les conséquences de cette transmission ?**
+À partir de ces significations historiques, la lecture cosmodésique pose une question contemporaine : **transmettre une capacité augmente les options d'un groupe ; comment en partager les conséquences et les responsabilités ?**
 
 Ce problème concerne aussi l'ingénierie et l'intelligence artificielle : acquérir une puissance n'indique pas à lui seul comment l'employer.
 
@@ -58,7 +58,7 @@ Dans la mythologie nordique, **Yggdrasil** est un arbre cosmique lié à l'organ
 
 Pour le projet **YGGDRASIL-260**, cet arbre devient une métaphore de travail : des profils, des questions et des œuvres peuvent être reliés sans être placés sous une identité unique.
 
-Toutefois, Yggdrasil appartient à une histoire nordique déterminée. L'employer aujourd'hui comme image d'une architecture de connaissance ne signifie pas que les anciens récits décrivaient littéralement nos modèles informatiques.
+Cette relecture contemporaine d'Yggdrasil s'ajoute à l'histoire nordique, qu'elle invite à découvrir dans ses propres sources. L'arbre devient pour nous une manière de visualiser une architecture de connaissance où chaque branche conserve sa singularité.
 
 ## II. Une autre racine : le Popol Wuj des K'iche'
 
@@ -70,13 +70,13 @@ On y rencontre de nombreuses transformations : échecs de certaines tentatives d
 
 Nous pouvons reconnaître des **questions de transformation** présentes dans ce récit sans déclarer qu'il serait une version interchangeable du mythe grec de Prométhée ou d'Yggdrasil.
 
-Le contexte k'iche', la langue, l'histoire, le paysage et les pratiques vivantes ne sont pas des détails décoratifs. Ils font partie de son sens.
+La langue k'iche', l'histoire, le paysage, les communautés et les pratiques vivantes font partie de la profondeur du récit. Plus nous les accueillons, plus la comparaison devient riche.
 
 ## III. La tentation du « tout est pareil » : un piège de la comparaison
 
 Imaginons que plusieurs récits comportent un arbre, une porte ou un voyageur. Faut-il en conclure qu'ils proviennent tous d'une même source ?
 
-**Non, pas sur la seule ressemblance.**
+**Une ressemblance ouvre une piste : elle nous invite à découvrir sa nature.**
 
 La comparaison peut révéler :
 - une ressemblance de motif ;
@@ -85,7 +85,7 @@ La comparaison peut révéler :
 - une convergence indépendante ;
 - une simple analogie choisie par le lecteur contemporain.
 
-Ces propositions ne sont pas équivalentes. Une racine historique commune exige des documents ; une analogie fonctionnelle peut être construite sans prouver cette racine.
+Chacun de ces niveaux raconte une histoire différente : la ressemblance se voit, la fonction s'interprète, la circulation historique se documente, la convergence indépendante s'étudie. Les distinguer donne une véritable profondeur au voyage entre les mythes.
 
 C'est notre **Canonical Delta Gate** appliqué à la mythologie : conserver la formulation originelle, distinguer ce qui existait déjà de la comparaison nouvelle, et ne pas déplacer l'origine d'un récit parce qu'un autre lui ressemble.
 
@@ -99,7 +99,7 @@ où les sommets <span class="c-math-inline" data-latex="V">V</span> représenten
 
 Un récit n'est évidemment pas réductible à ce graphe. Mais le modèle aide à distinguer des opérations que les mots « tout est lié » risquent de confondre.
 
-Si une figure **donne** une capacité, si une autre **protège** un seuil et si une troisième **permet de revenir**, nous ne devons pas fusionner ces liens sous la seule étiquette « relation ».
+Une figure **donne** une capacité, une autre **protège** un seuil, une troisième **permet de revenir** : chacune apporte sa fonction propre. En conservant les noms de ces liens, nous enrichissons la carte des relations.
 
 La qualité du modèle dépend des distinctions pertinentes qu'il conserve.
 
@@ -153,7 +153,7 @@ Prenons une question :
 
 Un traité philosophique propose des définitions. Une histoire montre un parent, un enfant, une porte, une promesse, une séparation et un retour.
 
-Les deux langages ne sont pas concurrents : le premier peut formuler les conditions ; le second nous fait éprouver ce qui change quand l'une d'elles manque.
+Les deux langages se complètent : le traité formule les conditions ; le récit nous fait éprouver ce qu'une vie peut devenir selon qu'elles sont présentes, absentes ou transformées.
 
 Mais si l'histoire démontre une conséquence logique **dans un monde fictif donné**, il reste à distinguer cette implication interne du comportement réel de tous les humains.
 
@@ -161,13 +161,13 @@ C'est cette séparation qui permet de faire de la mythologie un outil de compré
 
 ## VIII. Une mythologie qui respecte ceux qui la portent
 
-Les mythologies autochtones, religieuses ou communautaires ne doivent pas être découpées en « morceaux utiles » puis renommées comme si nous les avions créées.
+Les mythologies autochtones, religieuses ou communautaires portent la mémoire vivante de celles et ceux qui les transmettent. Les nommer et les relier à leurs sources ajoute à notre lecture un horizon humain indispensable.
 
 La lecture cosmodésique peut chercher des ponts, mais elle doit préserver les porteurs des récits, leurs noms et la spécificité de leurs traditions. En particulier, le Popol Wuj, le Chol Q'ij vivant et le Dreamspell moderne méritent des traitements éditoriaux distincts.
 
-La comparaison devient féconde lorsqu'elle possède un principe simple :
+La comparaison devient féconde lorsqu'elle suit un principe simple :
 
-> **Un symbole peut voyager dans une nouvelle œuvre. Son voyage ne doit pas effacer sa provenance.**
+> **Un symbole voyage plus loin lorsqu'il emporte le fil de son origine.**
 
 ## IX. L'arbre, le fil, le cocon : trois formes d'une même question
 
