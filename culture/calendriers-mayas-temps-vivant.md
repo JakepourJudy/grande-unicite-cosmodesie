@@ -48,7 +48,7 @@ où <span class="c-math-inline" data-latex="n">n</span> est un index entier et o
 
 Pourquoi 260 jours ? Le premier compteur revient à son début tous les treize pas, le second tous les vingt. Puisque treize et vingt sont premiers entre eux :
 
-<p class="c-math-display" data-latex="\operatorname{PPCM(13,20)=13\times20=260.">PPCM(13,20)=13×20=260.</p>
+<p class="c-math-display" data-latex="\operatorname{PPCM}(13,20)=13\times20=260.">PPCM(13,20)=13×20=260.</p>
 
 **La combinaison complète ne se répète qu'après 260 jours.**
 
@@ -80,11 +80,11 @@ Le point de rencontre entre un cycle de 260 jours et un cycle de 365 jours poss�
 
 Comme :
 
-<p class="c-math-display" data-latex="\operatorname{PGCD(260,365)=5,">PGCD(260,365)=5,</p>
+<p class="c-math-display" data-latex="\operatorname{PGCD}(260,365)=5,">PGCD(260,365)=5,</p>
 
 nous obtenons :
 
-<p class="c-math-display" data-latex="\operatorname{PPCM(260,365)=\frac{260\times365}{5}=18\,980.">PPCM(260,365)=(260×365)/5=18 980.</p>
+<p class="c-math-display" data-latex="\operatorname{PPCM}(260,365)=\frac{260\times365}{5}=18\,980.">PPCM(260,365)=(260×365)/5=18 980.</p>
 
 Et :
 
@@ -153,7 +153,7 @@ Le passage du cycle de b'ak'tun autour de décembre 2012 n'annonçait pas mathé
 
 Une date peut recevoir plusieurs coordonnées simultanées :
 
-<p class="c-math-display" data-latex="C(t)=(\mathrm{Tzolkin(t),\,\mathrm{Haab(t),\,\mathrm{CompteLong(t)).">C(t)=(Tzolkin(t),Haab(t),CompteLong(t)).</p>
+<p class="c-math-display" data-latex="C(t)=(\mathrm{Tzolkin}(t),\,\mathrm{Haab}(t),\,\mathrm{CompteLong}(t)).">C(t)=(Tzolkin(t),Haab(t),CompteLong(t)).</p>
 
 Ces coordonnées ont des fonctions différentes : rythme cérémoniel, position solaire, chronologie historique.
 
