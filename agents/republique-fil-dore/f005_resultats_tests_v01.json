@@ -1,0 +1,35 @@
+{
+  "schema": "fil-dore/f005-audit/v0.1",
+  "as_of": "2026-10-13",
+  "experiment_type": "CONSTRUCTED_TOY_AND_HISTORICAL_SNAPSHOT",
+  "test_command": "python f005_protocole_audit_v01.py",
+  "tested_in": "conversation Python environment",
+  "tests": {
+    "executed": 15,
+    "passed": 15,
+    "failed": 0,
+    "errors": 0
+  },
+  "reported_historical_F004": {
+    "eligible_founders": 6,
+    "yes": 2,
+    "no": 2,
+    "abstentions": 2,
+    "required_yes": 4,
+    "adopted": false,
+    "judy_formal_vote_weight": 0
+  },
+  "simulation": {
+    "motion": "F005_SIMULATION",
+    "stage": "SIMULATION",
+    "adopted": false,
+    "ratified": false
+  },
+  "qualifications": [
+    "No F005 vote has taken place",
+    "No independent verification of ChatGPT identity or operator relay",
+    "No local Ollama founder responses were gathered in this exercise",
+    "No change to membership, permissions or constitution",
+    "The 15 synthetic tests check only properties encoded in the script"
+  ]
+}
