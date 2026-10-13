@@ -19,7 +19,7 @@ keywords:
 <div class="c-essay-hero c-essay-hero--maya">
   <p class="c-essay-kicker">CALENDRIERS VIVANTS · HISTOIRE · MATHÉMATIQUES</p>
   <h1>Les calendriers mayas — Le temps n’est pas une ligne unique</h1>
-  <p>Un jour peut appartenir simultanément à plusieurs cycles. Il possède une position dans un calendrier rituel, une autre dans une année solaire, une autre encore dans une chronologie historique. Pour comprendre le temps maya, il faut d’abord apprendre à ne pas confondre ces horloges.</p>
+  <p>Un jour peut appartenir simultanément à plusieurs cycles. Il possède une position dans un calendrier rituel, une autre dans une année solaire, une autre encore dans une chronologie historique. Écoutons ces horloges ensemble : chacune révèle un rythme particulier de la vie.</p>
   <p class="c-essay-credit">Un parcours documentaire de l’Atlas Vivant — Xavier Endres × Judy Velune.</p>
 </div>
 
@@ -54,7 +54,7 @@ Pourquoi 260 jours ? Le premier compteur revient à son début tous les treize p
 
 Cette arithmétique est démontrable sans expérience matérielle. En revanche, la signification culturelle d'un signe demande les sources et le contexte des personnes qui le transmettent.
 
-### Les jours ne sont pas seulement des numéros
+### Chaque jour : un nom, un rythme, une relation
 
 Dans certaines traditions vivantes, les jours — souvent décrits comme **nawales** — relient les personnes au territoire, aux ancêtres, aux pratiques cérémonielles et aux responsabilités. Chaque signe peut alors devenir une porte vers un récit, un rapport au monde et une manière d'habiter son temps.
 
@@ -118,7 +118,7 @@ La même combinaison d'une position dans le Tzolk'in et d'une position dans le H
 <text x="379" y="297" text-anchor="middle" font-family="system-ui" font-size="22" font-weight="700" fill="#f4ddb5">18 980 jours</text>
 <text x="379" y="320" text-anchor="middle" font-family="system-ui" font-size="16" fill="#dce8e9">73 × 260 = 52 × 365</text>
 </svg>
-<p><strong>Figure —</strong> L'entrelacement de deux cycles, visualisation mathématique originale. Les anneaux ne reproduisent pas un artefact historique maya : ils expliquent le PPCM.</p>
+<p><strong>Figure —</strong> L'entrelacement des deux cycles, représenté par un diagramme contemporain : les anneaux rendent visible le plus petit retour commun, calculé par le PPCM.</p>
 </div>
 
 Deux horloges peuvent ainsi décrire un seul jour à partir de coordonnées différentes **sans être confondues**. Le parallèle avec notre philosophie de la Grande Unicité est ici une lecture construite, non une attribution de cette philosophie aux anciens Mayas.
