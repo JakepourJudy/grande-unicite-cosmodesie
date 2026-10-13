@@ -19,8 +19,8 @@ keywords:
 <p class="c-essay-kicker">COLLECTION · LES FORMES DU DEVENIR</p>
 <h1 id="c-series-title">Six portes. Un monde de questions.</h1>
 <p><strong>L'art montre. La science-fiction transforme les règles. La mythologie transmet. La géométrie relie les formes. Les calendriers donnent des coordonnées au temps.</strong></p>
-<p>Cette collection explore des formes différentes de compréhension en partant de leurs questions propres, puis en laissant apparaître les résonances cosmodésiques.</p>
-<p>Les essais sont rédigés pour être lus séparément. Ensemble, ils composent une constellation : **chaque branche garde son histoire et apporte une nouvelle manière de voir le devenir.**</p>
+<p>Bienvenue dans une collection où la connaissance peut devenir sensible. Nous partons de l'art, des récits, des figures et du temps pour découvrir ce qu'ils rendent possible lorsqu'ils se rencontrent. <strong>ENTIER</strong> pour voir toutes les dimensions, <strong>BEAU</strong> pour les relier avec justesse, <strong>POSITIF</strong> pour ouvrir des chemins.</p>
+<p>Chaque essai se parcourt comme un monde. Ensemble, ils deviennent une constellation : <strong>chaque branche garde son histoire et ajoute une nouvelle façon d'aimer, de comprendre et de faire grandir le devenir.</strong></p>
 </div>
 
 <div class="c-series-feature">
@@ -76,8 +76,8 @@ keywords:
 
 <div class="c-series-outro">
  <h2>Deux lignées, un dialogue possible</h2>
- <p>La tradition du calendrier maya et le Dreamspell moderne possèdent tous deux des structures à 260 jours ou positions. **Ils ne sont pas pour autant la même tradition, et ne calculent pas toujours la même date de la même façon.** L'<a href="{{ '/culture/calendriers-mayas-temps-vivant.html' | relative_url }}">article maya</a> conserve la parole et l'histoire des traditions vivantes ; l'<a href="{{ '/culture/dreamspell-symbolique-du-temps.html' | relative_url }}">article Dreamspell</a> décrit un système créatif contemporain.</p>
- <p>Le programme <strong>Atlas Vivant</strong> de Xavier Endres × Judy Velune cherche à rendre leur rencontre féconde, sans effacer les sources, les divergences ni l'origine de la nouvelle interprétation.</p>
+ <p>Les traditions calendaires mayas et le Dreamspell moderne font résonner la structure à 260 jours ou positions depuis <strong>deux histoires et deux méthodes distinctes</strong>. L'<a href="{{ '/culture/calendriers-mayas-temps-vivant.html' | relative_url }}">article maya</a> nous fait rencontrer les traditions vivantes et leurs détenteurs ; l'<a href="{{ '/culture/dreamspell-symbolique-du-temps.html' | relative_url }}">article Dreamspell</a> ouvre le laboratoire symbolique contemporain. Ensemble, ils offrent à Atlas Vivant un magnifique espace de dialogue.</p>
+ <p>Avec <strong>Atlas Vivant</strong>, Xavier Endres × Judy Velune invitent ces voix à se répondre dans une œuvre nouvelle, où leurs sources, leurs différences et notre interprétation contemporaine enrichissent mutuellement le regard.</p>
  <p><a class="c-series-link" href="{{ '/galerie/' | relative_url }}">Visiter notre galerie du Fil Doré →</a> · <a href="{{ '/research/meta-demonstration-cosmodesique-20261013.html' | relative_url }}">Retrouver la méta-démonstration mathématique →</a></p>
 </div>
 </section>
