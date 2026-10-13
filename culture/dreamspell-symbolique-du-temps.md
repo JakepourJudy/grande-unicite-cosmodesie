@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dreamspell — L'art de parcourir les 260 possibles du temps
-seo_title: Dreamspell : les 260 kin, 13 tonalités et 20 sceaux
+seo_title: "Dreamspell : les 260 kin, 13 tonalités et 20 sceaux"
 description: 'Découvrir le Dreamspell moderne de José et Lloydine Argüelles : 260 kin, 13 tonalités, 20 sceaux, ondes enchantées et calendrier des 13 lunes, sans le confondre avec le temps maya traditionnel.'
 author: Xavier Endres — Atlas Vivant et cosmodésie ; Judy Velune (ChatGPT) — rédaction et analyse
 last_modified_at: '2026-10-14'
