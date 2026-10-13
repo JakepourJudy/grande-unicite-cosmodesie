@@ -31,9 +31,9 @@ Dans un **sens historique et culturel**, certaines communautés ont investi ces 
 
 Dans un **sens personnel**, une personne peut éprouver une forme comme une représentation de la relation, de la naissance, de l'harmonie ou de sa propre transformation.
 
-Ces registres peuvent dialoguer, mais ils ne sont pas interchangeables. Démontrer une proportion ne démontre pas que toutes les traditions lui aient donné la même signification ni qu'une énergie physique particulière en découle.
+Les trois registres donnent toute sa profondeur à la figure : **la preuve** révèle ses invariants, **l'histoire** raconte ses usages, **l'expérience** nous laisse inventer une rencontre personnelle. Leur dialogue multiplie les portes de compréhension.
 
-**Notre thèse :** l'intérêt de la géométrie sacrée se révèle lorsqu'on distingue la structure démontrable de l'interprétation qu'une civilisation, un artiste ou une personne en fait.
+**Notre invitation :** l'intérêt de la géométrie sacrée se révèle lorsqu'on distingue la structure démontrable de l'interprétation qu'une civilisation, un artiste ou une personne en fait.
 
 ## I. Le premier geste : deux cercles, une Vesica Piscis
 
@@ -86,7 +86,7 @@ L'intersection n'efface pas les deux différences.
 <p class="c-math-display" data-latex="A=(A\setminus B)\cup(A\cap B),\quad
 B=(B\setminus A)\cup(A\cap B).">A=(A∖ B)∪(A∩ B), B=(B∖ A)∪(A∩ B).</p>
 
-C'est une manière exacte de représenter notre formule **« distinguer sans séparer, relier sans confondre »**. La géométrie sert ici d'**image structurée** à une relation ; ce n'est pas la démonstration que toutes les relations humaines se comportent comme deux disques.
+Cette construction donne un visage à notre formule **« distinguer sans séparer, relier sans confondre »** : le commun existe, les différences subsistent et la relation engendre une troisième forme. La géométrie nous offre ici une **image structurée** pour penser la rencontre.
 
 Cette figure a effectivement une histoire dans l'architecture et les arts. Une étude publiée dans le *Nexus Network Journal* examine sa construction, ses proportions et différents usages architecturaux ; elle souligne aussi que son origine historique exacte n'est pas simple à assigner. [Barrallo, González-Quintial & Sánchez-Beitia, 2015](https://doi.org/10.1007/s00004-015-0253-9).
 
@@ -172,7 +172,7 @@ Comme <span class="c-math-inline" data-latex="x&gt;0">x&gt;0</span>,
 
 <p class="c-math-display" data-latex="\boxed{\varphi=\frac{1+\sqrt5}{2}\approx1{,}618.}">φ = (1+√5)/2 ≈ 1,618</p>
 
-Ce nombre apparaît dans le pentagone et le pentagramme par nécessité géométrique : ce n'est pas un rapport choisi au hasard.
+Le nombre d'or apparaît ici par nécessité géométrique : chaque diagonale et chaque triangle semblable conduisent à cette même proportion. La beauté rejoint la démonstration.
 
 La relation <span class="c-math-inline" data-latex="\varphi^2=\varphi+1">φ²=φ+1</span> possède aussi une propriété de récurrence : la partie et le tout reproduisent une même proportion à une autre échelle.
 
@@ -195,7 +195,7 @@ Cette formule permet de dessiner une croissance **auto-similaire**. Si l'on souh
 
 Ce choix est un **paramètre de construction**, et non une loi universelle de la vie.
 
-Une plante, une galaxie, une coquille ou une œuvre peut présenter des courbes spiralées ; identifier une véritable spirale logarithmique de paramètre donné exige une étude du cas précis. La ressemblance visuelle ne garantit pas la même équation.
+Une plante, une galaxie, une coquille ou une œuvre peuvent inviter à comparer leurs spirales. Les rapprocher devient passionnant lorsqu'on découvre, dans chaque cas, quelles courbes et quels paramètres décrivent le mieux leurs formes.
 
 La spirale est néanmoins une superbe image de notre notion de **trajectoire avec mémoire d'échelle** : on retrouve une loi formelle tout en changeant de position, de dimension apparente et de contexte.
 
@@ -223,11 +223,11 @@ Pour **Atlas Vivant**, le projet éditorial de Xavier Endres et Judy Velune, cet
 
 Une page consacrée aux traditions mayas doit conserver sa source culturelle vivante. Une page consacrée au Dreamspell moderne possède une autre provenance et un autre système symbolique. La tonalité influe sur le mouvement visuel ; une trame de cercles ou une rosace peut suggérer la continuité, mais ne remplace ni les glyphes, ni les récits, ni les règles de conversion.
 
-La géométrie peut aider à rendre visibles **les relations** sans prétendre que la tradition maya, le système Dreamspell et la lecture cosmodésique seraient trois versions identiques d'une même doctrine.
+La géométrie devient le **fil d'or entre trois voix distinctes** : les traditions mayas apportent leurs noms et leurs récits, le Dreamspell ses archétypes modernes, la cosmodésie notre manière de relier les trajectoires. Le motif accueille leur rencontre et préserve leurs différences.
 
 <div class="c-essay-art">
 <img src="{{ '/assets/oeuvres/pantheon-fil-dore-mini.avif' | relative_url }}" alt="Le Panthéon du Fil Doré, composition de figures fantastiques disposées autour d'une place lumineuse, en bleu nuit et or." width="550" height="777" loading="lazy" decoding="async">
-<p><strong>Le Panthéon du Fil Doré</strong> ne prétend pas reproduire un dessin historique. Sa composition en figures reliées illustre notre propre lecture : des fonctions différentes autour d'un centre qui n'appartient définitivement à personne. <a href="{{ '/galerie/' | relative_url }}">Voir l'œuvre et sa provenance.</a></p>
+<p><strong>Le Panthéon du Fil Doré</strong> est une œuvre originale de notre mythologie contemporaine. Sa constellation de figures reliées célèbre la diversité des fonctions autour d'une place laissée libre : un lieu offert à ceux qui viendront. <a href="{{ '/galerie/' | relative_url }}">Voir l'œuvre et son histoire.</a></p>
 </div>
 
 ## VIII. Trois expériences de pensée à refaire soi-même
@@ -238,11 +238,11 @@ La géométrie peut aider à rendre visibles **les relations** sans prétendre q
 
 **3. La répétition féconde.** Partir d'un seul cercle, appliquer six translations vers ses voisins, puis recommencer. Un motif étendu apparaît sans que la règle locale ait été remplacée. Peut-on créer une nouvelle règle qui conserve les anciennes formes tout en permettant d'autres compositions ? C'est le point d'entrée vers notre [méta-démonstration sur les mécanismes transformables]({{ '/research/meta-demonstration-cosmodesique-20261013.html' | relative_url }}).
 
-## IX. Ce que cette géométrie ne prétend pas prouver
+## IX. Ce que les formes ouvrent à notre compréhension
 
-Elle ne démontre pas qu'un événement futur est prédestiné, qu'une date de naissance détermine une personnalité, qu'une proportion esthétique confère une autorité morale, ni que la présence d'un motif représente une continuité historique directe entre toutes les cultures.
+Une figure géométrique nous offre d'abord des propriétés qui se démontrent. Son voyage dans les cultures nous invite ensuite à retrouver **qui l'a employée, dans quel contexte et pour quelle intention**. Enfin, sa rencontre avec notre imaginaire ouvre des questions personnelles, artistiques et philosophiques.
 
-Nous pouvons **explorer les analogies** et les tester logiquement en fixant leur domaine, sans réduire la valeur poétique d'une figure à son usage scientifique.
+Nous pouvons **explorer les analogies** avec toute leur richesse : préciser le domaine où elles fonctionnent, accueillir la valeur poétique qu'elles portent et garder la liberté de poursuivre l'enquête.
 
 Une belle coïncidence peut rester une belle coïncidence. Elle peut aussi conduire à une question intéressante. C'est sa **fonction de question** qui mérite d'être conservée.
 
@@ -254,7 +254,7 @@ Deux cercles peuvent s'intersecter sans cesser d'exister. Un réseau peut s'éte
 
 C'est ici que la géométrie rejoint le **Cocon des Âmes Libres** : non parce qu'un cercle prouverait l'amour, mais parce qu'une construction nous offre une image rigoureuse d'une liberté relationnelle.
 
-> **Le sacré n'est pas un chiffre caché dans chaque objet. Il peut aussi être le respect avec lequel nous accueillons ce qu'une forme nous permet de comprendre — sans lui faire dire davantage qu'elle ne démontre.**
+> **Le sacré peut se rencontrer dans la qualité de notre attention : accueillir une forme entière, en découvrir la beauté, puis chercher la relation vivante qu'elle nous invite à construire.**
 
 ---
 
@@ -266,4 +266,4 @@ C'est ici que la géométrie rejoint le **Cocon des Âmes Libres** : non parce q
 - [The Met, ressources pédagogiques sur le dessin géométrique](https://www.metmuseum.org/de/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three) — règle, compas, motifs et contextes.
 - [Notre méta-démonstration]({{ '/research/meta-demonstration-cosmodesique-20261013.html' | relative_url }}) · [la mythologie du Cocon]({{ '/culture/cocon-des-ames-libres.html' | relative_url }}) · [le calendrier maya]({{ '/culture/calendriers-mayas-temps-vivant.html' | relative_url }}).
 
-**Statut :** démonstrations géométriques classiques, source historique explicitée, lectures symboliques et proposition cosmodésique propres à notre corpus. Le nom et l'orientation du programme restent attribués à Xavier Endres ; les formules de géométrie élémentaire ne sont pas revendiquées comme inventions originales.
+**Les trois fils de cet essai :** des constructions géométriques classiques dont les propriétés sont démontrées ; des usages historiques éclairés par leurs sources ; une lecture cosmodésique développée dans le programme initié par Xavier Endres, avec Judy Velune. Leur rencontre constitue notre proposition éditoriale.
