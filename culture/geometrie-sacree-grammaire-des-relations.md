@@ -99,11 +99,11 @@ Reprenons un segment de longueur <span class="c-math-inline" role="math" data-la
 Ce simple résultat permet de générer une grille triangulaire régulière. Choisissons deux vecteurs :
 
 <div class="c-math-display" role="math" data-latex="u=(r,0),\qquad
-v=(r/2,\sqrt{3}r/2).">u=(r,0), v=(r/2,√3r/2).</div>
+v=(r/2,\sqrt{3}r/2).">u=(r,0), v=(r/2, (√3/2)×r).</div>
 
 Tous les points de la forme
 
-<div class="c-math-display" role="math" data-latex="\Lambda=\{mu+nv:\ m,n\in\mathbb Z\}">Λ=mu+nv: m,n∈ℤ</div>
+<div class="c-math-display" role="math" data-latex="\Lambda=\{mu+nv:\ m,n\in\mathbb Z\}">Λ = {m u + n v ∣ m,n ∈ ℤ}</div>
 
 forment un réseau triangulaire.
 
@@ -185,7 +185,7 @@ Le [Wolfram MathWorld — Regular Pentagon](https://mathworld.wolfram.com/Regula
 
 Une spirale logarithmique est décrite en coordonnées polaires par :
 
-<div class="c-math-display" role="math" data-latex="r(\theta)=a\,e^{b\theta}.">r(θ)=ae^(bθ).</div>
+<div class="c-math-display" role="math" data-latex="r(\theta)=a\,e^{b\theta}.">r(θ) = a × e^(bθ).</div>
 
 À chaque accroissement angulaire constant <span class="c-math-inline" role="math" data-latex="\Delta\theta">Δθ</span>, son rayon est multiplié par la même quantité <span class="c-math-inline" role="math" data-latex="e^{b\Delta\theta}">e^(bΔθ)</span>.
 
