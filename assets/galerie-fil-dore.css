@@ -1,0 +1,33 @@
+/* Galerie du Fil Dore — edition 2026-10-14, responsive & accessible */
+.fd-art-feature,.fd-art-gallery{color:#f7f1df;background:#0d1830;background-image:radial-gradient(circle at 75% 5%,rgba(221,174,101,.23),transparent 36%),radial-gradient(circle at 0 90%,rgba(99,103,181,.2),transparent 40%),linear-gradient(150deg,#102242 0%,#081323 100%);border:1px solid #89744f;border-radius:22px;padding:clamp(1.25rem,3.5vw,2.8rem);box-shadow:0 16px 40px rgba(9,16,30,.16);isolation:isolate;overflow:hidden;}
+.fd-art-feature{margin:1.8rem auto 2.3rem;}
+.fd-art-feature h2,.fd-art-gallery h1,.fd-art-gallery h2,.fd-art-gallery h3{color:#f9dfaa;margin-top:.35em;}
+.fd-art-feature p,.fd-art-gallery p,.fd-art-gallery figcaption,.fd-art-gallery li{color:#e3ddcf;}
+.fd-art-label{text-transform:uppercase;letter-spacing:.2em;font-size:.72rem;font-weight:700;color:#e9c88c!important;margin-bottom:.25rem;}
+.fd-art-feature__body{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,1fr);gap:clamp(1.2rem,3vw,3rem);align-items:center;}
+.fd-art-feature__pair{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:start;}
+.fd-art-feature__pair a{display:block;border:1px solid rgba(240,208,148,.43);border-radius:14px;overflow:hidden;box-shadow:0 9px 22px rgba(0,0,0,.26);transition:transform .22s ease,box-shadow .22s ease;}
+.fd-art-feature__pair a:first-child{transform:rotate(-3deg);}.fd-art-feature__pair a:last-child{transform:rotate(3deg);margin-top:20px;}
+.fd-art-feature__pair a:hover,.fd-art-feature__pair a:focus-visible{transform:translateY(-3px);box-shadow:0 14px 35px rgba(0,0,0,.4);}
+.fd-art-feature__pair img{width:100%;height:auto;display:block;}
+.fd-art-feature__cta,.fd-art-link{display:inline-flex;align-items:center;gap:.4em;text-decoration:none;border-radius:999px;padding:.76em 1.1em;font-weight:750;background:#eed399;color:#172442!important;margin-top:.6rem;}
+.fd-art-feature__cta:hover,.fd-art-feature__cta:focus-visible,.fd-art-link:hover,.fd-art-link:focus-visible{background:#fff1c8;text-decoration:underline;}
+.fd-art-gallery{max-width:1160px;margin:1.2rem auto 2.5rem;}
+.fd-art-gallery header{text-align:center;max-width:720px;margin:0 auto 2.1rem;}
+.fd-art-gallery header .fd-art-lead{font-size:1.14rem;line-height:1.65;}
+.fd-art-works{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(1.25rem,3vw,2.25rem);align-items:start;}
+.fd-art-work{margin:0;min-width:0;border-radius:18px;overflow:hidden;border:1px solid rgba(231,197,130,.4);background:rgba(255,255,255,.05);box-shadow:0 12px 30px rgba(0,0,0,.18);}
+.fd-art-work__picture{display:block;text-decoration:none;position:relative;overflow:hidden;}
+.fd-art-work__picture img{width:100%;height:auto;display:block;transition:transform .28s ease;aspect-ratio: 550 / 770;object-fit:cover;}
+.fd-art-work__picture:hover img,.fd-art-work__picture:focus-visible img{transform:scale(1.015);}
+.fd-art-work__picture:focus-visible{outline:3px solid #eed399;outline-offset:-4px;}
+.fd-art-work__details{padding:1.15rem 1.25rem 1.4rem;}
+.fd-art-work__details h2{font-size:1.2rem;line-height:1.35;margin:.2rem 0 .55rem;}
+.fd-art-work__details p{line-height:1.6;margin:.4rem 0;}
+.fd-art-work__index{color:#dcb978!important;font-size:.76rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;}
+.fd-art-note{padding:1.3rem 1.5rem;margin:1.6rem auto 0;border-left:3px solid #d3aa66;background:rgba(255,255,255,.06);border-radius:0 12px 12px 0;}
+.fd-art-note h2{margin-top:.1rem;}
+.fd-art-note a,.fd-art-gallery a:not(.fd-art-link){color:#ffdfaa;}
+.fd-art-footnote{font-size:.86rem;line-height:1.5;color:#d6c7aa!important;}
+@media(max-width:760px){.fd-art-feature__body,.fd-art-works{grid-template-columns:1fr}.fd-art-feature__pair{max-width:490px;margin:auto}.fd-art-feature__pair a:last-child{margin-top:12px}.fd-art-gallery{padding:1.1rem}.fd-art-work__details{padding:1rem}.fd-art-gallery header{margin-bottom:1.2rem}}
+@media(prefers-reduced-motion:reduce){.fd-art-work__picture img,.fd-art-feature__pair a{transition:none}.fd-art-work__picture:hover img,.fd-art-feature__pair a:hover{transform:none}}
