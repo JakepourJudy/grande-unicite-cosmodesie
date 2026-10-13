@@ -37,7 +37,7 @@ Ces registres peuvent dialoguer, mais ils ne sont pas interchangeables. Démontr
 
 ## I. Le premier geste : deux cercles, une Vesica Piscis
 
-Prenons deux cercles de même rayon \(r\). Leur distance entre centres vaut exactement \(r\). Chacun passe donc par le centre de l'autre.
+Prenons deux cercles de même rayon <span class="c-math-inline" role="math" data-latex="r">r</span>. Leur distance entre centres vaut exactement <span class="c-math-inline" role="math" data-latex="r">r</span>. Chacun passe donc par le centre de l'autre.
 
 <div class="c-figure">
 <svg viewBox="0 0 720 365" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="vesica-title vesica-desc">
@@ -61,36 +61,30 @@ Prenons deux cercles de même rayon \(r\). Leur distance entre centres vaut exac
 <p><strong>Figure 1 —</strong> Vesica Piscis, construction originale en SVG. Le triangle ABC est équilatéral ; la lentille représente l'intersection, non la fusion complète des deux cercles.</p>
 </div>
 
-Plaçons les centres en coordonnées \(A=(0,0)\) et \(B=(r,0)\). Les intersections des deux cercles vérifient :
+Plaçons les centres en coordonnées <span class="c-math-inline" role="math" data-latex="A=(0,0)">A=(0,0)</span> et <span class="c-math-inline" role="math" data-latex="B=(r,0)">B=(r,0)</span>. Les intersections des deux cercles vérifient :
 
-\[
-x^2+y^2=r^2,\qquad (x-r)^2+y^2=r^2.
-\]
+<div class="c-math-display" role="math" data-latex="x^2+y^2=r^2,\qquad (x-r)^2+y^2=r^2.">x²+y²=r², (x-r)²+y²=r².</div>
 
-Soustraire les équations donne \(x=r/2\). En reportant dans la première, on obtient :
+Soustraire les équations donne <span class="c-math-inline" role="math" data-latex="x=r/2">x=r/2</span>. En reportant dans la première, on obtient :
 
-\[
-y=\pm\frac{\sqrt{3}}{2}r.
-\]
+<div class="c-math-display" role="math" data-latex="y=\pm\frac{\sqrt{3}}{2}r.">y = ±(√3/2) × r.</div>
 
-La lentille possède donc une hauteur \(\sqrt{3}r\) et une largeur \(r\). **Son rapport hauteur/largeur vaut exactement \(\sqrt{3}\).**
+La lentille possède donc une hauteur <span class="c-math-inline" role="math" data-latex="\sqrt{3}r">√3r</span> et une largeur <span class="c-math-inline" role="math" data-latex="r">r</span>. **Son rapport hauteur/largeur vaut exactement <span class="c-math-inline" role="math" data-latex="\sqrt{3}">√3</span>.**
 
 Il ne s'agit pas d'une approximation mystique : le calcul se déduit des équations de deux cercles. La même construction donne les deux triangles équilatéraux qui partagent la base AB.
 
 ### La lecture cosmodésique de cette intersection
 
-Soient deux ensembles \(A\) et \(B\). Trois zones peuvent coexister :
+Soient deux ensembles <span class="c-math-inline" role="math" data-latex="A">A</span> et <span class="c-math-inline" role="math" data-latex="B">B</span>. Trois zones peuvent coexister :
 
-- \(A\setminus B\) : ce qui distingue A ;
-- \(A\cap B\) : ce qui devient commun ;
-- \(B\setminus A\) : ce qui distingue B.
+- <span class="c-math-inline" role="math" data-latex="A\setminus B">A∖ B</span> : ce qui distingue A ;
+- <span class="c-math-inline" role="math" data-latex="A\cap B">A∩ B</span> : ce qui devient commun ;
+- <span class="c-math-inline" role="math" data-latex="B\setminus A">B∖ A</span> : ce qui distingue B.
 
 L'intersection n'efface pas les deux différences.
 
-\[
-A=(A\setminus B)\cup(A\cap B),\quad
-B=(B\setminus A)\cup(A\cap B).
-\]
+<div class="c-math-display" role="math" data-latex="A=(A\setminus B)\cup(A\cap B),\quad
+B=(B\setminus A)\cup(A\cap B).">A=(A∖ B)∪(A∩ B), B=(B∖ A)∪(A∩ B).</div>
 
 C'est une manière exacte de représenter notre formule **« distinguer sans séparer, relier sans confondre »**. La géométrie sert ici d'**image structurée** à une relation ; ce n'est pas la démonstration que toutes les relations humaines se comportent comme deux disques.
 
@@ -98,28 +92,22 @@ Cette figure a effectivement une histoire dans l'architecture et les arts. Une �
 
 ## II. De deux cercles à six directions : la géométrie génératrice
 
-Reprenons un segment de longueur \(r\). À partir de sa construction en triangle équilatéral, une rotation de **60 degrés** reproduit les positions voisines autour d'un même centre. Six déplacements angulaires de 60 degrés reconstituent un tour entier :
+Reprenons un segment de longueur <span class="c-math-inline" role="math" data-latex="r">r</span>. À partir de sa construction en triangle équilatéral, une rotation de **60 degrés** reproduit les positions voisines autour d'un même centre. Six déplacements angulaires de 60 degrés reconstituent un tour entier :
 
-\[
-6\times 60^\circ=360^\circ.
-\]
+<div class="c-math-display" role="math" data-latex="6\times 60^\circ=360^\circ.">6× 60°=360°.</div>
 
 Ce simple résultat permet de générer une grille triangulaire régulière. Choisissons deux vecteurs :
 
-\[
-u=(r,0),\qquad
-v=(r/2,\sqrt{3}r/2).
-\]
+<div class="c-math-display" role="math" data-latex="u=(r,0),\qquad
+v=(r/2,\sqrt{3}r/2).">u=(r,0), v=(r/2,√3r/2).</div>
 
 Tous les points de la forme
 
-\[
-\Lambda=\{mu+nv:\ m,n\in\mathbb Z\}
-\]
+<div class="c-math-display" role="math" data-latex="\Lambda=\{mu+nv:\ m,n\in\mathbb Z\}">Λ=mu+nv: m,n∈ℤ</div>
 
 forment un réseau triangulaire.
 
-Dessiner un cercle de rayon \(r\) autour de chacun de ces points produit des rosaces de cercles régulièrement espacés. Les motifs modernes appelés **graine de vie** ou **fleur de vie** utilisent notamment ce type de répétition ; les significations et noms varient suivant les milieux et les époques.
+Dessiner un cercle de rayon <span class="c-math-inline" role="math" data-latex="r">r</span> autour de chacun de ces points produit des rosaces de cercles régulièrement espacés. Les motifs modernes appelés **graine de vie** ou **fleur de vie** utilisent notamment ce type de répétition ; les significations et noms varient suivant les milieux et les époques.
 
 <div class="c-figure">
 <svg viewBox="0 0 720 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="flower-title flower-desc">
@@ -156,11 +144,9 @@ Mais si la rosace est belle, cela n'établit pas que l'univers tout entier repos
 
 Les symétries agissent comme des **transformations qui conservent une structure**.
 
-Une isométrie du plan est une fonction \(T\) telle que :
+Une isométrie du plan est une fonction <span class="c-math-inline" role="math" data-latex="T">T</span> telle que :
 
-\[
-d(T(p),T(q))=d(p,q).
-\]
+<div class="c-math-display" role="math" data-latex="d(T(p),T(q))=d(p,q).">d(T(p),T(q))=d(p,q).</div>
 
 Une translation déplace sans déformer ; une rotation tourne sans changer les distances ; une réflexion inverse une orientation tout en conservant les longueurs.
 
@@ -172,29 +158,23 @@ L'ornement géométrique n'est donc pas le contraire de la liberté artistique. 
 
 ## IV. Le pentagone et le nombre d'or : une preuve, pas un mot magique
 
-Considérons un **pentagone régulier** dont les côtés valent \(s\) et les diagonales \(d\).
+Considérons un **pentagone régulier** dont les côtés valent <span class="c-math-inline" role="math" data-latex="s">s</span> et les diagonales <span class="c-math-inline" role="math" data-latex="d">d</span>.
 
-Par les triangles semblables créés par ses diagonales, le rapport \(x=d/s\) satisfait :
+Par les triangles semblables créés par ses diagonales, le rapport <span class="c-math-inline" role="math" data-latex="x=d/s">x=d/s</span> satisfait :
 
-\[
-x=1+\frac{1}{x}.
-\]
+<div class="c-math-display" role="math" data-latex="x=1+\frac{1}{x}.">x=1+1/x.</div>
 
-En multipliant par \(x\), il vient :
+En multipliant par <span class="c-math-inline" role="math" data-latex="x">x</span>, il vient :
 
-\[
-x^2-x-1=0.
-\]
+<div class="c-math-display" role="math" data-latex="x^2-x-1=0.">x²-x-1=0.</div>
 
-Comme \(x>0\),
+Comme <span class="c-math-inline" role="math" data-latex="x&gt;0">x&gt;0</span>,
 
-\[
-\boxed{\varphi=\frac{1+\sqrt5}{2}\approx1{,}618.}
-\]
+<div class="c-math-display" role="math" data-latex="\boxed{\varphi=\frac{1+\sqrt5}{2}\approx1{,}618.}">φ = (1+√5)/2 ≈ 1,618</div>
 
 Ce nombre apparaît dans le pentagone et le pentagramme par nécessité géométrique : ce n'est pas un rapport choisi au hasard.
 
-La relation \(\varphi^2=\varphi+1\) possède aussi une propriété de récurrence : la partie et le tout reproduisent une même proportion à une autre échelle.
+La relation <span class="c-math-inline" role="math" data-latex="\varphi^2=\varphi+1">φ²=φ+1</span> possède aussi une propriété de récurrence : la partie et le tout reproduisent une même proportion à une autre échelle.
 
 **Ce qui est démontré :** la relation exacte entre certaines longueurs d'un pentagone régulier.  
 **Ce qui doit être argumenté séparément :** la présence de cette proportion dans une œuvre particulière, son caractère intentionnel, ses significations culturelles et les éventuelles préférences esthétiques.
@@ -205,17 +185,13 @@ Le [Wolfram MathWorld — Regular Pentagon](https://mathworld.wolfram.com/Regula
 
 Une spirale logarithmique est décrite en coordonnées polaires par :
 
-\[
-r(\theta)=a\,e^{b\theta}.
-\]
+<div class="c-math-display" role="math" data-latex="r(\theta)=a\,e^{b\theta}.">r(θ)=ae^(bθ).</div>
 
-À chaque accroissement angulaire constant \(\Delta\theta\), son rayon est multiplié par la même quantité \(e^{b\Delta\theta}\).
+À chaque accroissement angulaire constant <span class="c-math-inline" role="math" data-latex="\Delta\theta">Δθ</span>, son rayon est multiplié par la même quantité <span class="c-math-inline" role="math" data-latex="e^{b\Delta\theta}">e^(bΔθ)</span>.
 
-Cette formule permet de dessiner une croissance **auto-similaire**. Si l'on souhaite que le rayon soit multiplié par \(\varphi\) après un quart de tour, il suffit de fixer :
+Cette formule permet de dessiner une croissance **auto-similaire**. Si l'on souhaite que le rayon soit multiplié par <span class="c-math-inline" role="math" data-latex="\varphi">φ</span> après un quart de tour, il suffit de fixer :
 
-\[
-b=\frac{2\ln\varphi}{\pi}.
-\]
+<div class="c-math-display" role="math" data-latex="b=\frac{2\ln\varphi}{\pi}.">b=2 ln(φ)/π.</div>
 
 Ce choix est un **paramètre de construction**, et non une loi universelle de la vie.
 
