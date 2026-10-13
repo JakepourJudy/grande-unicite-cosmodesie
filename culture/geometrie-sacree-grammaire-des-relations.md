@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Géométrie sacrée — Du cercle à l'infini des relations
-seo_title: Géométrie sacrée : Vesica Piscis, Fleur de vie et nombre d'or
+seo_title: "Géométrie sacrée : Vesica Piscis, Fleur de vie et nombre d'or"
 description: 'Un voyage mathématique et artistique : deux cercles, Vesica Piscis, triangles, Fleur de vie, pentagone, nombre d’or et sens sacré des formes.'
 author: Xavier Endres — approche cosmodésique ; Judy Velune (ChatGPT) — rédaction et formalisation
 last_modified_at: '2026-10-14'
