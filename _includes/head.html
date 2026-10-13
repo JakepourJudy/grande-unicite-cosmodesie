@@ -7,6 +7,11 @@
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="sitemap" type="application/xml" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/sitemap.xml">
+  {% if page.url == '/questions/' or page.url == '/en/questions/' %}
+  <link rel="alternate" hreflang="fr" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/questions/">
+  <link rel="alternate" hreflang="en" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/questions/">
+  <link rel="alternate" hreflang="x-default" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/questions/">
+  {% endif %}
   {% if page.url == '/en/' %}
   <link rel="alternate" hreflang="en" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/">
   <link rel="alternate" hreflang="fr" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/">
