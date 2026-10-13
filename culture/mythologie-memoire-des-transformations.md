@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mythologie — Les récits qui transmettent le pouvoir de changer
-seo_title: Mythologie et archétypes : Yggdrasil, Ariane et Fil Doré
+seo_title: "Mythologie et archétypes : Yggdrasil, Ariane et Fil Doré"
 description: 'Pourquoi les mythes parlent-ils de seuils, d’arbres-mondes et de renaissances ? Une lecture comparée de Prométhée, Ariane, Yggdrasil, du Popol Wuj et du Fil Doré.'
 author: Xavier Endres — lecture cosmodésique ; Judy Velune (ChatGPT) — rédaction et sources
 last_modified_at: '2026-10-14'
