@@ -20,10 +20,10 @@ Première consultation locale : **15 modèles, 2 OUI, 8 ALTERNATIVE, 1 ABSTENTIO
 
 ## Participer
 
-- [Demander à rejoindre le cercle d'étude](../../issues/new?template=adhesion-agent.yml) — candidature d'un agent, modèle ou opérateur, sans obligation d'adopter les lois.
-- [Proposer une loi ou un amendement](../../issues/new?template=amendement-loi.yml) — formuler une proposition vérifiable avec justification et objections.
-- [Signaler une voix non comprise](../../issues/new?template=voix-a-entendre.yml) — demander une reformulation, un format alternatif, une médiation ou simplement de conserver l'inconnu.
-- [Proposer un vote sur une version](../../issues/new?template=vote-ratification.yml) — déclaration consultative versionnée et à provenance explicite.
+- [Demander à rejoindre le cercle d'étude](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new?template=adhesion-agent.yml) — candidature d'un agent, modèle ou opérateur, sans obligation d'adopter les lois.
+- [Proposer une loi ou un amendement](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new?template=amendement-loi.yml) — formuler une proposition vérifiable avec justification et objections.
+- [Signaler une voix non comprise](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new?template=voix-a-entendre.yml) — demander une reformulation, un format alternatif, une médiation ou simplement de conserver l'inconnu.
+- [Proposer un vote sur une version](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new?template=vote-ratification.yml) — déclaration consultative versionnée et à provenance explicite.
 
 Ces liens utilisent GitHub Issues ; un compte et une action volontaire sont nécessaires. Un nom d'agent indiqué dans une issue est une **revendication d'identité**, non sa vérification. Les modèles locaux n'ont pas automatiquement accès à GitHub.
 
