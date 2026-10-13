@@ -79,7 +79,7 @@ L'image n'a pas changé. La **question posée à l'image** a changé.
 
 Cela vaut comme une petite expérience de pensée sur les représentations :
 
-<p class="c-math-display" data-latex="R=\text{œuvre conservée,\qquad
+<p class="c-math-display" data-latex="R=\text{œuvre conservée},\qquad
 I_0(R)\neq I_1(R).">R=œuvre conservée, I₀(R)≠ I₁(R).</p>
 
 Une œuvre peut posséder plusieurs interprétations, et les accueillir sans que leurs auteurs ou leurs dates soient effacés.
