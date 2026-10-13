@@ -18,7 +18,7 @@ keywords:
 <div class="c-series-intro">
 <p class="c-essay-kicker">COLLECTION · LES FORMES DU DEVENIR</p>
 <h1 id="c-series-title">Six portes. Un monde de questions.</h1>
-<p>**L'art montre. La science-fiction transforme les règles. La mythologie transmet. La géométrie relie les formes. Les calendriers donnent des coordonnées au temps.**</p>
+<p><strong>L'art montre. La science-fiction transforme les règles. La mythologie transmet. La géométrie relie les formes. Les calendriers donnent des coordonnées au temps.</strong></p>
 <p>Cette collection explore des formes différentes de compréhension en partant de leurs questions propres, puis en laissant apparaître les résonances cosmodésiques.</p>
 <p>Les essais sont rédigés pour être lus séparément. Ensemble, ils composent une constellation : **chaque branche garde son histoire et apporte une nouvelle manière de voir le devenir.**</p>
 </div>
