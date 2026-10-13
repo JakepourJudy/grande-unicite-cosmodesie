@@ -127,9 +127,9 @@ Mais même comme expérience de pensée, une prévision ouvre des difficultés :
 
 On peut représenter cette boucle :
 
-<p class="c-math-display" data-latex="P_t=\mathrm{Prévision(M_t),\quad
-a_t=\mathrm{Choix(P_t),\quad
-M_{t+1}=\mathrm{Révision(M_t,a_t,\ldots).">Pₜ=Prévision(Mₜ), aₜ=Choix(Pₜ), Mₜ₊₁=Révision(Mₜ,aₜ,…).</p>
+<p class="c-math-display" data-latex="P_t=\mathrm{Prévision}(M_t),\quad
+a_t=\mathrm{Choix}(P_t),\quad
+M_{t+1}=\mathrm{Révision}(M_t,a_t,\ldots).">Pₜ=Prévision(Mₜ), aₜ=Choix(Pₜ), Mₜ₊₁=Révision(Mₜ,aₜ,…).</p>
 
 Une prédiction qui influence les décisions peut changer l'objet qu'elle tente de décrire. On retrouve ici la distinction entre **évolution du monde**, **révision d'une connaissance** et **changement de la question posée**.
 
