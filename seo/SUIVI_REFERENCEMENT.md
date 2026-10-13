@@ -66,3 +66,18 @@ La fiche About, le fichier robots.txt à la racine de l’hôte et Search Consol
 **Cadre :** [MFC COSMO-SEO](MFC_COSMOSEO_20261014.md) ; l'objectif est d'augmenter la découvrabilité et la compréhension sans supprimer le vocabulaire original, ses sources ou sa cohérence.
 
 **À vérifier après fusion :** nouveaux liens, production Jekyll et sitemap, statut PageSpeed éventuel et diagnostic Google après validation de la propriété. Les 48 URLs analysées étaient celles de l'état antérieur. Aucun chiffre de trafic ni promesse de classement n'est revendiqué.
+
+## 14 octobre 2026 — Contrôle après la MFC COSMO-SEO
+
+**Publication réellement exécutée :**
+- PR #12 fusionnée au commit `88f209184a7fac1fa1b139b0ad3ba8f384833066` : portes de lecture par douze questions FR et EN, liens depuis l'accueil et la navigation, accès à la consultation publique précédemment orpheline, descriptions, canoniques et correspondance linguistique.
+- PR #13 fusionnée au commit `702819a4cbbec0eb9a5f864f4ea643afb67ad20f` : exclusion de la MFC interne du rendu Jekyll/sitemap, tout en conservant le document sur GitHub.
+- Contrôles automatiques GitHub réussis et GitHub Pages déployé avec succès après les deux fusions.
+
+**Contrôle du site vivant :** sitemap = **50 URLs**, incluant les deux nouvelles pages de questions (FR/EN), excluant la MFC de stratégie interne. Les 50 pages ont été récupérées sans erreur avec leurs liens internes. Depuis la page d'accueil, **50/50 pages joignables**, **0 page orpheline**, **3 clics maximum** pour atteindre la page la plus éloignée dans le graphe du site. Avant cette passe : 47/48 joignables, 1 page orpheline.
+
+Les deux nouveaux articles possèdent titre, description, langue et URL canonique publiquement récupérables. La consultation publique de la République est reliée depuis la revue transversale et possède maintenant des métadonnées de page explicites.
+
+**Recherche Google :** la balise de vérification du site est toujours visible publiquement, mais GSC Wizard ne retourne aucune propriété connectée. L'indexation, le trafic et les positions Google restent inconnus ; le travail suivant est la validation de la propriété dans Search Console, puis la soumission du sitemap et le contrôle d'URL ciblées. Ces étapes n'ont pas été prétendues accomplies par la seule publication GitHub.
+
+**Nouvel acquis vérifié :** amélioration de la reconstructibilité des chemins internes par l'ajout de liens et d'entrées question → réponse → preuve → source. Cela ne garantit pas qu'un moteur indexe ou classe le site.
