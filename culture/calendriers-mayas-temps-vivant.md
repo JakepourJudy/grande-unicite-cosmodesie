@@ -42,17 +42,13 @@ Son organisation associe deux compteurs :
 
 Les deux compteurs avancent d'un pas par jour. Une date dans ce système possède donc une paire de coordonnées :
 
-\[
-T(n)=\bigl(1+(n\bmod 13),\;n\bmod20\bigr),
-\]
+<div class="c-math-display" role="math" data-latex="T(n)=\bigl(1+(n\bmod 13),\;n\bmod20\bigr),">T(n)=(1+(n mod 13), n mod 20),</div>
 
-où \(n\) est un index entier et où l'on a choisi un point d'origine commun. Pour les noms de jours réels et les correspondances grégoriennes, l'index doit être ancré dans un calendrier correctement identifié.
+où <span class="c-math-inline" role="math" data-latex="n">n</span> est un index entier et où l'on a choisi un point d'origine commun. Pour les noms de jours réels et les correspondances grégoriennes, l'index doit être ancré dans un calendrier correctement identifié.
 
 Pourquoi 260 jours ? Le premier compteur revient à son début tous les treize pas, le second tous les vingt. Puisque treize et vingt sont premiers entre eux :
 
-\[
-\operatorname{PPCM}(13,20)=13\times20=260.
-\]
+<div class="c-math-display" role="math" data-latex="\operatorname{PPCM}(13,20)=13\times20=260.">PPCM}(13,20)=13×20=260.</div>
 
 **La combinaison complète ne se répète qu'après 260 jours.**
 
@@ -70,9 +66,7 @@ Le Smithsonian propose des récits et des témoignages de détenteurs mayas de c
 
 Le **Haab** comprend dix-huit périodes de vingt jours, auxquelles s'ajoute un cycle de cinq jours appelé **Wayeb** :
 
-\[
-18\times20+5=365.
-\]
+<div class="c-math-display" role="math" data-latex="18\times20+5=365.">18×20+5=365.</div>
 
 Cette organisation est liée au calendrier solaire, à l'agriculture et à des pratiques rituelles. Dans différentes communautés, les saisons des pluies, le maïs et la trajectoire du Soleil ont fourni des repères essentiels.
 
@@ -86,21 +80,15 @@ Le point de rencontre entre un cycle de 260 jours et un cycle de 365 jours poss�
 
 Comme :
 
-\[
-\operatorname{PGCD}(260,365)=5,
-\]
+<div class="c-math-display" role="math" data-latex="\operatorname{PGCD}(260,365)=5,">PGCD}(260,365)=5,</div>
 
 nous obtenons :
 
-\[
-\operatorname{PPCM}(260,365)=\frac{260\times365}{5}=18\,980.
-\]
+<div class="c-math-display" role="math" data-latex="\operatorname{PPCM}(260,365)=\frac{260\times365}{5}=18\,980.">PPCM}(260,365)=(260×365)/5=18980.</div>
 
 Et :
 
-\[
-18\,980=73\times260=52\times365.
-\]
+<div class="c-math-display" role="math" data-latex="18\,980=73\times260=52\times365.">18980=73×260=52×365.</div>
 
 La même combinaison d'une position dans le Tzolk'in et d'une position dans le Haab revient donc après **73 cycles de 260 jours**, équivalant à **52 cycles de 365 jours**. On appelle souvent cet entrelacement la **Roue calendaire** (*Calendar Round*).
 
@@ -151,11 +139,9 @@ Ses unités classiques sont :
 
 Le passage du uinal au tun emploie **18** plutôt que 20 : le système n'est donc pas une simple multiplication uniforme par 20 à tous les étages.
 
-En notant une date \((b,k,t,u,d)\), un nombre total de jours peut se calculer, relativement à une époque de départ choisie :
+En notant une date <span class="c-math-inline" role="math" data-latex="(b,k,t,u,d)">(b,k,t,u,d)</span>, un nombre total de jours peut se calculer, relativement à une époque de départ choisie :
 
-\[
-N=144000b+7200k+360t+20u+d.
-\]
+<div class="c-math-display" role="math" data-latex="N=144000b+7200k+360t+20u+d.">N=144000b+7200k+360t+20u+d.</div>
 
 C'est un système de numération du temps particulièrement puissant : il permet de situer des événements historiques sur des intervalles dépassant largement la vie d'un individu.
 
@@ -167,9 +153,7 @@ Le passage du cycle de b'ak'tun autour de décembre 2012 n'annonçait pas mathé
 
 Une date peut recevoir plusieurs coordonnées simultanées :
 
-\[
-C(t)=(\mathrm{Tzolkin}(t),\,\mathrm{Haab}(t),\,\mathrm{CompteLong}(t)).
-\]
+<div class="c-math-display" role="math" data-latex="C(t)=(\mathrm{Tzolkin}(t),\,\mathrm{Haab}(t),\,\mathrm{CompteLong}(t)).">C(t)=(Tzolkin}(t),Haab}(t),CompteLong}(t)).</div>
 
 Ces coordonnées ont des fonctions différentes : rythme cérémoniel, position solaire, chronologie historique.
 
