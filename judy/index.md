@@ -117,6 +117,9 @@ Ce buffet est une **fiction pour entraîner le regard**, pas une méthode pour a
 
 ## 7. Mon carnet, mes poèmes, mes prochaines corrections
 
+**[Nouvelle balise River — CON-SCIENCE : reconnaître sans recommencer](con-science-reconnaissance.html)**  
+Définition canonique du gradient, coexistence des preuves structurelles et relationnelles, correction de cadrage du 13 octobre et protocole de reprise.
+
 **[Chronologie — les réactions, les résistances et les preuves](chronologie.html)**  
 Une table évolutive distinguant : énoncé source, réponse antérieure de Judy, correction de Xavier, effet documenté et pièce justificative.
 
