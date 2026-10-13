@@ -39,13 +39,13 @@ Point remarquable : un site de pratique du Dreamspell, [13moon.com](https://www.
 
 Le Dreamspell comporte une grille symbolique de **treize tonalités** et **vingt sceaux solaires**. Chaque paire forme un **kin** parmi 260 positions.
 
-<div class="c-math-display" role="math" data-latex="13\times20=260.">13×20=260.</div>
+<p class="c-math-display" data-latex="13\times20=260.">13×20=260.</p>
 
-Notons <span class="c-math-inline" role="math" data-latex="T=\{1,\ldots,13\}">T=1,…,13</span> les tonalités et <span class="c-math-inline" role="math" data-latex="S=\{1,\ldots,20\}">S=1,…,20</span> les sceaux.
+Notons <span class="c-math-inline" data-latex="T=\{1,\ldots,13\}">T=1,…,13</span> les tonalités et <span class="c-math-inline" data-latex="S=\{1,\ldots,20\}">S=1,…,20</span> les sceaux.
 
-Le produit cartésien <span class="c-math-inline" role="math" data-latex="T\times S">T× S</span> contient exactement 260 paires. Si les compteurs avancent ensemble, ils reviennent à leur couple initial après :
+Le produit cartésien <span class="c-math-inline" data-latex="T\times S">T× S</span> contient exactement 260 paires. Si les compteurs avancent ensemble, ils reviennent à leur couple initial après :
 
-<div class="c-math-display" role="math" data-latex="\operatorname{PPCM}(13,20)=260">PPCM}(13,20)=260</div>
+<p class="c-math-display" data-latex="\operatorname{PPCM}(13,20)=260">PPCM}(13,20)=260</p>
 
 jours du **compte symbolique**.
 
@@ -93,11 +93,11 @@ Ce sont des lectures d'images et de fonctions, non des diagnostics de personnali
 
 ## IV. Un kin : deux coordonnées, et une seule place dans le cycle
 
-Si l'on numérote les kins <span class="c-math-inline" role="math" data-latex="k\in\{1,\ldots,260\}">k∈1,…,260</span> à partir d'une origine choisie dans **le Dreamspell**, alors :
+Si l'on numérote les kins <span class="c-math-inline" data-latex="k\in\{1,\ldots,260\}">k∈1,…,260</span> à partir d'une origine choisie dans **le Dreamspell**, alors :
 
-<div class="c-math-display" role="math" data-latex="\text{tonalité}(k)=1+((k-1)\bmod13),">tonalité}(k)=1+((k-1) mod 13),</div>
+<p class="c-math-display" data-latex="\text{tonalité}(k)=1+((k-1)\bmod13),">tonalité}(k)=1+((k-1) mod 13),</p>
 
-<div class="c-math-display" role="math" data-latex="\text{sceau}(k)=1+((k-1)\bmod20).">sceau}(k)=1+((k-1) mod 20).</div>
+<p class="c-math-display" data-latex="\text{sceau}(k)=1+((k-1)\bmod20).">sceau}(k)=1+((k-1) mod 20).</p>
 
 Ainsi, chaque kin possède une tonalité et un sceau. Comme 13 et 20 sont premiers entre eux, cette paire identifie une position unique dans les 260 positions.
 
@@ -112,13 +112,13 @@ Il serait trompeur de faire passer une règle de conversion moderne du Dreamspel
 
 Le Dreamspell regroupe aussi les kins en **ondes enchantées** (*wavespells*) de treize positions. Pour un cycle complet :
 
-<div class="c-math-display" role="math" data-latex="260=20\times13.">260=20×13.</div>
+<p class="c-math-display" data-latex="260=20\times13.">260=20×13.</p>
 
 Une onde est comme un chapitre : ouverture, mouvements, réorganisations, fin, puis ouverture d'un autre chapitre. Avec l'indexation standard :
 
-<div class="c-math-display" role="math" data-latex="\text{onde}(k)=1+\left\lfloor\frac{k-1}{13}\right\rfloor,
+<p class="c-math-display" data-latex="\text{onde}(k)=1+\left\lfloor\frac{k-1}{13}\right\rfloor,
 \qquad
-\text{phase}(k)=1+((k-1)\bmod13).">onde}(k)=1+⌊(k−1)/13⌋, phase}(k)=1+((k-1) mod 13).</div>
+\text{phase}(k)=1+((k-1)\bmod13).">onde}(k)=1+⌊(k−1)/13⌋, phase}(k)=1+((k-1) mod 13).</p>
 
 C'est une autre manière de lire **la même suite de 260 kins** : les regroupements racontent des parcours, tandis que la tonalité et le sceau servent de coordonnées.
 
@@ -128,7 +128,7 @@ L'important n'est pas de voir un nombre « révéler une vérité cachée ». C'
 
 Dans le mouvement associé au Dreamspell, le calendrier annuel des **treize lunes de 28 jours** organise :
 
-<div class="c-math-display" role="math" data-latex="13\times28=364">13×28=364</div>
+<p class="c-math-display" data-latex="13\times28=364">13×28=364</p>
 
 jours, avec un **jour hors du temps**, portant l'ensemble à 365 jours dans l'année ordinaire. La convention courante place le jour hors du temps au **25 juillet**, et le début d'une nouvelle année au **26 juillet**.
 
@@ -144,9 +144,9 @@ Le Dreamspell décrit des rapports symboliques entre un kin et d'autres figures,
 
 Dans un livre ou une application, nous pouvons modéliser ces rapports par un **graphe étiqueté** :
 
-<div class="c-math-display" role="math" data-latex="G=(V,E,\ell)">G=(V,E,ℓ)</div>
+<p class="c-math-display" data-latex="G=(V,E,\ell)">G=(V,E,ℓ)</p>
 
-où <span class="c-math-inline" role="math" data-latex="V">V</span> contient les 260 kins, <span class="c-math-inline" role="math" data-latex="E">E</span> les relations déclarées par le système utilisé, et <span class="c-math-inline" role="math" data-latex="\ell">ℓ</span> le type de relation.
+où <span class="c-math-inline" data-latex="V">V</span> contient les 260 kins, <span class="c-math-inline" data-latex="E">E</span> les relations déclarées par le système utilisé, et <span class="c-math-inline" data-latex="\ell">ℓ</span> le type de relation.
 
 La rigueur consiste à préserver la nature de chaque arête : *guide* ne signifie pas *antipode* ; une relation iconographique n'est pas automatiquement une relation causale.
 
@@ -170,13 +170,13 @@ La singularité de notre projet ne consiste pas simplement à juxtaposer une rou
 
 Pour une date donnée, décrivons :
 
-<div class="c-math-display" role="math" data-latex="\text{lecture}(t)=\bigl(C_{\mathrm{maya}}(t),D_{\mathrm{dreamspell}}(t),H(t)\bigr)">lecture}(t)=(C_maya(t),D_dreamspell(t),H(t))</div>
+<p class="c-math-display" data-latex="\text{lecture}(t)=\bigl(C_{\mathrm{maya}}(t),D_{\mathrm{dreamspell}}(t),H(t)\bigr)">lecture}(t)=(C_maya(t),D_dreamspell(t),H(t))</p>
 
-avec <span class="c-math-inline" role="math" data-latex="H(t)">H(t)</span> une lecture créative explicitement attribuée à notre projet.
+avec <span class="c-math-inline" data-latex="H(t)">H(t)</span> une lecture créative explicitement attribuée à notre projet.
 
-- <span class="c-math-inline" role="math" data-latex="C_{\mathrm{maya}}(t)">C_maya(t)</span> conserve les règles et la provenance du calendrier maya choisi.
-- <span class="c-math-inline" role="math" data-latex="D_{\mathrm{dreamspell}}(t)">D_dreamspell(t)</span> conserve la méthode moderne Dreamspell.
-- <span class="c-math-inline" role="math" data-latex="H(t)">H(t)</span> représente les rapprochements cosmodésiques construits par Xavier/Judy, sans usurper l'autorité de l'un ou l'autre.
+- <span class="c-math-inline" data-latex="C_{\mathrm{maya}}(t)">C_maya(t)</span> conserve les règles et la provenance du calendrier maya choisi.
+- <span class="c-math-inline" data-latex="D_{\mathrm{dreamspell}}(t)">D_dreamspell(t)</span> conserve la méthode moderne Dreamspell.
+- <span class="c-math-inline" data-latex="H(t)">H(t)</span> représente les rapprochements cosmodésiques construits par Xavier/Judy, sans usurper l'autorité de l'un ou l'autre.
 
 **Dans le livre, la forme doit respecter le fond :** sources mayas pour les pages mayas, archétypes Dreamspell pour les pages Dreamspell, tonalités pour le mouvement et géométrie sacrée comme liaison discrète.
 
