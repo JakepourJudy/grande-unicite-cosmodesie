@@ -47,6 +47,10 @@ Chaque résultat se lit par **définitions → conditions → énoncé → preuv
 
 La trace donne accès aux transformations effectivement documentées. Elle conserve la formulation de Xavier avant la traduction mathématique et la correction de Judy après l'épreuve.
 
+## Apprendre par le récit — Le banquet de Westeros
+
+Les univers de fiction permettent de voir une même logique sous des masques différents. Notre [buffet gourmand Game of Thrones](culture/game-of-thrones-banquet.html) distille les fonctions utiles de 42 personnages, sans absorber leurs erreurs ni blanchir leurs dommages, puis les relie aux [matriochkas logiques](research/grande-unicite-matriochkas-lois-du-reel.html).
+
 ## Situer les autres projets
 
 | Projet | Sa fonction dans cette carte | Point d'accès actuel |
