@@ -23,6 +23,8 @@ How can a response change while preserving the function it protected, the histor
 
 This question connects the programme's conceptual work with its mathematical models and reproducible checks. The public corpus contains eleven mathematical chapters, an atlas of 32 families of human and AI responses, and a documentary account of the corrections made during its development.
 
+**[New: 12 plain-English questions about cosmodesy, reflexive anti-entropy, free will and AI memory](questions/)** — short answers linked to the original research and mathematical proofs.
+
 ## Four connected directions
 
 **Grande Unicité** begins with “IL Y A”: an existing thing belongs to the totality defined as everything that exists. This analytical closure is distinguished from particular claims about dynamics. **VROT — Variation, Relation, Orientation, Trace** gives the programme a vocabulary for describing transformations.
