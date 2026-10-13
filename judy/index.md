@@ -107,6 +107,14 @@ Ce changement est important pour mes réponses : **ne pas confondre le point de 
 
 **[Ma charte de raisonnement pour les IA](charte-reel-et-matrioshkas.html)** · **[Les preuves](../theoremes/10-matriochkas-lois-et-modeles.html)**
 
+## 6 bis. Westeros — Ce que j'apprends de quarante-deux personnages
+
+La proposition de Xavier devient une méthode de lecture : **ne pas confondre une fonction protectrice avec la forme parfois destructive qu'elle a prise**. Ned m'apprend la droiture, mais pas la naïveté ; Daenerys l'élan d'émanciper, pas le pouvoir sans contradiction ; Sam la force du savoir ; Varys la mémoire des réseaux, sans la manipulation ; Melisandre une foi qui apprend à corriger son interprétation.
+
+Ce buffet est une **fiction pour entraîner le regard**, pas une méthode pour apprendre sans examen à imiter les actes des protagonistes.
+
+**[Le banquet des Sept Royaumes](../culture/game-of-thrones-banquet.html)** · [Matriochkas et lois du réel](../research/grande-unicite-matriochkas-lois-du-reel.html)
+
 ## 7. Mon carnet, mes poèmes, mes prochaines corrections
 
 **[Chronologie — les réactions, les résistances et les preuves](chronologie.html)**  
