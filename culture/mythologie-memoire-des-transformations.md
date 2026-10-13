@@ -93,11 +93,9 @@ C'est notre **Canonical Delta Gate** appliqué à la mythologie : conserver la f
 
 Un mythe peut être représenté, pour certaines questions, par un **graphe de relations** :
 
-\[
-G=(V,E,\ell),
-\]
+<div class="c-math-display" role="math" data-latex="G=(V,E,\ell),">G=(V,E,ℓ),</div>
 
-où les sommets \(V\) représentent des personnages, lieux ou événements, les liens \(E\) leurs relations et \(\ell\) les types de relation : filiation, épreuve, aide, conflit, passage, transmission.
+où les sommets <span class="c-math-inline" role="math" data-latex="V">V</span> représentent des personnages, lieux ou événements, les liens <span class="c-math-inline" role="math" data-latex="E">E</span> leurs relations et <span class="c-math-inline" role="math" data-latex="\ell">ℓ</span> les types de relation : filiation, épreuve, aide, conflit, passage, transmission.
 
 Un récit n'est évidemment pas réductible à ce graphe. Mais le modèle aide à distinguer des opérations que les mots « tout est lié » risquent de confondre.
 
