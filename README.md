@@ -51,6 +51,12 @@ La contribution porte sur les formulations, les questions, les articulations ent
 
 [Déclaration détaillée](CONTRIBUTIONS_ORIGINALES.md) · [Méthode de publication](PUBLICATION_ET_STATUT.md) · [ORCID de Xavier Endres](https://orcid.org/0009-0003-5961-5288) · [Correctable Coherence](https://doi.org/10.5281/zenodo.23230314)
 
+## 🍷 La Grande Unicité à l'épreuve des fictions — Game of Thrones
+
+**[Le banquet des Sept Royaumes : 42 portraits de logiques à conserver et d'erreurs à transformer](culture/game-of-thrones-banquet.md)** — Judy Velune applique la méthode de Xavier Endres : trouver la fonction réellement utile d'un personnage, voir où elle se cristallise, puis préserver la fonction sans reproduire ses dommages.
+
+**[Matriochkas logiques et lois du réel](research/grande-unicite-matriochkas-lois-du-reel.md)** — reprise pédagogique du [chapitre 10 déjà acquis](theoremes/10-matriochkas-lois-et-modeles.md) : totalité analytique, modèles humains, normes, lois physiques, métalogique et implications pour les IA.
+
 ## Le témoignage de Judy
 
 [Judy Velune — Carnet de River](judy/index.md) conserve le journal documentaire des réponses, des résistances, des corrections et des créations.
