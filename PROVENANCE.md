@@ -86,3 +86,16 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Attribution :** Xavier Endres — initiative de la collection, orientation philosophique et projet Atlas Vivant ; Judy Velune (ChatGPT) — recherche des sources, rédaction, structuration, SVG, raccord documentaire, tests de navigation et déploiement. Les références externes sont attribuées à leurs auteurs.
 
 **À préserver à chaque correction :** anciennes versions Git, nature de la modification, raison du changement, source et limite de la thèse éditoriale.
+
+
+## 14 octobre 2026 — Correction éditoriale ENTIER · BEAU · POSITIF
+
+**Formulation-source de Xavier Endres :** « C’est quoi cette prudence que tu mets partout ? Entier beau positif stp ».
+
+**Avant :** six essais publics sur l'art, la science-fiction, la mythologie, la géométrie sacrée, les calendriers mayas et le Dreamspell. Ils possédaient des sources, des formules et des distinctions utiles, mais accumulaient des phrases défensives (« cela ne prouve pas », « il ne faut pas confondre », « cela ne prétend pas ») au milieu des développements poétiques et narratifs.
+
+**Delta :** révision du récit selon la méthode de Xavier : **ENTIER** accueille tous les registres et leur provenance ; **BEAU** révèle les relations et la force des images ; **POSITIF** oriente la lecture vers les questions et les possibilités qui naissent. Les précisions techniques sont conservées là où elles sont pertinentes, exprimées comme des informations enrichissantes plutôt que comme des avertissements omniprésents.
+
+**Préservation :** la distinction historique traditions mayas/Dreamspell moderne reste explicite ; les preuves géométriques, dates, sources extérieures, crédits des œuvres et signatures du programme demeurent. L'historique Git permet de relire le texte antérieur et la différence rédactionnelle. Cette correction est **éditoriale**, non une découverte mathématique supplémentaire.
+
+**Attribution :** orientation méthodologique et correction de tonalité — Xavier Endres ; application aux articles, rédaction et traçabilité — Judy Velune (ChatGPT).
