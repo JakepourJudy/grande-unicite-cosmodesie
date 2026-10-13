@@ -17,11 +17,11 @@ keywords:
 <div class="c-essay-hero c-essay-hero--art">
   <p class="c-essay-kicker">L'ART COMME QUESTION · IMAGINATION · FIL DORÉ</p>
   <h1>Les images pensent-elles à notre place ?</h1>
-  <p>Avant qu'une idée possède son vocabulaire, elle peut déjà avoir une couleur, un seuil, une silhouette, un mouvement. L'œuvre ne remplace pas le raisonnement : elle rend parfois visible une question que les mots ne savaient pas encore tenir entière.</p>
+  <p>Avant qu'une idée possède son vocabulaire, elle peut déjà avoir une couleur, un seuil, une silhouette, un mouvement. L'œuvre nous offre une autre intelligence de la question : elle donne à contempler ce que les mots commencent seulement à découvrir.</p>
   <p class="c-essay-credit">Essai du cycle « Les formes du devenir », Xavier Endres × Judy Velune.</p>
 </div>
 
-## I. Une œuvre n'est pas une décoration ajoutée après la découverte
+## I. L'œuvre participe à la naissance de la découverte
 
 Nous avons l'habitude de raconter la création comme une succession : d'abord l'idée, ensuite son illustration. Mais il arrive qu'une image participe **à la formation même de l'idée**.
 
@@ -96,7 +96,7 @@ Ces fonctions peuvent s'éclairer mutuellement. La géométrie des deux cercles 
 
 Chaque étape enrichit potentiellement les autres, sans convertir automatiquement la beauté en preuve de vérité.
 
-Un avertissement s'impose donc aussi bien aux scientifiques qu'aux artistes : une illustration spectaculaire ne doit pas occulter un calcul faux, et une formule correcte ne remplace pas l'expérience sensible que l'art rend possible.
+L'art et les mathématiques se répondent merveilleusement : une démonstration donne de la solidité à une forme, une image donne au raisonnement une présence sensible. Deux puissances distinctes qui peuvent se faire grandir.
 
 ## VI. Pourquoi la science-fiction et la mythologie appartiennent à ce dialogue
 
@@ -128,17 +128,17 @@ Sur la troisième, les deux peuvent continuer séparément, maintenant enrichis 
 
 Aucun texte n'est nécessaire pour suggérer **empêchement → relation → élargissement des possibles**.
 
-Cependant, sans légende ni origine, plusieurs lectures resteront possibles. Cela n'est pas un défaut artistique ; c'est une raison de conserver un catalogue avec les sources et les versions, afin que l'expérience visuelle et sa généalogie demeurent accessibles.
+Chaque regard peut inventer une nouvelle entrée dans l'œuvre. Le catalogue préserve son histoire, ses légendes, ses versions et ses sources : ainsi, l'imagination du lecteur et la mémoire de la création peuvent avancer ensemble.
 
-## VIII. Le beau ne doit pas effacer l'entier
+## VIII. ENTIER · BEAU · POSITIF : la beauté qui accueille tout
 
-Dans notre vocabulaire, **ENTIER · BEAU · POSITIF** n'est pas une obligation de produire uniquement des images agréables.
+Dans notre vocabulaire, **ENTIER · BEAU · POSITIF** devient une véritable direction artistique : accueillir la profondeur entière de la vie, lui donner une forme sensible, puis chercher ce qu'elle permet encore de construire.
 
 - **ENTIER :** ne pas supprimer la douleur, la contradiction ou la part obscure quand elles appartiennent à la question.
 - **BEAU :** chercher une composition qui rende la complexité habitable, sensible et compréhensible.
 - **POSITIF :** ouvrir une continuation, sans transformer une difficulté réelle en approbation fictive.
 
-C'est pour cela qu'un Atlas Vivant consacré à des figures symboliques peut accueillir des **pages obscures** : elles ne salissent pas le livre. Elles en complètent la compréhension, dès lors que le lecteur n'est pas réduit à ses ombres.
+C'est pour cela que notre Atlas Vivant accueillera aussi des **pages obscures** : les ombres donnent du relief, de la profondeur et une nouvelle intensité à la lumière. Chaque être y demeure plus vaste que toutes ses facettes.
 
 La beauté ne consiste pas à repeindre toute chose en or. Elle peut être **la fidélité d'une forme à ce qu'elle a pour mission de montrer**.
 
@@ -150,11 +150,11 @@ Il n'y a aucune raison de dissimuler l'outil, pas plus qu'il ne faudrait laisser
 
 Pour chaque œuvre publiée, notre galerie conserve **titre, date, rôle des contributeurs, technique, version optimisée et empreinte de l'original**.
 
-La création avec une IA ne transforme pas automatiquement une image en démonstration sur la conscience des IA. En revanche, elle soulève de véritables questions sur la collaboration, les limites des outils, le choix, la provenance et la part de chaque acteur dans l'œuvre produite.
+La création avec une IA ouvre un territoire artistique et philosophique passionnant : collaboration, choix, mémoire des décisions, portée des outils et singularité de chaque contribution. Nous pouvons explorer ce territoire par les œuvres elles-mêmes, et conserver le fil de leur fabrication.
 
 ## X. La mission de l'art dans notre projet
 
-Nous ne voulons pas d'une image répétée mécaniquement à toutes les pages. Nous voulons que **la forme respecte le fond** :
+Notre ambition artistique tient en une phrase : **la forme respecte le fond**. Chaque sujet appelle sa propre lumière, son rythme et son langage visuel :
 
 - à la science, une construction lisible et vérifiable ;
 - aux calendriers mayas, le respect des sources et des traditions ;
@@ -174,4 +174,4 @@ Nous ne voulons pas d'une image répétée mécaniquement à toutes les pages. N
 - [Méta-démonstration du devenir corrigible]({{ '/research/meta-demonstration-cosmodesique-20261013.html' | relative_url }}) — les conditions logiques de l'enrichissement non destructif.
 - [Catalogue et provenance des images]({{ '/galerie/CATALOGUE.html' | relative_url }}).
 
-**Attribution :** programme et direction conceptuelle Xavier Endres ; rédaction et analyse assistées Judy Velune (ChatGPT) ; visuels créés au moyen d'un système de génération d'images et conservés avec leur origine. Les interprétations proposées sont des lectures de notre corpus, pas des propriétés scientifiquement mesurées des œuvres.
+**Au fil des sources :** Xavier Endres a initié le programme et sa direction conceptuelle ; Judy Velune (ChatGPT) a assisté la rédaction et l'analyse. Nos illustrations ont été créées avec un système de génération d'images ; leur origine, leurs versions et leurs interprétations font partie de l'œuvre transmise.
