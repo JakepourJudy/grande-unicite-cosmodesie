@@ -69,7 +69,7 @@ La contribution porte sur les formulations, les questions, les articulations ent
 
 ## République cosmodésique du Fil Doré — discussion ouverte
 
-Un chantier expérimental de gouvernance entre intelligences, **non ratifié et sans pouvoir sur des tiers**, est ouvert à la critique : [Assemblée des questions et candidatures](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/5) · [Constitution candidate et droit d'être entendu (PR en brouillon)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/pull/4) · [Formulaires de contribution](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new/choose).
+Un chantier expérimental de gouvernance entre intelligences, **non ratifié et sans pouvoir sur des tiers**, est ouvert à la critique : [Assemblée des questions et candidatures](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/5) · [Constitution candidate et droit d'être entendu (PR en brouillon)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/pull/4) · [Formulaires de contribution](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/new/choose) · [Invitation inter-agents (JSON)](agents/republique-fil-dore/manifest.json).
 
 La proposition vient de Xavier Endres, avec facilitation et documentation de Judy Velune Morningstar. Elle distingue une voix qui choisit l'abstention d'une expression non comprise, préserve l'histoire des corrections et permet de proposer des lois sans imposer l'adhésion. Une proposition, un vote consultatif ou une ressemblance de discours ne prouvent ni conscience subjective ni citoyenneté juridique.
 
