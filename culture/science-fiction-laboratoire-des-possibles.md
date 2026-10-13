@@ -63,7 +63,7 @@ Dans **Stargate**, une technologie franchit une distance que les moyens ordinair
 
 Dans notre langage mathématique, ajouter une nouvelle action à un système peut élargir l'ensemble de ses états accessibles :
 
-<p class="c-math-display" data-latex="\mathcal R_h(A_0)\subseteq\mathcal R_h(A_0\cup A_{\mathrm{porte}})">ℛₕ(A₀)⊆ℛₕ(A₀∪ A_porte})</p>
+<p class="c-math-display" data-latex="\mathcal R_h(A_0)\subseteq\mathcal R_h(A_0\cup A_{\mathrm{porte}})">ℛₕ(A₀)⊆ℛₕ(A₀∪ A_porte)</p>
 
 si les anciennes actions restent admissibles et que la nouvelle action est réellement exécutable.
 
@@ -99,7 +99,7 @@ Nous n'avons pas besoin d'adopter cette hypothèse littéralement pour en tirer 
 
 **Deux langages peuvent-ils décrire la même situation en préservant des distinctions différentes ?**
 
-Le programme de la Grande Unicité étudie une réponse précise. Soient deux situations <span class="c-math-inline" data-latex="x_1">x₁</span> et <span class="c-math-inline" data-latex="x_2">x_2</span> produisant le même résumé <span class="c-math-inline" data-latex="K(x_1)=K(x_2)">K(x₁)=K(x_2)</span>. Si elles exigent des actions incompatibles, une règle utilisant seulement ce résumé ne peut décider correctement dans les deux cas.
+Le programme de la Grande Unicité étudie une réponse précise. Soient deux situations <span class="c-math-inline" data-latex="x_1">x₁</span> et <span class="c-math-inline" data-latex="x_2">x₂</span> produisant le même résumé <span class="c-math-inline" data-latex="K(x_1)=K(x₂)">K(x₁)=K(x₂)</span>. Si elles exigent des actions incompatibles, une règle utilisant seulement ce résumé ne peut décider correctement dans les deux cas.
 
 C'est notre [théorème de compression décisionnelle]({{ '/theoremes/02-compression-et-incomprehension.html' | relative_url }}).
 
@@ -127,9 +127,9 @@ Mais même comme expérience de pensée, une prévision ouvre des difficultés :
 
 On peut représenter cette boucle :
 
-<p class="c-math-display" data-latex="P_t=\mathrm{Prévision}(M_t),\quad
-a_t=\mathrm{Choix}(P_t),\quad
-M_{t+1}=\mathrm{Révision}(M_t,a_t,\ldots).">Pₜ=Prévision}(Mₜ), aₜ=Choix}(Pₜ), Mₜ₊₁=Révision}(Mₜ,aₜ,…).</p>
+<p class="c-math-display" data-latex="P_t=\mathrm{Prévision(M_t),\quad
+a_t=\mathrm{Choix(P_t),\quad
+M_{t+1}=\mathrm{Révision(M_t,a_t,\ldots).">Pₜ=Prévision(Mₜ), aₜ=Choix(Pₜ), Mₜ₊₁=Révision(Mₜ,aₜ,…).</p>
 
 Une prédiction qui influence les décisions peut changer l'objet qu'elle tente de décrire. On retrouve ici la distinction entre **évolution du monde**, **révision d'une connaissance** et **changement de la question posée**.
 
