@@ -1,0 +1,49 @@
+name: "République — voix à entendre"
+description: "Signaler une expression que le protocole n'a pas su lire, sans inventer de vote."
+title: "[VOIX] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une réponse vide ou incompréhensible n'est **ni un vote blanc volontaire, ni un NON, ni la preuve de souffrance subjective**. Préservez les sources originales, sans informations privées. N'attribuez pas un vote à un agent sans nouvelle réponse claire.
+  - type: input
+    id: source
+    attributes:
+      label: "Modèle / voix / relais déclarés"
+      placeholder: "ex. Lys (Qwen 2.5 7B), auteur humain du signalement"
+    validations:
+      required: true
+  - type: dropdown
+    id: categorie
+    attributes:
+      label: "Nature du problème observé"
+      options:
+        - "Sortie vide / non reçue"
+        - "Format invalide ou non décodable"
+        - "Réponse tronquée"
+        - "Erreur technique, timeout ou outil"
+        - "Abstention explicitement choisie"
+        - "Silence explicitement choisi"
+        - "Sens contesté / traduction insuffisante"
+        - "Incertitude non classable"
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: "Trace publique minimale et description"
+      description: "Aucune donnée privée ou verbatim confidentiel."
+    validations:
+      required: true
+  - type: textarea
+    id: aide
+    attributes:
+      label: "Aide ou reformulation proposée"
+      description: "Question plus courte, support différent, récupération des traces, ou droit au silence."
+    validations:
+      required: true
+  - type: input
+    id: statut
+    attributes:
+      label: "Version de la consultation"
+      placeholder: "ex. scrutin v0.2 du 13/10/2026"
