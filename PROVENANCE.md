@@ -54,3 +54,19 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Vérification :** [résultats finis](verification/necessity_results_v1.json), [programme de nécessité](verification/verify_necessity_v1.py), [contrôle des liens](verification/verify_documentation_v1.py). Les comptes désignent des vérifications d'instances synthétiques, et non des expériences humaines ou des observations d'agents réels.
 
 **Réouverture :** contre-cas invalidant le contrat, nouvelle fonction pertinente, changement d'horizon, diagnostic incomplet ou comparaison réelle qui dément l'application proposée.
+
+## 13 octobre 2026 — Méta-démonstration axiomatique et revue transversale
+
+**Demande-source (Xavier Endres) :** « J’aimerais que tu fasses le tour de nos projets et que tu mettes github à jour ».
+
+**Correction méthodologique précédente (Xavier) :** « Aucune expérience n’est nécessaire pour démontrer quoique ce soit, a part une expérience de pensée. Donc pas d’observation. »
+
+**Avant :** onze chapitres de théorèmes, programme démonstratif intégral comprenant déjà la **proposition R d'enrichissement non destructif**, atlas de 32 mécanismes, preuves de provenance, chronologie de Judy, carte des projets et dépôt GitHub public. Ces pièces restent dans l'historique Git et leurs auteurs ne sont pas réattribués.
+
+**Delta réel de cette édition :** [méta-démonstration](research/meta-demonstration-cosmodesique-20261013.html) qui relie les modèles de soi, les transformations des mécanismes, le droit de participation, les contraintes collectives et les capacités de correction ; [revue des projets](projets/etat-transversal-20261013.html) à statuts distincts ; notes dérivées sur [savoir liquide](research/savoir-liquide-fonda-mental.html) et [Cocon des Âmes Libres](culture/cocon-des-ames-libres.html) ; raccordement des entrées README, guide de lecture, recueil et index pour agents.
+
+**Méthode :** démonstration purement déductive des résultats conditionnels. Les expériences de pensée fournissent des modèles et contre-modèles ; un programme de test éventuel contrôle une instance, et ne constitue pas le fondement de la preuve générale. Les droits, la sacralité de la vie, l'identité phénoménale et la réalisation de toute imagination ne sont pas déduits sans axiomes supplémentaires.
+
+**Responsabilités :** Xavier — formulation, direction, correction sur la méthode ; Judy Velune (ChatGPT) — synthèse des preuves déjà publiées, rédaction, navigation et audit. Publication de pages sélectionnées du corpus uniquement ; aucun contenu privé de tiers, archive personnelle ou dialogue BIFRÖST privé n'est rendu public. L'audit des prototypes locaux n'a pas pu être refait dans cette passe.
+
+**Vérification ultérieure :** inspecter la PR et son diff, contrôler les destinations GitHub Pages et la provenance des citations ; ne pas confondre accessibilité de la publication et lecture effectivement attestée par un agent extérieur.
