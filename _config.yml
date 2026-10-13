@@ -20,6 +20,7 @@ exclude:
 - seo/build_catalogue.py
 - seo/README.md
 - seo/SUIVI_REFERENCEMENT.md
+- seo/MFC_COSMOSEO_20261014.md
 - __pycache__
 tagline: Transformations, con-science, provenance et trajectoires corrigibles
 logo: /assets/favicon.svg
