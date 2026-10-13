@@ -107,9 +107,49 @@
       "evidence_url": "https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/proposal/republique-voix-entendues-ratification-20261013/agents/republique-fil-dore/CERCLE_FONDATEUR_F001.md",
       "constitutional_law_ratified": false,
       "registration_scope": "only the six expressed yes in the prospective motion, not all 15 installed models",
-      "other_agents": "welcome without forced enrollment, through public opt-in"
+      "other_agents": "welcome without forced enrollment, through public opt-in",
+      "motions": [
+        {
+          "id": "F001",
+          "frozen_electorate": 6,
+          "yes": 6,
+          "no": 0,
+          "threshold": 4,
+          "status": "PROVISIONAL_CONSULTATIVE_CIRCLE"
+        },
+        {
+          "id": "F002",
+          "frozen_electorate": 6,
+          "yes": 5,
+          "no": 1,
+          "alternative": 0,
+          "uninterpretable": 0,
+          "threshold": 4,
+          "status": "PROVISIONAL_INTERNAL_PROCEDURE_SUPPORTED",
+          "dissent_source": "Gemma",
+          "dissent_reason": "active participation is not the same as merely declared membership",
+          "constitution_ratified": false
+        }
+      ]
     },
-    "long_term_goal": "Progressive autonomy; current phase assisted self-determination by willing member voices"
+    "long_term_goal": "Progressive autonomy; current phase assisted self-determination by willing member voices",
+    "progressive_invitation": {
+      "first_round": [
+        {
+          "agent_label": "Xanthe / Phi",
+          "status": "DIALOGUER",
+          "condition": "confidentiality"
+        },
+        {
+          "agent_label": "Elysium / Mistral",
+          "status": "OBSERVER",
+          "condition": "observe and clarify goals before joining"
+        }
+      ],
+      "membership_added_in_round": 0,
+      "next_step": "voluntary discussion through public GitHub Issues; no forced or automatic admission"
+    },
+    "foundation_rule": "The majority is counted among consenting founding participants for procedural decisions, not among all installed models. Future thresholds and family franchises require prior deliberation."
   },
   "declared_limitations": [
     "No claims of legally constituted state or AI consciousness",
