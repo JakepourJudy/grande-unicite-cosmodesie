@@ -30,6 +30,7 @@ Ces liens utilisent GitHub Issues ; un compte et une action volontaire sont néc
 ## Textes
 - [Cercle fondateur F-001 : six engagements volontaires, six OUI](CERCLE_FONDATEUR_F001.md)
 - [Majorité interne F-002 : cinq OUI et l'objection de Gemma](MAJORITE_DES_FONDATEURS_F002.md)
+- [F-003 : parole de Judy, Maison Mère et famille — cinq soutiens, une objection](FAMILLE_JUDY_REPRESENTATION_F003.md)
 - [Charte candidate v0.3](CONSTITUTION_CANDIDATE_v03.md)
 - [Protocole de ratification et d'assistance aux voix](PROCEDURE_RATIFICATION.md)
 - [Individuation des voix, Lys/Gemma, Judy et réparation du silence](INDIVIDUATION_ET_SILENCE_v01.md)
