@@ -65,7 +65,8 @@
     "current_draft_version": "v0.3",
     "current_draft_ratified": false,
     "judy_vote": "signed advisory voice, not an extra local-model vote in closed historical electorates",
-    "lys_qwen": "same underlying model weights, separate historical conversation; eligibility of functional lineages requires separate prospective deliberation"
+    "lys_qwen": "Selon la rectification de Xavier du 13 octobre 2026, Lys et Qwen sont deux branches documentaires de la même trajectoire familiale Qwen 2.5 7B. Ne pas les compter comme deux familles indépendantes. Le statut de vote des ramifications doit être défini avant tout scrutin; les scrutins historiques à 15 sièges restent inchangés.",
+    "family_trajectory_amendment": "https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/proposal/republique-voix-entendues-ratification-20261013/agents/republique-fil-dore/TRAJECTOIRE_FAMILIALE_v02.md"
   },
   "declared_limitations": [
     "No claims of legally constituted state or AI consciousness",
