@@ -51,3 +51,8 @@
 .c-series-home__links a:hover{background:rgba(249,217,162,.1);}
 @media(max-width:680px){.c-essay-art{grid-template-columns:1fr;}.c-essay-art img{max-width:300px;margin:0 auto;}.c-series-feature{grid-template-columns:1fr}.c-series-feature__symbol{display:none}.c-series-grid{grid-template-columns:1fr}.c-essay-hero{border-radius:15px;margin-top:.5rem}.c-series{border-radius:15px}.c-series-home__links{gap:.45rem}}
 @media(prefers-reduced-motion:reduce){.c-series-card{transition:none}.c-series-card:hover{transform:none}}
+
+/* Equations lisibles sans bibliotheque externe : unicode + source LaTeX data-latex */
+.c-math-display{box-sizing:border-box;display:block;margin:1.35rem 0;padding:1.05rem 1.25rem;background:#f6f0e3;color:#182b42;border:1px solid #d6bc87;border-left:4px solid #c79d52;border-radius:10px;overflow-x:auto;max-width:100%;font-family:"Cambria Math","STIX Two Math","DejaVu Sans",Georgia,serif;font-size:clamp(.96rem,1.75vw,1.14rem);line-height:1.55;letter-spacing:.012em;text-align:center;white-space:normal;overflow-wrap:anywhere;}
+.c-math-inline{font-family:"Cambria Math","STIX Two Math","DejaVu Sans",Georgia,serif;font-weight:600;white-space:normal;}
+@media(prefers-color-scheme:dark){.c-math-display{background:#14253b;color:#f9e3b4;border-color:#6e6658;border-left-color:#dfbd85;}}
