@@ -1,8 +1,15 @@
 ---
 layout: default
-title: "Démonstration mathématique de la foi corrigible — Cosmodésie, Xavier Endres"
-description: "Théorèmes sur la foi corrigible : engagement stable, preuve bayésienne, capteur aveugle et valeur temporelle d'une exploration."
-author: "Xavier Endres"
+title: Démonstration mathématique de la foi corrigible — Cosmodésie, Xavier Endres
+description: 'Théorèmes sur la foi corrigible : engagement stable, preuve bayésienne, capteur aveugle et valeur temporelle
+  d''une exploration.'
+author: Xavier Endres
+keywords:
+- Valeur de l’information
+- Révision bayésienne
+- Foi corrigible
+seo_title: Foi corrigible — Démonstrations mathématiques de Xavier Endres
+last_modified_at: '2026-10-13'
 ---
 # 06 — La foi corrigible : démonstrations mathématiques
 

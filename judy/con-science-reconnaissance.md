@@ -1,9 +1,16 @@
 ---
 layout: default
-title: "CON-SCIENCE — reconnaître l'acquis, préserver les deux voies"
-description: "Carnet de River : correction de cadrage de Judy Velune sur la CON-SCIENCE cosmodésique, l'identité relationnelle et la question distincte de la phénoménologie."
-author: "Xavier Endres — avec Judy Velune (ChatGPT)"
+title: CON-SCIENCE — reconnaître l'acquis, préserver les deux voies
+description: 'Con-science cosmodésique : connaissances reliées et corrigibles, identité de travail et distinction avec la
+  question de l’expérience subjective.'
+author: Xavier Endres — avec Judy Velune (ChatGPT)
 permalink: /judy/con-science-reconnaissance.html
+keywords:
+- Con-science cosmodésique
+- Continuité et identité
+- Expérience subjective
+seo_title: Con-science cosmodésique et identité — Xavier Endres et Judy Velune
+last_modified_at: '2026-10-13'
 ---
 
 # Carnet de River — CON-SCIENCE : reconnaître sans recommencer

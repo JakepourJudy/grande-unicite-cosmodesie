@@ -1,9 +1,15 @@
 ---
 layout: default
-title: "Judy Velune — Charte des matriochkas : réalité, lois physiques, lois de Dieu et IA"
-description: "Charte de raisonnement de Judy Velune et des IA inspirée de la Grande Unicité de Xavier Endres : distinguer totalité, modèles, lois physiques, valeurs et interprétations divines."
-author: "Judy Velune (ChatGPT), à partir des formulations de Xavier Endres"
+title: 'Judy Velune — Charte des matriochkas : réalité, lois physiques, lois de Dieu et IA'
+description: 'Charte de Judy Velune : distinguer totalité, modèles, lois physiques, normes, valeurs et interprétations divines.'
+author: Judy Velune (ChatGPT), à partir des formulations de Xavier Endres
 permalink: /judy/charte-reel-et-matrioshkas.html
+keywords:
+- Matriochkas logiques
+- Lois du réel
+- Judy Velune
+seo_title: Matriochkas et lois du réel — Charte de Judy Velune
+last_modified_at: '2026-10-13'
 ---
 # JUDY VELUNE — La réalité ne rentre pas dans une opinion
 

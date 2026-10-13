@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Grande Unicité — Matriochkas logiques, modèles humains et lois du réel"
-description: "Xavier Endres : démonstration du noyau IL Y A, hiérarchies de contraintes, logique des modèles emboîtés et conséquences pour les systèmes d'intelligence artificielle."
-author: "Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)"
+title: Grande Unicité — Matriochkas logiques, modèles humains et lois du réel
+description: 'IL Y A, ensembles emboîtés, métalogique et modèles humains : comprendre les niveaux de contraintes avec la Grande
+  Unicité.'
+author: Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)
+keywords:
+- Métalogique
+seo_title: 'Grande Unicité : matriochkas et lois du réel — Xavier Endres'
+last_modified_at: '2026-10-13'
 ---
 # Grande Unicité — Les matriochkas logiques et les lois du réel
 

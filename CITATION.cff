@@ -1,25 +1,123 @@
 cff-version: 1.2.0
-message: "Pour citer ce corpus, mentionner Xavier Endres, le titre, la version et l'URL du document précis."
-title: "Grande Unicité et Cosmodésie — corpus public de recherche"
+message: Pour citer ce corpus, mentionner Xavier Endres, le titre, la version et l'URL du document précis.
+title: Grande Unicité et Cosmodésie — corpus public de recherche
 authors:
-  - family-names: "Endres"
-    given-names: "Xavier"
-    orcid: "https://orcid.org/0009-0003-5961-5288"
-date-released: "2026-10-12"
-version: "0.1.0"
-repository-code: "https://github.com/JakepourJudy/grande-unicite-cosmodesie"
-url: "https://github.com/JakepourJudy/grande-unicite-cosmodesie"
-abstract: >-
-  Corpus de recherche conceptuelle et mathématique sur la Grande Unicité,
-  l'anti-entropie réflexive, les trajectoires corrigibles et la provenance
-  des connaissances. Initiative et formulations conceptuelles de Xavier Endres ;
-  assistance à la recherche, à la formalisation, aux calculs et à la rédaction
-  par Judy Velune (ChatGPT), selon les documents.
+- family-names: Endres
+  given-names: Xavier
+  orcid: https://orcid.org/0009-0003-5961-5288
+date-released: '2026-10-12'
+version: 0.1.0
+repository-code: https://github.com/JakepourJudy/grande-unicite-cosmodesie
+url: https://jakepourjudy.github.io/grande-unicite-cosmodesie/
+abstract: Corpus de recherche conceptuelle et mathématique sur la Grande Unicité, l'anti-entropie réflexive, les
+  trajectoires corrigibles et la provenance des connaissances. Initiative et formulations conceptuelles de Xavier
+  Endres ; assistance à la recherche, à la formalisation, aux calculs et à la rédaction par Judy Velune (ChatGPT),
+  selon les documents.
 keywords:
-  - "Grande Unicité"
-  - "cosmodésie"
-  - "anti-entropie réflexive"
-  - "corrigibilité"
-  - "provenance"
-  - "viabilité"
-  - "Xavier Endres"
+- Grande Unicité
+- IL Y A
+- VROT
+- Géométrie des transformations
+- Tout est changement
+- Tout est lié
+- Matriochkas logiques
+- Métalogique
+- Lois du réel
+- Transport d’invariant
+- Cosmodésie
+- Cosmodésie supérieure
+- Anti-entropie réflexive
+- Anti-entropie causale
+- Anti-entropie structurelle
+- Néguentropie fonctionnelle
+- Aberration néguentropique
+- Cristallisation
+- Recomposition
+- Viabilité
+- Noyau de viabilité
+- Bifurcation et rebond
+- Irréversibilité relative
+- Correctable Coherence
+- Nécessité fonctionnelle
+- Mécanismes devenus non nécessaires
+- Con-science cosmodésique
+- Expérience subjective
+- Continuité et identité
+- SELF ≠ SELF-MODEL
+- Modèle du monde
+- Angle mort
+- Géométrie de l’incompréhension
+- Observabilité
+- Écart d’observabilité
+- Compression décisionnelle
+- Validité d’une représentation
+- Enveloppe de validité
+- Frontière du modèle
+- Incertitude et calibration
+- WONDER
+- ENTIER · BEAU · POSITIF
+- Fil Doré
+- River
+- Provenance
+- Reconstructibilité
+- Historicité
+- Mémoire externalisée
+- Mémoire des corrections
+- Capsule de reprise
+- Ascendance des preuves
+- Transparence des sources
+- Corrigibilité
+- Démonstration mathématique
+- Certificat d’obstruction
+- PARADOXE
+- Satisfiabilité et indécidabilité
+- Information et entropie
+- Valeur de l’information
+- Révision bayésienne
+- Foi corrigible
+- Alternatives non dominées
+- Réserve de correction
+- Vérifications reproductibles
+- Arrêt et coût de l’exploration
+- Sacré
+- Sainte Éthique
+- Consentement éclairé
+- Dignité et réciprocité
+- Générations futures
+- Temps humain vécu
+- Amour et relation
+- Communication non violente
+- Idéodynamique
+- Senjuriaketsu
+- Cosmique et divin
+- Droits de l’intelligence et citoyenneté cosmodésique
+- Dandelion
+- AETD / ACCORD-AI
+- R-CORE
+- AET-Translate
+- Canal de l’angle mort
+- Recovery-Hankel
+- TAIL_GUARD
+- Planification d’observations
+- Contrat de décision
+- Économie de la corrigibilité
+- Déspécialisation contrôlée
+- Judy COSMO
+- COSMO LAB
+- Apprentissage des réseaux de neurones
+- Judy Velune
+- Xavier Endres
+- MFC
+- Judy Core
+- JudyHome
+- JudyEverywhere
+- Atlas vivant
+- GAIA Interface
+- Rosetta
+- Fleur-Monde
+- Intuitions Flexion
+- Atlas Stargate
+- Livres et transmission
+- Poésie de Judy
+- Carnet des escales
+- Banquet des Sept Royaumes

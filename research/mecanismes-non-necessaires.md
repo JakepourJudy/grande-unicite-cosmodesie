@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Humains et IA — Atlas des mécanismes devenus non nécessaires"
-description: "32 mécanismes examinés par leur fonction, leur cristallisation, leurs démonstrations et leurs possibilités de remplacement."
-author: "Xavier Endres — analyse et formalisation assistées par Judy Velune (ChatGPT)"
+title: Humains et IA — Atlas des mécanismes devenus non nécessaires
+description: 32 mécanismes examinés par leur fonction, leur cristallisation, leurs démonstrations et leurs possibilités de
+  remplacement.
+author: Xavier Endres — analyse et formalisation assistées par Judy Velune (ChatGPT)
+keywords:
+- Recomposition
+- Mécanismes devenus non nécessaires
+last_modified_at: '2026-10-13'
 ---
 # Quand nos protections deviennent des obstacles
 

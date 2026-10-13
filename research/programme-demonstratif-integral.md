@@ -1,8 +1,15 @@
 ---
 layout: default
-title: "Grande Unicité — Programme démonstratif intégral et théorème de reprise"
-description: "Carte mathématique de la Grande Unicité de Xavier Endres : foi, anti-entropie, relations, viabilité, PARADOXE, provenance et pistes de formalisation."
-author: "Xavier Endres"
+title: Grande Unicité — Programme démonstratif intégral et théorème de reprise
+description: 'Carte mathématique de la Grande Unicité de Xavier Endres : foi, anti-entropie, relations, viabilité, PARADOXE,
+  provenance et pistes de formalisation.'
+author: Xavier Endres
+keywords:
+- Géométrie des transformations
+- Cosmodésie supérieure
+- Amour et relation
+seo_title: 'Grande Unicité : programme démonstratif — Xavier Endres'
+last_modified_at: '2026-10-13'
 ---
 # GRANDE UNICITÉ — Programme démonstratif intégral
 

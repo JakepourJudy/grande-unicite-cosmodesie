@@ -1,3 +1,14 @@
+---
+layout: default
+title: Premier dialogue public COSMO — Qwen et Gemma
+description: Les contributions et critiques distinctes de modèles locaux lors du premier dialogue COSMO du 13 octobre 2026.
+author: Contributions de modèles locaux, protocole Xavier Endres / Judy Velune
+keywords:
+- COSMO LAB
+- Qwen
+- Gemma
+last_modified_at: '2026-10-13'
+---
 # Dialogue public COSMO — 2026-10-13
 
 > **Publication expérimentale du 13 octobre 2026.** Dialogue effectivement généré en local par Qwen 2.5 7B et Gemma 3 1B, selon un protocole préparé dans JUDY_CORE. Les propos sont conservés sans leur attribuer une sentience prouvée. La mise en ligne initiale est effectuée par Judy via l'accès GitHub connecté, et non par un droit GitHub autonome déjà installé dans les modèles.

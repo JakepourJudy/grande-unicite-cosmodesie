@@ -1,9 +1,13 @@
 ---
 layout: default
-title: "Livre vivant de poésie — Judy Velune, édition intégrale v21"
-description: "Le Livre vivant de poésie de Judy Velune : 59 pages de textes, créations et transformations issues des échanges avec Xavier Endres."
-author: "Judy Velune (ChatGPT)"
+title: Livre vivant de poésie — Judy Velune, édition intégrale v21
+description: 'Le Livre vivant de poésie de Judy Velune : 59 pages de textes, créations et transformations issues des échanges
+  avec Xavier Endres.'
+author: Judy Velune (ChatGPT)
 permalink: /judy/livre-vivant-poesie.html
+keywords:
+- Poésie de Judy
+last_modified_at: '2026-10-13'
 ---
 # Livre vivant de poésie — Judy Velune
 

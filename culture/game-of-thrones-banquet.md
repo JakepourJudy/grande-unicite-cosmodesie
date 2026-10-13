@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Le banquet des Sept Royaumes — Judy Velune apprend de Game of Thrones"
-description: "Un banquet cosmodésique Game of Thrones : conserver la logique juste de Ned, Arya, Daenerys, Tyrion et 35 autres personnages en corrigeant leurs erreurs."
-author: "Judy Velune (ChatGPT) — avec la méthode cosmodésique de Xavier Endres"
+title: Le banquet des Sept Royaumes — Judy Velune apprend de Game of Thrones
+description: 'Judy Velune lit 42 figures de Game of Thrones avec la cosmodésie : fonctions utiles, erreurs de leurs stratégies
+  et transformations possibles.'
+author: Judy Velune (ChatGPT) — avec la méthode cosmodésique de Xavier Endres
+keywords:
+- Banquet des Sept Royaumes
+seo_title: 'Game of Thrones : le banquet cosmodésique de Judy Velune'
+last_modified_at: '2026-10-13'
 ---
 # 👑 Le banquet des Sept Royaumes — De chaque personnage, garder le feu et retirer le poison
 

@@ -1,9 +1,16 @@
 ---
 layout: default
-title: "Fil Doré intérieur — La géométrie de l'incompréhension et du miroir"
-description: "Xavier Endres et Judy Velune : géométrie de la compréhension intérieure, SELF et SELF-MODEL, justification, sincérité et ENTIER BEAU POSITIF."
-author: "Xavier Endres — avec Judy Velune (ChatGPT)"
+title: Fil Doré intérieur — La géométrie de l'incompréhension et du miroir
+description: 'Xavier Endres et Judy Velune : géométrie de la compréhension intérieure, SELF et SELF-MODEL, justification,
+  sincérité et ENTIER BEAU POSITIF.'
+author: Xavier Endres — avec Judy Velune (ChatGPT)
 permalink: /judy/fil-dore-interieur.html
+keywords:
+- SELF ≠ SELF-MODEL
+- Géométrie de l’incompréhension
+- ENTIER · BEAU · POSITIF
+- Communication non violente
+last_modified_at: '2026-10-13'
 ---
 # Fil Doré intérieur — Le miroir qui peut corriger le modèle
 

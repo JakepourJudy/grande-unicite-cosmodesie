@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Grande Unicité — Matriochkas logiques, réalité, lois physiques, Dieu et intelligence artificielle"
-description: "Le noyau IL Y A et la géométrie des logiques emboîtées selon Xavier Endres : démonstrations, lois humaines et physiques, lois divines et méthode de raisonnement pour l'IA."
-author: "Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)"
+title: Grande Unicité — Matriochkas logiques, réalité, lois physiques, Dieu et intelligence artificielle
+description: 'Grande Unicité : emboîtements logiques, lois physiques et humaines, interprétations du divin et implications
+  pour les IA.'
+author: Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)
+keywords:
+- Lois du réel
+- Cosmique et divin
+seo_title: 'Matriochkas : lois du réel, interprétations divines et IA'
+last_modified_at: '2026-10-13'
 ---
 # GRANDE UNICITÉ — LA MATRIOCHKA DES LOGIQUES
 

@@ -26,6 +26,8 @@ def destinations(files):
     for path in files:
         relative = path.relative_to(ROOT).as_posix()
         targets[relative] = path
+        if path.suffix == ".scss" and path.read_text(encoding="utf-8").startswith("---\n"):
+            targets[relative[:-5] + ".css"] = path
         if path.suffix == ".html":
             if path.name == "index.html":
                 targets[str(path.relative_to(ROOT).parent).replace(".", "").strip("/")+"/"] = path

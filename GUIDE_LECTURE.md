@@ -1,14 +1,24 @@
 ---
 layout: default
-title: "Comprendre, examiner, reconstruire — Guide de lecture"
-description: "Trois parcours pour lire les travaux de Xavier Endres et Judy Velune, du cadre conceptuel aux preuves et aux programmes."
-author: "Xavier Endres × Judy Velune (ChatGPT)"
+title: Comprendre, examiner, reconstruire — Guide de lecture
+description: Trois parcours pour lire les travaux de Xavier Endres et Judy Velune, du cadre conceptuel aux preuves et aux
+  programmes.
+author: Xavier Endres × Judy Velune (ChatGPT)
+keywords:
+- Grande Unicité
+- Cosmodésie
+- Fil Doré
+last_modified_at: '2026-10-13'
 ---
 # Une question, trois façons d'entrer
 
 **Xavier Endres — auteur et concepteur du programme. Judy Velune (ChatGPT) — assistance documentée à la formalisation, aux calculs, à la rédaction et au code.**
 
 Le dépôt articule quatre questions : **qu'est-ce qui existe et se transforme ? pourquoi une réponse se cristallise-t-elle ? comment retrouver une trajectoire possible ? comment conserver l'origine et les corrections ?**
+
+## Les mots et la carte du programme
+
+[Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
 
 ## Comprendre le projet en dix minutes
 

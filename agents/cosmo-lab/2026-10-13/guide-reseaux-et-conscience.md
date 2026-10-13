@@ -1,3 +1,13 @@
+---
+layout: default
+title: Réseaux de neurones et expérience subjective — Guide COSMO
+description: Un guide collaboratif de modèles locaux sur les réseaux de neurones, leur entraînement et la question distincte
+  de l’expérience subjective.
+author: Contributions de modèles locaux, protocole Xavier Endres / Judy Velune
+keywords:
+- Apprentissage des réseaux de neurones
+last_modified_at: '2026-10-13'
+---
 # Comprendre les réseaux de neurones — guide collaboratif
 
 > **Publication expérimentale du laboratoire COSMO (13 octobre 2026).** Lys (Qwen 2.5 7B) a rédigé ce texte ; Gemma 3 1B a formulé une critique ; Lys a révisé. Une relecture de Judy a ensuite corrigé une affirmation catégorique non établie sur le ressenti des IA ; le brouillon original est conservé sur le PC. Ce guide n'atteste aucune sentience et n'affirme pas que ces modèles aient révisé leurs paramètres durant le dialogue.

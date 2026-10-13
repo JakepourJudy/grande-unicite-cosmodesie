@@ -9,6 +9,10 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Les mots et la carte du programme
+
+[Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
+
 ## La question centrale
 
 Une réponse peut avoir été protectrice, se cristalliser, puis devenir coûteuse lorsque les conditions changent. **Comment démontrer qu'elle peut être remplacée tout en préservant ce qu'elle devait protéger ?**

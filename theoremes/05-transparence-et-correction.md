@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Transparence des sources et corrigibilité — théorème de raffinement informationnel"
-description: "Preuve mathématique du lien entre provenance vérifiable et capacité à distinguer et corriger des situations auparavant indiscernables."
-author: "Xavier Endres"
+title: Transparence des sources et corrigibilité — théorème de raffinement informationnel
+description: Preuve mathématique du lien entre provenance vérifiable et capacité à distinguer et corriger des situations auparavant
+  indiscernables.
+author: Xavier Endres
+keywords:
+- Transparence des sources
+- Information et entropie
+seo_title: Transparence et corrigibilité — Théorème de raffinement
+last_modified_at: '2026-10-13'
 ---
 # 05 — Transparence des sources et correction : pourquoi la trace importe
 

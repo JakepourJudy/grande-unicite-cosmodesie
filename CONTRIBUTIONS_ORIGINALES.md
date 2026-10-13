@@ -1,8 +1,17 @@
 ---
 layout: default
-title: "Ce que revendique Xavier Endres — contributions originales à la Grande Unicité"
-description: "Déclaration positive des contributions de Xavier Endres : géométrie des transformations, anti-entropie réflexive, cosmodésie, incompréhension, paradoxes et Fil Doré."
-author: "Xavier Endres"
+title: Ce que revendique Xavier Endres — contributions originales à la Grande Unicité
+description: 'Contributions de Xavier Endres : Grande Unicité, cosmodésie, anti-entropie, géométrie des transformations et
+  Fil Doré, avec sources et démonstrations.'
+author: Xavier Endres
+keywords:
+- Grande Unicité
+- Cosmodésie
+- Anti-entropie réflexive
+- Fil Doré
+- Xavier Endres
+seo_title: Xavier Endres — Contributions à la Grande Unicité et à la cosmodésie
+last_modified_at: '2026-10-13'
 ---
 # Ce que nous revendiquons — Contributions de Xavier Endres
 

@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Méthode de recherche et transparence des sources"
-description: "Contributions conceptuelles, démonstrations, expériences et provenance du programme de Xavier Endres."
-author: "Xavier Endres × Judy Velune (ChatGPT)"
+title: Méthode de recherche et transparence des sources
+description: Contributions conceptuelles, démonstrations, expériences et provenance du programme de Xavier Endres.
+author: Xavier Endres × Judy Velune (ChatGPT)
+keywords:
+- Provenance
+- Démonstration mathématique
+- Xavier Endres
+last_modified_at: '2026-10-13'
 ---
 # Méthode de recherche et transparence des sources
 

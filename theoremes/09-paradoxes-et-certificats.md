@@ -1,8 +1,16 @@
 ---
 layout: default
-title: "PARADOXE : démonstrations de satisfiabilité, d'obstruction et d'indécidabilité"
-description: "Grande Unicité et PARADOXE v4.6 : preuves mathématiques des contradictions, certificats GF(2), raccordements contextuels et limites de décision."
-author: "Xavier Endres"
+title: 'PARADOXE : démonstrations de satisfiabilité, d''obstruction et d''indécidabilité'
+description: 'Grande Unicité et PARADOXE v4.6 : preuves mathématiques des contradictions, certificats GF(2), raccordements
+  contextuels et limites de décision.'
+author: Xavier Endres
+keywords:
+- Enveloppe de validité
+- Certificat d’obstruction
+- PARADOXE
+- Satisfiabilité et indécidabilité
+seo_title: 'PARADOXE : satisfiabilité, obstructions et indécidabilité'
+last_modified_at: '2026-10-13'
 ---
 # 09 — PARADOXE : démontrer les frontières, raccorder les perspectives
 

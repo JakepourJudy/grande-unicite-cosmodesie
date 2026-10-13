@@ -1,8 +1,15 @@
 ---
 layout: default
-title: "Démonstrations — Matriochkas logiques, niveaux supérieurs et lois physiques"
-description: "Théorèmes de Grande Unicité : totalité, inclusions de contraintes, métalogique, projection non inversible, physique et points de vue humains."
-author: "Xavier Endres — démonstrations assistées par Judy Velune (ChatGPT)"
+title: Démonstrations — Matriochkas logiques, niveaux supérieurs et lois physiques
+description: 'Théorèmes de Grande Unicité : totalité, inclusions de contraintes, métalogique, projection non inversible, physique
+  et points de vue humains.'
+author: Xavier Endres — démonstrations assistées par Judy Velune (ChatGPT)
+keywords:
+- Matriochkas logiques
+- Transport d’invariant
+- Irréversibilité relative
+seo_title: Matriochkas logiques — Démonstrations et niveaux de modèles
+last_modified_at: '2026-10-13'
 ---
 # 10 — MATRIOCHKAS LOGIQUES : les preuves du changement de niveau
 
