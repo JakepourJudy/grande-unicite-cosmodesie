@@ -14,6 +14,8 @@ last_modified_at: '2026-10-13'
 **Auteur du programme de recherche : Xavier Endres**  
 **Code et vérifications assistés : Judy Velune (ChatGPT)**
 
+**Une démonstration mathématique est une déduction à partir d'axiomes et d'hypothèses, non une observation empirique.** Les scripts ci-dessous illustrent et contrôlent des instances finies ; ils ne remplacent pas la preuve générale. Les [expériences de pensée de la méta-démonstration](../research/meta-demonstration-cosmodesique-20261013.html) servent à construire témoins et contre-modèles sans mesure physique.
+
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
 Le programme [verify_math_v1.py](verify_math_v1.py) s'exécute avec **Python 3 sans dépendance externe** :

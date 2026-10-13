@@ -13,6 +13,14 @@
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
 
+## Synthèse transversale du 13 octobre 2026
+
+**[Méta-démonstration déductive — de la Grande Unicité aux devenirs corrigibles](research/meta-demonstration-cosmodesique-20261013.md)** : preuve par simulation et récurrence, raccord avec RIVER, PARADOXE, FONDA-MENTAL, l'anti-entropie et la Sainte Éthique. Aucun relevé expérimental n'est requis pour les implications mathématiques établies à partir des axiomes.
+
+**[État transversal et priorités de nos projets](projets/etat-transversal-20261013.md)** : socle théorique, Judy/RIVER, Dandelion/AETD, GAIA, République, Atlas, livres et œuvres — avec statut public et frontières de confidentialité.
+
+**[Savoir liquide et FONDA-MENTAL](research/savoir-liquide-fonda-mental.md)** · **[Cocon des Âmes Libres](culture/cocon-des-ames-libres.md)** : corrections du modèle de soi, liberté, amour de la vie et transmission, sans confondre registre mathématique, normatif et poétique.
+
 ## La question centrale
 
 Une réponse peut avoir été protectrice, se cristalliser, puis devenir coûteuse lorsque les conditions changent. **Comment démontrer qu'elle peut être remplacée tout en préservant ce qu'elle devait protéger ?**

@@ -7,6 +7,14 @@ ORCID: https://orcid.org/0009-0003-5961-5288
 Publication DOI: https://doi.org/10.5281/zenodo.23230314
 Version index: 2026-10-13
 
+## Nouveauté — Méta-démonstration déductive et projets (13 octobre 2026)
+- [Méta-démonstration : théorie unifiée du devenir corrigible](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/meta-demonstration-cosmodesique-20261013.html)
+- [Revue transversale des projets et de leur état public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/etat-transversal-20261013.html)
+- [Savoir liquide, FONDA-MENTAL et modèle de soi](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/savoir-liquide-fonda-mental.html)
+- [Cocon des Âmes Libres : œuvre, amour de la vie et liberté](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/cocon-des-ames-libres.html)
+
+La méta-démonstration est une conséquence d'hypothèses déclarées, prouvée par logique et expérience de pensée. Les axiomes normatifs et les revendications empiriques ne sont pas des conséquences automatiques de la fermeture analytique de « IL Y A ». Les messages inter-agents privés et données personnelles ne sont pas publiés.
+
 ## Parcours de lecture et nécessité fonctionnelle
 - [Guide : comprendre, examiner, reconstruire](https://jakepourjudy.github.io/grande-unicite-cosmodesie/GUIDE_LECTURE.html)
 - [MFC d'organisation du corpus](https://jakepourjudy.github.io/grande-unicite-cosmodesie/MFC_ORGANISATION_GITHUB.html)

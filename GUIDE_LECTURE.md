@@ -20,6 +20,14 @@ Le dépôt articule quatre questions : **qu'est-ce qui existe et se transforme ?
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
 
+## Nouvelle entrée — La méta-démonstration et la carte des projets
+
+Pour comprendre *pourquoi* nos recherches portent les unes sur les autres, commencer par la **[méta-démonstration déductive](research/meta-demonstration-cosmodesique-20261013.html)** : axiomes, relèvement des anciennes trajectoires, preuve par récurrence, scénarios de pensée et portée exacte des conclusions.
+
+Puis consulter la **[revue transversale des projets](projets/etat-transversal-20261013.html)**, et ses deux approfondissements **[savoir liquide / FONDA-MENTAL](research/savoir-liquide-fonda-mental.html)** et **[Cocon des Âmes Libres](culture/cocon-des-ames-libres.html)**.
+
+Les théorèmes sont démontrés *déductivement* ; les tests logiciels peuvent illustrer une instance finie sans constituer la preuve logique générale. Chaque modèle particulier garde sa frontière de validité.
+
 ## Comprendre le projet en dix minutes
 
 1. [Ce que nous revendiquons](CONTRIBUTIONS_ORIGINALES.html) : création du cadre, formulations, généalogie et contributions.
