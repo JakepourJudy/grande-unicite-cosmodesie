@@ -1,0 +1,20 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.seo_title | default: page.title | default: site.title | escape }}</title>
+  {% seo title=false %}
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="sitemap" type="application/xml" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/sitemap.xml">
+  {% if page.url == '/en/' %}
+  <link rel="alternate" hreflang="en" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/">
+  <link rel="alternate" hreflang="fr" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/">
+  <link rel="alternate" hreflang="x-default" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/">
+  {% endif %}
+  <style>
+    .corpus-nav{display:flex;flex-wrap:wrap;gap:8px 18px;clear:both;padding-bottom:14px;font-size:.93rem}
+    .corpus-nav a{white-space:nowrap}.corpus-concepts{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 20px}
+    .corpus-concepts a{border:1px solid #d5d5d5;border-radius:18px;padding:4px 12px;font-size:.87rem}
+  </style>
+</head>

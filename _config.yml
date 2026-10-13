@@ -1,16 +1,42 @@
-title: "Grande Unicité × Cosmodésie — Xavier Endres"
-description: "Grande Unicité, anti-entropie réflexive et cosmodésie : théorèmes, démonstrations, provenance et trajectoires corrigibles. Auteur : Xavier Endres."
-url: "https://jakepourjudy.github.io"
-baseurl: "/grande-unicite-cosmodesie"
+title: Grande Unicité × Cosmodésie — Xavier Endres
+description: 'Grande Unicité, anti-entropie réflexive et cosmodésie : théorèmes, démonstrations,
+  provenance et trajectoires corrigibles. Auteur : Xavier Endres.'
+url: https://jakepourjudy.github.io
+baseurl: /grande-unicite-cosmodesie
 lang: fr
-author: "Xavier Endres"
+author:
+  name: Xavier Endres
+  url: https://orcid.org/0009-0003-5961-5288
 theme: minima
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-sitemap
 markdown: kramdown
 exclude:
-  - README.md
-  - CITATION.cff
-  - LICENSE-CODE-PROPOSED.txt
-  - LICENSE-TEXT-PROPOSED.txt
+- README.md
+- CITATION.cff
+- LICENSE-CODE-PROPOSED.txt
+- LICENSE-TEXT-PROPOSED.txt
+- seo/build_catalogue.py
+- seo/README.md
+- seo/SUIVI_REFERENCEMENT.md
+- __pycache__
+tagline: Transformations, con-science, provenance et trajectoires corrigibles
+logo: /assets/favicon.svg
+social:
+  name: Xavier Endres
+  links:
+  - https://orcid.org/0009-0003-5961-5288
+  - https://github.com/JakepourJudy/grande-unicite-cosmodesie
+  - https://doi.org/10.5281/zenodo.23230314
+timezone: Europe/Paris
+defaults:
+- scope:
+    path: ''
+  values:
+    image:
+      path: /assets/social-card.png
+      height: 630
+      width: 1200
+      alt: Grande Unicité et cosmodésie, programme de Xavier Endres avec Judy Velune.
+    lang: fr

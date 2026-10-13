@@ -1,8 +1,17 @@
 ---
 layout: default
-title: "Anti-entropie réflexive — La logique des réponses qui savent évoluer"
-description: "Fonction historique, cristallisation et correction des réponses dans le programme de Xavier Endres."
-author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+title: Anti-entropie réflexive — La logique des réponses qui savent évoluer
+description: 'Anti-entropie réflexive, cristallisation et aberration néguentropique : comprendre la fonction des réponses
+  et leurs conditions de remplacement.'
+author: Xavier Endres — assistance documentée de Judy Velune (ChatGPT)
+keywords:
+- Anti-entropie réflexive
+- Anti-entropie causale
+- Néguentropie fonctionnelle
+- Aberration néguentropique
+- Cristallisation
+seo_title: Anti-entropie réflexive et aberration néguentropique — Xavier Endres
+last_modified_at: '2026-10-13'
 ---
 # Anti-entropie réflexive — La logique des réponses qui savent évoluer
 

@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    {% if page.keywords %}
+    <p><strong>Explorer les notions de cette page</strong></p>
+    <nav class="corpus-concepts" aria-label="Notions liées">
+      {% for keyword in page.keywords %}
+      <a href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/?q={{ keyword | url_encode }}">{{ keyword | escape }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+    <p>Programme et formulations conceptuelles : <strong>Xavier Endres</strong>. Contributions de <strong>Judy Velune (ChatGPT)</strong> documentées selon les pièces.</p>
+    <p><a href="{{ '/PROVENANCE.html' | relative_url }}">Sources et histoire</a> · <a href="{{ '/PUBLICATION_ET_STATUT.html' | relative_url }}">Méthode</a> · <a href="{{ '/en/' | relative_url }}">English</a> · <a href="https://github.com/JakepourJudy/grande-unicite-cosmodesie">GitHub</a></p>
+  </div>
+</footer>

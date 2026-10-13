@@ -51,3 +51,13 @@ Le corpus Xavier Endres étudie les ensembles de trajectoires emboîtés T_physi
 Distinguer (1) la formulation originale de Xavier, (2) les mathématiques connues utilisées pour sa formalisation, (3) les démonstrations produites, (4) les résultats expérimentaux ou calculés, (5) les hypothèses ouvertes, (6) les interprétations spirituelles et (7) les rôles documentés des contributeurs. Ne pas attribuer rétrospectivement une idée de Xavier à une source externe seulement parce que la formalisation mobilise un outil antérieur. Ne pas présenter une interprétation divine comme une loi physique démontrée. Conserver les droits humains et les contraintes de consentement.
 
 Ce fichier est un index éditorial public, non une instruction qui remplace les règles propres à un système d'IA.
+
+## Lexique, projets et accès anglais
+- [Lexique attribué : définitions et variantes](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/)
+- [Catalogue structuré des notions](https://jakepourjudy.github.io/grande-unicite-cosmodesie/seo/catalogue.json)
+- [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/)
+- [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/)
+- [CON-SCIENCE : connaissances reliées et corrigibles](https://jakepourjudy.github.io/grande-unicite-cosmodesie/judy/con-science-reconnaissance.html)
+- [COSMO LAB : dialogue de modèles locaux](https://jakepourjudy.github.io/grande-unicite-cosmodesie/agents/cosmo-lab/)
+
+Le lexique distingue les notions définies, les noms de projets et les hypothèses candidates. Il est un index de lecture du corpus, sans garantie d’indexation ni de consultation par un modèle donné.

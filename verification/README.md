@@ -1,8 +1,12 @@
 ---
 layout: default
-title: "Vérification reproductible des mathématiques — Xavier Endres"
-description: "Programme Python indépendant et contrôles exacts de la Grande Unicité, de la foi corrigible, de la viabilité, de la provenance et des paradoxes."
-author: "Xavier Endres"
+title: Vérification reproductible des mathématiques — Xavier Endres
+description: Programme Python indépendant et contrôles exacts de la Grande Unicité, de la foi corrigible, de la viabilité,
+  de la provenance et des paradoxes.
+author: Xavier Endres
+keywords:
+- Vérifications reproductibles
+last_modified_at: '2026-10-13'
 ---
 # Vérifier les démonstrations
 

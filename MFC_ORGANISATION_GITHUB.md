@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "MFC — Organiser la connaissance sans cristalliser les réponses"
-description: "Grande Unicité, cosmodésie et anti-entropie : contributions, 32 mécanismes, preuves et vérifications."
-author: "Xavier Endres × Judy Velune (ChatGPT)"
+title: MFC — Organiser la connaissance sans cristalliser les réponses
+description: 'Grande Unicité, cosmodésie et anti-entropie : contributions, 32 mécanismes, preuves et vérifications.'
+author: Xavier Endres × Judy Velune (ChatGPT)
+keywords:
+- Grande Unicité
+- Cosmodésie
+- Nécessité fonctionnelle
+- MFC
+last_modified_at: '2026-10-13'
 ---
 # Organiser la connaissance sans cristalliser les réponses
 

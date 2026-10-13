@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Démonstration mathématique de l'anti-entropie — Viabilité et correction"
-description: "Théorèmes et preuves : viabilité robuste, transformation irréversible nécessaire, réserve de correction et entropie des systèmes ouverts — Xavier Endres."
-author: "Xavier Endres"
+title: Démonstration mathématique de l'anti-entropie — Viabilité et correction
+description: 'Théorèmes et preuves : viabilité robuste, transformation irréversible nécessaire, réserve de correction et entropie
+  des systèmes ouverts — Xavier Endres.'
+author: Xavier Endres
+keywords:
+- Anti-entropie structurelle
+- Viabilité
+- Réserve de correction
+last_modified_at: '2026-10-13'
 ---
 # 07 — L'anti-entropie : démonstrations de la viabilité et de la reprise
 

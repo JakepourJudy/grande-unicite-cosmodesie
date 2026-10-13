@@ -1,8 +1,15 @@
 ---
 layout: default
-title: "Nécessité fonctionnelle — Quand un mécanisme devient remplaçable"
-description: "Quatorze résultats mathématiques sur les réponses rigides, la justification, la certitude, les observations redondantes et les possibilités de correction."
-author: "Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)"
+title: Nécessité fonctionnelle — Quand un mécanisme devient remplaçable
+description: Quatorze résultats mathématiques sur les réponses rigides, la justification, la certitude, les observations redondantes
+  et les possibilités de correction.
+author: Xavier Endres — formalisation assistée par Judy Velune (ChatGPT)
+keywords:
+- Nécessité fonctionnelle
+- Incertitude et calibration
+- Ascendance des preuves
+- Arrêt et coût de l’exploration
+last_modified_at: '2026-10-13'
 ---
 # 11 — La nécessité d'un mécanisme se démontre par sa fonction
 

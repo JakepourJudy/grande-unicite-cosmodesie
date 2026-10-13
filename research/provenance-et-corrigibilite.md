@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Deux théorèmes de provenance et de corrigibilité"
-description: "Programme de Xavier Endres — Deux théorèmes de provenance et de corrigibilité"
-author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+title: Deux théorèmes de provenance et de corrigibilité
+description: Deux démonstrations sur la reconstructibilité de la provenance et la correction après compression, dans le programme
+  Xavier Endres / Judy Velune.
+author: Xavier Endres — assistance documentée de Judy Velune (ChatGPT)
+keywords:
+- Provenance
+seo_title: 'Provenance et corrigibilité : deux théorèmes — Xavier Endres'
+last_modified_at: '2026-10-13'
 ---
 # Deux théorèmes de provenance et de corrigibilité
 

@@ -1,8 +1,12 @@
 ---
 layout: default
-title: "Le créateur et la provenance — théorème d'identifiabilité"
-description: "Preuve mathématique : une fonction peut survivre sans permettre de reconstruire Xavier Endres comme auteur d'une formulation particulière."
+title: Le créateur et la provenance — théorème d'identifiabilité
+description: 'Preuve mathématique : une fonction peut survivre sans permettre de reconstruire Xavier Endres comme auteur d''une
+  formulation particulière.'
 author: Xavier Endres
+keywords:
+- Reconstructibilité
+last_modified_at: '2026-10-13'
 ---
 # 03 — Créateur, provenance et reconstruction
 

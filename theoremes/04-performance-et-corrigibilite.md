@@ -1,7 +1,11 @@
 ---
 layout: default
-title: "Performance et corrigibilité — théorème anti-entropique"
-description: "Une hausse de performance présente n'implique pas une hausse de capacité future de correction : contre-modèle de Xavier Endres."
+title: Performance et corrigibilité — théorème anti-entropique
+description: 'Une hausse de performance présente n''implique pas une hausse de capacité future de correction : contre-modèle
+  de Xavier Endres.'
+keywords:
+- Corrigibilité
+last_modified_at: '2026-10-13'
 ---
 # 04 — Performance présente et correction future
 

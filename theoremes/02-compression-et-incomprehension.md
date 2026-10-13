@@ -1,8 +1,16 @@
 ---
 layout: default
-title: "Compression, incompréhension et décisions impossibles — preuve"
-description: "Théorème de compression décisionnelle et critère nécessaire et suffisant sur les classes d'observations du programme Xavier Endres."
+title: Compression, incompréhension et décisions impossibles — preuve
+description: Théorème de compression décisionnelle et critère nécessaire et suffisant sur les classes d'observations du programme
+  Xavier Endres.
 author: Xavier Endres
+keywords:
+- Angle mort
+- Observabilité
+- Compression décisionnelle
+- Validité d’une représentation
+seo_title: Compression et incompréhension — Démonstration mathématique
+last_modified_at: '2026-10-13'
 ---
 # 02 — Compression décisionnelle et incompréhension
 

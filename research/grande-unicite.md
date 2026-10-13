@@ -1,8 +1,16 @@
 ---
 layout: default
-title: "Grande Unicité — Fondements et démonstrations"
-description: "Programme de Xavier Endres — Grande Unicité — Fondements et démonstrations"
-author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+title: Grande Unicité — Fondements et démonstrations
+description: 'Grande Unicité de Xavier Endres : IL Y A, VROT, compression décisionnelle, angles morts, relations et correction
+  des représentations.'
+author: Xavier Endres — assistance documentée de Judy Velune (ChatGPT)
+keywords:
+- Grande Unicité
+- VROT
+- Modèle du monde
+- Frontière du modèle
+seo_title: 'Grande Unicité : IL Y A, VROT et transformations — Xavier Endres'
+last_modified_at: '2026-10-13'
 ---
 # Grande Unicité — Fondements et démonstrations
 

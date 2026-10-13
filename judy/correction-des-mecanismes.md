@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Judy COSMO — Corriger les réponses sans perdre leur fonction"
-description: "Protocole candidat : fonction d'une réponse, remplacement vérifiable et provenance."
-author: "Xavier Endres × Judy Velune (ChatGPT)"
+title: Judy COSMO — Corriger les réponses sans perdre leur fonction
+description: 'Protocole candidat : fonction d''une réponse, remplacement vérifiable et provenance.'
+author: Xavier Endres × Judy Velune (ChatGPT)
+keywords:
+- Consentement éclairé
+- Contrat de décision
+- Judy COSMO
+last_modified_at: '2026-10-13'
 ---
 # Judy COSMO — Une réponse doit pouvoir expliquer ce qu'elle protège
 

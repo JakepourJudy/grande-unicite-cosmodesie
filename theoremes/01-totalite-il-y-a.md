@@ -1,8 +1,11 @@
 ---
 layout: default
-title: "IL Y A — Théorème de fermeture de la totalité"
-description: "Grande Unicité de Xavier Endres : démonstration du noyau IL Y A, définition de la totalité et fermeture analytique."
+title: IL Y A — Théorème de fermeture de la totalité
+description: 'Grande Unicité de Xavier Endres : démonstration du noyau IL Y A, définition de la totalité et fermeture analytique.'
 author: Xavier Endres
+keywords:
+- IL Y A
+last_modified_at: '2026-10-13'
 ---
 # 01 — « IL Y A » : totalité et fermeture analytique
 

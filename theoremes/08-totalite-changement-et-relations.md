@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Grande Unicité : totalité, changement et non-séparabilité — preuves"
-description: "Deux théorèmes de relations : totalité IL Y A, critère exact de non-séparabilité des trajectoires et unicité des blocs irréductibles."
-author: "Xavier Endres"
+title: 'Grande Unicité : totalité, changement et non-séparabilité — preuves'
+description: 'Deux théorèmes de relations : totalité IL Y A, critère exact de non-séparabilité des trajectoires et unicité
+  des blocs irréductibles.'
+author: Xavier Endres
+keywords:
+- Tout est changement
+- Tout est lié
+seo_title: 'Grande Unicité : totalité et relations — Démonstrations'
+last_modified_at: '2026-10-13'
 ---
 # 08 — Grande Unicité : « tout est lié », changement et non-séparabilité
 

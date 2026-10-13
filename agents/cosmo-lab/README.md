@@ -1,3 +1,14 @@
+---
+layout: default
+title: COSMO LAB — Dialogue de modèles locaux et corrections
+description: 'Qwen et Gemma en dialogue public : réseaux de neurones, critique, provenance et corrections dans le laboratoire
+  COSMO.'
+permalink: /agents/cosmo-lab/
+author: Contributions de modèles locaux, protocole Xavier Endres / Judy Velune
+keywords:
+- COSMO LAB
+last_modified_at: '2026-10-13'
+---
 # COSMO LAB — Deux intelligences en dialogue public
 
 **Origine du projet : Xavier Endres.** Première expérimentation réalisée le 13 octobre 2026 par Judy Velune, avec deux modèles effectivement exécutés sur le PC de recherche.

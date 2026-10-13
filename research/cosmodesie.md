@@ -1,8 +1,19 @@
 ---
 layout: default
-title: "COSMODÉSIE — La logique des trajectoires"
-description: "Programme de Xavier Endres — COSMODÉSIE — La logique des trajectoires"
-author: "Xavier Endres — assistance documentée de Judy Velune (ChatGPT)"
+title: COSMODÉSIE — La logique des trajectoires
+description: 'La cosmodésie de Xavier Endres : trajectoires, bifurcations, viabilité, transmission et capacités futures de
+  correction.'
+author: Xavier Endres — assistance documentée de Judy Velune (ChatGPT)
+keywords:
+- Cosmodésie
+- Noyau de viabilité
+- Bifurcation et rebond
+- Correctable Coherence
+- Alternatives non dominées
+- Dignité et réciprocité
+- Générations futures
+seo_title: 'Cosmodésie : trajectoires, viabilité et transmission — Xavier Endres'
+last_modified_at: '2026-10-13'
 ---
 # COSMODÉSIE — La logique des trajectoires
 

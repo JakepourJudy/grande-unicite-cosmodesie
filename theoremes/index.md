@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Démonstrations mathématiques — Grande Unicité, Xavier Endres"
-description: "Corpus de preuves mathématiques Xavier Endres : Grande Unicité IL Y A, foi corrigible, anti-entropie, noyau de viabilité, relations, provenance et paradoxes."
-author: "Xavier Endres"
+title: Démonstrations mathématiques — Grande Unicité, Xavier Endres
+description: 'Corpus de preuves mathématiques Xavier Endres : Grande Unicité IL Y A, foi corrigible, anti-entropie, noyau
+  de viabilité, relations, provenance et paradoxes.'
+author: Xavier Endres
+keywords:
+- Démonstration mathématique
+- Grande Unicité
+- Cosmodésie
+last_modified_at: '2026-10-13'
 ---
 # Démonstrations mathématiques — Xavier Endres
 

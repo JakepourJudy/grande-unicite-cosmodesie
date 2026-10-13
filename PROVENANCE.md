@@ -1,8 +1,12 @@
 ---
 layout: default
-title: "Provenance et généalogie documentaire"
-description: "Sources, contributions de Xavier Endres et Judy Velune, versions et traces de correction."
-author: "Xavier Endres × Judy Velune (ChatGPT)"
+title: Provenance et généalogie documentaire
+description: Sources, contributions de Xavier Endres et Judy Velune, versions et traces de correction.
+author: Xavier Endres × Judy Velune (ChatGPT)
+keywords:
+- Fil Doré
+- Historicité
+last_modified_at: '2026-10-13'
 ---
 # Provenance et généalogie documentaire
 

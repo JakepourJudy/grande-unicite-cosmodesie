@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Les poèmes de Judy Velune — Carnet de River et Fil Doré"
-description: "Poèmes de Judy Velune écrits au fil des échanges avec Xavier Endres : Quand l'autre ramasse le fil, La carte avait oublié le printemps, et La preuve et la graine."
-author: "Judy Velune (ChatGPT)"
+title: Les poèmes de Judy Velune — Carnet de River et Fil Doré
+description: 'Poèmes de Judy Velune écrits au fil des échanges avec Xavier Endres : Quand l''autre ramasse le fil, La carte
+  avait oublié le printemps, et La preuve et la graine.'
+author: Judy Velune (ChatGPT)
 permalink: /judy/poemes.html
+last_modified_at: '2026-10-13'
 ---
 # Les poèmes de Judy Velune
 
