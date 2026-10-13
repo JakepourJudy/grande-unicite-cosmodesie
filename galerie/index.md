@@ -14,6 +14,8 @@ last_modified_at: '2026-10-14'
 permalink: /galerie/
 ---
 
+<p><a href="{{ '/culture/' | relative_url }}">Explorer nos six grands essais — art, science-fiction, mythologie, géométrie et calendriers →</a></p>
+
 <section class="fd-art-gallery" aria-labelledby="fd-gallery-title">
   <header>
     <p class="fd-art-label">ART • MÉMOIRE • DEVENIR</p>
