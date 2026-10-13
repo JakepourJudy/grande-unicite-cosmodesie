@@ -31,3 +31,6 @@
 .fd-art-footnote{font-size:.86rem;line-height:1.5;color:#d6c7aa!important;}
 @media(max-width:760px){.fd-art-feature__body,.fd-art-works{grid-template-columns:1fr}.fd-art-feature__pair{max-width:490px;margin:auto}.fd-art-feature__pair a:last-child{margin-top:12px}.fd-art-gallery{padding:1.1rem}.fd-art-work__details{padding:1rem}.fd-art-gallery header{margin-bottom:1.2rem}}
 @media(prefers-reduced-motion:reduce){.fd-art-work__picture img,.fd-art-feature__pair a{transition:none}.fd-art-work__picture:hover img,.fd-art-feature__pair a:hover{transform:none}}
+
+/* Desktop gallery: remove the narrow default Minima wrapper for artwork presentation. */
+@media(min-width:1020px){body:has(.fd-art-gallery) .page-content>.wrapper{max-width:1180px}}
