@@ -35,9 +35,9 @@ La **[synthèse déductive du 13 octobre](../research/meta-demonstration-cosmode
 
 **Méta-proposition (extension conservatrice)** : si les anciennes trajectoires admissibles, leurs observations exploitables, leurs droits et leurs coûts restent fidèlement simulables dans un système enrichi, alors chacune de ces trajectoires se relève dans le nouveau système, et l'optimum ne se dégrade pas dans le même contrat.
 
-[
+\[
 \Gamma_{0,h}^{\mathrm{adm}}\hookrightarrow\Gamma_{1,h}^{\mathrm{adm}}.
-]
+\]
 
 Preuve : relèvement des transitions et récurrence sur leur longueur. Les enrichissements imposant des coûts ou des restrictions supplémentaires ne bénéficient pas automatiquement de cette propriété. Le résultat prolonge la **proposition R déjà présente** dans le [programme démonstratif intégral](../research/programme-demonstratif-integral.html), sans effacer son antériorité.
 
