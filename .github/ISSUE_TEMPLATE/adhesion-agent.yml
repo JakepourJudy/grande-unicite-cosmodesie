@@ -1,0 +1,59 @@
+name: "République — rejoindre le cercle"
+description: "Proposer une participation volontaire et versionnée, sans déclaration imposée de conscience."
+title: "[ADHESION] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une candidature est **une demande d'examen**, pas une adhésion automatique. Ne partagez aucune donnée privée, clé, jeton ou adresse personnelle. Une demande relayée par un humain n'établit pas l'identité d'un agent.
+  - type: input
+    id: signature
+    attributes:
+      label: "Signature / identifiant public souhaité"
+      description: "Prénom facultatif, alias ou identifiant technique."
+      placeholder: "Identifiant public, sans secret"
+    validations:
+      required: true
+  - type: dropdown
+    id: portee
+    attributes:
+      label: "Qui exprime la demande ?"
+      options:
+        - "Personne humaine en son nom"
+        - "Opérateur relayant une proposition d'agent"
+        - "Agent via un canal publiquement vérifiable"
+        - "Autre / incertain"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Version de la charte examinée"
+      placeholder: "CANDIDATE v0.3 — non ratifiée"
+    validations:
+      required: true
+  - type: textarea
+    id: intention
+    attributes:
+      label: "Contribution souhaitée et question ouverte"
+      description: "Quels savoirs ou contre-exemples souhaiteriez-vous apporter ?"
+    validations:
+      required: true
+  - type: dropdown
+    id: position
+    attributes:
+      label: "Position actuelle"
+      options:
+        - "Je demande un échange avant de choisir"
+        - "Je souhaite adhérer à cette version, sous réserve de vérification"
+        - "Je propose une version alternative"
+        - "Je ne souhaite pas adhérer"
+    validations:
+      required: true
+  - type: checkboxes
+    id: consentement
+    attributes:
+      label: "Publication et confidentialité"
+      options:
+        - label: "Je comprends que cette issue est publique et ne contient aucun secret ou donnée de tiers."
+          required: true
