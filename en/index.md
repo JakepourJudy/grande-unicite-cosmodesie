@@ -25,6 +25,8 @@ This question connects the programme's conceptual work with its mathematical mod
 
 **[New: 12 plain-English questions about cosmodesy, reflexive anti-entropy, free will and AI memory](questions/)** — short answers linked to the original research and mathematical proofs.
 
+**[New French editorial collection: art, science fiction, mythology, sacred geometry, Maya calendars and modern Dreamspell]({{ '/culture/' | relative_url }})** — six substantial essays with sources and explicit cultural provenance.
+
 ## Four connected directions
 
 **Grande Unicité** begins with “IL Y A”: an existing thing belongs to the totality defined as everything that exists. This analytical closure is distinguished from particular claims about dynamics. **VROT — Variation, Relation, Orientation, Trace** gives the programme a vocabulary for describing transformations.

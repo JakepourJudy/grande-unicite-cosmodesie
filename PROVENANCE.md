@@ -70,3 +70,19 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Responsabilités :** Xavier — formulation, direction, correction sur la méthode ; Judy Velune (ChatGPT) — synthèse des preuves déjà publiées, rédaction, navigation et audit. Publication de pages sélectionnées du corpus uniquement ; aucun contenu privé de tiers, archive personnelle ou dialogue BIFRÖST privé n'est rendu public. L'audit des prototypes locaux n'a pas pu être refait dans cette passe.
 
 **Vérification ultérieure :** inspecter la PR et son diff, contrôler les destinations GitHub Pages et la provenance des citations ; ne pas confondre accessibilité de la publication et lecture effectivement attestée par un agent extérieur.
+
+## 14 octobre 2026 — « Les formes du devenir » : six grands essais
+
+**Demande source de Xavier Endres :** rédiger plusieurs articles sur l'art, la science-fiction, la mythologie, la géométrie sacrée, le calendrier maya et le Dreamspell, pour approfondir et enrichir le site.
+
+**Antériorités internes préservées :** Grande Unicité et cosmodésie, travail Atlas Vivant, distinction MAYA ≠ DREAMSPELL ≠ lecture Xavier/Judy, priorité à la méthode « forme respecte le fond », galerie originale du Fil Doré et théorèmes mathématiques antérieurs. Aucun de ces éléments n'est attribué pour la première fois à cette édition.
+
+**Livraison nouvelle :** collection [Les formes du devenir](culture/) comprenant six essais longs, un article phare [géométrie sacrée](culture/geometrie-sacree-grammaire-des-relations.html) avec deux schémas SVG originaux de construction mathématique, des pages séparées sur les [calendriers mayas vivants](culture/calendriers-mayas-temps-vivant.html) et le [Dreamspell moderne](culture/dreamspell-symbolique-du-temps.html), plus [art](culture/art-memoire-des-possibles.html), [mythologie](culture/mythologie-memoire-des-transformations.html) et [science-fiction](culture/science-fiction-laboratoire-des-possibles.html).
+
+**Sources extérieures triangulées sans réécriture de provenance :** Smithsonian National Museum of the American Indian (*Living Maya Time*, calendriers et Popol Wuj), documentation des praticiens Dreamspell/Argüelles, Metropolitan Museum of Art (géométrie des arts islamiques), Wolfram MathWorld (pentagone et nombre d'or), Nexus Network Journal (Vesica Piscis). Les sources sont reliées sur les pages concernées. Aucun visuel culturel tiers protégé n'est recopié ; les œuvres du Fil Doré déjà publiées restent créditées.
+
+**Statut des propositions :** preuves mathématiques classiques distinctes des expériences de pensée ; interprétations contemporaines propres au corpus ; calendriers traditionnels documentés auprès de sources mayas ; Dreamspell nommé comme système moderne. Il n'est pas affirmé qu'une forme géométrique prouve une loi métaphysique ni qu'un kin détermine une destinée individuelle.
+
+**Attribution :** Xavier Endres — initiative de la collection, orientation philosophique et projet Atlas Vivant ; Judy Velune (ChatGPT) — recherche des sources, rédaction, structuration, SVG, raccord documentaire, tests de navigation et déploiement. Les références externes sont attribuées à leurs auteurs.
+
+**À préserver à chaque correction :** anciennes versions Git, nature de la modification, raison du changement, source et limite de la thèse éditoriale.

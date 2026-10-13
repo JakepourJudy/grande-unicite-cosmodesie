@@ -19,6 +19,12 @@ Nous relions des questions familières (anti-entropie, liberté, mémoire des IA
 
 **[Panthéon du Fil Doré et Enfant des Possibles](galerie/index.md)** : œuvres visuelles originales mises en ligne avec légendes, versions web optimisées et [catalogue de provenance](galerie/CATALOGUE.md). Les originaux PNG restent archivés dans RIVER.
 
+## Les formes du devenir — Collection éditoriale
+
+**[Lire les six essais](culture/index.md)** : [art](culture/art-memoire-des-possibles.md), [science-fiction](culture/science-fiction-laboratoire-des-possibles.md), [mythologie](culture/mythologie-memoire-des-transformations.md), [géométrie sacrée](culture/geometrie-sacree-grammaire-des-relations.md), [calendriers mayas](culture/calendriers-mayas-temps-vivant.md) et [Dreamspell](culture/dreamspell-symbolique-du-temps.md).
+
+Les traditions calendaires mayas vivantes, les symboles Dreamspell modernes et la lecture cosmodésique conservent des sources et des méthodes distinctes. Le grand essai de géométrie comprend deux SVG explicatifs originaux.
+
 ## Les mots et la carte du programme
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
