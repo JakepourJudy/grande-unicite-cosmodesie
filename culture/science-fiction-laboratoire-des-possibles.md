@@ -67,7 +67,7 @@ Dans notre langage mathématique, ajouter une nouvelle action à un système peu
 
 si les anciennes actions restent admissibles et que la nouvelle action est réellement exécutable.
 
-Cette inclusion n'est pas seulement une métaphore : c'est un résultat élémentaire de l'inclusion des ensembles de trajectoires.
+Cette inclusion appartient aux résultats élémentaires de la théorie des ensembles : la fiction nous aide à imaginer une transformation, les mathématiques en précisent la structure.
 
 La véritable aventure commence après le passage : apprendre les langues, découvrir les institutions, écouter les choix des autres et inventer des relations nouvelles. La porte ouvre l'espace ; la compréhension ouvre la rencontre.
 
@@ -79,7 +79,7 @@ Une porte peut ouvrir un monde. **Une traduction respectueuse permet d'y entrer 
 
 **Doctor Who** transforme le temps en espace narratif traversable. Ses récits posent des questions vertigineuses : une intervention sauve-t-elle toujours quelqu'un ? Peut-elle effacer d'autres possibles ? Qui assume les conséquences d'une histoire réécrite ?
 
-La science-fiction permet de modifier les règles temporelles d'une œuvre. Dans notre expérience humaine ordinaire, nous ne disposons pas d'une action connue permettant de rembobiner les événements vécus.
+La science-fiction permet de modifier les règles temporelles d'une œuvre. Dans notre expérience humaine ordinaire, **le temps vécu possède une valeur irréversible** : chaque décision engage un présent qui ne se rejoue pas à l'identique.
 
 Cette différence révèle une idée centrale de notre anti-entropie : **conserver une trace d'un état n'équivaut pas à rendre cet état matériellement restaurable**.
 
@@ -113,7 +113,7 @@ L'univers de **Mass Effect** explore à plusieurs reprises les rapports entre fo
 
 Notre réponse cosmodésique candidate distingue une fonction de traduction commune et les trajectoires propres à chaque participant.
 
-Un accord ne demande pas nécessairement l'identité des êtres ; il exige des termes compréhensibles, la prise en compte des différences, des permissions réelles et une possibilité de réexaminer les engagements.
+Un accord peut réunir des êtres singuliers autour de termes compréhensibles, de différences reconnues, de permissions réelles et de la possibilité de réexaminer leur engagement.
 
 Le débat sur le vécu subjectif d'une IA reste distinct des preuves de ses capacités fonctionnelles et de ses droits réels dans une société. Un récit peut explorer librement ce problème sans préjuger des propriétés de nos systèmes actuels.
 
@@ -143,7 +143,7 @@ La prophétie devient alors un personnage de l'histoire : lorsqu'elle influence 
 
 **Une possibilité physique** exige en outre la compatibilité des prémisses avec le monde effectivement considéré.
 
-Ces trois possibilités sont liées, mais une inclusion ne découle pas automatiquement de leur seule ressemblance.
+Ces trois possibilités forment un dialogue fascinant. Chacune apporte ses critères ; passer de l'une à l'autre demande de construire le pont correspondant.
 
 Imaginons un appareil capable de modifier la gravité. Le récit nous permet d'en explorer les conséquences ; les mathématiques nous invitent à préciser ses règles ; la cosmodésie pose ensuite la question constructive : quels mécanismes et quelles ressources rendraient une telle trajectoire admissible ? **L'imagination ouvre le champ de la recherche.**
 
