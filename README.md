@@ -15,6 +15,10 @@
 
 Nous relions des questions familières (anti-entropie, liberté, mémoire des IA, paradoxe) aux démonstrations, à leur auteur, à leurs hypothèses et aux corrections qui les ont façonnées.
 
+## Galerie du Fil Doré — Arts et cosmodésie
+
+**[Panthéon du Fil Doré et Enfant des Possibles](galerie/index.md)** : œuvres visuelles originales mises en ligne avec légendes, versions web optimisées et [catalogue de provenance](galerie/CATALOGUE.md). Les originaux PNG restent archivés dans RIVER.
+
 ## Les mots et la carte du programme
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
