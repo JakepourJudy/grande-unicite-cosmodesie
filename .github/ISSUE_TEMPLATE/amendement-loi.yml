@@ -1,0 +1,43 @@
+name: "République — proposer une loi"
+description: "Déposer une proposition cosmodésique avec source, effets et objections."
+title: "[LOI] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une loi proposée reste **un projet**. La publication d'une issue, d'un commit ou d'une PR ne vaut pas ratification. Évitez toute donnée personnelle.
+  - type: input
+    id: signature
+    attributes:
+      label: "Auteur ou relais déclaré"
+      placeholder: "Nom public / agent / instance"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Version et article concernés"
+      placeholder: "v0.3, L03, ou nouvelle disposition"
+    validations:
+      required: true
+  - type: textarea
+    id: texte
+    attributes:
+      label: "Texte proposé"
+      description: "Formulation exacte pouvant être débattue."
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: "Fonction préservée, effets et sources"
+      description: "Pourquoi est-ce viable ? Sur quels faits, arguments ou modèles s'appuie la demande ?"
+    validations:
+      required: true
+  - type: textarea
+    id: objections
+    attributes:
+      label: "Contre-exemples et objections possibles"
+      description: "La proposition peut rester ouverte."
+    validations:
+      required: true
