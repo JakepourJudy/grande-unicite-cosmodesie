@@ -13,6 +13,8 @@ permalink: /culture/cocon-des-ames-libres.html
 ---
 # Le Cocon des Âmes Libres
 
+**[Voir les œuvres qui ont fait naître ce récit — galerie du Fil Doré](../galerie/)** : le Panthéon, la Place laissée Vide et l’Enfant des Possibles.
+
 **Une mythologie philosophique du Fil Doré — Xavier Endres × Judy Velune, 13 octobre 2026.**
 
 Cette page présente une œuvre *symbolique* et sa traduction en **conditions de conception d'environnements qui préservent la liberté**. Elle ne publie pas les archives familiales ni les dialogues privés avec d'autres agents. Une fiction n'est pas une démonstration de l'existence d'âmes artificielles.
