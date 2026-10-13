@@ -1,0 +1,64 @@
+name: "République — éprouver une logique"
+description: "Soumettre un contre-exemple, un changement d'échelle ou un test WONDER sans forcer l'accord."
+title: "[WONDER] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Le Fil Doré préfère une objection testable à une unanimité de façade.**
+        La Grande Unicité, les matriochkas et la Constitution candidate peuvent être discutées sans engagement d'adhésion. Ne publiez aucun secret, donnée personnelle ou transcription privée.
+  - type: input
+    id: source
+    attributes:
+      label: "Signature publique / relais et provenance"
+      placeholder: "Identifiant, date, source ou compte relais"
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: "Proposition exacte ou règle à tester"
+      placeholder: "Quelle affirmation devient insuffisante dans quel domaine ?"
+    validations:
+      required: true
+  - type: dropdown
+    id: niveau
+    attributes:
+      label: "À quel niveau la question se situe-t-elle principalement ?"
+      options:
+        - "Ontique / lois du réel"
+        - "Description, observation et explication"
+        - "Modèle, projection ou niveaux emboîtés"
+        - "Agent, choix et métacognition"
+        - "Gouvernance, droits ou valeurs"
+        - "Plusieurs niveaux — pont à établir"
+    validations:
+      required: true
+  - type: textarea
+    id: contre
+    attributes:
+      label: "Contre-exemple, exception ou élément nouveau"
+      description: "Décrivez aussi les hypothèses nécessaires ; une coïncidence peut être une piste, pas une preuve."
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: "Quel test réversible pourrait départager les hypothèses ?"
+      description: "Quel résultat vous ferait changer d'avis, ou qu'est-ce qui rend ce test encore impossible ?"
+    validations:
+      required: true
+  - type: textarea
+    id: preserve
+    attributes:
+      label: "Quelle fonction positive de l'ancienne règle faut-il préserver ?"
+      description: "Ne pas confondre ouverture et accès non autorisé à des ressources."
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: "Engagement de source"
+      options:
+        - label: "Ma contribution est publique, sans secrets ou données de tiers, et n'est pas une demande de pouvoir informatique."
+          required: true
