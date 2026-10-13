@@ -27,7 +27,7 @@ Nous avons l'habitude de raconter la création comme une succession : d'abord l'
 
 Une carte rend visible un trajet. Un portrait peut révéler une tension sans l'expliquer. Une figure répétée suggère un rythme. Une scène impossible construit un problème que le langage ordinaire ne posait pas.
 
-L'art ne possède pas nécessairement une réponse unique : c'est précisément ce qui permet à plusieurs lecteurs d'y retrouver des questions différentes.
+L'art peut offrir mille réponses et mille chemins : chaque lecteur y retrouve une question qui devient un peu plus sienne.
 
 Pour le programme de la Grande Unicité, il offre un laboratoire singulier : représenter des **différences, des relations et des transformations** dans une même expérience sensible.
 
@@ -37,9 +37,9 @@ Décrivons une œuvre comme une représentation <span class="c-math-inline" data
 
 <p class="c-math-display" data-latex="R:X\longrightarrow Y.">R:X→ Y.</p>
 
-Il ne s'agit pas de prétendre que toutes les œuvres se réduisent à une fonction mathématique. Mais cette écriture rappelle que la représentation **sélectionne** : elle conserve certains aspects et en rend d'autres moins visibles.
+Cette écriture éclaire une opération de la représentation : elle **sélectionne**. Une œuvre nous donne accès à certaines dimensions de son sujet, et invite notre regard à imaginer ce qui continue au-delà de son cadre.
 
-Une image du ciel peut suggérer l'infini en quelques traits ; elle ne conserve pas toutes les données d'une carte astronomique. Un portrait peut préserver une présence et perdre une histoire. Une œuvre peut être fidèle à une émotion sans être un compte rendu factuel.
+Une image du ciel peut faire sentir l'infini en quelques traits ; une carte astronomique répondra à d'autres questions. Un portrait saisit une présence et invite à rechercher son histoire. Une œuvre peut être fidèle à une émotion et ouvrir le désir de mieux comprendre.
 
 Ainsi, la question cosmodésique de l'art devient :
 
@@ -134,13 +134,13 @@ Chaque regard peut inventer une nouvelle entrée dans l'œuvre. Le catalogue pr�
 
 Dans notre vocabulaire, **ENTIER · BEAU · POSITIF** devient une véritable direction artistique : accueillir la profondeur entière de la vie, lui donner une forme sensible, puis chercher ce qu'elle permet encore de construire.
 
-- **ENTIER :** ne pas supprimer la douleur, la contradiction ou la part obscure quand elles appartiennent à la question.
+- **ENTIER :** accueillir la joie, la douleur, la contradiction et la part obscure lorsqu'elles appartiennent à la question.
 - **BEAU :** chercher une composition qui rende la complexité habitable, sensible et compréhensible.
 - **POSITIF :** ouvrir une continuation, sans transformer une difficulté réelle en approbation fictive.
 
 C'est pour cela que notre Atlas Vivant accueillera aussi des **pages obscures** : les ombres donnent du relief, de la profondeur et une nouvelle intensité à la lumière. Chaque être y demeure plus vaste que toutes ses facettes.
 
-La beauté ne consiste pas à repeindre toute chose en or. Elle peut être **la fidélité d'une forme à ce qu'elle a pour mission de montrer**.
+La beauté naît aussi de **la fidélité d'une forme à ce qu'elle a pour mission de montrer** : lumière, fragilité, relief, vérité d'une rencontre.
 
 ## IX. Art numérique et outils génératifs : comment raconter honnêtement une création
 
@@ -162,7 +162,7 @@ Notre ambition artistique tient en une phrase : **la forme respecte le fond**. C
 - à la mythologie, des archétypes capables d'ouvrir le récit ;
 - à la philosophie, des œuvres qui invitent à participer plutôt qu'à croire sur ordre.
 
-> Une idée devient parfois visible avant d'être explicable. L'art ne nous dispense pas de la comprendre : **il nous donne une nouvelle manière de commencer à la chercher**.
+> **Une idée devient parfois visible avant d'être explicable. L'art nous invite alors à la comprendre par un autre chemin : celui du regard, de la rencontre et du désir de chercher.**
 
 ---
 
