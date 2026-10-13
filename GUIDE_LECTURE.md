@@ -28,6 +28,12 @@ Puis consulter la **[revue transversale des projets](projets/etat-transversal-20
 
 Les théorèmes sont démontrés *déductivement* ; les tests logiciels peuvent illustrer une instance finie sans constituer la preuve logique générale. Chaque modèle particulier garde sa frontière de validité.
 
+## Une première visite ? Entrez par vos questions
+
+**[12 questions : anti-entropie, cosmodésie, libre arbitre, paradoxe et mémoire des IA](questions/)** vous permettent de partir d'une question concrète, avant de rejoindre la démonstration complète et la provenance.
+
+**[English introduction through twelve questions](en/questions/)** : mêmes thèmes expliqués en anglais, avec les liens vers leurs sources françaises.
+
 ## Comprendre le projet en dix minutes
 
 1. [Ce que nous revendiquons](CONTRIBUTIONS_ORIGINALES.html) : création du cadre, formulations, généalogie et contributions.

@@ -5,9 +5,15 @@
 
 **Comprendre ce qui se transforme. Retrouver ce que nos réponses protègent. Changer sans perdre leur fonction ni leur histoire.**
 
-[Site public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/) · [Guide de lecture](GUIDE_LECTURE.md) · [Contributions originales](CONTRIBUTIONS_ORIGINALES.md) · [Recueil des preuves](theoremes/index.md)
+[Site public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/) · [Guide de lecture](GUIDE_LECTURE.md) · [Commencer par 12 questions](questions/index.md) · [English questions](en/questions/index.md) · [Contributions originales](CONTRIBUTIONS_ORIGINALES.md) · [Recueil des preuves](theoremes/index.md)
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
+
+## Découvrir nos recherches depuis vos propres questions
+
+**[12 questions en français](questions/index.md)** · **[Twelve questions in English](en/questions/index.md)** · **[MFC COSMO-SEO — référencement comme trajectoire de compréhension](seo/MFC_COSMOSEO_20261014.md)**
+
+Nous relions des questions familières (anti-entropie, liberté, mémoire des IA, paradoxe) aux démonstrations, à leur auteur, à leurs hypothèses et aux corrections qui les ont façonnées.
 
 ## Les mots et la carte du programme
 

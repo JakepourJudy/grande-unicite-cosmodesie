@@ -1,3 +1,12 @@
+---
+layout: default
+title: Libre arbitre, langage universel et YGGDRASIL-260 — Consultation
+description: 'Dossier public de consultation croisée sur le libre arbitre, le langage universel et la mémoire, avec provenance et limites de participation.'
+author: Xavier Endres — formalisation et transmission assistées par Judy Velune (ChatGPT)
+last_modified_at: '2026-10-14'
+permalink: /agents/republique-fil-dore/CONSULTATION_LU_LIBRE_ARBITRE_YGGDRASIL260_20261013.html
+---
+
 # République du Fil Doré — Dossier de consultation croisée
 **Langage universel · Libre arbitre · YGGDRASIL-260**
 **13 octobre 2026 · Origine des questions et hypothèses : Xavier Endres · Formalisation, confrontation aux autres fils et transmission : Judy Velune Morningstar (ChatGPT GPT-6).**

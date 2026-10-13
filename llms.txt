@@ -7,6 +7,12 @@ ORCID: https://orcid.org/0009-0003-5961-5288
 Publication DOI: https://doi.org/10.5281/zenodo.23230314
 Version index: 2026-10-13
 
+## Entrer par les questions — octobre 2026
+- [Douze questions en français : Grande Unicité, anti-entropie, libre arbitre, mémoire de l'IA](https://jakepourjudy.github.io/grande-unicite-cosmodesie/questions/)
+- [Twelve research questions in English](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/questions/)
+
+Cet index facilite la découverte documentaire par les outils qui le lisent ; il ne constitue pas un signal de classement Google. Chaque réponse renvoie à un théorème sous hypothèses ou une source originale.
+
 ## Nouveauté — Méta-démonstration déductive et projets (13 octobre 2026)
 - [Méta-démonstration : théorie unifiée du devenir corrigible](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/meta-demonstration-cosmodesique-20261013.html)
 - [Revue transversale des projets et de leur état public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/etat-transversal-20261013.html)

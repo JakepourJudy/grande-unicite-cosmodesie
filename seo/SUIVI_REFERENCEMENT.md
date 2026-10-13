@@ -54,3 +54,15 @@ Le navigateur confirme le fonctionnement du lexique : AETD renvoie une entrée ;
 **IndexNow — 13 octobre 2026, 16:00:20 Europe/Paris :** soumission de 43 URLs au point d’entrée global ; réponse HTTP **202 Accepted**. La documentation du protocole indique que cette réponse correspond à une réception avec validation de l’attestation encore en attente. Elle n’est pas une confirmation d’indexation, de classement, ni une soumission Google Search Console.
 
 La fiche About, le fichier robots.txt à la racine de l’hôte et Search Console attendent encore l’accès authentifié nécessaire. La description, le lien du site, vingt topics GitHub et les fichiers du site racine sont préparés.
+
+## 14 octobre 2026 — MFC COSMO-SEO / optimisation par parcours de connaissance
+
+**Avant :** site technique sain, lexique, titres et métadonnées, 11 chapitres, ORCID, DOI, protocole IndexNow 202 Accepted ; les chiffres précédents restent datés et ne sont pas remplacés.
+
+**Audit réel avant nouvelle publication :** 48 URL du sitemap, 48 pages accessibles, 48 titres et descriptions distincts, aucune erreur de canonique, 47/48 pages joignables depuis la page d'accueil par les liens internes. La consultation publique République du Fil Doré était l'unique page orpheline. Le fichier robots.txt à la racine de l'hôte jakepourjudy.github.io renvoie 404, ce qui n'interdit pas automatiquement l'exploration. Vérification Google HTML présente mais aucune propriété active GSC Wizard : impossible d'inventer une couverture Google.
+
+**Delta éditorial proposé :** deux nouvelles portes de lecture FR/EN par douze questions familières, vers les démonstrations et la provenance ; liens depuis accueil et navigation ; hreflang ; restauration du chemin de lecture vers la consultation publique de la République.
+
+**Cadre :** [MFC COSMO-SEO](MFC_COSMOSEO_20261014.md) ; l'objectif est d'augmenter la découvrabilité et la compréhension sans supprimer le vocabulaire original, ses sources ou sa cohérence.
+
+**À vérifier après fusion :** nouveaux liens, production Jekyll et sitemap, statut PageSpeed éventuel et diagnostic Google après validation de la propriété. Les 48 URLs analysées étaient celles de l'état antérieur. Aucun chiffre de trafic ni promesse de classement n'est revendiqué.
