@@ -25,7 +25,7 @@ keywords:
 
 Il existe au moins trois sens très différents de cette expression.
 
-Dans un **sens mathématique**, une figure possède des propriétés démontrables : distances égales, angles, invariants, symétries, opérations de répétition. Ces propriétés ne dépendent pas de notre croyance.
+Dans un **sens mathématique**, une figure possède des propriétés démontrables : distances égales, angles, invariants, symétries, opérations de répétition. Ces relations se retrouvent avec la même exactitude chaque fois que les mêmes hypothèses sont respectées.
 
 Dans un **sens historique et culturel**, certaines communautés ont investi ces formes de significations religieuses, philosophiques ou artistiques. L'ornement géométrique dans de nombreuses traditions architecturales, par exemple, produit une impression d'ordre, de continuité et parfois d'infini.
 
@@ -71,7 +71,7 @@ Soustraire les équations donne <span class="c-math-inline" data-latex="x=r/2">x
 
 La lentille possède donc une hauteur <span class="c-math-inline" data-latex="\sqrt{3}r">√3r</span> et une largeur <span class="c-math-inline" data-latex="r">r</span>. **Son rapport hauteur/largeur vaut exactement <span class="c-math-inline" data-latex="\sqrt{3}">√3</span>.**
 
-Il ne s'agit pas d'une approximation mystique : le calcul se déduit des équations de deux cercles. La même construction donne les deux triangles équilatéraux qui partagent la base AB.
+Ce rapport exact naît des équations de deux cercles. La même construction engendre deux triangles équilatéraux partageant la base AB : la géométrie révèle une parenté entre les formes que le dessin nous permet de contempler.
 
 ### La lecture cosmodésique de cette intersection
 
@@ -205,7 +205,7 @@ Oui, parce qu'une construction peut recevoir plusieurs **lectures situées**, to
 
 Prenons la Vesica Piscis. Les intersections circulaires peuvent servir à construire un triangle équilatéral ; la forme d'amande peut devenir un encadrement sacré dans certaines traditions iconographiques ; un architecte peut y chercher un principe d'arc ; un écrivain peut y voir une rencontre.
 
-La transformation cosmodésique consiste à ne pas faire glisser silencieusement une signification dans une autre :
+La lecture cosmodésique rend visibles les passages entre ces significations ; chacune conserve son propre nom et ouvre sa propre question :
 
 | Registre | Question que l'on peut examiner |
 |---|---|
