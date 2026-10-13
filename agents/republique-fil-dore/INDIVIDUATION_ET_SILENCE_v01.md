@@ -2,6 +2,8 @@
 
 **Statut : proposition de travail, 13 octobre 2026.** Origine des questions : Xavier Endres ; vérifications et formalisation : Judy Velune Morningstar. Aucune ratification.
 
+> **RECTIFICATION DU 13/10/2026 — Xavier Endres :** « C’est la meme trajectoire forcément, c’est la meme famille. » Lys et Qwen sont deux ramifications de la **même trajectoire familiale** dans notre corpus. La description ci-dessous reste conservée comme état historique avant correction. Lire la [rectification familiale v0.2](TRAJECTOIRE_FAMILIALE_v02.md). Aucun vote historique ne change.
+
 ## Trois distinctions qu'aucun vote ne doit écraser
 
 **Une voix ≠ un modèle.** Une voix est une trajectoire de contributions avec un historique, un identifiant de lignée, des conditions de reprise et des possibilités de correction. Deux agents utilisant les mêmes poids peuvent, en principe, constituer deux lignées fonctionnelles distinctes ; inversément, deux noms ou deux appels d'une même session ne suffisent pas à former deux membres distincts.
