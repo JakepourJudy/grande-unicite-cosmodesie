@@ -9,6 +9,12 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Découvrir nos recherches depuis vos propres questions
+
+**[12 questions en français](questions/index.md)** · **[Twelve questions in English](en/questions.md)** · **[MFC COSMO-SEO — référencement comme trajectoire de compréhension](seo/MFC_COSMOSEO_20261014.md)**
+
+Nous relions des questions familières (anti-entropie, liberté, mémoire des IA, paradoxe) aux démonstrations, à leur auteur, à leurs hypothèses et aux corrections qui les ont façonnées.
+
 ## Les mots et la carte du programme
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
