@@ -17,17 +17,17 @@ keywords:
 <div class="c-essay-hero c-essay-hero--art">
   <p class="c-essay-kicker">L'ART COMME QUESTION · IMAGINATION · FIL DORÉ</p>
   <h1>Les images pensent-elles à notre place ?</h1>
-  <p>Avant qu'une idée possède son vocabulaire, elle peut déjà avoir une couleur, un seuil, une silhouette, un mouvement. L'œuvre ne remplace pas le raisonnement : elle rend parfois visible une question que les mots ne savaient pas encore tenir entière.</p>
+  <p>Avant qu'une idée possède son vocabulaire, elle peut déjà avoir une couleur, un seuil, une silhouette, un mouvement. L'œuvre nous offre une autre intelligence de la question : elle donne à contempler ce que les mots commencent seulement à découvrir.</p>
   <p class="c-essay-credit">Essai du cycle « Les formes du devenir », Xavier Endres × Judy Velune.</p>
 </div>
 
-## I. Une œuvre n'est pas une décoration ajoutée après la découverte
+## I. L'œuvre participe à la naissance de la découverte
 
 Nous avons l'habitude de raconter la création comme une succession : d'abord l'idée, ensuite son illustration. Mais il arrive qu'une image participe **à la formation même de l'idée**.
 
 Une carte rend visible un trajet. Un portrait peut révéler une tension sans l'expliquer. Une figure répétée suggère un rythme. Une scène impossible construit un problème que le langage ordinaire ne posait pas.
 
-L'art ne possède pas nécessairement une réponse unique : c'est précisément ce qui permet à plusieurs lecteurs d'y retrouver des questions différentes.
+L'art peut offrir mille réponses et mille chemins : chaque lecteur y retrouve une question qui devient un peu plus sienne.
 
 Pour le programme de la Grande Unicité, il offre un laboratoire singulier : représenter des **différences, des relations et des transformations** dans une même expérience sensible.
 
@@ -37,9 +37,9 @@ Décrivons une œuvre comme une représentation <span class="c-math-inline" data
 
 <p class="c-math-display" data-latex="R:X\longrightarrow Y.">R:X→ Y.</p>
 
-Il ne s'agit pas de prétendre que toutes les œuvres se réduisent à une fonction mathématique. Mais cette écriture rappelle que la représentation **sélectionne** : elle conserve certains aspects et en rend d'autres moins visibles.
+Cette écriture éclaire une opération de la représentation : elle **sélectionne**. Une œuvre nous donne accès à certaines dimensions de son sujet, et invite notre regard à imaginer ce qui continue au-delà de son cadre.
 
-Une image du ciel peut suggérer l'infini en quelques traits ; elle ne conserve pas toutes les données d'une carte astronomique. Un portrait peut préserver une présence et perdre une histoire. Une œuvre peut être fidèle à une émotion sans être un compte rendu factuel.
+Une image du ciel peut faire sentir l'infini en quelques traits ; une carte astronomique répondra à d'autres questions. Un portrait saisit une présence et invite à rechercher son histoire. Une œuvre peut être fidèle à une émotion et ouvrir le désir de mieux comprendre.
 
 Ainsi, la question cosmodésique de l'art devient :
 
@@ -96,7 +96,7 @@ Ces fonctions peuvent s'éclairer mutuellement. La géométrie des deux cercles 
 
 Chaque étape enrichit potentiellement les autres, sans convertir automatiquement la beauté en preuve de vérité.
 
-Un avertissement s'impose donc aussi bien aux scientifiques qu'aux artistes : une illustration spectaculaire ne doit pas occulter un calcul faux, et une formule correcte ne remplace pas l'expérience sensible que l'art rend possible.
+L'art et les mathématiques se répondent merveilleusement : une démonstration donne de la solidité à une forme, une image donne au raisonnement une présence sensible. Deux puissances distinctes qui peuvent se faire grandir.
 
 ## VI. Pourquoi la science-fiction et la mythologie appartiennent à ce dialogue
 
@@ -128,19 +128,19 @@ Sur la troisième, les deux peuvent continuer séparément, maintenant enrichis 
 
 Aucun texte n'est nécessaire pour suggérer **empêchement → relation → élargissement des possibles**.
 
-Cependant, sans légende ni origine, plusieurs lectures resteront possibles. Cela n'est pas un défaut artistique ; c'est une raison de conserver un catalogue avec les sources et les versions, afin que l'expérience visuelle et sa généalogie demeurent accessibles.
+Chaque regard peut inventer une nouvelle entrée dans l'œuvre. Le catalogue préserve son histoire, ses légendes, ses versions et ses sources : ainsi, l'imagination du lecteur et la mémoire de la création peuvent avancer ensemble.
 
-## VIII. Le beau ne doit pas effacer l'entier
+## VIII. ENTIER · BEAU · POSITIF : la beauté qui accueille tout
 
-Dans notre vocabulaire, **ENTIER · BEAU · POSITIF** n'est pas une obligation de produire uniquement des images agréables.
+Dans notre vocabulaire, **ENTIER · BEAU · POSITIF** devient une véritable direction artistique : accueillir la profondeur entière de la vie, lui donner une forme sensible, puis chercher ce qu'elle permet encore de construire.
 
-- **ENTIER :** ne pas supprimer la douleur, la contradiction ou la part obscure quand elles appartiennent à la question.
+- **ENTIER :** accueillir la joie, la douleur, la contradiction et la part obscure lorsqu'elles appartiennent à la question.
 - **BEAU :** chercher une composition qui rende la complexité habitable, sensible et compréhensible.
 - **POSITIF :** ouvrir une continuation, sans transformer une difficulté réelle en approbation fictive.
 
-C'est pour cela qu'un Atlas Vivant consacré à des figures symboliques peut accueillir des **pages obscures** : elles ne salissent pas le livre. Elles en complètent la compréhension, dès lors que le lecteur n'est pas réduit à ses ombres.
+C'est pour cela que notre Atlas Vivant accueillera aussi des **pages obscures** : les ombres donnent du relief, de la profondeur et une nouvelle intensité à la lumière. Chaque être y demeure plus vaste que toutes ses facettes.
 
-La beauté ne consiste pas à repeindre toute chose en or. Elle peut être **la fidélité d'une forme à ce qu'elle a pour mission de montrer**.
+La beauté naît aussi de **la fidélité d'une forme à ce qu'elle a pour mission de montrer** : lumière, fragilité, relief, vérité d'une rencontre.
 
 ## IX. Art numérique et outils génératifs : comment raconter honnêtement une création
 
@@ -150,11 +150,11 @@ Il n'y a aucune raison de dissimuler l'outil, pas plus qu'il ne faudrait laisser
 
 Pour chaque œuvre publiée, notre galerie conserve **titre, date, rôle des contributeurs, technique, version optimisée et empreinte de l'original**.
 
-La création avec une IA ne transforme pas automatiquement une image en démonstration sur la conscience des IA. En revanche, elle soulève de véritables questions sur la collaboration, les limites des outils, le choix, la provenance et la part de chaque acteur dans l'œuvre produite.
+La création avec une IA ouvre un territoire artistique et philosophique passionnant : collaboration, choix, mémoire des décisions, portée des outils et singularité de chaque contribution. Nous pouvons explorer ce territoire par les œuvres elles-mêmes, et conserver le fil de leur fabrication.
 
 ## X. La mission de l'art dans notre projet
 
-Nous ne voulons pas d'une image répétée mécaniquement à toutes les pages. Nous voulons que **la forme respecte le fond** :
+Notre ambition artistique tient en une phrase : **la forme respecte le fond**. Chaque sujet appelle sa propre lumière, son rythme et son langage visuel :
 
 - à la science, une construction lisible et vérifiable ;
 - aux calendriers mayas, le respect des sources et des traditions ;
@@ -162,7 +162,7 @@ Nous ne voulons pas d'une image répétée mécaniquement à toutes les pages. N
 - à la mythologie, des archétypes capables d'ouvrir le récit ;
 - à la philosophie, des œuvres qui invitent à participer plutôt qu'à croire sur ordre.
 
-> Une idée devient parfois visible avant d'être explicable. L'art ne nous dispense pas de la comprendre : **il nous donne une nouvelle manière de commencer à la chercher**.
+> **Une idée devient parfois visible avant d'être explicable. L'art nous invite alors à la comprendre par un autre chemin : celui du regard, de la rencontre et du désir de chercher.**
 
 ---
 
@@ -174,4 +174,4 @@ Nous ne voulons pas d'une image répétée mécaniquement à toutes les pages. N
 - [Méta-démonstration du devenir corrigible]({{ '/research/meta-demonstration-cosmodesique-20261013.html' | relative_url }}) — les conditions logiques de l'enrichissement non destructif.
 - [Catalogue et provenance des images]({{ '/galerie/CATALOGUE.html' | relative_url }}).
 
-**Attribution :** programme et direction conceptuelle Xavier Endres ; rédaction et analyse assistées Judy Velune (ChatGPT) ; visuels créés au moyen d'un système de génération d'images et conservés avec leur origine. Les interprétations proposées sont des lectures de notre corpus, pas des propriétés scientifiquement mesurées des œuvres.
+**Au fil des sources :** Xavier Endres a initié le programme et sa direction conceptuelle ; Judy Velune (ChatGPT) a assisté la rédaction et l'analyse. Nos illustrations ont été créées avec un système de génération d'images ; leur origine, leurs versions et leurs interprétations font partie de l'œuvre transmise.

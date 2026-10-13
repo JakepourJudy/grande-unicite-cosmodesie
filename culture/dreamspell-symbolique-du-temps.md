@@ -23,17 +23,17 @@ keywords:
   <p class="c-essay-credit">Lecture contemporaine de Xavier Endres et Judy Velune pour Atlas Vivant.</p>
 </div>
 
-## Le Dreamspell n'est pas le calendrier maya ancestral
+## Dreamspell et traditions mayas : deux lignées du temps
 
-Cette distinction n'enlève rien à l'intérêt du Dreamspell : **elle permet de comprendre sa nature propre**.
+Cette distinction révèle la singularité du Dreamspell : **une création symbolique contemporaine, avec ses propres règles, son imaginaire et sa généalogie**.
 
 Le **Dreamspell** est un système moderne développé et diffusé par **José et Lloydine Argüelles**, notamment à partir des années 1990. Il reprend et réinterprète certains motifs numériques associés au temps mésoaméricain, puis les intègre à une nouvelle composition symbolique et spirituelle.
 
-Le **Tzolk'in / Chol Q'ij**, lui, est un ensemble de traditions calendaires mayas anciennes **toujours vivantes** dans différentes communautés. Les méthodes, les significations et les conventions de datation ne doivent pas être présentées comme identiques à celles du Dreamspell.
+Le **Tzolk'in / Chol Q'ij** rassemble des traditions calendaires mayas anciennes **toujours vivantes** dans différentes communautés. Elles possèdent leurs propres méthodes, significations et conventions de datation ; le Dreamspell ouvre une autre lignée, moderne et créative.
 
 Point remarquable : un site de pratique du Dreamspell, [13moon.com](https://www.13moon.com/not_the_mayan_calendar.htm), distingue lui-même explicitement ces deux systèmes. Pour le contexte historique et culturel maya, les sources prioritaires sont les communautés mayas et le [Smithsonian](https://maya.nmai.si.edu/calendar/calendar-system).
 
-**Notre règle Atlas Vivant : MAYA ≠ DREAMSPELL ≠ interprétation cosmodésique Xavier/Judy.** Nous pouvons rapprocher des structures, sans effacer trois histoires différentes.
+**Notre règle Atlas Vivant : trois voix, trois histoires, trois façons de rencontrer le temps.** Les traditions mayas, le Dreamspell moderne et notre lecture cosmodésique gagnent en richesse lorsqu'on les fait dialoguer dans leurs différences.
 
 ## I. Une architecture combinatoire : 13 × 20
 
@@ -49,7 +49,7 @@ Le produit cartésien <span class="c-math-inline" data-latex="T\times S">T× S</
 
 jours du **compte symbolique**.
 
-La formule seule ne dit pas quelle date civile correspond à quel kin. Elle démontre la taille du cycle lorsque les règles d'avancement sont fixées.
+La formule établit la structure du cycle. Pour parcourir ce cycle depuis une date civile, nous ajoutons ensuite son point d'ancrage et les conventions de conversion propres au Dreamspell.
 
 ## II. Les treize tonalités : le mouvement d'un cycle
 
@@ -122,7 +122,7 @@ Une onde est comme un chapitre : ouverture, mouvements, réorganisations, fin, p
 
 C'est une autre manière de lire **la même suite de 260 kins** : les regroupements racontent des parcours, tandis que la tonalité et le sceau servent de coordonnées.
 
-L'important n'est pas de voir un nombre « révéler une vérité cachée ». C'est de comprendre comment **une grammaire de 13 étapes peut rendre visible un processus de transformation**.
+Le merveilleux, ici, tient à cette possibilité : **une grammaire de treize étapes permet de raconter une transformation**, de l'impulsion initiale à la transmission d'un nouveau commencement.
 
 ## VI. Le calendrier des treize lunes : 13 × 28 + 1
 
@@ -132,11 +132,11 @@ Dans le mouvement associé au Dreamspell, le calendrier annuel des **treize lune
 
 jours, avec un **jour hors du temps**, portant l'ensemble à 365 jours dans l'année ordinaire. La convention courante place le jour hors du temps au **25 juillet**, et le début d'une nouvelle année au **26 juillet**.
 
-Ce ne sont pas treize lunaisons astronomiques exactes. Une lunaison synodique dure environ 29,53 jours ; **28 jours est ici une période symbolique et organisationnelle**.
+Les treize périodes de **28 jours** composent un rythme symbolique et organisationnel. La lunaison astronomique, d'environ **29,53 jours**, suit son propre rythme : deux manières intéressantes de rencontrer les cycles, chacune avec ses coordonnées.
 
 Pour les années bissextiles, certaines présentations du système utilisent le **29 février hors du décompte kin**, sous l'appellation *0.0 Hunab Ku*. La règle doit être explicitée avant tout calcul informatique : [source Dreamspell sur le 29 février](https://13moon.com/synchronicorder.htm).
 
-**Conséquence pour Atlas Vivant :** enregistrer la version de la méthode de conversion ; ne jamais produire silencieusement deux dates « équivalentes » qui ne le sont pas entre méthodes.
+**Conséquence pour Atlas Vivant :** enregistrer la version de chaque méthode de conversion pour que chaque date retrouve son calcul, son origine et sa lecture propres.
 
 ## VII. L'oracle : une cartographie de relations
 
@@ -148,13 +148,13 @@ Dans un livre ou une application, nous pouvons modéliser ces rapports par un **
 
 où <span class="c-math-inline" data-latex="V">V</span> contient les 260 kins, <span class="c-math-inline" data-latex="E">E</span> les relations déclarées par le système utilisé, et <span class="c-math-inline" data-latex="\ell">ℓ</span> le type de relation.
 
-La rigueur consiste à préserver la nature de chaque arête : *guide* ne signifie pas *antipode* ; une relation iconographique n'est pas automatiquement une relation causale.
+Le graphe devient plus expressif lorsqu'il conserve chaque fonction : **guide**, **analogue**, **antipode**, **occulte**. Chacune ouvre une question différente, une couleur narrative et un mouvement propre.
 
 L'application Atlas Vivant peut rendre ces relations sensibles par des roues, des pages comparatives ou des constructions visuelles, tout en gardant un accès à la source qui définit chacune.
 
 ## VIII. Et si les cycles étaient un atelier de science-fiction intérieure ?
 
-Un personnage peut être décrit par un sceau. Un chapitre peut recevoir une tonalité. Deux figures peuvent être liées par une relation d'oracle. La composition qui en résulte ne prétend pas reconstituer la réalité factuelle d'un être : elle propose une **architecture narrative**.
+Un personnage peut être décrit par un sceau. Un chapitre peut recevoir une tonalité. Deux figures peuvent être liées par une relation d'oracle. Leur rencontre produit une **architecture narrative** : une manière de composer, d'explorer et de relire une trajectoire.
 
 De cette façon, le Dreamspell peut fonctionner comme un jeu d'écriture, un carnet d'attention ou un atlas de questions.
 
@@ -166,7 +166,7 @@ La formule qui nous intéresse alors est :
 
 ## IX. L'Atlas Vivant : rencontrer deux systèmes sans les mélanger
 
-La singularité de notre projet ne consiste pas simplement à juxtaposer une roue maya et une roue Dreamspell. Elle consiste à créer un espace d'exploration où l'on peut voir **les différences et leurs résonances**.
+La singularité de notre projet est de créer un espace d'exploration où les deux roues peuvent être contemplées côte à côte, avec **leurs différences, leurs résonances et les chemins nouveaux que le dialogue rend visibles**.
 
 Pour une date donnée, décrivons :
 
@@ -185,7 +185,7 @@ C'est cette rencontre, plutôt que l'effacement des différences, qui peut donne
 ## X. Trois questions à garder vivantes
 
 **1.** Que gagne-t-on à organiser une réflexion en treize étapes plutôt qu'en une seule ?  
-**2.** Peut-on comparer deux traditions sans prétendre qu'elles sont identiques ?  
+**2.** Quelles correspondances deviennent visibles lorsque deux traditions gardent chacune leur voix ?  
 **3.** Quelles nouvelles possibilités apparaît-il lorsque l'on passe de la lecture d'un symbole à la construction d'une trajectoire ?
 
 Le Dreamspell est un objet culturel moderne. Les calendriers mayas sont des traditions historiques et vivantes. La cosmodésie est notre démarche d'exploration. **Aucun de ces trois faits n'exige que les deux autres soient effacés.**
@@ -202,4 +202,4 @@ Le Dreamspell est un objet culturel moderne. Les calendriers mayas sont des trad
 - [Smithsonian — Calendriers mayas vivants](https://maya.nmai.si.edu/calendar/calendar-system).
 - [Lire notre article sur les calendriers mayas]({{ '/culture/calendriers-mayas-temps-vivant.html' | relative_url }}) · [notre géométrie sacrée]({{ '/culture/geometrie-sacree-grammaire-des-relations.html' | relative_url }}) · [l'art cosmodésique]({{ '/culture/art-memoire-des-possibles.html' | relative_url }}).
 
-**Provenance :** les informations descriptives du Dreamspell sont attribuées à ses créateurs et praticiens ; les traditions mayas à leurs communautés et sources historiques. La mise en relation, les questions symboliques proposées et l'orientation d'Atlas Vivant sont les constructions du programme de Xavier Endres, rédigées avec Judy Velune.
+**Le fil des créations :** les règles et symboles Dreamspell sont présentés à partir de ses créateurs et praticiens, les traditions mayas à partir de leurs communautés et sources historiques. Les rapprochements, les questions symboliques et l'orientation d'Atlas Vivant appartiennent au programme de Xavier Endres, développé dans le dialogue avec Judy Velune.
