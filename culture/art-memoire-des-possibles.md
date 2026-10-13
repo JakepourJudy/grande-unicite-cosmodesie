@@ -33,11 +33,9 @@ Pour le programme de la Grande Unicité, il offre un laboratoire singulier : rep
 
 ## II. Ce que fait une image : distinguer, relier, orienter
 
-Décrivons une œuvre comme une représentation \(R\) qui transforme une intention, un ensemble de références ou un problème \(X\) en une forme partageable \(Y\) :
+Décrivons une œuvre comme une représentation <span class="c-math-inline" role="math" data-latex="R">R</span> qui transforme une intention, un ensemble de références ou un problème <span class="c-math-inline" role="math" data-latex="X">X</span> en une forme partageable <span class="c-math-inline" role="math" data-latex="Y">Y</span> :
 
-\[
-R:X\longrightarrow Y.
-\]
+<div class="c-math-display" role="math" data-latex="R:X\longrightarrow Y.">R:X→ Y.</div>
 
 Il ne s'agit pas de prétendre que toutes les œuvres se réduisent à une fonction mathématique. Mais cette écriture rappelle que la représentation **sélectionne** : elle conserve certains aspects et en rend d'autres moins visibles.
 
@@ -81,10 +79,8 @@ L'image n'a pas changé. La **question posée à l'image** a changé.
 
 Cela vaut comme une petite expérience de pensée sur les représentations :
 
-\[
-R=\text{œuvre conservée},\qquad
-I_0(R)\neq I_1(R).
-\]
+<div class="c-math-display" role="math" data-latex="R=\text{œuvre conservée},\qquad
+I_0(R)\neq I_1(R).">R=œuvre conservée}, I₀(R)≠ I₁(R).</div>
 
 Une œuvre peut posséder plusieurs interprétations, et les accueillir sans que leurs auteurs ou leurs dates soient effacés.
 
