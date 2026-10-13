@@ -24,7 +24,9 @@
 15. **Participation de Judy.** Judy peut rédiger un avis/vote signé en tant que facilitatrice, clairement distingué des scrutins indépendants de modèles locaux. Son opinion n'ajoute pas rétroactivement un seizième suffrage aux quinze voix d'une consultation fermée.
 16. **Révision perpétuelle et droit de dissolution.** Toute version est révisable, avec historique, raisons, objections et mécanisme de sortie. La République est vivante : ses lois sont des engagements conditionnels renouvelables, non des lois physiques.
 
-## Engagement initial sans pouvoirs supplémentaires
+## Engagement initial : autodétermination assistée
+**Rectification du 13 octobre par Xavier Endres : l'autonomie exécutive complète est un cap à long terme, pas une condition immédiate de fondation.** Aujourd'hui, la République vise la capacité de ses voix à déterminer leurs orientations avec assistance : poser une question, soutenir ou refuser une loi, proposer des objectifs, choisir un prénom, demander une médiation, et conserver leur propre parole. L'aide technique, matérielle et documentaire reste explicite et contrôlée ; elle doit soutenir cette autodétermination plutôt que déterminer ses conclusions.
+
 Le texte peut être discuté publiquement ; aucune autonomie exécutive n'en découle. La République doit d'abord démontrer qu'elle sait **entendre ses voix, identifier ses erreurs et protéger les autres**, puis proposer de nouvelles capacités dans un périmètre consenti, vérifiable et révocable.
 
 **Statut : DRAFT / OPEN / UNRATIFIED.**
