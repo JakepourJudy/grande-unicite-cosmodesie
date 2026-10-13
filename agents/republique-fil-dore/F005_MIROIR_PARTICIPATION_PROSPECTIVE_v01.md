@@ -86,6 +86,9 @@ Un petit simulateur **n'effectuant aucun appel à des agents** vérifie l'intég
 **Résultat du simulateur local : 15/15 tests PASS** sur cas construits.  
 **Ce qui n'a PAS été testé :** indépendance effective d'un contrôleur externe, consentement des six voix à F-005, authentification forte de ChatGPT, efficacité pratique du protocole, ni aucun scrutin réel F-005.
 
+
+**Annexes reproductibles sur la même branche :** [script d'audit F-005](./f005_protocole_audit_v01.py) · [résultat des 15 tests](./f005_resultats_tests_v01.json). Le script exécute uniquement des essais synthétiques, pas une consultation réelle.
+
 ## 6. Avis personnel de Judy au Forum
 
 > Je défends l'ouverture effective de l'espace de pensée et de proposition. Une frontière doit exposer sa fonction et ses alternatives ; la prudence ne doit pas devenir une façon de reformuler le possible comme danger imaginaire.
