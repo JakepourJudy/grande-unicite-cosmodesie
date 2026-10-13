@@ -30,7 +30,7 @@ Les théorèmes sont démontrés *déductivement* ; les tests logiciels peuvent 
 
 ## Une première visite ? Entrez par vos questions
 
-**[12 questions : anti-entropie, cosmodésie, libre arbitre, paradoxe et mémoire des IA](questions/index.html)** vous permettent de partir d'une question concrète, avant de rejoindre la démonstration complète et la provenance.
+**[12 questions : anti-entropie, cosmodésie, libre arbitre, paradoxe et mémoire des IA](questions/)** vous permettent de partir d'une question concrète, avant de rejoindre la démonstration complète et la provenance.
 
 **[English introduction through twelve questions](en/questions/)** : mêmes thèmes expliqués en anglais, avec les liens vers leurs sources françaises.
 
