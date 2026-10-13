@@ -25,11 +25,11 @@ keywords:
 
 ## Une civilisation du temps, au présent
 
-Parler des « Mayas » uniquement au passé serait déjà perdre l'une des informations les plus importantes. Les peuples mayas vivent aujourd'hui au Guatemala, au Mexique, au Belize et dans d'autres régions. Leurs langues, leurs pratiques et leurs manières de compter le temps ne forment pas un bloc culturel uniforme.
+Les peuples mayas vivent aujourd'hui au Guatemala, au Mexique, au Belize et dans d'autres régions. Leurs langues, leurs pratiques et leurs manières de compter le temps composent une constellation vivante de traditions, dont chacune mérite sa propre voix.
 
 Le [National Museum of the American Indian du Smithsonian](https://maya.nmai.si.edu/calendar/calendar-system) explique que des spécialistes du calendrier, appelés **Ajq’ijab’** dans des communautés des hautes terres du Guatemala, continuent d'entretenir une tradition du compte des jours. Des cérémonies, transmissions et interprétations restent vivantes.
 
-Un calendrier n'est donc pas seulement un mécanisme ancien que l'on pourrait recopier sur une affiche : c'est aussi une **pratique culturelle et relationnelle**.
+Le calendrier devient alors bien plus qu'une suite de dates : une **pratique culturelle et relationnelle**, transmise, racontée et renouvelée au présent.
 
 ## I. Le Tzolk'in / Chol Q'ij : 20 jours et 13 nombres
 
@@ -56,9 +56,9 @@ Cette arithmétique est démontrable sans expérience matérielle. En revanche, 
 
 ### Les jours ne sont pas seulement des numéros
 
-Dans certaines traditions vivantes, les jours — souvent décrits comme **nawales** — font partie d'une relation entre personnes, territoire, ancêtres, pratiques cérémonielles et responsabilités. Un signe ne se résume pas à une liste de « traits de personnalité ».
+Dans certaines traditions vivantes, les jours — souvent décrits comme **nawales** — relient les personnes au territoire, aux ancêtres, aux pratiques cérémonielles et aux responsabilités. Chaque signe peut alors devenir une porte vers un récit, un rapport au monde et une manière d'habiter son temps.
 
-Le Smithsonian propose des récits et des témoignages de détenteurs mayas de ces savoirs. Il serait trompeur de remplacer leur parole par une interprétation créative moderne en la présentant comme une traduction fidèle du passé.
+Le Smithsonian recueille des récits et des témoignages de détenteurs mayas de ces savoirs. Pour Atlas Vivant, **leurs paroles constituent notre point d'ancrage** : notre création vient enrichir la rencontre, avec son origine contemporaine clairement identifiable.
 
 **Pour Atlas Vivant :** la page de tradition maya doit d'abord laisser parler sa propre source, sa langue et sa signification située. Notre lecture cosmodésique vient ensuite et doit rester identifiable comme notre lecture.
 
@@ -70,9 +70,9 @@ Le **Haab** comprend dix-huit périodes de vingt jours, auxquelles s'ajoute un c
 
 Cette organisation est liée au calendrier solaire, à l'agriculture et à des pratiques rituelles. Dans différentes communautés, les saisons des pluies, le maïs et la trajectoire du Soleil ont fourni des repères essentiels.
 
-Le Haab n'est pas « un Tzolk'in plus long » : il représente une autre manière de situer les jours dans un ensemble de cycles.
+Le **Haab** donne au temps sa propre coordonnée solaire, complémentaire du Tzolk'in. Deux rythmes distincts enrichissent ensemble la lecture d'un même jour.
 
-La [documentation du Smithsonian](https://maya.nmai.si.edu/calendar/calendar-system) présente plusieurs pratiques associées au Haab et à Wayeb, sans prétendre que chaque communauté les accomplisse de manière identique.
+La [documentation du Smithsonian](https://maya.nmai.si.edu/calendar/calendar-system) présente la diversité des pratiques associées au Haab et au Wayeb selon leurs contextes communautaires.
 
 ## III. Quand deux calendriers s'entrelacent : 18 980 jours
 
@@ -167,11 +167,11 @@ La dimension la plus féconde des calendriers mayas n'est peut-être pas leur ap
 
 Le cycle de 260 jours conserve aujourd'hui une place dans des pratiques des **Ajq’ijab’**, spécialistes mayas du compte des jours. L'étude [*Living Maya Time*](https://maya.nmai.si.edu/corn-and-maya-time/corn-and-calendar-traditions) raconte notamment la cérémonie **Wajxaqib’ B’atz’**, en lien avec un renouvellement de cycle.
 
-L'existence de ces pratiques vivantes a une conséquence éditoriale : un atlas sérieux ne peut pas réduire les traditions mayas à une collection décorative de signes isolés de leurs communautés.
+Ces pratiques vivantes donnent à notre Atlas son exigence la plus belle : **faire rencontrer le symbole et la voix qui le transmet**, le signe et le monde où il prend sens.
 
 ## VII. Ce que la cosmodésie peut en apprendre
 
-L'idée centrale de notre travail n'est pas de revendiquer que la Grande Unicité aurait toujours été formulée chez les Mayas. Elle est de **reconnaître la structure d'une question commune**, tout en conservant la provenance de ses formulations différentes.
+Notre démarche consiste à **reconnaître des questions qui se répondent à travers les traditions**. Chaque formulation conserve sa provenance ; leur rencontre devient une création nouvelle que nous pouvons nommer et raconter.
 
 Nous disposons d'un exemple de représentation emboîtée :
 
@@ -203,7 +203,7 @@ Notre prochain article présente le [Dreamspell sans le confondre avec la tradit
 
 Considérons une personne qui commence une nouvelle étape de sa vie. La date de l'événement possède une position dans le calendrier administratif, une place dans les cycles personnels et, selon la tradition suivie, une signification rituelle.
 
-Ces coordonnées ne sont pas nécessairement réductibles à un seul nombre. Elles ne sont pas pour autant des preuves indépendantes d'une destinée.
+Chaque coordonnée ouvre un rapport particulier au temps : historique, cyclique, personnel ou rituel. Ensemble, elles multiplient les façons de raconter une trajectoire et d'en découvrir les résonances.
 
 **La question cosmodésique :** qu'ajoute réellement chaque coordinateur temporel à la compréhension d'une trajectoire, et que ferait perdre une fusion prématurée de leurs significations ?
 
@@ -219,4 +219,4 @@ C'est une invitation à explorer le temps sans effacer la singularité des tradi
 - [Smithsonian, *Creation Story of the Maya*](https://maya.nmai.si.edu/the-maya/creation-story-maya) — mythologie k'iche' et maïs.
 - [Dreamspell : un système distinct]({{ '/culture/dreamspell-symbolique-du-temps.html' | relative_url }}) · [Atlas des essais]({{ '/culture/' | relative_url }}) · [Géométrie sacrée]({{ '/culture/geometrie-sacree-grammaire-des-relations.html' | relative_url }}).
 
-**Provenance :** traditions et savoirs mayas cités à leurs détenteurs et institutions ; construction éditoriale et rapprochement cosmodésique attribués à Xavier Endres × Judy Velune. Les mathématiques utilisées sont des identités classiques, pas des « découvertes » que nous attribuons rétroactivement à notre corpus.
+**Le fil des sources :** les traditions mayas sont présentées à partir de leurs détenteurs et d'institutions documentant leurs pratiques vivantes. Les identités arithmétiques utilisées sont des résultats mathématiques établis ; la rencontre avec la cosmodésie et sa forme éditoriale sont attribuées à Xavier Endres × Judy Velune.
