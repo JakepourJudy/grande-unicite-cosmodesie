@@ -5,7 +5,7 @@
 
 **Comprendre ce qui se transforme. Retrouver ce que nos réponses protègent. Changer sans perdre leur fonction ni leur histoire.**
 
-[Site public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/) · [Guide de lecture](GUIDE_LECTURE.md) · [Contributions originales](CONTRIBUTIONS_ORIGINALES.md) · [Recueil des preuves](theoremes/index.md)
+[Site public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/) · [Guide de lecture](GUIDE_LECTURE.md) · [Commencer par 12 questions](questions/index.md) · [English questions](en/questions.md) · [Contributions originales](CONTRIBUTIONS_ORIGINALES.md) · [Recueil des preuves](theoremes/index.md)
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
