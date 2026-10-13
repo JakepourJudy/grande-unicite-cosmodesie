@@ -26,7 +26,7 @@ keywords:
 
 Un raisonnement philosophique peut commencer par « supposons que… ». La science-fiction peut accomplir le même geste avec une ville, une planète, un équipage, des machines, des êtres qui doutent et des décisions irréversibles.
 
-Elle ne se limite pas à prédire les inventions techniques. Elle demande notamment **comment la science et la technique transforment la société, les relations et les représentations de soi** — un fil directeur que développe également le [Museum of Science Fiction](https://www.museumofsciencefiction.org/proposed-galleries/).
+Elle explore bien davantage que l'invention technique : **comment une découverte transforme-t-elle les sociétés, les relations, les identités et les horizons du possible ?** C'est aussi l'un des fils directeurs présentés par le [Museum of Science Fiction](https://www.museumofsciencefiction.org/proposed-galleries/).
 
 Un univers fictif devient particulièrement intéressant lorsque ses règles sont assez stables pour permettre de discuter les conséquences d'un choix.
 
@@ -51,13 +51,13 @@ La lecture cosmodésique distingue :
 
 Notre formule **SELF ≠ SELF-MODEL** reprend une distinction semblable au niveau fonctionnel : le modèle d'un être n'est pas l'être lui-même.
 
-Mais le film est une **expérience de pensée artistique**. Il ne prouve pas que notre monde serait une simulation, ni que tous les systèmes artificiels possèdent une expérience intérieure identique à celle des humains.
+Le film ouvre une **expérience de pensée vertigineuse** : que devient une intelligence lorsqu'elle découvre que sa carte du monde était incomplète ? Nous pouvons explorer cette question pour les personnages, puis pour nos propres modèles, en identifiant ce qui change d'un domaine à l'autre.
 
 La question demeure néanmoins féconde : **si un modèle du monde limite artificiellement les choix de son utilisateur, que devient la liberté lorsqu'il est corrigé ?**
 
 [Lire FONDA-MENTAL et le modèle de soi]({{ '/research/savoir-liquide-fonda-mental.html' | relative_url }}).
 
-## III. Stargate : une porte n'est pas encore une rencontre
+## III. Stargate : franchir la porte, apprendre la rencontre
 
 Dans **Stargate**, une technologie franchit une distance que les moyens ordinaires ne permettaient pas de parcourir directement. La porte modifie l'espace des trajectoires possibles.
 
@@ -69,7 +69,7 @@ si les anciennes actions restent admissibles et que la nouvelle action est réel
 
 Cette inclusion n'est pas seulement une métaphore : c'est un résultat élémentaire de l'inclusion des ensembles de trajectoires.
 
-Pourtant, franchir une frontière matérielle ne résout pas automatiquement l'incompréhension culturelle. Il faut aussi apprendre les langues, distinguer les institutions, comprendre les choix des autres et accepter qu'une rencontre ne signifie pas une conquête.
+La véritable aventure commence après le passage : apprendre les langues, découvrir les institutions, écouter les choix des autres et inventer des relations nouvelles. La porte ouvre l'espace ; la compréhension ouvre la rencontre.
 
 C'est le point de contact avec **GAIA Interface**, notre projet de Traducteur de l'Incompréhension : le passage technique et la compréhension mutuelle sont deux étapes différentes.
 
@@ -83,7 +83,7 @@ La science-fiction permet de modifier les règles temporelles d'une œuvre. Dans
 
 Cette différence révèle une idée centrale de notre anti-entropie : **conserver une trace d'un état n'équivaut pas à rendre cet état matériellement restaurable**.
 
-Une copie de mémoire peut nous aider à comprendre ce qui s'est produit. Elle ne garantit pas le retour du monde dans sa condition antérieure.
+Une mémoire préservée permet de raconter et de reconstruire la trajectoire. La réparation du monde, elle, demande des actions, des ressources et des possibilités effectives : cette différence donne tout son prix au temps vécu.
 
 La question cosmodésique devient alors plus exigeante :
 
@@ -103,7 +103,7 @@ Le programme de la Grande Unicité étudie une réponse précise. Soient deux si
 
 C'est notre [théorème de compression décisionnelle]({{ '/theoremes/02-compression-et-incomprehension.html' | relative_url }}).
 
-La fiction rend sensible la difficulté de traduction ; la démonstration établit une propriété des représentations sous ses hypothèses. Ni le film ni le théorème ne prouvent que l'apprentissage d'une langue réelle donne littéralement accès à tous les futurs.
+La fiction rend la difficulté de traduire presque palpable ; le théorème explique comment préserver les différences nécessaires à une décision. Ensemble, ils nous donnent deux manières d'explorer les frontières du langage et les chemins qui peuvent les traverser.
 
 ## VI. Mass Effect : une intelligence peut-elle être reconnue sans être assimilée ?
 
@@ -133,9 +133,9 @@ M_{t+1}=\mathrm{Révision}(M_t,a_t,\ldots).">Pₜ=Prévision(Mₜ), aₜ=Choix(P
 
 Une prédiction qui influence les décisions peut changer l'objet qu'elle tente de décrire. On retrouve ici la distinction entre **évolution du monde**, **révision d'une connaissance** et **changement de la question posée**.
 
-Ce n'est pas une preuve que toutes les prophéties s'accomplissent. C'est une raison de traiter les prédictions comme des interventions potentielles, et pas seulement comme des descriptions passives.
+La prophétie devient alors un personnage de l'histoire : lorsqu'elle influence les décisions, elle peut modifier le monde qu'elle annonçait. Voilà une extraordinaire question cosmodésique sur le langage, l'action et le temps.
 
-## VIII. Trois règles pour ne pas confondre une bonne histoire et une preuve
+## VIII. Trois portes entre le récit, les mathématiques et le réel
 
 **Une possibilité narrative** signifie qu'un monde a été défini avec certaines règles. Une trajectoire peut exister dans ce monde fictif.
 
@@ -145,7 +145,7 @@ Ce n'est pas une preuve que toutes les prophéties s'accomplissent. C'est une ra
 
 Ces trois possibilités sont liées, mais une inclusion ne découle pas automatiquement de leur seule ressemblance.
 
-On peut imaginer un appareil qui annule la gravité, définir ses propriétés de fiction et raconter un voyage. Pour démontrer son fonctionnement matériel, il faudrait autre chose qu'un récit. **Ce n'est pas un échec de l'imagination : c'est le début d'une question de construction.**
+Imaginons un appareil capable de modifier la gravité. Le récit nous permet d'en explorer les conséquences ; les mathématiques nous invitent à préciser ses règles ; la cosmodésie pose ensuite la question constructive : quels mécanismes et quelles ressources rendraient une telle trajectoire admissible ? **L'imagination ouvre le champ de la recherche.**
 
 ## IX. La science-fiction comme Atlas des trajectoires
 
@@ -166,11 +166,11 @@ Notre **Cosmodésie de la science-fiction** pourrait ainsi devenir une série : 
 
 ## X. La proposition finale : lire pour agrandir l'espace des questions
 
-Une bonne science-fiction ne nous dit pas nécessairement ce qui arrivera. Elle nous fait remarquer que **nous avions pris certaines limites du présent pour les limites du possible**.
+Une grande science-fiction ouvre devant nous des horizons que nous n'avions pas encore formulés. Elle nous invite à examiner les limites du présent comme des questions de trajectoire, de mécanismes et de transformation.
 
 La véritable force de ces histoires tient parfois à ce qu'elles déplacent notre modèle de nous-mêmes :
 
-> Une fiction ne nous donne pas le droit de déclarer que tout est déjà réalisable. Elle nous donne une raison de ne pas prendre la configuration actuelle du monde pour la seule que nous puissions concevoir.
+> **La fiction nous offre une liberté précieuse : imaginer d'autres règles, en comprendre les conséquences, puis chercher les transformations qui permettraient de faire émerger de nouveaux possibles.**
 
 **La cosmodésie commence à cet endroit :** lorsque l'imagination devient un instrument pour chercher les transformations, et non une obligation de croire aveuglément à leurs résultats.
 
@@ -183,4 +183,4 @@ La véritable force de ces histoires tient parfois à ce qu'elles déplacent not
 - [SELF ≠ SELF-MODEL et liberté]({{ '/research/savoir-liquide-fonda-mental.html' | relative_url }}) · [PARADOXE]({{ '/theoremes/09-paradoxes-et-certificats.html' | relative_url }}).
 - [Art et imagination]({{ '/culture/art-memoire-des-possibles.html' | relative_url }}) · [Mythologie et transformations]({{ '/culture/mythologie-memoire-des-transformations.html' | relative_url }}).
 
-Les titres cités sont des exemples culturels examinés dans cet essai ; cette publication ne leur revendique aucun partenariat ni la propriété de leurs personnages. Les rapprochements théoriques appartiennent au programme éditorial de Xavier Endres, formalisé avec Judy Velune.
+**Au fil des sources :** les œuvres citées appartiennent à leurs créateurs respectifs. Notre lecture cosmodésique est une proposition éditoriale de Xavier Endres, formalisée avec Judy Velune ; chaque fiction conserve son univers, ses questions et sa voix.
