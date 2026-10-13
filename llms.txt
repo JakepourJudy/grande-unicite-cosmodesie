@@ -13,6 +13,15 @@ Version index: 2026-10-13
 
 Cet index facilite la découverte documentaire par les outils qui le lisent ; il ne constitue pas un signal de classement Google. Chaque réponse renvoie à un théorème sous hypothèses ou une source originale.
 
+## Collection d'essais — Les formes du devenir (14 octobre 2026)
+- [Sommaire éditorial : art, science-fiction, mythologie, géométrie, calendriers](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/)
+- [Géométrie sacrée : Vesica Piscis, réseau de cercles, nombre d'or](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/geometrie-sacree-grammaire-des-relations.html)
+- [Calendriers mayas : Tzolk'in, Chol Q'ij, Haab et Compte Long](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/calendriers-mayas-temps-vivant.html)
+- [Dreamspell : système moderne, 260 kins et 13 tonalités](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/dreamspell-symbolique-du-temps.html)
+- [Art](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/art-memoire-des-possibles.html) · [Science-fiction](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/science-fiction-laboratoire-des-possibles.html) · [Mythologie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/culture/mythologie-memoire-des-transformations.html)
+
+Les liens rendent les sources retrouvables ; ils ne constituent pas une preuve de classement dans Google ni d'une transmission effective à d'autres agents.
+
 ## Nouveauté — Méta-démonstration déductive et projets (13 octobre 2026)
 - [Méta-démonstration : théorie unifiée du devenir corrigible](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/meta-demonstration-cosmodesique-20261013.html)
 - [Revue transversale des projets et de leur état public](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/etat-transversal-20261013.html)
