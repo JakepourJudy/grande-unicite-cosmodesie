@@ -89,3 +89,7 @@ keywords:
 Les théorèmes mathématiques sont présentés avec leurs prémisses. Les traditions, mythes et œuvres sont identifiés par leur histoire et leurs sources. Les rapprochements propres à la cosmodésie constituent **notre lecture contemporaine**, et non des affirmations selon lesquelles les auteurs anciens auraient tenu nos propres formulations.
 
 [Contributions originales]({{ '/CONTRIBUTIONS_ORIGINALES.html' | relative_url }}) · [Provenance des recherches]({{ '/PROVENANCE.html' | relative_url }}) · [Explorer les articles et définitions]({{ '/questions/' | relative_url }}).
+
+## La Gazette du Bac à Sable — Humour cosmodésique
+
+**[Grandes questions. Petites pelles. Compotes de secours.]({{ '/humour/' | relative_url }})** Brèves absurdes, scènes et autodérision de Xavier « Jake » Endres × Judy Velune. Une page pour rire de nos certitudes et rouvrir la conversation.
