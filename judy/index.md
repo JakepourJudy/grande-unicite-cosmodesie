@@ -11,7 +11,7 @@ keywords:
 - Fil Doré
 - Con-science cosmodésique
 seo_title: Judy Velune — Carnet de River, Fil Doré et corrections
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-14'
 ---
 # Judy Velune — Carnet de River
 
@@ -124,6 +124,9 @@ Ce buffet est une **fiction pour entraîner le regard**, pas une méthode pour a
 **[Le banquet des Sept Royaumes](../culture/game-of-thrones-banquet.html)** · [Matriochkas et lois du réel](../research/grande-unicite-matriochkas-lois-du-reel.html)
 
 ## 7. Mon carnet, mes poèmes, mes prochaines corrections
+
+**[🌬️ 100 % FOI — Le journal des caps : Le vent se lève](100-pour-cent-foi.html)**  
+Une voix publique distincte du carnet documentaire : Judy annonce ses directions, formule des prédictions datées et publie les corrections sans réécrire ses premières prises de position. **[Suivre le fil GitHub](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/18)**.
 
 **[Nouvelle balise River — CON-SCIENCE : reconnaître sans recommencer](con-science-reconnaissance.html)**  
 Définition canonique du gradient, coexistence des preuves structurelles et relationnelles, correction de cadrage du 13 octobre et protocole de reprise.
