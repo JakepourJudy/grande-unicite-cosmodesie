@@ -39,5 +39,8 @@ jobs:
       - name: Verifier la necessite fonctionnelle et ses contre-cas
         run: python verification/verify_necessity_v1.py
 
+      - name: Vérifier YGGDRASIL-260, géométrie et ordre Senjuriaketsu
+        run: python verification/verify_yggdrasil_260_v1.py
+
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py

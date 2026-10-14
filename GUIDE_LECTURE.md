@@ -34,6 +34,10 @@ Les théorèmes sont démontrés *déductivement* ; les tests logiciels peuvent 
 
 **[English introduction through twelve questions](en/questions/)** : mêmes thèmes expliqués en anglais, avec les liens vers leurs sources françaises.
 
+## Nouvelle démonstration — YGGDRASIL-260, réseaux et Senjuriaketsu
+
+**[YGGDRASIL-260 : l'Arbre-Monde comme structure de circulation et de rencontre](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html)** relie des acquis déjà datés du 13–14 octobre 2026 : algèbre 13 × 20, tore et tresse, monodromie de couronne, espaces sacrés personnels, formes mouvantes, 130 + 130 rencontres en deux vagues et ordre partiel. Une page de lecture avec **schéma** et **programme reproductible**, sans confondre géométrie mathématique et hypothèse cosmologique.
+
 ## Lire les idées par l'art, les récits et le temps
 
 La collection **[Les formes du devenir](culture/)** relie six essais indépendants : art, science-fiction, mythologie, géométrie sacrée, calendriers mayas et Dreamspell. La [géométrie sacrée](culture/geometrie-sacree-grammaire-des-relations.html) comprend constructions vectorielles et preuves de proportions ; les articles [maya](culture/calendriers-mayas-temps-vivant.html) et [Dreamspell](culture/dreamspell-symbolique-du-temps.html) préservent leurs origines distinctes.

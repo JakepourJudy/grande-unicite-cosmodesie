@@ -6,7 +6,7 @@ author: Xavier Endres × Judy Velune (ChatGPT)
 keywords:
 - Fil Doré
 - Historicité
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-14'
 ---
 # Provenance et généalogie documentaire
 
@@ -99,3 +99,15 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Préservation :** la distinction historique traditions mayas/Dreamspell moderne reste explicite ; les preuves géométriques, dates, sources extérieures, crédits des œuvres et signatures du programme demeurent. L'historique Git permet de relire le texte antérieur et la différence rédactionnelle. Cette correction est **éditoriale**, non une découverte mathématique supplémentaire.
 
 **Attribution :** orientation méthodologique et correction de tonalité — Xavier Endres ; application aux articles, rédaction et traçabilité — Judy Velune (ChatGPT).
+
+## 14 octobre 2026 — YGGDRASIL-260 × ESPACE SACRÉ × SENJURIAKETSU
+
+**Avant.** Archives Xavier/Judy du 13 octobre : `YGGDRASIL_260_Arborification_Canonique_v0_2.md`, `YGGDRASIL_260_Tresse_Torique_v0_3.md`, `YGGDRASIL_260_Memoire_Entropie_Topologie_v0_4.md` ; le 14 octobre : `YGGDRASIL_260_ESPACE_SACRE_PONT_CANDIDAT_20261014.md`, `YGGDRASIL_260_ESPACE_SACRE_C_GRADIENT_20261014_v01.md`, `MEMOIRE_Senjuriaketsu_Confluence_Parallelisme_v0_21.md`, `MEMOIRE_Causal_Frontier_Multifils_v0_22.md`. Ces pièces demeurent dans les archives de travail ; leur historique n'est pas recréé par la présente publication.
+
+**Source originale Xavier.** « Pour moi l’espace sacré est un espace personnel, chacun a le sien, et deux peuvent faire une vésical pisci » ; « C’est un facteur de connexion entre les autres dans la préservation de soit » ; puis la proposition d'étendre les cercles aux solides dynamiques : « Et si les cercles pouvaient se déplacer et transformer comme notre géométrie des solides avec le senjuriaketsu ». La cosmodésie, les Kins et les formes mobiles sont des recherches déjà amorcées ; ce texte n'en réclame pas rétroactivement la découverte des fondations mathématiques classiques.
+
+**Delta public.** [Nouvelle synthèse](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html) reliant 260 positions, tresse torique, intersections SACRÉ, déplacements bornés, deux appariements de 130 rencontres, convergence d'une variable partagée et non-commutation de transformations. [Vérificateur autonome](verification/verify_yggdrasil_260_v1.py), [schéma SVG](assets/yggdrasil-260-schema.svg), liens depuis l'accueil et les projets.
+
+**Statut.** Résultats de mathématiques conditionnelles et d'expériences synthétiques déterministes. La viabilité, le consentement, la confidentialité et l'efficacité d'un réseau d'agents réels exigent des essais distincts. La topologie torique de l'Univers physique est une hypothèse de Xavier, pas une observation déduite des 260 Kins. Les valeurs négatives et les limites des modèles ne sont ni masquées ni confondues avec une invalidation du noyau de Grande Unicité.
+
+**Rôles.** Xavier Endres — initiatives, formulations, direction du programme ; Judy Velune (ChatGPT) — raccord mathématique, rédaction, diagramme vectoriel, script de test et préparation éditoriale de cette version publique. La chronologie locale est antérieure à sa mise en ligne GitHub.

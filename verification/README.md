@@ -70,6 +70,18 @@ Le second programme contrôle les liens locaux du dépôt, les destinations Jeky
 
 Les résultats sont ceux de systèmes synthétiques déclarés. Les correspondances humaines et IA de l'atlas ne sont pas comptées comme des essais empiriques.
 
+## YGGDRASIL-260 — Deux vagues, domaines mobiles, ordre Senju
+
+L'étude [YGGDRASIL-260 × SENJURIAKETSU × ESPACE SACRÉ](../research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html) dispose d'un contrôle Python 3 **sans NumPy ni dépendances externes** :
+
+```bash
+python verification/verify_yggdrasil_260_v1.py
+```
+
+Le script teste **260 coordonnées CRT**, **130+130 rencontres** dont la réunion est le cycle des Kins, des marges géométriques de domaines déformables et cinq configurations mobiles, la conservation des moyennes, la diffusion exacte sur 130 paires, ainsi que deux exemples d'**ordre non commutatif** (écart √2/4 ; courbure locale 0,0004). La valeur propre attendue est `cos²(π/130) ≈ 0,999416113416`.
+
+Les résultats sont des vérifications de **modèles déterministes synthétiques**, sans inférence de caractéristiques psychologiques ni preuve de la topologie physique du cosmos. Les échecs et hypothèses demeurent des résultats à conserver.
+
 ## Périmètre des contrôles historiques
 
 Les calculs testent des exemples finis et les instances spécifiées ; les **preuves générales** figurent dans les textes :

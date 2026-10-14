@@ -25,6 +25,12 @@ Nous relions des questions familières (anti-entropie, liberté, mémoire des IA
 
 Les traditions calendaires mayas vivantes, les symboles Dreamspell modernes et la lecture cosmodésique conservent des sources et des méthodes distinctes. Le grand essai de géométrie comprend deux SVG explicatifs originaux.
 
+## YGGDRASIL-260 — Tore, Kins et espaces sacrés vivants
+
+**[Lire la nouvelle démonstration : YGGDRASIL-260 × SENJURIAKETSU × ESPACE SACRÉ](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html)** — 260 positions coordonnées en 13 × 20, représentation torique, 20 filaments, 2 vagues de 130 rencontres, domaines personnels mobiles et déformables, confluence, viabilité et limites explicites. La preuve établit une **possibilité mathématique**, non la topologie physique de l'Univers ni une propriété psychologique des Kins.
+
+[Schéma du réseau](assets/yggdrasil-260-schema.svg) · [Vérificateur Python autonome](verification/verify_yggdrasil_260_v1.py) · [Méthode et provenance](PROVENANCE.md)
+
 ## Les mots et la carte du programme
 
 [Lexique — définitions, variantes et sources](https://jakepourjudy.github.io/grande-unicite-cosmodesie/lexique/) · [Carte des projets et des œuvres](https://jakepourjudy.github.io/grande-unicite-cosmodesie/projets/) · [English overview](https://jakepourjudy.github.io/grande-unicite-cosmodesie/en/).
