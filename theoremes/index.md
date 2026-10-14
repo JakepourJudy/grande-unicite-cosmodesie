@@ -8,7 +8,7 @@ keywords:
 - Démonstration mathématique
 - Grande Unicité
 - Cosmodésie
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-14'
 ---
 # Démonstrations mathématiques — Xavier Endres
 
@@ -20,6 +20,8 @@ Cette page donne directement les **énoncés, équations et preuves**, avant de 
 **Ce que revendique le programme de Xavier Endres :** une architecture conceptuelle et opératoire originale reliant la géométrie des transformations, la cristallisation des réponses, la viabilité future, la réouverture des modèles, le diagnostic des paradoxes et la provenance des connaissances. Les théorèmes sont les instruments explicites de cette recherche, pas des ornements.
 
 **[Lire la déclaration des contributions originales et les croyances mises en défaut](../CONTRIBUTIONS_ORIGINALES.html)**
+
+**Nouvelle démonstration constructive :** [YGGDRASIL-260 × Senjuriaketsu × Espace sacré](../research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html) examine comment 260 positions peuvent circuler, échanger par vagues locales et préserver leurs frontières personnelles. Le [programme de vérification](../verification/verify_yggdrasil_260_v1.py) en contrôle les instances finies. Cette application ne change pas la numérotation des onze chapitres historiques.
 
 ## Accès direct — La nécessité fonctionnelle
 

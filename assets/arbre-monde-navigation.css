@@ -1,0 +1,24 @@
+/* MFC GRAND ARBRE-MONDE 2026-10-14.
+   Carte cosmodésique de navigation, limitée à l'accueil et aux composants .cm-*. */
+.cm-hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:.65rem;margin:1.6rem 0 .75rem}
+.cm-hero-actions a,.cm-hero-actions a:visited{display:inline-block;padding:.72rem 1rem;border:1px solid rgba(231,200,135,.63);border-radius:12px;color:#f4deac;text-decoration:none;font-size:.94rem;font-weight:700}
+.cm-hero-actions a:first-child{background:#ecd09c;color:#131c31;border-color:#ecd09c}
+.cm-hero-actions a:hover{background:#ecd09c;color:#131c31}
+.cm-tree{border-top:1px solid rgba(235,208,160,.15);padding:1.6rem 0 2rem}
+.cm-tree__intro{margin-bottom:1.2rem;max-width:75ch}
+.cm-tree__eyebrow{font-size:.76rem;text-transform:uppercase;letter-spacing:.13em;color:#e9c78f;font-weight:750;margin:0}
+.cm-tree h2{font-size:clamp(1.55rem,3vw,2.1rem);margin:.5rem 0 .7rem;color:#f6e4be}
+.cm-tree__intro p{color:#d6d4df}
+.cm-tree__grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.72rem;list-style:none;margin:0;padding:0}
+.cm-tree__node{display:flex;flex-direction:column;gap:.68rem;height:100%;padding:1.3rem 1rem;background:linear-gradient(145deg,rgba(224,193,137,.12),rgba(84,111,153,.12));border:1px solid rgba(221,194,138,.44);border-radius:16px;color:#f7edd8!important;text-decoration:none!important;transition:border-color .2s ease,transform .2s ease}
+.cm-tree__node:hover{transform:translateY(-2px);border-color:#f1d499}
+.cm-tree__label{display:block;color:#e9ce98;font-size:.76rem;font-weight:750;letter-spacing:.11em;text-transform:uppercase}
+.cm-tree__name{font-size:1.15rem;line-height:1.25;font-weight:750}
+.cm-tree__description{flex:1;color:#d2d7e5;font-size:.9rem;line-height:1.55}
+.cm-tree__action{display:block;color:#f8d89d;font-size:.9rem;font-weight:700}
+.cm-tree__foot{margin-top:1rem;font-size:.96rem;color:#dfd7c7;line-height:1.65}
+.cm-tree__foot a{color:#f2d193}
+.cm-tree :focus-visible,.cm-hero-actions :focus-visible{outline:3px solid #f6d69d;outline-offset:4px}
+@media(max-width:900px){.cm-tree__grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.cm-tree__grid{grid-template-columns:1fr}.cm-tree__node{gap:.35rem;padding:1rem}.cm-tree{padding-top:1rem}.cm-hero-actions a{width:100%;text-align:center}}
+@media(prefers-reduced-motion:reduce){.cm-tree__node{transition:none}.cm-tree__node:hover{transform:none}}

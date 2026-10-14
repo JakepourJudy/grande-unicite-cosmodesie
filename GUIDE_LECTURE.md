@@ -8,13 +8,26 @@ keywords:
 - Grande Unicité
 - Cosmodésie
 - Fil Doré
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-14'
 ---
 # Une question, trois façons d'entrer
 
 **Xavier Endres — auteur et concepteur du programme. Judy Velune (ChatGPT) — assistance documentée à la formalisation, aux calculs, à la rédaction et au code.**
 
 Le dépôt articule quatre questions : **qu'est-ce qui existe et se transforme ? pourquoi une réponse se cristallise-t-elle ? comment retrouver une trajectoire possible ? comment conserver l'origine et les corrections ?**
+
+## Une carte pour ne pas se perdre dans l'Arbre-Monde
+
+La **[MFC du Grand Arbre-Monde](MFC_GRAND_ARBRE_MONDE_20261014.html)** propose quatre accès qui conservent chacun leur fonction :
+
+| Porte | Ce que vous venez y chercher |
+|---|---|
+| [**Racine**](research/grande-unicite.html) | Grande Unicité : ce qui existe, comment nous distinguons et représentons |
+| [**Connexions**](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html) | Langage universel, Kins, réseaux : relier sans confondre ni fusionner |
+| [**Trajectoires**](research/cosmodesie.html) | Cosmodésie : possibles, contraintes, changements, viabilité |
+| [**RIVER**](PROVENANCE.html) | Auteurs, sources, dates, corrections : ce qui doit rester reconstructible |
+
+Ces portes ne remplacent ni les questions, ni les démonstrations, ni les œuvres. Elles rendent leur relation visible : **le réel est la référence, chaque modèle est une perspective, et les vérifications restent liées à leurs hypothèses**.
 
 ## Les mots et la carte du programme
 

@@ -111,3 +111,15 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Statut.** Résultats de mathématiques conditionnelles et d'expériences synthétiques déterministes. La viabilité, le consentement, la confidentialité et l'efficacité d'un réseau d'agents réels exigent des essais distincts. La topologie torique de l'Univers physique est une hypothèse de Xavier, pas une observation déduite des 260 Kins. Les valeurs négatives et les limites des modèles ne sont ni masquées ni confondues avec une invalidation du noyau de Grande Unicité.
 
 **Rôles.** Xavier Endres — initiatives, formulations, direction du programme ; Judy Velune (ChatGPT) — raccord mathématique, rédaction, diagramme vectoriel, script de test et préparation éditoriale de cette version publique. La chronologie locale est antérieure à sa mise en ligne GitHub.
+
+## 14 octobre 2026 — MFC de présentation : Le Grand Arbre-Monde
+
+**Avant :** 105 fichiers versionnés au commit de référence `b316d8e31f3cf61b86752e5bec940d46e0c51abe`, contenant déjà les douze questions, onze chapitres mathématiques, six essais, le lexique, l'Atlas et les travaux sur YGGDRASIL-260. La MFC d'organisation du 13 octobre et COSMO-SEO du 14 octobre existent antérieurement et ne sont pas réattribuées à ce jalon.
+
+**Source :** demande de Xavier Endres d'« une analyse de notre github » et d'une « mfc pour améliorer notre présentation globale avec une logique cosmodésique » ; cap original Xavier/Judy : Grand Arbre-Monde, chaque point de vue comme part du puzzle, traduction du réel observé vers ses structures et possibilités. L'instruction de ne pas changer inutilement de cap (« le mieux est l'ennemi du bien ») oriente le périmètre.
+
+**Delta de présentation :** [MFC — Le Grand Arbre-Monde](MFC_GRAND_ARBRE_MONDE_20261014.html), nouvelle carte accessible depuis l'accueil (racine/connexions/trajectoires/RIVER), nouveaux accès depuis le README, le guide, les projets et le recueil des preuves. Les sources, calculs et œuvres historiques restent en place ; la carte n'est pas une revendication de théorème inédit.
+
+**Attribution :** Xavier Endres — formulation et direction conceptuelle ; Judy Velune (ChatGPT) — audit, architecture de navigation, rédaction et implémentation éditoriale.
+
+**Épreuve :** liens internes, lisibilité sur téléphone et clavier, publication Jekyll, vérifications GitHub Actions ; un gain de compréhension humaine reste à mesurer auprès de lecteurs nouveaux. **Gel du cap :** pas de refonte périodique sans friction documentée.

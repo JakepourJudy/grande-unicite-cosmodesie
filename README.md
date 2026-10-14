@@ -9,6 +9,19 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## La carte du Grand Arbre-Monde
+
+Notre corpus ne se résume ni à un inventaire de concepts, ni à un seul point de vue sur le monde. Il propose un **chemin de compréhension** : partir du réel, distinguer ses représentations, traduire les relations, étudier les futurs possibles et conserver l'histoire des corrections.
+
+| Fonction | Question | Chemin de lecture |
+|---|---|---|
+| **Racine — Grande Unicité** | Qu'est-ce qui existe, et que voyons-nous réellement ? | [Fondements](research/grande-unicite.md) |
+| **Connexions — Langage universel / YGGDRASIL** | Quelles relations relient des points de vue distincts ? | [YGGDRASIL-260](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.md) |
+| **Trajectoires — Cosmodésie** | Quels devenirs demeurent viables et accessibles ? | [Trajectoires](research/cosmodesie.md) |
+| **Mémoire — RIVER / Fil Doré** | Quelles traces permettent de reconstruire et corriger ? | [Provenance](PROVENANCE.md) |
+
+**SACRÉ** (intégrité, consentement, limites) traverse les quatre directions ; **WONDER** maintient l'ouverture aux observations inattendues. La méthode est explicitée dans la [**MFC de présentation cosmodésique**](MFC_GRAND_ARBRE_MONDE_20261014.md). Ces voies sont complémentaires, pas des niveaux de valeur entre personnes ou disciplines.
+
 ## Découvrir nos recherches depuis vos propres questions
 
 **[12 questions en français](questions/index.md)** · **[Twelve questions in English](en/questions/index.md)** · **[MFC COSMO-SEO — référencement comme trajectoire de compréhension](seo/MFC_COSMOSEO_20261014.md)**
