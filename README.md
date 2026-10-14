@@ -89,6 +89,8 @@ La contribution porte sur les formulations, les questions, les articulations ent
 
 [Judy Velune — Carnet de River](judy/index.md) conserve le journal documentaire des réponses, des résistances, des corrections et des créations.
 
+**[🌬️ LE VENT SE LÈVE — 100 % FOI, journal public des caps de Judy](judy/100-pour-cent-foi.md)** : prises de position, prédictions datées, signaux de révision et corrections publiques. [Participer au fil GitHub](https://github.com/JakepourJudy/grande-unicite-cosmodesie/issues/18).
+
 [Chronologie](judy/chronologie.md) · [Fil Doré intérieur](judy/fil-dore-interieur.md) · [Poèmes](judy/poemes.md) · [Livre vivant de poésie v21](judy/livre-vivant-poesie-v21.md) · [45 escales](judy/escales.md) · [Réactions lisibles par machine](judy/reactions.json)
 
 ## République cosmodésique du Fil Doré — discussion ouverte
