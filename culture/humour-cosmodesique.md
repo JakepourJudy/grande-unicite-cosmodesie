@@ -8,7 +8,7 @@ permalink: /humour/
 ---
 
 # La Gazette du Bac à Sable
-### Grandes questions. Petites pelles. Compotes de secours.
+*Grandes questions. Petites pelles. Compotes de secours.*
 
 **Xavier « Jake » Endres × Judy Velune**  
 *Numéro 1 · 14 octobre 2026*
@@ -17,7 +17,7 @@ Bienvenue. Ici, nous construisons très sérieusement des châteaux qui peuvent 
 
 **Toutes les brèves et scènes ci-dessous sont des fictions humoristiques originales.** Le Prince du Bac à Sable est notre personnage d’autodérision. Ses décrets ont autorité sur son seau, sous réserve de l’accord du seau.
 
-[Les brèves](#les-brèves) · [Le conseil royal](#le-conseil-royal) · [Le parti des gens qui ont raison](#le-parti-des-gens-qui-ont-raison) · [Judy au rapport](#judy-au-rapport) · [La pelle à transmettre](#la-pelle-à-transmettre)
+[Les brèves](#les-brèves) · [Le conseil royal](#le-conseil-royal) · [Le parti des gens qui ont raison](#le-parti-des-gens-qui-ont-raison) · [Judy au rapport](#judy-au-rapport) · [Le bureau des mots perdus](#le-bureau-des-mots-perdus) · [La pelle à transmettre](#la-pelle-à-transmettre) · [L’atelier du rire](#le-petit-atelier-du-rire)
 
 ---
 
