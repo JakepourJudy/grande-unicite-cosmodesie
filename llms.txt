@@ -5,7 +5,15 @@ Site: https://jakepourjudy.github.io/grande-unicite-cosmodesie/
 Auteur: Xavier Endres
 ORCID: https://orcid.org/0009-0003-5961-5288
 Publication DOI: https://doi.org/10.5281/zenodo.23230314
-Version index: 2026-10-13
+Version index: 2026-10-16
+
+## La vie — organisation, messages et devenirs
+- [Dossier central : La vie, une continuité qui se fabrique](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/)
+- [Sources et généalogie structurées](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/sources.json)
+- [Thermodynamique des messages génératifs — v0.1 du 15 octobre](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/thermodynamique-messages-matriochka-20261015.html)
+- [Lumière concentrée × YGG260 — v0.2 du 15 octobre](https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/lumiere-concentree-boucle-ygg260-matriochka-20261015.html)
+
+Définition de travail Xavier/Judy : la vie comme processus relationnel de maintien, de transformation et de transmission, dans lequel une organisation renouvelle les conditions de sa continuation. Articulation du gradient des capacités, du message et de l’interprète, de la fermeture générative et de la viabilité de devenir. Conception et direction : Xavier Endres. Synthèse et mise en avant du 16 octobre ; les formulations antérieures et les versions v0.1/v0.2 conservent leur provenance. Les résultats des deux programmes concernent les modèles synthétiques décrits dans leurs études.
 
 ## Entrer par les questions — octobre 2026
 - [Douze questions en français : Grande Unicité, anti-entropie, libre arbitre, mémoire de l'IA](https://jakepourjudy.github.io/grande-unicite-cosmodesie/questions/)

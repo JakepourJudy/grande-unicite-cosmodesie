@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/galerie-fil-dore.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/essais-cosmo.css' | relative_url }}">
+  {% if page.url == '/vie/' %}
+  <link rel="stylesheet" href="{{ '/assets/vie.css' | relative_url }}">
+  {% endif %}
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="sitemap" type="application/xml" href="https://jakepourjudy.github.io/grande-unicite-cosmodesie/sitemap.xml">
   {% if page.url == '/questions/' or page.url == '/en/questions/' %}

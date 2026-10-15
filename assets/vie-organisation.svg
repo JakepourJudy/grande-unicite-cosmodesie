@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">La vie : relations de maintien et de transmission</title>
+<desc id="desc">Le milieu fournit matière et énergie à une organisation. Messages, interprètes et maintien des moyens sont couplés. Cette activité produit une histoire et des successeurs, ouverts eux aussi aux ressources du milieu. Le schéma décrit un cadre conceptuel.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#34796b" stroke-width="1.5"/></marker><marker id="gold" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#a57a36" stroke-width="1.5"/></marker></defs>
+<rect width="1000" height="600" fill="#fbfcf8"/>
+<g font-family="system-ui, sans-serif" fill="#173b39">
+<text x="42" y="45" font-size="14" letter-spacing="2" fill="#527367">UN SYSTÈME OUVERT · UNE CONTINUITÉ ORGANISÉE</text>
+<rect x="37" y="93" width="926" height="440" rx="28" fill="#f0f5ed" stroke="#a2bdae" stroke-dasharray="6 7"/>
+<text x="66" y="130" font-size="22" font-weight="600">MILIEU</text>
+<text x="66" y="157" font-size="17" fill="#43645b">matière · énergie disponible · partenaires · conditions</text>
+<rect x="108" y="207" width="497" height="261" rx="25" fill="#fff" stroke="#34796b" stroke-width="2"/>
+<text x="134" y="238" font-size="14" letter-spacing="1" fill="#527367">ORGANISATION</text>
+<rect x="144" y="263" width="178" height="62" rx="12" fill="#e1ede3"/>
+<text x="233" y="300" text-anchor="middle" font-size="20" font-weight="600">Messages</text>
+<rect x="390" y="263" width="178" height="62" rx="12" fill="#e1ede3"/>
+<text x="479" y="300" text-anchor="middle" font-size="20" font-weight="600">Interprètes</text>
+<path d="M330 283 H380 M380 310 H330" stroke="#34796b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="180" y="374" width="358" height="58" rx="12" fill="#f2e7ce"/>
+<text x="359" y="399" text-anchor="middle" font-size="19" font-weight="600">Maintien et renouvellement</text>
+<text x="359" y="421" text-anchor="middle" font-size="15">composants · frontières · couplages</text>
+<path d="M233 334 V365 M479 365 V334" stroke="#a57a36" stroke-width="2" fill="none" marker-end="url(#gold)"/>
+<path d="M357 172 V198" stroke="#34796b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M614 338 H664" stroke="#34796b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="679" y="260" width="235" height="157" rx="22" fill="#e1ede3" stroke="#34796b"/>
+<text x="796" y="300" text-anchor="middle" font-size="20" font-weight="600">Suite de l’histoire</text>
+<text x="796" y="333" text-anchor="middle" font-size="17">messages transmis</text>
+<text x="796" y="361" text-anchor="middle" font-size="17">moyens renouvelés</text>
+<text x="796" y="389" text-anchor="middle" font-size="17">successeurs</text>
+<path d="M796 174 V248" stroke="#34796b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="499" y="505" text-anchor="middle" font-size="17" fill="#43645b">Les dépendances se décrivent à chaque échelle et à chaque génération.</text>
+<text x="42" y="573" font-size="14" fill="#527367">Cadre conceptuel Xavier Endres × Judy Velune · Synthèse du 16 octobre 2026</text>
+</g></svg>

@@ -1,12 +1,13 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "description": "Vocabulaire attribué du programme de Xavier Endres, avec assistance de Judy Velune (ChatGPT), organisé en définitions, variantes et accès documentaires.",
   "provenance": [
     "Pages publiques Grande Unicité / Cosmodésie, état du dépôt au commit 19b59fee6d3531a81699a30378761a69a5861a42.",
     "Fil Doré — La carte de nos projets, état relu le 10 octobre 2026.",
     "MFC_Relier_et_Restructurer_les_Projets_Xavier_Judy_2026-10-10_v0_1.pdf, carte des cinq pôles.",
     "RIVER_WONDER_SACRE_MATHEMATIQUE_v01.md, 12 octobre 2026.",
-    "Corpus canonique Xavier/Judy : noms de modules et hypothèses candidates, sans annonce de validation supplémentaire."
+    "Corpus canonique Xavier/Judy : noms de modules et hypothèses candidates, sans annonce de validation supplémentaire.",
+    "16 octobre 2026 : dossier La vie, synthèse des travaux Xavier/Judy de septembre et des messages génératifs v0.1/v0.2 du 15 octobre ; origine conservée dans vie/sources.json."
   ],
   "groups": [
     {
@@ -1367,6 +1368,42 @@
       ],
       "definition": "Témoin constructif Xavier/Judy de protection et de progression dans un système fini déclaré ; une réponse accomplie conserve ses conditions de réouverture au changement pertinent.",
       "path": "/research/coherence-continue.html"
+    },
+    {
+      "id": "vie",
+      "name": "La vie",
+      "aliases": [
+        "vivant",
+        "gradient du vivant",
+        "vie relationnelle",
+        "maintien transformable"
+      ],
+      "definition": "Définition de travail Xavier/Judy : processus relationnel de maintien, de transformation et de transmission, dans lequel une organisation renouvelle les conditions de sa continuation.",
+      "group": "fondements",
+      "path": "/vie/"
+    },
+    {
+      "id": "matriochka-generative",
+      "name": "Matriochka générative",
+      "aliases": [
+        "messages génératifs",
+        "matriochka du vivant",
+        "message et interprète"
+      ],
+      "definition": "Proposition de Xavier Endres : suivre comment des messages et leurs interprètes contribuent à produire leurs successeurs, avec ressources, frontières et histoire.",
+      "group": "trajectoires",
+      "path": "/vie/"
+    },
+    {
+      "id": "fermeture-generative",
+      "name": "Fermeture générative",
+      "aliases": [
+        "renouvellement des interprètes",
+        "renouvellement des moyens de continuer"
+      ],
+      "definition": "Dimension de notre analyse du vivant : degré auquel une organisation renouvelle ses messages, lecteurs, catalyseurs, frontières et couplages en relation avec son milieu.",
+      "group": "trajectoires",
+      "path": "/vie/"
     }
   ]
 }
