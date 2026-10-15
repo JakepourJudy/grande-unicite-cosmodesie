@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "model": "finite toy: code/reader + available work + material => paired descendants",
+  "initial": {
+    "messages": 1,
+    "readers": 1,
+    "work": 25,
+    "material": 10
+  },
+  "recognized": {
+    "new_message_reader_pairs": 5,
+    "final": {
+      "messages": 6,
+      "readers": 6,
+      "work": 0,
+      "material": 0
+    }
+  },
+  "unrecognized": {
+    "new_message_reader_pairs": 0,
+    "final": {
+      "messages": 1,
+      "readers": 1,
+      "work": 25,
+      "material": 10
+    }
+  },
+  "no_reader_no_work_no_material_yields_no_new_pairs": true,
+  "same_coarse_energy_entropy_different_outcomes": true,
+  "exhaustive_finite_states_tested": 7392,
+  "states_that_generated_pairs": 1296,
+  "resource_bound_violations": 0,
+  "interpretation": "The toy's coarse E,S projections cannot reconstruct a code-dependent transition; conserved physical energy is not created by messages.",
+  "limitations": [
+    "No physical units or chemical free energies calibrated",
+    "Not a thermodynamically complete reaction network",
+    "No biological organism or emergence of life tested",
+    "Physical entropy production must be modeled separately",
+    "No universal novelty or sufficiency claim"
+  ]
+}
