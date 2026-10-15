@@ -18,6 +18,20 @@ last_modified_at: '2026-10-13'
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
+## Boucle lumineuse YGG 260 — 15 octobre 2026 (v0.2)
+
+Le [rapport sur le seuil de lumière concentrée](../research/lumiere-concentree-boucle-ygg260-matriochka-20261015.html) présente un modèle discret, avec amplification, pertes, saturation et extinction lors de l'arrêt du pompage ou d'une coupure.
+
+- [Code Python autonome](matriochka-messages/verify_boucle_lumiere_ygg260_v02.py) : `A = ∏ᵢ(τᵢgᵢ)`, `Lₙ₊₁=A Lₙ/(1+Lₙ/K)`, 260 passages, comparaison sous/sur seuil, pompe coupée et coupure d'un lien.
+- [Données JSON et trajectoires](matriochka-messages/resultats_boucle_lumiere_ygg260_v02.json) : `PASS_SYNTHETIC_MODEL`, gain sur-seuil `2.722819766`, équilibre `17.228197661`.
+
+```bash
+python verification/matriochka-messages/verify_boucle_lumiere_ygg260_v02.py
+```
+
+**Portée :** simulation déterministe de rétroaction lumineuse, non expérience sur cellule ou réseau YGG matériel. Le modèle ne garantit ni l'apparition de la vie ni l'émergence d'informations nouvelles.
+
+
 ## Messages et lecteurs génératifs — 15 octobre 2026
 
 La [note sur les matriochkas génératives](../research/thermodynamique-messages-matriochka-20261015.html) présente un système fictif dans lequel le renouvellement d'un message et de son interprète consomme des ressources finies.
