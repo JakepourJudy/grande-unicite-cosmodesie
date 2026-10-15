@@ -9,6 +9,13 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Nouvelle recherche du 15 octobre — Lumière auto-entretenue × YGG 260
+
+**[Lumière concentrée et matriochka du vivant — v0.2](research/lumiere-concentree-boucle-ygg260-matriochka-20261015.md)** — hypothèse originale de Xavier Endres : relier l'amplification optique, le seuil de rétroaction et la fermeture générative des messages et de leurs lecteurs. Preuve conditionnelle sur une boucle de 260 passages ; séparation explicite entre signal amplifié et information indépendante.
+
+[Script reproductible](verification/matriochka-messages/verify_boucle_lumiere_ygg260_v02.py) · [Résultats JSON](verification/matriochka-messages/resultats_boucle_lumiere_ygg260_v02.json) · **Recherche candidate, pas une nouvelle loi du vivant.**
+
+
 ## Recherche du 15 octobre — La matriochka générative du vivant
 
 **[Thermodynamique des messages génératifs : message, interprète, énergie et nouveaux messages](research/thermodynamique-messages-matriochka-20261015.md)** — question et architecture de Xavier Endres, formalisation et vérification assistées par Judy Velune. Cette fiche distingue l'emboîtement matériel de la **coproduction d'un message et de son prochain lecteur** ; elle sépare les preuves conditionnelles d'une hypothèse générale sur la vie.
