@@ -64,6 +64,11 @@ jobs:
           python verification/hidden-id-v04/verify_hidden_id_v04.py
           python verification/coherence-v01/verify_coherence_continue_v01.py
 
+      - name: Verifier la matriochka generative et la boucle lumineuse YGG260
+        run: |
+          python verification/matriochka-messages/verify_messages_matriochka_v01.py
+          python verification/matriochka-messages/verify_boucle_lumiere_ygg260_v02.py
+
       - name: Vérifier les identifiants et les empreintes publiées
         run: python verification/verify_publication_v1.py
 
