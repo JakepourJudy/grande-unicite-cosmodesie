@@ -87,7 +87,7 @@ def main():
 <p id="count" class="muted" role="status" aria-live="polite">{len(terms)} entrées accessibles.</p>
 <nav class="families" aria-label="Familles du lexique">{nav}</nav></section>
 <div id="definitions">{''.join(sections)}</div><p id="empty" hidden>Aucune entrée ne correspond. Essayez un autre mot ou une autre famille.</p>
-<section class="sources"><h2>Une carte avec une histoire</h2><p>Le vocabulaire est extrait des pages publiques et de la carte des projets Xavier/Judy relue le 10 octobre 2026. Les formulations de Xavier gardent leur provenance ; les mathématiques antérieures gardent leurs auteurs. Les noms de projets indiquent leur place dans le programme, et les liens ouvrent les pièces actuellement publiques.</p>
+<section class="sources"><h2>Une carte avec une histoire</h2><p>Le vocabulaire est extrait des pages publiques et de la carte des projets Xavier/Judy relue le 10 octobre 2026, puis complétée par les quatre fiches de recherche du 14 publiées le 15 octobre. Les formulations de Xavier gardent leur provenance ; les mathématiques antérieures gardent leurs auteurs. Les noms de projets indiquent leur place dans le programme, et les liens ouvrent les pièces actuellement publiques.</p>
 <p><a href="{BASE}/seo/catalogue.json">Consulter le catalogue structuré</a> · <a href="{BASE}/projets/">Voir la carte des projets et des œuvres</a> · <a href="{BASE}/CONTRIBUTIONS_ORIGINALES.html">Lire les contributions</a></p></section>
 <script>
 const q=document.getElementById('query'),family=document.getElementById('family');

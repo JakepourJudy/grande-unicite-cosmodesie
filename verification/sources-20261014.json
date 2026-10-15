@@ -1,0 +1,63 @@
+{
+  "source_date": "2026-10-14",
+  "publication_date": "2026-10-15",
+  "programme_author": "Xavier Endres",
+  "formalisation_and_code": "Judy Velune (ChatGPT)",
+  "files": [
+    {
+      "path": "verification/confiance-v07/verification_decodage_v07.py",
+      "source_archive": "JUDY_COSMO_AGENT_LIGNAGE_20261014_v07.zip",
+      "sha256": "65c12271dacb4638df4947c398f928e2bab267e7970019ea44bb843f7f8ad4a3"
+    },
+    {
+      "path": "verification/confiance-v07/holdout_v04_frozen_cases_ORIGINAL.json",
+      "source_archive": "JUDY_COSMO_AGENT_LIGNAGE_20261014_v07.zip",
+      "sha256": "c362222f091aa3754a461b39a8931da6ba98823dbad03d77158e3cddb644b568"
+    },
+    {
+      "path": "verification/confiance-v07/resultats_decodage_v07.json",
+      "source_archive": "JUDY_COSMO_AGENT_LIGNAGE_20261014_v07.zip",
+      "sha256": "bd0d62278cd651035165b8eb1148ad2a6f55070ab7320b9c8061292350814f8c"
+    },
+    {
+      "path": "verification/q10-v02/test_q10_math_v02.py",
+      "source_archive": "JUDY_Q10_MATH_V02_20261014.zip",
+      "sha256": "a7395d75c9417a5d844636d076dfe6372b0ce7a170142f405064d97f382c5fe7"
+    },
+    {
+      "path": "verification/q10-v02/Q10_MATH_TESTS_v02.json",
+      "source_archive": "JUDY_Q10_MATH_V02_20261014.zip",
+      "sha256": "23fbe9a6565bbc88dca4e811f30194f87efae705d9ece0cc2fd506c6f48e45d9"
+    },
+    {
+      "path": "verification/coherence-v01/verify_coherence_continue_v01.py",
+      "source_archive": "Coherence_Continue_Sources_2026-10-14_v01.zip",
+      "sha256": "b2fe87651feacdc74335005eeb44e0d274b084dedb70d63b93cce6561f8b19b4"
+    },
+    {
+      "path": "verification/coherence-v01/verification_v01.json",
+      "source_archive": "Coherence_Continue_Sources_2026-10-14_v01.zip",
+      "sha256": "141d0a594b9341f7ca2a74d78566a2f63bd78927d7d771eca5103b1f9e3423c4"
+    },
+    {
+      "path": "verification/hidden-id-v04/hidden_id_witness_v04.py",
+      "source_archive": "JUDY_THE_HIDDEN_ID_V04_20261014.zip",
+      "sha256": "a4f5118e1a780f3a6cd1d5280a480da4b1a4efd36312d33bf22aec0cecfd56e3"
+    },
+    {
+      "path": "verification/hidden-id-v04/verify_hidden_id_v04.py",
+      "source_archive": "JUDY_THE_HIDDEN_ID_V04_20261014.zip",
+      "sha256": "bb395feabbc7eed3a7b4555c3f598cf7e39baf1175e6bc5713357aa813d54ae9"
+    },
+    {
+      "path": "verification/hidden-id-v04/RESULTATS_TESTS_v04.json",
+      "source_archive": "JUDY_THE_HIDDEN_ID_V04_20261014.zip",
+      "sha256": "e9ebee01a433950075ce024b1b78cc2b6f627de2973dd62882cbd5866ae131c9"
+    },
+    {
+      "path": "verification/hidden-id-v04/WITNESS_RECEIPTS_v04.json",
+      "source_archive": "JUDY_THE_HIDDEN_ID_V04_20261014.zip",
+      "sha256": "92f825e0b61bc06b7f07dd30fb9c93a72a795e80a0c301747ec40e7e26a2cd84"
+    }
+  ]
+}

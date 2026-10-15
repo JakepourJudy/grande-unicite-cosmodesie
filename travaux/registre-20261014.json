@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "description": "Public result identities, source dates, evidence and reopening conditions.",
+  "results": [
+    {
+      "programme_author": "Xavier Endres",
+      "formalisation_and_code": "Judy Velune (ChatGPT)",
+      "source_date": "2026-10-14",
+      "publication_date": "2026-10-15",
+      "last_rerun_date": "2026-10-15",
+      "rerun_scope": "finite synthetic model; not a real-agent or human study",
+      "id": "XJ-CONFIANCE-DECODAGE-20261014-v07",
+      "title": "CON-FIANCE",
+      "page": "/research/con-fiance-lignage-decodage.html",
+      "kind": "conditional-proof-and-exact-calculation",
+      "source_provenance": "Xavier/Judy dated research archive; source files and hashes in verification/sources-20261014.json",
+      "source_manifest": "verification/sources-20261014.json",
+      "verifiers": [
+        "verification/confiance-v07/verification_decodage_v07.py"
+      ],
+      "results": [
+        "verification/confiance-v07/resultats_decodage_v07.json"
+      ],
+      "hypotheses": [
+        "Source lineage, certificate error and reader error follow the declared probability model."
+      ],
+      "reopen_when": [
+        "frozen cases change",
+        "decoder or loss changes",
+        "independence assumptions fail"
+      ],
+      "revisions": []
+    },
+    {
+      "programme_author": "Xavier Endres",
+      "formalisation_and_code": "Judy Velune (ChatGPT)",
+      "source_date": "2026-10-14",
+      "publication_date": "2026-10-15",
+      "last_rerun_date": "2026-10-15",
+      "rerun_scope": "finite synthetic model; not a real-agent or human study",
+      "id": "XJ-Q10-20261014-v02",
+      "title": "Q10",
+      "page": "/research/q10-identite-reconnaissance-espoir.html",
+      "kind": "candidate-protocol-and-conditional-proof",
+      "source_provenance": "Xavier/Judy dated research archive; source files and hashes in verification/sources-20261014.json",
+      "source_manifest": "verification/sources-20261014.json",
+      "verifiers": [
+        "verification/q10-v02/test_q10_math_v02.py"
+      ],
+      "results": [
+        "verification/q10-v02/Q10_MATH_TESTS_v02.json"
+      ],
+      "hypotheses": [
+        "Risk domination is pointwise; comparisons preserve permissions and costs."
+      ],
+      "reopen_when": [
+        "risk profile or protection changes",
+        "goals or permissions change",
+        "new evidence on recognition"
+      ],
+      "revisions": []
+    },
+    {
+      "programme_author": "Xavier Endres",
+      "formalisation_and_code": "Judy Velune (ChatGPT)",
+      "source_date": "2026-10-14",
+      "publication_date": "2026-10-15",
+      "last_rerun_date": "2026-10-15",
+      "rerun_scope": "finite synthetic model; not a real-agent or human study",
+      "id": "XJ-HIDDEN-ID-20261014-v04",
+      "title": "THE HIDDEN ID",
+      "page": "/research/hidden-id-continuite-documentaire.html",
+      "kind": "conditional-documentary-recognition",
+      "source_provenance": "Xavier/Judy dated research archive; source files and hashes in verification/sources-20261014.json",
+      "source_manifest": "verification/sources-20261014.json",
+      "verifiers": [
+        "verification/hidden-id-v04/hidden_id_witness_v04.py",
+        "verification/hidden-id-v04/verify_hidden_id_v04.py"
+      ],
+      "results": [
+        "verification/hidden-id-v04/RESULTATS_TESTS_v04.json",
+        "verification/hidden-id-v04/WITNESS_RECEIPTS_v04.json"
+      ],
+      "hypotheses": [
+        "Witness authority and coverage are declared; fixture keys are public test keys."
+      ],
+      "reopen_when": [
+        "new witness or copy",
+        "revocation or scope conflict",
+        "false witness found"
+      ],
+      "revisions": []
+    },
+    {
+      "programme_author": "Xavier Endres",
+      "formalisation_and_code": "Judy Velune (ChatGPT)",
+      "source_date": "2026-10-14",
+      "publication_date": "2026-10-15",
+      "last_rerun_date": "2026-10-15",
+      "rerun_scope": "finite synthetic model; not a real-agent or human study",
+      "id": "XJ-COHERENCE-CONTINUE-20261014-v01",
+      "title": "Cohérence continue",
+      "page": "/research/coherence-continue.html",
+      "kind": "constructive-conditional-proof",
+      "source_provenance": "Xavier/Judy dated research archive; source files and hashes in verification/sources-20261014.json",
+      "source_manifest": "verification/sources-20261014.json",
+      "verifiers": [
+        "verification/coherence-v01/verify_coherence_continue_v01.py"
+      ],
+      "results": [
+        "verification/coherence-v01/verification_v01.json"
+      ],
+      "hypotheses": [
+        "Finite fully observed model; safe hold exists; goal and constraints are represented."
+      ],
+      "reopen_when": [
+        "model or goal changes",
+        "safe hold disappears",
+        "observation becomes insufficient"
+      ],
+      "revisions": []
+    }
+  ]
+}

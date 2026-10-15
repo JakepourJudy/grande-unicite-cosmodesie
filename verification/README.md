@@ -18,6 +18,26 @@ last_modified_at: '2026-10-13'
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
+## Quatre programmes du 14 octobre, publiés et repris le 15
+
+| Fiche | Programme | Reprise du banc |
+|---|---|---|
+| [CON-FIANCE](../research/con-fiance-lignage-decodage.html) | [verification_decodage_v07.py](confiance-v07/verification_decodage_v07.py) | 726 configurations exactes, banc de 24 cas gelé. |
+| [Q10](../research/q10-identite-reconnaissance-espoir.html) | [test_q10_math_v02.py](q10-v02/test_q10_math_v02.py) | 3 375 paires de risques dominés et 81 comparaisons de politiques. |
+| [THE HIDDEN ID](../research/hidden-id-continuite-documentaire.html) | [Prototype](hidden-id-v04/hidden_id_witness_v04.py) et [vérificateur séparé](hidden-id-v04/verify_hidden_id_v04.py) | 256 cas ; 536 assertions puis 791 contrôles. |
+| [Cohérence continue](../research/coherence-continue.html) | [verify_coherence_continue_v01.py](coherence-v01/verify_coherence_continue_v01.py) | 4 164 graphes ; 16 584 états initiaux. |
+
+```bash
+python -m pip install -r verification/requirements.txt
+python verification/confiance-v07/verification_decodage_v07.py
+python verification/q10-v02/test_q10_math_v02.py
+python verification/hidden-id-v04/hidden_id_witness_v04.py
+python verification/hidden-id-v04/verify_hidden_id_v04.py
+python verification/coherence-v01/verify_coherence_continue_v01.py
+```
+
+Seul THE HIDDEN ID emploie la dépendance `cryptography`, pour vérifier Ed25519. Ses clés sont des fixtures publiques réservées aux essais. Les autres programmes utilisent la bibliothèque standard de Python. Les [empreintes de source](sources-20261014.json) et le [registre des résultats](../travaux/registre-20261014.json) conservent dates, versions et périmètres. Les scripts qui écrivent un JSON régénèrent le résultat à côté de leur source.
+
 Le programme [verify_math_v1.py](verify_math_v1.py) s'exécute avec **Python 3 sans dépendance externe** :
 
     python verification/verify_math_v1.py

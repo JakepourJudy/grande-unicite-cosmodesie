@@ -1,0 +1,3 @@
+# THE HIDDEN ID v0.4 uses real Ed25519 with public deterministic test keys.
+# The other verification programs use Python's standard library only.
+cryptography==50.0.2
