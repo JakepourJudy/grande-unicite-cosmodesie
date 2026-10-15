@@ -9,6 +9,14 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Recherche du 15 octobre — La matriochka générative du vivant
+
+**[Thermodynamique des messages génératifs : message, interprète, énergie et nouveaux messages](research/thermodynamique-messages-matriochka-20261015.md)** — question et architecture de Xavier Endres, formalisation et vérification assistées par Judy Velune. Cette fiche distingue l'emboîtement matériel de la **coproduction d'un message et de son prochain lecteur** ; elle sépare les preuves conditionnelles d'une hypothèse générale sur la vie.
+
+[Reproduire le témoin Python](verification/matriochka-messages/verify_messages_matriochka_v01.py) · [Résultats : 7 392 états synthétiques](verification/matriochka-messages/resultats_matriochka_v01.json) · **Statut : candidat, non preuve d'une loi biologique universelle.**
+
+---
+
 ## Travaux du 14 octobre — Comprendre, relier, continuer
 
 **[Lire le bilan et sa méta-floraison](travaux/2026-10-14.md)** : [CON-FIANCE](research/con-fiance-lignage-decodage.md), [Q10](research/q10-identite-reconnaissance-espoir.md), [THE HIDDEN ID](research/hidden-id-continuite-documentaire.md) et [cohérence continue](research/coherence-continue.md). Quatre fiches relient formulation-source, résultat, hypothèses, programme et conditions de révision. Les programmes historiques ont été réexécutés pour leur publication le 15 octobre.
