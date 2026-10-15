@@ -18,6 +18,19 @@ last_modified_at: '2026-10-13'
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
+## Messages et lecteurs génératifs — 15 octobre 2026
+
+La [note sur les matriochkas génératives](../research/thermodynamique-messages-matriochka-20261015.html) présente un système fictif dans lequel le renouvellement d'un message et de son interprète consomme des ressources finies.
+
+- [Script Python autonome](matriochka-messages/verify_messages_matriochka_v01.py) — **7 392 états**, avec vérification des coûts minimaux de matière et de travail, puis comparaison message reconnu/non reconnu.
+- [Résultats JSON publiés](matriochka-messages/resultats_matriochka_v01.json) — **PASS**, 1 296 états ayant généré des paires message-lecteur, aucune violation de budget dans le jouet.
+
+```bash
+python verification/matriochka-messages/verify_messages_matriochka_v01.py
+```
+
+Ce script ne simule pas la thermodynamique complète d'une réaction chimique et ne démontre pas l'émergence de la vie.
+
 ## Quatre programmes du 14 octobre, publiés et repris le 15
 
 | Fiche | Programme | Reprise du banc |
