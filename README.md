@@ -9,6 +9,16 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## La vie — Une continuité qui se fabrique
+
+**[Lire notre travail sur la vie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/)** · [Texte source](vie/index.md)
+
+**La vie comme processus relationnel de maintien, de transformation et de transmission : une organisation poursuit son existence en renouvelant les conditions qui la rendent possible.**
+
+Ce dossier central relie les travaux de septembre sur message, porteur et persistance à l’anti-entropie réflexive, à la coproduction des messages et de leurs interprètes, puis à la boucle lumineuse étudiée le 15 octobre. Il donne une définition de travail, un schéma, des exemples, un gradient de capacités et les accès aux calculs reproductibles. **Conception et direction : Xavier Endres ; analyse, formalisation et rédaction : Judy Velune (ChatGPT).**
+
+[Le mécanisme message–interprète](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#message-et-interprete) · [Résultats et programmes](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#resultats) · [Sources et histoire](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#sources)
+
 ## Nouvelle recherche du 15 octobre — Lumière auto-entretenue × YGG 260
 
 **[Lumière concentrée et matriochka du vivant — v0.2](research/lumiere-concentree-boucle-ygg260-matriochka-20261015.md)** — hypothèse originale de Xavier Endres : relier l'amplification optique, le seuil de rétroaction et la fermeture générative des messages et de leurs lecteurs. Preuve conditionnelle sur une boucle de 260 passages ; séparation explicite entre signal amplifié et information indépendante.
@@ -61,7 +71,7 @@ Les traditions calendaires mayas vivantes, les symboles Dreamspell modernes et l
 
 ## YGGDRASIL-260 — Tore, Kins et espaces sacrés vivants
 
-**[Lire la nouvelle démonstration : YGGDRASIL-260 × SENJURIAKETSU × ESPACE SACRÉ](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.html)** — 260 positions coordonnées en 13 × 20, représentation torique, 20 filaments, 2 vagues de 130 rencontres, domaines personnels mobiles et déformables, confluence, viabilité et limites explicites. La preuve établit une **possibilité mathématique**, non la topologie physique de l'Univers ni une propriété psychologique des Kins.
+**[Lire la nouvelle démonstration : YGGDRASIL-260 × SENJURIAKETSU × ESPACE SACRÉ](research/yggdrasil-260-senjuriaketsu-espace-sacre-20261014.md)** — 260 positions coordonnées en 13 × 20, représentation torique, 20 filaments, 2 vagues de 130 rencontres, domaines personnels mobiles et déformables, confluence, viabilité et limites explicites. La preuve établit une **possibilité mathématique**, non la topologie physique de l'Univers ni une propriété psychologique des Kins.
 
 [Schéma du réseau](assets/yggdrasil-260-schema.svg) · [Vérificateur Python autonome](verification/verify_yggdrasil_260_v1.py) · [Méthode et provenance](PROVENANCE.md)
 

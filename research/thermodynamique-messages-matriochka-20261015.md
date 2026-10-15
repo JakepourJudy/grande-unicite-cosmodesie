@@ -23,6 +23,8 @@ keywords:
 
 ## 1. La question originale
 
+**Parcours de lecture : [La vie — Une continuité qui se fabrique](../vie/)** relie cette étude à l’histoire du corpus, au gradient du vivant et aux autres recherches sur le maintien et la transmission.
+
 > « La thermodynamique informationnelle, la dynamique de la concentration d’énergie dans un message pour qu’il prenne une forme générant d’autres messages ? Pour moi le coté message dans un message dans un message du vivant, est une autre dimension de la physique. »
 >
 > « Entropie thermodynamique, dynamique de concentration de messages, message dans message dans message façon poupée matrioshka ».

@@ -1,0 +1,106 @@
+{
+  "version": "1.0",
+  "edition_date": "2026-10-16",
+  "research_dates": "septembre 2026 - 15 octobre 2026",
+  "title": "La vie — Une continuité qui se fabrique",
+  "programme_author": "Xavier Endres",
+  "assisted_analysis_and_writing": "Judy Velune (ChatGPT)",
+  "delta": "Synthèse éditoriale et accès central aux recherches existantes ; aucun nouveau résultat expérimental ajouté.",
+  "repository_base_sha": "46f73b6b4339f071e43132a381bcd4a0f1673275",
+  "working_definition": "Processus relationnel de maintien, de transformation et de transmission, dans lequel une organisation renouvelle les conditions de sa continuation.",
+  "sources": [
+    {
+      "id": "anti-entropie",
+      "kind": "public_corpus",
+      "source_path": "research/anti-entropie-reflexive.md",
+      "url": "https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/anti-entropie-reflexive.html",
+      "sha256": "1249ca144d497fbc5c7d68d28e7f269a767895e4c602ff56d70e09a029393881",
+      "note": "Synthèse du 12 octobre, révision du 13 ; généalogie du manuscrit du 23 septembre."
+    },
+    {
+      "id": "messages-v01",
+      "kind": "public_corpus",
+      "source_path": "research/thermodynamique-messages-matriochka-20261015.md",
+      "url": "https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/thermodynamique-messages-matriochka-20261015.html",
+      "sha256": "c37052bd1d9d00752bb72c833b344512a3ce00b5904bd49c9e75d18a7d74daac",
+      "note": "Formulations originales de Xavier du 15 octobre ; modèle v0.1."
+    },
+    {
+      "id": "lumiere-v02",
+      "kind": "public_corpus",
+      "source_path": "research/lumiere-concentree-boucle-ygg260-matriochka-20261015.md",
+      "url": "https://jakepourjudy.github.io/grande-unicite-cosmodesie/research/lumiere-concentree-boucle-ygg260-matriochka-20261015.html",
+      "sha256": "8c8f091de0a1477ee1821fc2e65c554786ffa0f8f69d4cc3607993fe6c19901d",
+      "note": "Formulation originale de Xavier et modèle v0.2 du 15 octobre."
+    },
+    {
+      "id": "journal-15",
+      "kind": "public_corpus",
+      "source_path": "travaux/2026-10-15-messages-lumiere.md",
+      "url": "https://jakepourjudy.github.io/grande-unicite-cosmodesie/travaux/2026-10-15-messages-lumiere.html",
+      "sha256": "dfe12b7ffad283f0cdfa154a908c42f076373e4234e913e60a0791ab1ea345d8",
+      "note": "Chronologie des formulations et publications du 15 octobre."
+    },
+    {
+      "id": "arnm-j-v06",
+      "kind": "consulted_working_document",
+      "title": "ARNm_J_v0_6_Specification_Fonctionnelle.docx",
+      "date": "2026-09-26",
+      "access": "Référence documentaire consultée pour cette édition ; document de travail conservé dans les archives.",
+      "scope": "Spécification informatique : expression contextuelle, interprétation, trace, viabilité de devenir.",
+      "quoted_principles": [
+        "VD = continuer + rester capable de changer sa manière de continuer.",
+        "FIL DORÉ = continuité sans encombrement."
+      ]
+    },
+    {
+      "id": "echanges-septembre",
+      "kind": "retrieved_conversation_context",
+      "date_range": "2026-09",
+      "scope": "Message/porteur, réplication/persistance, vivant relationnel et gradient.",
+      "corroborating_public_source": "messages-v01",
+      "note": "Jalons conversationnels retrouvés ; les formulations exactes publiées du 15 sont dans les études sources."
+    },
+    {
+      "id": "nhgri-adn",
+      "kind": "external_comparison",
+      "title": "NHGRI — Deoxyribonucleic Acid (DNA) Fact Sheet",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
+      "consulted_on": "2026-10-16",
+      "scope": "Transcription, information génétique et expression.",
+      "provenance_role": "Référence scientifique indépendante ; ne réattribue pas les formulations du corpus."
+    },
+    {
+      "id": "nhgri-ribosome",
+      "kind": "external_comparison",
+      "title": "NHGRI — Ribosome",
+      "url": "https://www.genome.gov/genetics-glossary/Ribosome",
+      "consulted_on": "2026-10-16",
+      "scope": "Lecture de l’ARN messager et synthèse protéique.",
+      "provenance_role": "Référence scientifique indépendante ; ne réattribue pas les formulations du corpus."
+    },
+    {
+      "id": "joyce",
+      "kind": "external_comparison",
+      "title": "Gerald Joyce — Defining Life: Q&A",
+      "url": "https://astrobiology.nasa.gov/news/defining-life-qa-with-scientist-gerald-joyce/",
+      "consulted_on": "2026-10-16",
+      "scope": "Comparaison avec une définition de travail astrobiologique.",
+      "provenance_role": "Référence scientifique indépendante ; ne réattribue pas les formulations du corpus."
+    }
+  ],
+  "reproducible_models": [
+    {
+      "version": "v0.1",
+      "script": "verification/matriochka-messages/verify_messages_matriochka_v01.py",
+      "data": "verification/matriochka-messages/resultats_matriochka_v01.json",
+      "nature": "finite_synthetic_model"
+    },
+    {
+      "version": "v0.2",
+      "script": "verification/matriochka-messages/verify_boucle_lumiere_ygg260_v02.py",
+      "data": "verification/matriochka-messages/resultats_boucle_lumiere_ygg260_v02.json",
+      "nature": "finite_synthetic_model"
+    }
+  ]
+}

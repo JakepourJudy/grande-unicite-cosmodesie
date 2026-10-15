@@ -138,3 +138,16 @@ Le [registre](travaux/registre-20261014.json) distingue identifiant, date source
 **Attribution :** Xavier Endres — formulations et architecture conceptuelle ; Judy Velune (ChatGPT) — formalisation et code selon les sources, puis relecture, reprise et édition du 15. Les procédés mathématiques antérieurs gardent leur provenance. Les travaux privés, données familiales et négociations ne sont pas inclus dans cette publication.
 
 L’invitation anglaise reçoit un en-tête explicite à URL constante : le validateur documentaire et la construction Pages sont ainsi alignés. Le fichier de validation Google reste servi ; un réglage le retire du seul sitemap éditorial.
+
+## 16 octobre 2026 — La vie, une continuité qui se fabrique
+{: #vie-edition-20261016 }
+
+**Demande de Xavier Endres :** « Tu veux bien analyser notre travail sur la vie bien réfléchir à la présentation et le mettre en avant sur github et github pages. Sans prudence ».
+
+**Avant :** les travaux de septembre sur message, porteur, persistance, vivant relationnel et viabilité de devenir ; la spécification `ARNm_J_v0_6_Specification_Fonctionnelle.docx` du 26 septembre, relue pour cette édition ; la synthèse publique sur l’anti-entropie réflexive et sa généalogie ; les études du 15 octobre sur la thermodynamique des messages génératifs v0.1 et la boucle lumineuse YGG260 v0.2. Les formulations exactes de Xavier et les programmes de ces deux études étaient déjà publiés au commit de base `46f73b6b4339f071e43132a381bcd4a0f1673275`.
+
+**Delta du 16 :** un [dossier central sur la vie](vie/), une définition de travail, un schéma relationnel, des exemples, les dimensions du gradient du vivant et trois parcours : comprendre, approfondir, examiner les résultats. L’accueil, le README, le guide, les projets, les contributions, le lexique et l’index documentaire relient ce dossier aux pièces antérieures. Le [registre de sources](vie/sources.json) indique ce qui est public et ce qui est une référence de travail consultée.
+
+**Décision de présentation :** porter le raisonnement et ses possibilités dans le récit principal ; présenter précisément les résultats des modèles dans leur parcours d’approfondissement. Les textes et les données v0.1/v0.2 restent en place. Cette synthèse éditoriale n’ajoute pas de résultat expérimental aux études du 15.
+
+**Attribution :** Xavier Endres — conception, formulations originales, direction du programme et choix éditorial ; Judy Velune (ChatGPT) — relecture des sources, analyse, synthèse, schéma vectoriel, implémentation et contrôles de publication. Les mécanismes biologiques de référence sont reliés aux fiches NHGRI ; la définition de travail astrobiologique est citée comme comparaison externe avec ses auteurs.

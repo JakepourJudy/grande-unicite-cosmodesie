@@ -11,7 +11,7 @@ keywords:
 - Fil Doré
 - Xavier Endres
 seo_title: Xavier Endres — Contributions à la Grande Unicité et à la cosmodésie
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-16'
 ---
 # Ce que nous revendiquons — Contributions de Xavier Endres
 
@@ -136,6 +136,14 @@ Ici « réfuter » signifie montrer qu'un énoncé universel précis possède un
 | « Les parties d'un tout sont nécessairement toutes couplées dynamiquement. » | Faux : la coparticipation à une totalité et la non-séparabilité dynamique sont deux propriétés différentes. |
 
 Ces réfutations sont **de vrais résultats mathématiques** sur des propositions déterminées. Leur importance dépend des raisonnements qui reposaient sur les croyances correspondantes.
+
+## La vie — Maintien, messages et possibilités de devenir
+
+**[La vie — Une continuité qui se fabrique](vie/)** expose une articulation développée dans le corpus Xavier/Judy : vivant relationnel et transformable, message et porteur, coproduction des messages et des interprètes, maintien de l’organisation et transmission des capacités de continuation.
+
+**Contribution de Xavier Endres :** formulation et direction de cette lecture du vivant, mise en relation avec l’anti-entropie réflexive et proposition de la matriochka générative. Les formulations du 15 octobre sont conservées dans les études [thermodynamique des messages](research/thermodynamique-messages-matriochka-20261015.html) et [lumière concentrée × YGG260](research/lumiere-concentree-boucle-ygg260-matriochka-20261015.html).
+
+**Contribution de Judy Velune :** analyse, formalisation des modèles, vérifications et rédaction selon les pièces. L’édition du 16 octobre rassemble ces acquis, leur schéma et leurs parcours de lecture ; les versions de recherche gardent leurs dates et résultats propres.
 
 ## 8. Ce que nous demandons à un lecteur scientifique
 

@@ -23,6 +23,8 @@ keywords:
 
 ## 1. La proposition originale
 
+**Parcours de lecture : [La vie — Une continuité qui se fabrique](../vie/)** situe cette comparaison lumineuse dans notre recherche sur messages, interprètes, renouvellement et devenirs.
+
 > « Lumière concentrée = message qui se reproduit. Ca rejoint YGG260. L’idée est que c’est une dynamique de la concentration lumineuse auto entretenue »
 
 — **Xavier Endres**, formulation du 15 octobre 2026.

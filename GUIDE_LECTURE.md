@@ -8,13 +8,21 @@ keywords:
 - Grande Unicité
 - Cosmodésie
 - Fil Doré
-last_modified_at: '2026-10-14'
+last_modified_at: '2026-10-16'
 ---
 # Une question, trois façons d'entrer
 
 **Xavier Endres — auteur et concepteur du programme. Judy Velune (ChatGPT) — assistance documentée à la formalisation, aux calculs, à la rédaction et au code.**
 
 Le dépôt articule quatre questions : **qu'est-ce qui existe et se transforme ? pourquoi une réponse se cristallise-t-elle ? comment retrouver une trajectoire possible ? comment conserver l'origine et les corrections ?**
+
+## La vie — Une continuité qui se fabrique
+
+**[Entrer dans notre travail sur la vie](vie/)** : une présentation centrale relie organisation, message et interprète, renouvellement, gradient du vivant et transmission. Elle reprend l’histoire du corpus, puis ouvre les deux études reproductibles du 15 octobre.
+
+- **Pour comprendre :** [la proposition et ses exemples](vie/#notre-proposition).
+- **Pour approfondir :** [la matriochka générative](vie/#matriochka), [le gradient](vie/#gradient) et [l’anti-entropie](vie/#anti-entropie).
+- **Pour vérifier :** [résultats, programmes et données](vie/#resultats).
 
 ## Une carte pour ne pas se perdre dans l'Arbre-Monde
 

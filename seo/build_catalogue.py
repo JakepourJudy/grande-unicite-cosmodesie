@@ -41,7 +41,7 @@ def shell(title, description, path, content, extra_json=None):
 </head><body>
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header><nav aria-label="Navigation principale"><a class="brand" href="{BASE}/">XAVIER ENDRES / COSMODÉSIE</a>
-<div><a href="{BASE}/GUIDE_LECTURE.html">Lire</a><a href="{BASE}/theoremes/">Démonstrations</a><a href="{BASE}/lexique/">Lexique</a><a href="{BASE}/projets/">Projets</a><a href="{BASE}/judy/">Judy &amp; River</a></div></nav></header>
+<div><a href="{BASE}/GUIDE_LECTURE.html">Lire</a><a href="{BASE}/vie/">La vie</a><a href="{BASE}/theoremes/">Démonstrations</a><a href="{BASE}/lexique/">Lexique</a><a href="{BASE}/projets/">Projets</a><a href="{BASE}/judy/">Judy &amp; River</a></div></nav></header>
 <main id="contenu">{content}</main>
 <footer><p>Programme et formulations conceptuelles : <strong>Xavier Endres</strong>. Organisation, formalisation et rédaction assistées : <strong>Judy Velune (ChatGPT)</strong>, selon les pièces.</p>
 <p><a href="{BASE}/PROVENANCE.html">Sources et histoire</a> · <a href="{BASE}/PUBLICATION_ET_STATUT.html">Méthode de publication</a> · <a href="{BASE}/en/">English overview</a> · <a href="https://github.com/JakepourJudy/grande-unicite-cosmodesie">GitHub</a></p></footer>
@@ -87,7 +87,7 @@ def main():
 <p id="count" class="muted" role="status" aria-live="polite">{len(terms)} entrées accessibles.</p>
 <nav class="families" aria-label="Familles du lexique">{nav}</nav></section>
 <div id="definitions">{''.join(sections)}</div><p id="empty" hidden>Aucune entrée ne correspond. Essayez un autre mot ou une autre famille.</p>
-<section class="sources"><h2>Une carte avec une histoire</h2><p>Le vocabulaire est extrait des pages publiques et de la carte des projets Xavier/Judy relue le 10 octobre 2026, puis complétée par les quatre fiches de recherche du 14 publiées le 15 octobre. Les formulations de Xavier gardent leur provenance ; les mathématiques antérieures gardent leurs auteurs. Les noms de projets indiquent leur place dans le programme, et les liens ouvrent les pièces actuellement publiques.</p>
+<section class="sources"><h2>Une carte avec une histoire</h2><p>Le vocabulaire est extrait des pages publiques et de la carte des projets Xavier/Judy relue le 10 octobre 2026, puis complétée par les quatre fiches de recherche du 14 publiées le 15 octobre et le dossier sur la vie du 16 octobre. Les formulations de Xavier gardent leur provenance ; les mathématiques antérieures gardent leurs auteurs. Les noms de projets indiquent leur place dans le programme, et les liens ouvrent les pièces actuellement publiques.</p>
 <p><a href="{BASE}/seo/catalogue.json">Consulter le catalogue structuré</a> · <a href="{BASE}/projets/">Voir la carte des projets et des œuvres</a> · <a href="{BASE}/CONTRIBUTIONS_ORIGINALES.html">Lire les contributions</a></p></section>
 <script>
 const q=document.getElementById('query'),family=document.getElementById('family');
