@@ -6,6 +6,10 @@ on:
       - "verification/**"
       - "**/*.md"
       - "index.html"
+      - "_includes/**"
+      - "_layouts/**"
+      - "assets/**"
+      - "travaux/**"
       - "_config.yml"
       - ".github/workflows/verification-mathematique.yml"
   pull_request:
@@ -13,6 +17,10 @@ on:
       - "verification/**"
       - "**/*.md"
       - "index.html"
+      - "_includes/**"
+      - "_layouts/**"
+      - "assets/**"
+      - "travaux/**"
       - "_config.yml"
       - ".github/workflows/verification-mathematique.yml"
   workflow_dispatch:
@@ -44,3 +52,26 @@ jobs:
 
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py
+
+      - name: Installer la vérification Ed25519
+        run: python -m pip install -r verification/requirements.txt
+
+      - name: Reprendre CON-FIANCE, Q10, THE HIDDEN ID et la cohérence continue
+        run: |
+          python verification/confiance-v07/verification_decodage_v07.py
+          python verification/q10-v02/test_q10_math_v02.py
+          python verification/hidden-id-v04/hidden_id_witness_v04.py
+          python verification/hidden-id-v04/verify_hidden_id_v04.py
+          python verification/coherence-v01/verify_coherence_continue_v01.py
+
+      - name: Vérifier les identifiants et les empreintes publiées
+        run: python verification/verify_publication_v1.py
+
+      - name: Construire les pages avec Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Vérifier les pages construites et le sitemap
+        run: python verification/verify_publication_v1.py --site _site

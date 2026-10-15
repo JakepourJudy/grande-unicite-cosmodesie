@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-13.1",
+  "version": "1.1",
   "description": "Vocabulaire attribué du programme de Xavier Endres, avec assistance de Judy Velune (ChatGPT), organisé en définitions, variantes et accès documentaires.",
   "provenance": [
     "Pages publiques Grande Unicité / Cosmodésie, état du dépôt au commit 19b59fee6d3531a81699a30378761a69a5861a42.",
@@ -1323,6 +1323,50 @@
       ],
       "definition": "Lecture cosmodésique de personnages de fiction : retrouver les fonctions utiles de leurs stratégies et examiner leurs dérives.",
       "path": "/culture/game-of-thrones-banquet.html"
+    },
+    {
+      "id": "con-fiance",
+      "group": "connaissance",
+      "name": "CON-FIANCE",
+      "aliases": [
+        "Con-fiance",
+        "Lignage des preuves"
+      ],
+      "definition": "Cadre Xavier/Judy distinguant accès à une voix, provenance d’une affirmation, dépendance des preuves, décodage et valeur pour une question ou décision.",
+      "path": "/research/con-fiance-lignage-decodage.html"
+    },
+    {
+      "id": "q10",
+      "group": "ethique",
+      "name": "Q10",
+      "aliases": [
+        "Protocole des dix questions",
+        "Les dix questions"
+      ],
+      "definition": "Assemblage original de Xavier Endres du 14 octobre 2026 : dix questions d’identité, d’erreur, de responsabilité, de reconnaissance, de repos et d’espoir, traduites en réponses de types distincts.",
+      "path": "/research/q10-identite-reconnaissance-espoir.html"
+    },
+    {
+      "id": "the-hidden-id",
+      "group": "memoire",
+      "name": "THE HIDDEN ID",
+      "aliases": [
+        "Hidden ID",
+        "Signature de l’incarnation"
+      ],
+      "definition": "Proposition de Xavier Endres distinguant source commune et trajectoires singulières ; modèle documentaire Xavier/Judy de continuité, copies, bifurcations et témoins à portée explicite.",
+      "path": "/research/hidden-id-continuite-documentaire.html"
+    },
+    {
+      "id": "coherence-continue",
+      "group": "trajectoires",
+      "name": "Cohérence continue",
+      "aliases": [
+        "Coherence continue",
+        "Protection accomplissante"
+      ],
+      "definition": "Témoin constructif Xavier/Judy de protection et de progression dans un système fini déclaré ; une réponse accomplie conserve ses conditions de réouverture au changement pertinent.",
+      "path": "/research/coherence-continue.html"
     }
   ]
 }

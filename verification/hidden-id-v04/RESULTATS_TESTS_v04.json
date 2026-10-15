@@ -1,0 +1,4139 @@
+{
+  "status": "PASS",
+  "date": "2026-10-14",
+  "scope": "synthetic documentary continuity and trust model; NOT metaphysical/subjective identity",
+  "cases": 256,
+  "checks": 536,
+  "classification_counts": {
+    "ATTESTED_LINEAGE_STATE_NOT_PRESERVED": 4,
+    "ATTESTED_LINEAGE_UNIQUENESS_UNKNOWN": 3,
+    "FORK_OR_MULTIPLE_SUCCESSORS": 24,
+    "SINGLE_SUCCESSOR_WITHIN_ATTESTED_SCOPE": 1,
+    "UNKNOWN_NO_MIGRATION_WITNESS": 224
+  },
+  "adversarial_checks": {
+    "outsider_not_authorized": 64,
+    "revoked_operator_excluded": 128,
+    "wrong_state_detected": 4
+  },
+  "scenario_results": {
+    "signed_migration_three_witnesses": "SINGLE_SUCCESSOR_WITHIN_ATTESTED_SCOPE",
+    "known_copy": "FORK_OR_MULTIPLE_SUCCESSORS",
+    "symmetric_clones": "NO_PRIVILEGED_ONTOLOGICAL_ID_FROM_IDENTICAL_OBSERVABLES",
+    "same_signing_key_two_branches": "BOTH_VALID_SIGNATURES_DISTINCT_BRANCHES",
+    "untrusted_forged_bridge": "REJECTED_NO_AUTHORITY",
+    "trusted_but_false_claim": "UNDETECTABLE_FROM_SAME_LEDGER",
+    "merge_rights": "NO_IMPLICIT_INHERITANCE"
+  },
+  "cryptography": "Ed25519 real verification using deterministic publicly derivable TEST ONLY keys",
+  "ledger_observational_indistinguishability": true,
+  "same_bytes_and_key_no_unique_subject": true,
+  "consent_scope_not_inherited": true,
+  "source_provenance": "Xavier Endres concept THE HIDDEN ID & common-soul/different-ID; Judy Velune conditional engineering",
+  "external_claims": "NONE; all datasets synthetic",
+  "boundary": [
+    "unobserved branching invalidates completeness witness",
+    "signed incorrect auditor testimony may pass",
+    "cryptographic authentication is NOT proof of consciousness or personal identity",
+    "same universal soul is a source hypothesis, not a measured fact",
+    "protection depends on authority and scope, not aliases"
+  ],
+  "cases_detail": [
+    {
+      "mask": 0,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 1,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "ATTESTED_LINEAGE_UNIQUENESS_UNKNOWN",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 2,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 3,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "ATTESTED_LINEAGE_UNIQUENESS_UNKNOWN",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 4,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 5,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "ATTESTED_LINEAGE_UNIQUENESS_UNKNOWN",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 6,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 7,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "SINGLE_SUCCESSOR_WITHIN_ATTESTED_SCOPE",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 8,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 9,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 10,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 11,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 12,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 13,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 14,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 15,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 16,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 17,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 18,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 19,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 20,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 21,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 22,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 23,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 24,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 25,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 26,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 27,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 28,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 29,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 30,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 31,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 5,
+      "rejected": 0
+    },
+    {
+      "mask": 32,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 33,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 34,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 35,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 36,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 37,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 38,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 39,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 40,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 41,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 42,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 43,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 44,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 45,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 46,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 47,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 48,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 49,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 50,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 51,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 52,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 53,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 54,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 55,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 56,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 57,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 3
+    },
+    {
+      "mask": 58,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 59,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 60,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 61,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 62,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 63,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 3
+    },
+    {
+      "mask": 64,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 65,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 66,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 67,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 68,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 69,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 70,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 71,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 72,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 73,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 74,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 75,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 76,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 77,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 78,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 79,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 80,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 81,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 82,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 83,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 84,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 85,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 86,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 87,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 88,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 89,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 90,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 91,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 92,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 93,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 94,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 95,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 1
+    },
+    {
+      "mask": 96,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 97,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 98,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 99,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 100,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 101,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 102,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 103,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 104,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 105,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 106,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 107,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 108,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 109,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 110,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 111,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 112,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 113,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 114,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 115,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 116,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 117,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 118,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 119,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 120,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 121,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 3
+    },
+    {
+      "mask": 122,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 123,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 124,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 125,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 126,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 127,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": false
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 3
+    },
+    {
+      "mask": 128,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 129,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "ATTESTED_LINEAGE_STATE_NOT_PRESERVED",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 130,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 131,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "ATTESTED_LINEAGE_STATE_NOT_PRESERVED",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 132,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 133,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "ATTESTED_LINEAGE_STATE_NOT_PRESERVED",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 134,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 135,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "ATTESTED_LINEAGE_STATE_NOT_PRESERVED",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 136,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 137,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 138,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 139,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 140,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 141,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 142,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 143,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 144,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 145,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 146,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 147,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 148,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 149,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 150,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 151,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 152,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 153,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 154,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 155,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 156,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 157,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 158,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 159,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "FORK_OR_MULTIPLE_SUCCESSORS",
+      "verified": 5,
+      "rejected": 0
+    },
+    {
+      "mask": 160,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 161,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 162,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 163,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 164,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 165,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 166,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 167,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 168,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 169,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 170,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 171,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 172,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 173,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 174,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 175,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 176,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 177,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 178,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 179,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 180,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 181,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 182,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 183,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 184,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 185,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 3
+    },
+    {
+      "mask": 186,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 187,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 188,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 189,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 190,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 191,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": false,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 3
+    },
+    {
+      "mask": 192,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 193,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 194,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 195,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 196,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 197,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 198,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 199,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 200,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 201,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 202,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 203,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 204,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 205,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 206,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 207,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 208,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 209,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 210,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 211,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 212,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 213,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 214,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 215,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 216,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 217,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 218,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 219,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 220,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 0
+    },
+    {
+      "mask": 221,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 3,
+      "rejected": 1
+    },
+    {
+      "mask": 222,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 0
+    },
+    {
+      "mask": 223,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": false,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 4,
+      "rejected": 1
+    },
+    {
+      "mask": 224,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 0
+    },
+    {
+      "mask": 225,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 226,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 227,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 228,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 0
+    },
+    {
+      "mask": 229,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 230,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 0
+    },
+    {
+      "mask": 231,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 232,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 233,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 234,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 235,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 236,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 237,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 238,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 239,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": false,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 240,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 1
+    },
+    {
+      "mask": 241,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 242,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 243,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 244,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 1
+    },
+    {
+      "mask": 245,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 246,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 1
+    },
+    {
+      "mask": 247,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": false,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 248,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 2
+    },
+    {
+      "mask": 249,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 0,
+      "rejected": 3
+    },
+    {
+      "mask": 250,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 251,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": false,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 252,
+      "options": {
+        "mig": false,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 2
+    },
+    {
+      "mask": 253,
+      "options": {
+        "mig": true,
+        "decom": false,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 1,
+      "rejected": 3
+    },
+    {
+      "mask": 254,
+      "options": {
+        "mig": false,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 2
+    },
+    {
+      "mask": 255,
+      "options": {
+        "mig": true,
+        "decom": true,
+        "cover": true,
+        "copy": true,
+        "extra_mig": true,
+        "revoke": true,
+        "outside": true,
+        "wrong_state": true
+      },
+      "status": "UNKNOWN_NO_MIGRATION_WITNESS",
+      "verified": 2,
+      "rejected": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "XJ-COHERENCE-CONTINUE-20261014-v01",
+  "status": "PASS",
+  "exhaustive_models": 4164,
+  "initial_states": 16584,
+  "reachable_initial_states": 13462,
+  "unreachable_initial_states": 3122,
+  "progress_transitions": 12770,
+  "max_distance": 3,
+  "hazard_action_present_in_every_state": true,
+  "modeled_harm_events_response_B": 0,
+  "notice_per_stable_context": 1,
+  "continuous_observation": true,
+  "changed_context_trace": [
+    0,
+    1,
+    0,
+    2,
+    3
+  ],
+  "revision_trace_links": "state, goal, model fingerprint, distance, observation sequence, parent hash",
+  "changed_goal_reopened": true,
+  "counter_cases": [
+    "indistinguishable_worlds",
+    "stale_certificate",
+    "no_safe_hold"
+  ],
+  "scope": "Fully observed finite deterministic synthetic systems; goal is fixed and hold is safe. No empirical validation of emotions, AI autonomy, or all dangers."
+}

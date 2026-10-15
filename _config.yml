@@ -41,3 +41,7 @@ defaults:
       width: 1200
       alt: Grande Unicité et cosmodésie, programme de Xavier Endres avec Judy Velune.
     lang: fr
+- scope:
+    path: google964e013960c982a8.html
+  values:
+    sitemap: false

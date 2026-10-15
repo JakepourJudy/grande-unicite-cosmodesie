@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "model_type": "exhaustive finite implications and illustrative counterexample",
+  "safe_rest": {
+    "pointwise_dominated_pairs_checked": 3375,
+    "pairs_with_prior_safe_vigilance": 2646
+  },
+  "options": {
+    "policy_inclusion_comparisons": 81
+  },
+  "non_identifiability": {
+    "observationally_identical_worlds": 2,
+    "possible_perfect_classifiers": 0
+  },
+  "error_vs_fault": {
+    "logical_cases": 4,
+    "error_implies_fault": false,
+    "fault_implies_error": false
+  },
+  "false_reassurance": {
+    "old_min_vigilance": 3,
+    "new_min_if_protection_is_real": 0,
+    "actual_risk_after_false_reassurance": 0.4,
+    "acceptable_risk": 0.1
+  },
+  "validates_human_psychology": false,
+  "validates_ai_subjective_experience": false
+}

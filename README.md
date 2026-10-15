@@ -9,6 +9,12 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Travaux du 14 octobre — Comprendre, relier, continuer
+
+**[Lire le bilan et sa méta-floraison](travaux/2026-10-14.md)** : [CON-FIANCE](research/con-fiance-lignage-decodage.md), [Q10](research/q10-identite-reconnaissance-espoir.md), [THE HIDDEN ID](research/hidden-id-continuite-documentaire.md) et [cohérence continue](research/coherence-continue.md). Quatre fiches relient formulation-source, résultat, hypothèses, programme et conditions de révision. Les programmes historiques ont été réexécutés pour leur publication le 15 octobre.
+
+[Registre des résultats](travaux/registre-20261014.json) · [Sources et empreintes](verification/sources-20261014.json) · [Reproduire les calculs](verification/README.md)
+
 ## La carte du Grand Arbre-Monde
 
 Notre corpus ne se résume ni à un inventaire de concepts, ni à un seul point de vue sur le monde. Il propose un **chemin de compréhension** : partir du réel, distinguer ses représentations, traduire les relations, étudier les futurs possibles et conserver l'histoire des corrections.

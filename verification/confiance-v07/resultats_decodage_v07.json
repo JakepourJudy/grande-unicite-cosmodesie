@@ -1,0 +1,100 @@
+{
+  "status": "EXACT_SYNTHETIC_ONLY_NO_REAL_AGENT",
+  "source_frozen_hash": "3699fd41576934452ab5ff90b545bff1f8e91e304f8bdb5759070ab3aa1b45e9",
+  "prior_versions": [
+    "v0.4 holdout",
+    "v0.5 ceiling",
+    "v0.6 conditional value"
+  ],
+  "families": 6,
+  "exhaustive_exact_checks": 726,
+  "tests": [
+    "enumeration over H,L,Z,R and exact posterior formulas",
+    "invariance under label orientation",
+    "0-1 action value separated from proper forecast score",
+    "noisy reader switches Z interpretations"
+  ],
+  "cases": [
+    {
+      "e": 0.0,
+      "decoder_error": 0.0,
+      "brier_gain": 0.05576776030482738,
+      "action_gain_approx": 0.13023423449273405,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.7967981192102934
+    },
+    {
+      "e": 0.1,
+      "decoder_error": 0.0,
+      "brier_gain": 0.03569136659508952,
+      "action_gain_approx": 0.09304656438000615,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.7596104490975655
+    },
+    {
+      "e": 0.35,
+      "decoder_error": 0.0,
+      "brier_gain": 0.005019098427434464,
+      "action_gain_approx": 0.008810542737000434,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6753744274545598
+    },
+    {
+      "e": 0.45,
+      "decoder_error": 0.0,
+      "brier_gain": 0.0005576776030482738,
+      "action_gain_approx": 0.0,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6665638847175593
+    },
+    {
+      "e": 0.45,
+      "decoder_error": 0.1,
+      "brier_gain": 0.00033460656182896425,
+      "action_gain_approx": 0.0,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6665638847175593
+    },
+    {
+      "e": 0.45,
+      "decoder_error": 0.25,
+      "brier_gain": 0.0,
+      "action_gain_approx": 0.0,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6665638847175593
+    },
+    {
+      "e": 0.45,
+      "decoder_error": 0.3,
+      "brier_gain": -0.00011153552060965476,
+      "action_gain_approx": 0.0,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6665638847175593
+    },
+    {
+      "e": 0.35,
+      "decoder_error": 0.1,
+      "brier_gain": 0.0030114590564606783,
+      "action_gain_approx": 0.003347852674421069,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.6699117373919804
+    },
+    {
+      "e": 0.1,
+      "decoder_error": 0.1,
+      "brier_gain": 0.021414819957053712,
+      "action_gain_approx": 0.06329642828982383,
+      "baseline_class_acc": 0.6665638847175593,
+      "resulting_class_acc": 0.7298603130073832
+    }
+  ],
+  "assumptions": [
+    "P(lineage=C)=P(lineage=I)=1/2 conditional on family/orientation",
+    "P(H=major|lineage) stipulated per frozen 24 cases",
+    "symmetric certificate error e, known",
+    "reader swaps certificate meanings at probability d, independent of H given Z,L",
+    "probabilistic forecast scored by binary Brier (p-H)^2",
+    "fixed state domain and exact arithmetic",
+    "no real LLM, no cognitive or physical measurements"
+  ]
+}

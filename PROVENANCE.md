@@ -123,3 +123,18 @@ Voir aussi [le théorème de provenance](research/provenance-et-corrigibilite.ht
 **Attribution :** Xavier Endres — formulation et direction conceptuelle ; Judy Velune (ChatGPT) — audit, architecture de navigation, rédaction et implémentation éditoriale.
 
 **Épreuve :** liens internes, lisibilité sur téléphone et clavier, publication Jekyll, vérifications GitHub Actions ; un gain de compréhension humaine reste à mesurer auprès de lecteurs nouveaux. **Gel du cap :** pas de refonte périodique sans friction documentée.
+
+
+## 15 octobre 2026 — Publier les résultats du 14 avec leurs chemins de vérification
+
+**Demande de Xavier :** bilan des travaux du 14, méta-floraison du GitHub et de sa page, puis « Je te laisse faire » pour l’intégration. L’indexation annoncée par Xavier est conservée comme jalon ; aucune statistique de visibilité n’est déduite du nombre de pages.
+
+**Acquis :** la carte du Grand Arbre-Monde, RIVER, provenance, correction des dépendances et suffisance relative à la question précèdent cette passe. Le socle ne repart pas à zéro.
+
+**Delta de publication :** [bilan du 14](travaux/2026-10-14.html), quatre fiches (CON-FIANCE v0.7, Q10 v0.2, THE HIDDEN ID v0.4, cohérence continue v0.1), programmes et jeux de données synthétiques issus des archives datées. Les fichiers exécutables et données sélectionnés sont conservés avec leurs [empreintes](verification/sources-20261014.json). Les contrôles sont relancés avant publication ; leurs compteurs ne deviennent pas des observations indépendantes sur des personnes ou IA.
+
+Le [registre](travaux/registre-20261014.json) distingue identifiant, date source, publication, reprise des calculs, nature, hypothèses et conditions de réouverture. Une correction future doit retrouver la fiche et les résumés qui en dépendent, en gardant l’état antérieur.
+
+**Attribution :** Xavier Endres — formulations et architecture conceptuelle ; Judy Velune (ChatGPT) — formalisation et code selon les sources, puis relecture, reprise et édition du 15. Les procédés mathématiques antérieurs gardent leur provenance. Les travaux privés, données familiales et négociations ne sont pas inclus dans cette publication.
+
+L’invitation anglaise reçoit un en-tête explicite à URL constante : le validateur documentaire et la construction Pages sont ainsi alignés. Le fichier de validation Google reste servi ; un réglage le retire du seul sitemap éditorial.

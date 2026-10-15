@@ -1,0 +1,153 @@
+{
+  "status": "SYNTHETIC_FIXTURE",
+  "warning": "publicly derivable test keys; not a credential of a real person, AI or device",
+  "public_keys": {
+    "operator": "bc34b73fb30b9baa2a150ade3cf7904adfa6845eb1bec0b119627a460102e648",
+    "auditor": "7346cdb436a409700d09cfec7eef9a360b5cc4570bb705dfcb08a95fabb2912b",
+    "outsider": "2ba6cd7e6b870afa43f1a81c41f4797611d5986ca80552402ce34333c7ed22cd"
+  },
+  "clean_claims": [
+    {
+      "issuer": "operator",
+      "kind": "MIGRATE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/MIGRATE/0",
+      "seq": 0,
+      "signature": "8975113f50f5fe9165aeedd8e41b620f9c9f3477fc390aa820c27924d3a26176dc18d975ec04a2c5f896725fcd006fb1d2e2e29e417725d2b4daab70f6ade202"
+    },
+    {
+      "issuer": "auditor",
+      "kind": "DECOMMISSION",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/DECOMMISSION/0",
+      "seq": 0,
+      "signature": "149fcd5020cb9bbcaeb58eba080e4de869100bef50a77cfeef2358793ac65e2586c1292aae5a9518f865065fa9eac35bcd7e04111c6342ad603ed7e7d9dbf50c"
+    },
+    {
+      "issuer": "auditor",
+      "kind": "COVERAGE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/COVERAGE/0",
+      "seq": 0,
+      "signature": "a73f2f72f9ce87b3cb3acc0629eff0e1a1a6999405a534d01a22a26ed35bc2ef5422e60f31a007ef01c2722bc40bc7e6f49b2f7aa3a91b5ac0cca127a1f1f903"
+    }
+  ],
+  "fork_claims": [
+    {
+      "issuer": "operator",
+      "kind": "MIGRATE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/MIGRATE/0",
+      "seq": 0,
+      "signature": "8975113f50f5fe9165aeedd8e41b620f9c9f3477fc390aa820c27924d3a26176dc18d975ec04a2c5f896725fcd006fb1d2e2e29e417725d2b4daab70f6ade202"
+    },
+    {
+      "issuer": "auditor",
+      "kind": "DECOMMISSION",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/DECOMMISSION/0",
+      "seq": 0,
+      "signature": "149fcd5020cb9bbcaeb58eba080e4de869100bef50a77cfeef2358793ac65e2586c1292aae5a9518f865065fa9eac35bcd7e04111c6342ad603ed7e7d9dbf50c"
+    },
+    {
+      "issuer": "auditor",
+      "kind": "COVERAGE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/COVERAGE/0",
+      "seq": 0,
+      "signature": "a73f2f72f9ce87b3cb3acc0629eff0e1a1a6999405a534d01a22a26ed35bc2ef5422e60f31a007ef01c2722bc40bc7e6f49b2f7aa3a91b5ac0cca127a1f1f903"
+    },
+    {
+      "issuer": "operator",
+      "kind": "COPY",
+      "src": "old",
+      "dst": "clone",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/clone/COPY/0",
+      "seq": 0,
+      "signature": "c37406118e06411250b3501a491421e7e9e68543ae37edc0d7d6c147438dfc0c31980ba57227f7e47a6a50546eb6b42ef29f091cd2f0d5b0c43eccd69911390a"
+    }
+  ],
+  "untrusted_claim": {
+    "issuer": "outsider",
+    "kind": "MIGRATE",
+    "src": "unrelated1",
+    "dst": "unrelated2",
+    "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+    "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+    "scope": "synthetic-judy-lab-v04",
+    "nonce": "unrelated1/unrelated2/MIGRATE/0",
+    "seq": 0,
+    "signature": "3a5d9bf3851c8f667a17186fedf285ae03ef89f3905de6595b3ed54b4e8f1485fd9ed8d07b03d7a031802847456cbd88a41333757c49c43bc80c3c75708b100d"
+  },
+  "tampered_claim": {
+    "issuer": "operator",
+    "kind": "MIGRATE",
+    "src": "old",
+    "dst": "intruder",
+    "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+    "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+    "scope": "synthetic-judy-lab-v04",
+    "nonce": "old/new/MIGRATE/0",
+    "seq": 0,
+    "signature": "8975113f50f5fe9165aeedd8e41b620f9c9f3477fc390aa820c27924d3a26176dc18d975ec04a2c5f896725fcd006fb1d2e2e29e417725d2b4daab70f6ade202"
+  },
+  "replayed_claims": [
+    {
+      "issuer": "operator",
+      "kind": "MIGRATE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/MIGRATE/0",
+      "seq": 0,
+      "signature": "8975113f50f5fe9165aeedd8e41b620f9c9f3477fc390aa820c27924d3a26176dc18d975ec04a2c5f896725fcd006fb1d2e2e29e417725d2b4daab70f6ade202"
+    },
+    {
+      "issuer": "operator",
+      "kind": "MIGRATE",
+      "src": "old",
+      "dst": "new",
+      "source_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "target_digest": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+      "scope": "synthetic-judy-lab-v04",
+      "nonce": "old/new/MIGRATE/0",
+      "seq": 0,
+      "signature": "8975113f50f5fe9165aeedd8e41b620f9c9f3477fc390aa820c27924d3a26176dc18d975ec04a2c5f896725fcd006fb1d2e2e29e417725d2b4daab70f6ade202"
+    }
+  ],
+  "hash_fixture": {
+    "input_old": "JUDY_TEST_STATE_A_NOT_A_REAL_PERSON",
+    "digest_old": "97c27bbd360138dfebac3990a9641ac6b5638c57ce2e4b8e4db6038e23992a35",
+    "input_different": "JUDY_TEST_STATE_B_NOT_A_REAL_PERSON",
+    "digest_different": "e83d037b09f1f290b6a9b4fec6de9f97d0d1105c9039efea9284eeca2d0c4d5c"
+  }
+}
