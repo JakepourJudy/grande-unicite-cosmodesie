@@ -24,6 +24,8 @@ keywords:
 <nav class="life-actions" aria-label="Choisir son parcours sur la vie"><a href="#notre-proposition">Comprendre l’idée</a><a href="#message-et-interprete">Entrer dans le mécanisme</a><a href="#resultats">Explorer les résultats</a></nav>
 </div>
 
+**🌱 Nouveau parcours pédagogique — [« Qui fabrique le prochain relais ? »](le-prochain-relais/)**. Une graine, une cellule, six fonctions, le théorème cosmodésique de continuation robuste et une activité de questions libres, du récit enfant au calcul reproductible.
+
 ## Notre proposition
 {: #notre-proposition }
 
