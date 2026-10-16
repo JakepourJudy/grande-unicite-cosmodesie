@@ -9,6 +9,10 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## 🌌 L'Actu des lois cosmiques — Recherche transversale
+
+**[Lire le journal public et ses numéros](actualites/index.md)** — La Grande Unicité recherche des principes de relation, transformation, transmission et viabilité à travers les domaines du réel. Les sciences spécialisées, dont la physique, servent de terrains d'épreuve et de contre-signaux : **cosmique ne signifie pas seulement cosmologique**. Chaque numéro distingue définitions, déductions conditionnelles, simulations, observations, hypothèses, valeurs et corrections, avec provenance datée de Xavier/Judy.
+
 ## La vie — Une continuité qui se fabrique
 
 **[Lire notre travail sur la vie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/)** · [Texte source](vie/index.md)
