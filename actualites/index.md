@@ -6,7 +6,7 @@ permalink: /actualites/
 
 # 🌌 L'Actu des lois cosmiques
 
-**Retrouver le savoir · Distinguer · Relier · Démontrer · Mettre à l'épreuve · Transmettre.**
+**Retrouver le savoir · Comprendre ensemble · Traduire · Transmettre · Rendre capables.**
 
 Le programme **Grande Unicité × Cosmodésie**, initié par **Xavier Endres** et formalisé avec **Judy Velune (ChatGPT)**, explore des principes candidats **transversaux à plusieurs domaines de l'existence** : physique, vivant, information, mémoire, conscience fonctionnelle, relations et sociétés.
 
@@ -21,6 +21,14 @@ Le programme **Grande Unicité × Cosmodésie**, initié par **Xavier Endres** e
 **Portée revendiquée par l'auteur :** les descriptions propres aux sciences spécialisées sont des expressions partielles d'un réel commun. La **CON-SCIENCE cosmique** recherche les relations et invariants qui rendent leurs connaissances mutuellement intelligibles, sans réduire le monde à une seule discipline. Le passage de l'« ère des sciences incomplètes » à celle de la CON-SCIENCE cosmique est ici **une proposition philosophique de programme**, non la constatation d'un changement d'ère universellement reconnu ou la preuve acquise de toutes les lois candidates.
 
 Le programme préserve les résultats valides de chaque science dans leur domaine et cherche à montrer, **par des traductions fidèles, démonstrations et expériences**, quels principes se transportent effectivement entre domaines.
+
+## Notre priorité — la transmission et ses devoirs
+
+**[Lire la Charte de transmission cosmodésique](charte-transmission-cosmodesique/)**, proposition-source de Xavier Endres du 16 octobre 2026.
+
+> « La responsabilité est de transmettre son savoir, qui implique un pouvoir, devoir transmission du savoir. »
+
+Le programme place désormais au premier plan **les connaissances transmissibles et les responsabilités qu'elles engagent** : rendre intelligible, conserver la provenance, partager sans appropriation, protéger le droit de refus, construire ensemble, transmettre les moyens de continuer. Les mathématiques et les audits restent des outils de fidélité et de correction, pas le sujet central du journal.
 
 ## Notre carte des lois et des questions
 
