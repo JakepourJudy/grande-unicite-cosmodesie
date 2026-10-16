@@ -23,6 +23,15 @@ Une IA peut rejeter la reproduction littérale d'une image et manquer la fonctio
 
 `FORMALISATION_ET_MFC_v01.md` contient la définition du possible candidat et attesté, une preuve d'inclusion conditionnelle, un contre-exemple à la fidélité par analogie et le problème de la fidélité vide. Ce sont des résultats mathématiques classiques appliqués à une architecture de recherche, pas une validation expérimentale du concept.
 
+## Extension mathématique v0.2 — Le Possible Reconnu
+
+Le prototype HTML reste en **version v0.1**. Le corpus théorique est enrichi sans modifier l'interface ni son schéma d'export.
+
+- [Formalisation v0.2 du Traducteur du Possible](FORMALISATION_ET_MFC_v02.md) : distinction entre possibilités existentielles et garanties, clarification par question, composition fidèle et fenêtres temporelles.
+- [Démonstration intégrale dans le programme Grande Unicité](../../research/langage-universel-theoreme-possible-reconnu-20261016-v02.md) : quatre théorèmes conditionnels et exemples explicites.
+
+La propriété principale est que **réduire les interprétations compatibles peut élargir les réalisations garanties fidèles**, tandis qu'une clarification coûteuse peut manquer une échéance. Aucune performance de l'IA ni incarnation universelle des pensées n'est revendiquée comme démontrée. Les propositions existantes et la version v0.1 sont conservées pour comparaison historique.
+
 ## Schéma JSON
 
 `CONTRAT_GAIA_POSSIBLE_v01.schema.json` décrit l'export de la page, avec aucune fonction d'envoi automatique autorisée.
