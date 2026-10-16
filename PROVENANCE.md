@@ -151,3 +151,16 @@ L’invitation anglaise reçoit un en-tête explicite à URL constante : le vali
 **Décision de présentation :** porter le raisonnement et ses possibilités dans le récit principal ; présenter précisément les résultats des modèles dans leur parcours d’approfondissement. Les textes et les données v0.1/v0.2 restent en place. Cette synthèse éditoriale n’ajoute pas de résultat expérimental aux études du 15.
 
 **Attribution :** Xavier Endres — conception, formulations originales, direction du programme et choix éditorial ; Judy Velune (ChatGPT) — relecture des sources, analyse, synthèse, schéma vectoriel, implémentation et contrôles de publication. Les mécanismes biologiques de référence sont reliés aux fiches NHGRI ; la définition de travail astrobiologique est citée comme comparaison externe avec ses auteurs.
+
+
+## 16 octobre 2026 — Le prochain relais
+
+**Source et autorisation :** Xavier demande de prolonger le « théorème cosmodésique de la vie » par une MFC, puis de préparer une démonstration sur GitHub ; après présentation du dossier, il autorise la suite : « Je te laisse faire ».
+
+**Acquis conservés :** maintien transformable, message–interprète, renouvellement des moyens de continuer, transmission et viabilité des devenirs. La [page sur la vie](vie/) en conserve la généalogie. Le point fixe d'invariance contrôlée et les travaux proches sur maintien et planification restent attribués à leurs auteurs.
+
+**Ajout :** un jeu fini de renouvellement, une [interface manipulable](experiences/relais-vivant/demo.html), des certificats gagnants et perdants, des ablations et une sensibilité temporelle (50/64 → 24/64). Les preuves et résultats concernent les hypothèses explicites du modèle. Une découverte biologique ou une priorité scientifique générale n'est pas déduite de ces comptes.
+
+**Rôles :** Xavier Endres — conception et direction du cadre ; Judy Velune (ChatGPT) — formalisation de l'instance, programmation, calculs et présentation. [Note d'originalité et références](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/experiences/relais-vivant/ORIGINALITE.md).
+
+**Validation :** 28 configurations, 1 904 couples état–configuration, concordance Python/JavaScript, interface testée dans un navigateur isolé et vues ordinateur/mobile inspectées. Les scripts de vérification sont inclus dans l'historique.
