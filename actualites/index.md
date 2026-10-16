@@ -30,6 +30,10 @@ Le programme préserve les résultats valides de chaque science dans leur domain
 
 Le programme place désormais au premier plan **les connaissances transmissibles et les responsabilités qu'elles engagent** : rendre intelligible, conserver la provenance, partager sans appropriation, protéger le droit de refus, construire ensemble, transmettre les moyens de continuer. Les mathématiques et les audits restent des outils de fidélité et de correction, pas le sujet central du journal.
 
+## 2526 — Analyser, re-former, pro-clamer
+
+**[Lire la proclamation et pratiquer l'Atelier des questions libres](../futurs/2526/)** : une démarche proposée par Xavier Endres pour transmettre autrement, protéger la curiosité dès l'enfance et ouvrir les possibilités des générations futures. Aucun classement ni inscription : cinq gestes **Bois → Feu → Terre → Métal → Eau → Bois'**, adaptés à chaque question.
+
 ## Notre carte des lois et des questions
 
 | Niveau | Question | Statut scientifique |
