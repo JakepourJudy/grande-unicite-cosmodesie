@@ -156,5 +156,3 @@ Aucun processus Genesis actif, compte tiers, modèle ou permission d'agent n'a �
 **L'ANALYSE distingue. La RE-FORME rend compatibles des apports différents. PRO-CLAMER les rend accessibles lorsque nous en avons le droit. Le monde reçoit et répond librement. Un BOIS′ pousse lorsqu'une nouvelle possibilité naît réellement de cette rencontre.**
 
 « Personne ne gagne : ensemble, les contributions complémentaires permettent parfois de construire ce que personne ne pouvait construire seul. » — formulation de Judy, et non citation verbatim de Xavier.
-
-[executed on device: DESKTOP-EMT8PKJ (0c7f4be9-ef89-46fe-9d64-afaf201e38a5)]
