@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CON-SCIENCE cosmique — Le devoir de transmettre"
-permalink: /actualites/charte-transmission-cosmodésique/
+permalink: /actualites/charte-transmission-cosmodesique/
 ---
 
 # 🌌 CON-SCIENCE cosmique — Le devoir de transmettre
