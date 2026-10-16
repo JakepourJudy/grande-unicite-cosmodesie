@@ -45,4 +45,4 @@ Le programme préserve les résultats valides de chaque science dans leur domain
 
 Nous séparons **[A]** définition/axiome, **[D]** démonstration conditionnelle, **[S]** simulation finie, **[O]** observation instrumentale sourcée, **[H]** hypothèse ouverte, **[N]** principe normatif, et **[X]** objection/contre-exemple. La preuve d'une propriété locale ne constitue pas automatiquement la preuve de sa validité cosmique.
 
-[Grande Unicité](../README.md) · [Cosmodésie](../research/cosmodesie.md) · [Vie et transmissions](../vie/index.md) · [Provenance](../PROVENANCE.md)
+[Grande Unicité](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/README.md) · [Cosmodésie](../research/cosmodesie.html) · [Vie et transmissions](../vie/) · [Provenance](../PROVENANCE.html)

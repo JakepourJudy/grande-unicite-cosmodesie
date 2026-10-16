@@ -102,16 +102,16 @@ La continuation fonctionnelle n'est donc pas un critère suffisant du vivant.
 Une conséquence pratique est de chercher les conditions de reprise d'une
 fonction plutôt que de compter uniquement les objets produits.
 
-- [Énoncé et preuve](THEOREME.md)
-- [Originalité, provenance et comparaison](ORIGINALITE.md)
-- [Protocole pour prolonger la recherche](PROTOCOLE_SUIVANT.md)
+- [Énoncé et preuve](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/experiences/relais-vivant/THEOREME.md)
+- [Originalité, provenance et comparaison](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/experiences/relais-vivant/ORIGINALITE.md)
+- [Protocole pour prolonger la recherche](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/experiences/relais-vivant/PROTOCOLE_SUIVANT.md)
 - [Données calculées](results.json)
 
 ## Intégration au programme
 
 Cette expérience prolonge le [dossier sur la vie](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/).
 Son calcul est inclus dans la vérification automatique du dépôt.
-[Validation mathématique et visuelle](VALIDATION.md).
+[Validation mathématique et visuelle](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/experiences/relais-vivant/VALIDATION.md).
 
 Contrôle facultatif de l'interface, avec Playwright installé :
 
