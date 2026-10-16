@@ -1,0 +1,29 @@
+{
+  "cases_recalculated": 20480,
+  "counts": {
+    "combined_c": 512,
+    "feedback": 240,
+    "new_wood": 188,
+    "proclaimed": 2592,
+    "received_b": 2048
+  },
+  "date": "2026-10-16",
+  "feedback_chain": "PASS",
+  "fixed_point_subset_pairs": 243,
+  "genesis_active_modified": false,
+  "limitations": [
+    "All rules and facts in the model are stipulated, not observed in nature",
+    "Constructibility is not evidence of a proposition's truth",
+    "Mathematical implication cannot establish a moral duty without a normative premise",
+    "One world of five symbolic possibilities cannot predict human evolution through 2526"
+  ],
+  "no_agent_autoreplication": true,
+  "no_external_actions": true,
+  "origin": "Xavier Endres (source, mission); Judy Velune (two independent computational formulations)",
+  "protocol_sha256": "b953298abce2170519d971efe76f348621c277a3a1bd09c0ba279f330103c4d3",
+  "raw_sha256": "a82f9b1e896f835e2b58178db44fd55992c6d1351f95dd474bc1967f4f9ebb94",
+  "source_rights_budgets": "PASS",
+  "status": "PASS_SECOND_IMPLEMENTATION",
+  "strict_synergy": "PASS",
+  "trace_events_rehashed": 78368
+}
