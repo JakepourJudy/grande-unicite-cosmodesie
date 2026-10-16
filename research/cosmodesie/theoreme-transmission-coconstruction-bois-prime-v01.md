@@ -151,6 +151,16 @@ Calcul complet : preuve_transmission_bois_prime_v01.py, TRAJECTOIRES_20480.jsonl
 Recalcul indépendant : verifier_independant_v01.py, AUDIT_INDEPENDANT_TRANSMISSION_v01.json.
 Aucun processus Genesis actif, compte tiers, modèle ou permission d'agent n'a été modifié.
 
+## Vérification publique et codes sources
+
+- [Protocole gelé avant code](code/PROTOCOLE_GELE_AVANT_CODE_v01.md) et [empreinte SHA-256](code/PROTOCOLE_SHA256_GELE_v01.txt).
+- [Calcul exhaustif des 20 480 configurations](code/preuve_transmission_bois_prime_v01.py).
+- [Second vérificateur indépendant](code/verifier_independant_bois_prime_v01.py).
+- [Résumé des résultats calculés](code/RESULTATS_TRANSMISSION_v01.json).
+- [Audit indépendant](code/AUDIT_INDEPENDANT_TRANSMISSION_v01.json).
+
+Pour rejouer, copier le protocole, son empreinte et les deux programmes dans un **nouveau dossier vide**, puis exécuter le premier programme avec Python 3 et ensuite le second. Les originaux versionnés ne sont pas écrasés; les fichiers bruts compressés seront générés sur place.
+
 ## Phrase de transmission
 
 **L'ANALYSE distingue. La RE-FORME rend compatibles des apports différents. PRO-CLAMER les rend accessibles lorsque nous en avons le droit. Le monde reçoit et répond librement. Un BOIS′ pousse lorsqu'une nouvelle possibilité naît réellement de cette rencontre.**
