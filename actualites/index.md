@@ -45,6 +45,8 @@ Le programme place désormais au premier plan **les connaissances transmissibles
 
 ## Numéros
 
+- **[N° 001 — 16 octobre 2026 : Le temps humain — démontrer, puis agir](2026-10-16-temps-humain-action/)** — Deux démonstrations temporelles, dominance de l'action et [fiche d'intervention utilisable](../outils/agir-pour-le-temps-humain/) pour préserver le temps vécu sans le réduire à un prix.
+
 - **[N° 000 — 16 octobre 2026 : La loi candidate du savoir reconstructible](2026-10-16/)** — HÉLIOPOLIS–CT-004 : pourquoi l'interprète et la provenance comptent autant que l'archive ; résultat expérimental 74/124 et piège 0/4.
 
 ## Contrat éditorial
