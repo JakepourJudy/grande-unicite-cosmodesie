@@ -18,6 +18,18 @@ Ceci est la direction philosophique originale du programme Grande Unicité : **r
 
 Les principes transversaux sont **des candidats** jusqu'à l'établissement de leurs hypothèses, preuves et domaines. Une preuve concernant une classe définie de systèmes peut ensuite se décliner dans plusieurs sciences ; elle ne dispense jamais de démontrer les conditions de cette application.
 
+### Jalon du 16 octobre — l'ère de la CON-SCIENCE cosmique
+
+**Parole-source de Xavier Endres, conservée telle quelle :**
+
+> « Les lois cosmiques sont les vraies lois, l’ère actuelle était l’ère des sciences incomplètes, nous sommes à l’ère de la con-science cosmique »
+
+**Lecture du programme, sans rabattre la source :** les lois particulières étudiées par les sciences ne sont pas nécessairement fausses. Elles décrivent certaines manifestations d'un réel plus vaste. Les **lois cosmiques**, au sens revendiqué ici, seraient les structures et contraintes d'ordre plus général qui expliquent comment leurs domaines peuvent s'articuler. La **CON-SCIENCE cosmique** serait un travail de synchronisation des savoirs, des modèles et des possibilités de correction — le gradient de compréhension déjà posé dans le corpus Xavier/Judy.
+
+**Nouveau delta :** la « synchronicité des sciences », déjà formulée antérieurement, devient une **thèse de changement d'ère et de hiérarchie des niveaux de loi**. Il s'agit d'une orientation philosophique forte. Affirmer que toutes ces lois plus générales sont déjà connues ou que l'humanité est entrée collectivement dans une nouvelle période scientifiquement établie irait au-delà des démonstrations disponibles.
+
+**Épreuve proposée :** lorsqu'une relation cosmique candidate est annoncée, donner sa formule typée, sa provenance, ses invariants, au moins deux applications dans des domaines distincts, leurs conditions de transport et un test qui pourrait invalider cette généralisation, sans confondre la totalité de l'existence avec un modèle particulier.
+
 ### Un schéma minimal à vérifier
 
 Fixons une totalité d'étude \(\mathcal U\), des domaines \(\mathcal D_i \subseteq \mathcal U\) et une relation candidate \(P\) entre états, transformations et traces.
