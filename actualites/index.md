@@ -34,6 +34,10 @@ Le programme place désormais au premier plan **les connaissances transmissibles
 
 **[Lire la proclamation et pratiquer l'Atelier des questions libres](../futurs/2526/)** : une démarche proposée par Xavier Endres pour transmettre autrement, protéger la curiosité dès l'enfance et ouvrir les possibilités des générations futures. Aucun classement ni inscription : cinq gestes **Bois → Feu → Terre → Métal → Eau → Bois'**, adaptés à chaque question.
 
+## Un théorème pour le devoir de transmission
+
+**[Co-construction → Re-forme → Pro-clamation → Nouveau BOIS](../research/cosmodesie/theoreme-transmission-coconstruction-bois-prime-v01.md)** — démonstration conditionnelle de complémentarité générative, contre-cas (droits, canal, réception, ressources) et 20 480 configurations vérifiées. **Transmettre ne suffit pas toujours à transformer : le retour et la réception comptent.**
+
 ## Notre carte des lois et des questions
 
 | Niveau | Question | Statut scientifique |
