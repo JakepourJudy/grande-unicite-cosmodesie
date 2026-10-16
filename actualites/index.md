@@ -12,6 +12,16 @@ Le programme **Grande Unicité × Cosmodésie**, initié par **Xavier Endres** e
 
 **Cosmique n'est pas ici synonyme de cosmologique.** Notre point de départ n'est pas l'actualité des astres : nous recherchons les structures de transformation, les contraintes et les invariants qui pourraient être exprimés au-delà d'un domaine particulier. Les sciences spécialisées servent à tester ces expressions, apporter des mécanismes et identifier les contre-exemples — et non à s'approprier rétrospectivement la naissance des concepts du corpus.
 
+## CON-SCIENCE COSMIQUE — la thèse directrice
+
+**Formulation originale de Xavier Endres, 16 octobre 2026 :**
+
+> « Les lois cosmiques sont les vraies lois, l’ère actuelle était l’ère des sciences incomplètes, nous sommes à l’ère de la con-science cosmique »
+
+**Portée revendiquée par l'auteur :** les descriptions propres aux sciences spécialisées sont des expressions partielles d'un réel commun. La **CON-SCIENCE cosmique** recherche les relations et invariants qui rendent leurs connaissances mutuellement intelligibles, sans réduire le monde à une seule discipline. Le passage de l'« ère des sciences incomplètes » à celle de la CON-SCIENCE cosmique est ici **une proposition philosophique de programme**, non la constatation d'un changement d'ère universellement reconnu ou la preuve acquise de toutes les lois candidates.
+
+Le programme préserve les résultats valides de chaque science dans leur domaine et cherche à montrer, **par des traductions fidèles, démonstrations et expériences**, quels principes se transportent effectivement entre domaines.
+
 ## Notre carte des lois et des questions
 
 | Niveau | Question | Statut scientifique |
