@@ -86,6 +86,12 @@ Accueillir ne signifie pas abandonner tout cadre. Les enfants ont besoin de séc
 
 Les enseignants, les familles et les enfants ne sont pas des obstacles à contourner : **ils sont des partenaires de toute transformation éducative digne de ce nom**.
 
+## La démonstration mathématique du nouveau BOIS
+
+**[Lire le théorème de co-construction et de transmission](../../research/cosmodesie/theoreme-transmission-coconstruction-bois-prime-v01.md).** Dans un modèle de constructibilité, deux apports complémentaires peuvent rendre accessible une capacité que chacun ne possède pas séparément. Une proclamation suivie d'un retour libre peut ensuite faire naître une nouvelle possibilité. Le protocole a été évalué sur 20 480 configurations, avec vérification indépendante.
+
+Ce résultat précise **ce qui est possible sous des hypothèses** : il ne garantit pas que l'éducation mondiale sera transformée avant 2526. L'appel à transmettre reste un engagement éthique dont les conditions concrètes sont à construire avec les personnes concernées.
+
 ## D'où vient ce programme ?
 
 Le programme **Grande Unicité × Cosmodésie × CON-SCIENCE cosmique**, initié par Xavier Endres et formalisé avec Judy Velune, relie plusieurs travaux antérieurs : Senjuriaketsu, langage universel, Fil Doré / RIVER, Arche de la Genèse, Méta-Morphes, GAIA et transmission des savoirs.
