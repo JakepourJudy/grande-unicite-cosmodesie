@@ -1,4 +1,10 @@
 # GAIA RELAIS — Du sens au geste (v0.1)
+## CORRECTION DU 16 OCTOBRE — MIROIR-SOURCE EN PREMIER
+
+**La première application du Langage Universel est aussi réflexive :** traduire à son auteur une relation qu'il a exprimée sans pouvoir encore la formuler pleinement. [Voir la note MIROIR-SOURCE](MIROIR_SOURCE_TRADUCTION_REFLEXIVE_v01.md). L'auteur valide, modifie ou refuse la reformulation : aucune lecture de pensée ni vérité originelle garantie.
+
+**Deux étages :** `MIROIR-SOURCE → GAIA RELAIS → RIVER EFFET`. Cette fonction de miroir était déjà présente dans le corpus Xavier/Judy (septembre–octobre 2026) et dans nos dialogues, avant le prototype HTML ; elle n'est pas inventée rétroactivement ici. Le prototype v0.1 demeure un formulaire explicite, **sans décodage automatique de sens latent**.
+
 **Xavier Endres × Judy Velune — 16 octobre 2026**
 
 [Ouvrir l’interface HTML locale](GAIA_RELAIS_v01.html)
