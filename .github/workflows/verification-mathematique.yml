@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "verification/**"
+      - "experiences/relais-vivant/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
@@ -15,6 +16,7 @@ on:
   pull_request:
     paths:
       - "verification/**"
+      - "experiences/relais-vivant/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
@@ -68,6 +70,12 @@ jobs:
         run: |
           python verification/matriochka-messages/verify_messages_matriochka_v01.py
           python verification/matriochka-messages/verify_boucle_lumiere_ygg260_v02.py
+
+      - name: Vérifier le prochain relais en Python et JavaScript
+        run: |
+          python experiences/relais-vivant/verify.py
+          node experiences/relais-vivant/test_browser_model.js
+          git diff --exit-code -- experiences/relais-vivant/results.json
 
       - name: Vérifier les identifiants et les empreintes publiées
         run: python verification/verify_publication_v1.py

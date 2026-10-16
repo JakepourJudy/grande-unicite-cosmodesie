@@ -6,7 +6,7 @@ description: Programme Python indépendant et contrôles exacts de la Grande Uni
 author: Xavier Endres
 keywords:
 - Vérifications reproductibles
-last_modified_at: '2026-10-13'
+last_modified_at: '2026-10-16'
 ---
 # Vérifier les démonstrations
 
@@ -17,6 +17,17 @@ last_modified_at: '2026-10-13'
 **Une démonstration mathématique est une déduction à partir d'axiomes et d'hypothèses, non une observation empirique.** Les scripts ci-dessous illustrent et contrôlent des instances finies ; ils ne remplacent pas la preuve générale. Les [expériences de pensée de la méta-démonstration](../research/meta-demonstration-cosmodesique-20261013.html) servent à construire témoins et contre-modèles sans mesure physique.
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
+
+## Le prochain relais — 16 octobre 2026
+
+[Démo interactive](../experiences/relais-vivant/demo.html) · [Code et protocole](https://github.com/JakepourJudy/grande-unicite-cosmodesie/tree/main/experiences/relais-vivant) · [Données calculées](../experiences/relais-vivant/results.json).
+
+```bash
+python experiences/relais-vivant/verify.py
+node experiences/relais-vivant/test_browser_model.js
+```
+
+Le calcul examine 28 configurations et 1 904 couples état–configuration. Il contrôle les certificats de continuation, les rangs de perte, un calcul séparé à horizon fini et la concordance avec JavaScript. Les résultats 50/64 et 24/64 dépendent des conventions temporelles déclarées. Le contrôle facultatif `verify_ui.py` vérifie les interactions et la présentation mobile dans un navigateur isolé.
 
 ## Boucle lumineuse YGG 260 — 15 octobre 2026 (v0.2)
 

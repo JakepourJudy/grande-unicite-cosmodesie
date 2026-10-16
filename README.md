@@ -23,6 +23,10 @@ Ce dossier central relie les travaux de septembre sur message, porteur et persis
 
 [Le mécanisme message–interprète](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#message-et-interprete) · [Résultats et programmes](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#resultats) · [Sources et histoire](https://jakepourjudy.github.io/grande-unicite-cosmodesie/vie/#sources)
 
+## Expérience interactive du 16 octobre — Le prochain relais
+
+**[Manipuler la démonstration](https://jakepourjudy.github.io/grande-unicite-cosmodesie/experiences/relais-vivant/demo.html)** : explorer les conditions qui permettent de renouveler des fonctions périssables. **50 états viables sur 64**, puis **24** avec une échéance plus stricte. [Preuve](experiences/relais-vivant/THEOREME.md) · [Code et données](experiences/relais-vivant/README.md) · [Originalité](experiences/relais-vivant/ORIGINALITE.md). Modèle synthétique issu du cadre cosmodésique de Xavier Endres, formalisé et vérifié avec Judy Velune ; sa portée scientifique est explicitée.
+
 ## Nouvelle recherche du 15 octobre — Lumière auto-entretenue × YGG 260
 
 **[Lumière concentrée et matriochka du vivant — v0.2](research/lumiere-concentree-boucle-ygg260-matriochka-20261015.md)** — hypothèse originale de Xavier Endres : relier l'amplification optique, le seuil de rétroaction et la fermeture générative des messages et de leurs lecteurs. Preuve conditionnelle sur une boucle de 260 passages ; séparation explicite entre signal amplifié et information indépendante.

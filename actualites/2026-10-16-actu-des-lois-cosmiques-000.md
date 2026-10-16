@@ -113,4 +113,4 @@ Le prochain test envisagé concerne la reconstruction d'une capacité lorsqu'un 
 
 *Correction éditoriale du 16/10 : une première version de ce numéro donnait une place centrale aux actualités astrophysiques. Elle a été réorientée, à la demande explicite de Xavier, vers les lois cosmiques candidates au sens de la Grande Unicité. L'historique Git garde les deux états.*
 
-[Retour à L'Actu](/grande-unicite-cosmodesie/actualites/) · [Grande Unicité](/grande-unicite-cosmodesie/) · [Cosmodésie](/grande-unicite-cosmodesie/research/cosmodesie/)
+[Retour à L'Actu](/grande-unicite-cosmodesie/actualites/) · [Grande Unicité](/grande-unicite-cosmodesie/) · [Cosmodésie](/grande-unicite-cosmodesie/research/cosmodesie.html)
