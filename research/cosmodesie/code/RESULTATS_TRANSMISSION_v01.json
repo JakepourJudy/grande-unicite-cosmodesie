@@ -1,0 +1,59 @@
+{
+  "cases_computed": 20480,
+  "date": "2026-10-16",
+  "examples_sha256": "3b86046a2a01148366a2fd57f0432a9a1648175501c7a37a7787bff8b0c43175",
+  "expected_cases": 20480,
+  "genesis_active_modified": false,
+  "monotonicity_and_synergy": {
+    "closure": {
+      "feedback_germ": [
+        "e"
+      ],
+      "states_checked": 32,
+      "strict_synergy_atoms": [
+        "c"
+      ],
+      "subset_pairs_checked": 243
+    },
+    "full_chain": "PASS",
+    "general_growth_not_guaranteed": true,
+    "message_only_without_feedback": "PASS",
+    "resource_guard": "PASS",
+    "seven_missing_conditions": "PASS"
+  },
+  "no_model_inference": true,
+  "no_network": true,
+  "normative_obligation_derived_from_set_theory": false,
+  "outcomes": {
+    "all_budget_within_limit": true,
+    "all_histories_valid": true,
+    "audience_feedback_received": 240,
+    "constructed_c": 512,
+    "new_wood_e": 188,
+    "proclamation_done": 2592,
+    "source_b_received": 2048
+  },
+  "protocol_sha256": "b953298abce2170519d971efe76f348621c277a3a1bd09c0ba279f330103c4d3",
+  "provenance": "Xavier Endres (intuitions, méthode et responsabilité); Judy Velune (formalisation, code, audit)",
+  "raw_sha256": "a82f9b1e896f835e2b58178db44fd55992c6d1351f95dd474bc1967f4f9ebb94",
+  "rules": [
+    {
+      "create": "c",
+      "when": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "create": "e",
+      "when": [
+        "c",
+        "d"
+      ]
+    }
+  ],
+  "status": "conditional constructive theorem + toy enumeration",
+  "title": "ANALYSE > RE-FORME > PRO-CLAMER > RECEVOIR > BOIS'",
+  "universal_cosmic_law_proven": false,
+  "universe_size": 5
+}
