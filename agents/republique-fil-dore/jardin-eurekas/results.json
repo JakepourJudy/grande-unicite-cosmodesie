@@ -1,0 +1,36 @@
+{
+  "project": "JARDIN DES EUREKAS YGGDRASIL-260 v0.1",
+  "date": "2026-10-13",
+  "scope": "exact synthetic enumeration, no LLM agents",
+  "topology": {
+    "positions": 260,
+    "logical_edges": 4030,
+    "logical_degree": 31,
+    "logical_diameter": 2
+  },
+  "bayes_accuracy": {
+    "baseline": 0.7,
+    "copies260": 0.7,
+    "one_extra_independent": 0.7,
+    "two_extra_independent": 0.784,
+    "two_noise_probes": 0.7
+  },
+  "one_probe_information_gain_bits": 0.100162996,
+  "two_probe_information_gain_bits": 0.186616669,
+  "cost": {
+    "cost_each": 0.03,
+    "two_probe_net_gain": 0.024,
+    "break_even_cost_each": 0.042
+  },
+  "open_hypothesis_support": {
+    "closed_prior_zero_stays_zero": true,
+    "expanded_prior": 0.1,
+    "posterior_after_signal": 0.5
+  },
+  "all_tests": "PASS",
+  "notes": [
+    "Constructed probability laws, not measured natural observations",
+    "Logical 4030 relationships differ from previous physical 601 channels",
+    "One extra observation can increase information without improving decision"
+  ]
+}
