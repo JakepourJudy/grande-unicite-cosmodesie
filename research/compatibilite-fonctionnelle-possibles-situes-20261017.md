@@ -75,16 +75,16 @@ Pour la première, x₂ réussit et x₁ échoue. Pour la seconde, x₁ réussit
 
 ## 5. Proposition C2 — La moyenne peut ne convenir à personne
 
-Considérons deux demandes fictives portant les **indices** 40 et 48, et un choix de stock {44}. Supposons, exclusivement pour ce jeu, qu'un indice est compatible lorsque la différence absolue est au plus 1.
+Considérons deux demandes fictives portant les **indices** 38 et 46, et un choix de stock {42}. Supposons, exclusivement pour ce jeu, qu'un indice est compatible lorsque la différence absolue est au plus 1.
 
-La moyenne arithmétique des demandes est **44**, mais :
+La moyenne arithmétique des demandes est **42**, mais :
 
-- distance de 44 à 40 = 4 ;
-- distance de 44 à 48 = 4.
+- distance de 42 à 38 = 4 ;
+- distance de 42 à 46 = 4.
 
 Aucune demande ne trouve de produit compatible : **couverture = 0/2**.
 
-Un stock {40} couvre **1/2**. Un stock {40,48} couvre **2/2**, avec deux références au lieu d'une.
+Un stock {38} couvre **1/2**. Un stock {38,46} couvre **2/2**, avec deux références au lieu d'une.
 
 **Ce qui est démontré :** le point moyen n'optimise pas universellement une fonction de **couverture sous contrainte de compatibilité**. Il peut être optimal pour une **autre** fonction, comme la somme des carrés des écarts si les valeurs sont traitées comme numériques. Il faut donc déclarer **l'objectif et les contraintes**, pas seulement la moyenne.
 
