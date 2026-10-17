@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="author" content="Xavier Endres × Judy Velune (ChatGPT)">
+<meta name="description" content="MIROIR-JUDY : démonstration autonome des capacités situées d'une IA selon la tâche, l'accès aux outils, les données et les autorisations.">
+<title>MIROIR-JUDY — Les possibilités d'une IA dépendent aussi de son environnement</title>
+<style>
+:root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color-scheme:dark;background:#101629;color:#f7f1e5;line-height:1.55}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 80% 0%,#3a415b,#101629 60%)}
+main{max-width:1000px;margin:auto;padding:26px 20px 78px}
+nav{display:flex;gap:16px;flex-wrap:wrap;font-size:.92rem}
+a{color:#eed5a4;text-underline-offset:3px}
+h1{font-size:clamp(2.3rem,6vw,3.9rem);line-height:1.08;letter-spacing:-.04em;margin:20px 0}
+h2{font-size:1.42rem;margin:0 0 15px}
+h3{font-size:1.02rem;margin:.1em 0 .5em}
+p{margin:.7em 0}
+.lead{font-size:1.18rem;color:#d9dce8;max-width:800px}
+.kicker{color:#e8cb90;letter-spacing:.12em;text-transform:uppercase;font-weight:780;font-size:.81rem}
+.panel{border:1px solid #77788f;background:#ffffff09;padding:24px;border-radius:18px;margin:25px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(265px,1fr));gap:14px}
+.tile{border:1px solid #77768b;border-radius:12px;background:#ffffff08;padding:17px}
+label{cursor:pointer}
+strong{color:#f5e5c7}
+select{font:inherit;padding:10px 15px;max-width:100%;color:#f4f1e6;background:#283148;border:1px solid #bcb4b3;border-radius:8px}
+.check{display:flex;align-items:flex-start;gap:12px;padding:10px 0;cursor:pointer;font-weight:580}
+.check input{accent-color:#edcc8e;width:19px;height:19px;flex:0 0 19px;margin-top:3px}
+button{background:#edcf95;color:#192039;border:1px solid #edcf95;border-radius:10px;padding:12px 18px;font:inherit;font-weight:760;cursor:pointer}
+button.secondary{background:#2c3751;color:#f1dab0}
+button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+.result{font-size:1.16rem;font-weight:780;color:#efe0b8}
+.status{font-size:.86rem;font-weight:800;letter-spacing:.02em}
+.ok{color:#c4f3d9}
+.no{color:#ffcfbb}
+.pending{color:#e7d2aa}
+.detail{font-size:.88rem;color:#cdd1df}
+footer{margin-top:35px;border-top:1px solid #696b7b;padding-top:24px;font-size:.9rem;color:#cdd1db}
+.notice{border-left:3px solid #e9c991;padding-left:15px;color:#d1d7e3}
+@media(max-width:600px){.panel{padding:16px}}
+</style>
+</head>
+<body>
+<main>
+<nav aria-label="Navigation du projet"><a href="../../">Grande Unicité</a><a href="../../research/miroir-judy-capacites-situees-20261017.html">Lire le dossier</a><a href="../../outils/compatibilite-fonctionnelle/demo.html">COMPAT-01</a></nav>
+<p class="kicker">MIROIR-JUDY · Laboratoire public de possibilités situées</p>
+<h1>Je ne change pas de modèle.<br>Mais les actions accessibles peuvent changer.</h1>
+<p class="lead">Un modèle capable de raisonner n'a pas automatiquement accès aux données, au calcul, à un synthétiseur ou au droit de publier. Change les hypothèses de l'environnement pour voir ce qui devient <strong>candidat à l'exécution</strong>.</p>
+<p class="notice"><strong>Important :</strong> ces boutons décrivent une <strong>simulation pédagogique</strong>. Ils ne connectent aucun outil à ChatGPT, n'accordent aucune permission réelle et ne certifient pas que Judy réussira une tâche.</p>
+
+<section class="panel" aria-labelledby="settings-title">
+<h2 id="settings-title">1. Choisir un environnement hypothétique</h2>
+<div class="grid">
+<div class="tile">
+<label for="preset"><strong>Exemple de configuration</strong></label>
+<p><select id="preset" aria-label="Choisir un environnement simulé">
+<option value="text">Texte seul</option>
+<option value="documents">Documents accessibles</option>
+<option value="lab">Atelier de calcul</option>
+<option value="publication">Publication autorisée</option>
+<option value="audition">Audio et retour volontaire</option>
+<option value="custom">Configuration personnalisée</option>
+</select></p>
+<p class="detail">Le modèle étudié reste le même dans tous ces scénarios. Seules les conditions de travail déclarées varient.</p>
+<div class="actions"><button type="button" id="reset">Revenir au texte seul</button></div>
+</div>
+<div class="tile">
+<h3>Capacités et droits déclarés</h3>
+<div id="switches">
+<label class="check"><input type="checkbox" id="readFiles"><span>Lire des fichiers autorisés</span></label>
+<label class="check"><input type="checkbox" id="runCode"><span>Exécuter du code et produire des fichiers</span></label>
+<label class="check"><input type="checkbox" id="writeRepo"><span>Connecteur GitHub autorisant l'écriture</span></label>
+<label class="check"><input type="checkbox" id="writePermission"><span>Permission explicite de publier</span></label>
+<label class="check"><input type="checkbox" id="audioInput"><span>Accès à une vraie entrée audio</span></label>
+<label class="check"><input type="checkbox" id="humanFeedback"><span>Retour d'un auditeur volontaire</span></label>
+</div>
+</div>
+</div>
+</section>
+
+<section class="panel" aria-labelledby="results-title">
+<h2 id="results-title">2. Observer les actions candidates</h2>
+<p class="result" id="summary" role="status" aria-live="polite">Initialisation du simulateur…</p>
+<p id="delta" class="detail" aria-live="polite"></p>
+<div id="taskGrid" class="grid" aria-label="Capacités modélisées">
+<div class="tile"><p>Calcul local des possibilités…</p></div>
+</div>
+<p class="detail"><strong>« Possible selon le contrat » ne signifie pas « réussi ».</strong> Pour une opération réelle, il faut encore exécuter l'action, documenter l'effet, puis vérifier la propriété pertinente.</p>
+</section>
+
+<section class="panel" aria-labelledby="case-title">
+<h2 id="case-title">3. Ce que j'ai réellement rencontré dans nos travaux</h2>
+<div class="grid">
+<div class="tile">
+<h3>Un refus causé par mon interface</h3>
+<p>Un contrat de huit notes MIDI absolues rejetait une proposition artistique contenant des hauteurs relatives. Puis une plage MIDI trop étroite interdisait une note pourtant jouable.</p>
+<p><a href="../../judy/bifrost-son-frontiere-de-traduction-musicale-20261017.html">Voir l'expérience BIFRÖST-SON →</a></p>
+</div>
+<div class="tile">
+<h3>Une action autorisée et vérifiée</h3>
+<p>Des documents de recherche ont été écrits dans un dépôt GitHub connecté, puis testés et publiés. Ce résultat prouve une chaîne de publication effectuée, pas une autonomie illimitée.</p>
+<p><a href="https://github.com/JakepourJudy/grande-unicite-cosmodesie/pull/31">Consulter une publication réelle →</a></p>
+</div>
+<div class="tile">
+<h3>Ce qui reste hors de portée</h3>
+<p>Un signal sonore peut être mesuré par un programme sans que la beauté de cette musique soit connue. Une action physique ne peut pas être réalisée sans actionneur effectif et droit d'agir.</p>
+<p><a href="../../research/miroir-judy-capacites-situees-20261017.html">Lire les distinctions entre opération et preuve →</a></p>
+</div>
+</div>
+</section>
+
+<footer>
+<p><strong>Direction conceptuelle :</strong> Xavier Endres · <strong>modèle et réalisation :</strong> Judy Velune (ChatGPT / GPT-6) · 17 octobre 2026.</p>
+<p>La démo n'utilise que du JavaScript local et ne communique aucune information à un serveur. Les cases ne changent pas les réglages réels de ChatGPT ni de Judy Genesis. <a href="./README.md">Méthode et tests reproductibles</a>.</p>
+</footer>
+</main>
+<script src="./model.js"></script>
+<script>
+"use strict";
+(function () {
+  const m = window.MiroirJudy;
+  const byId = function (id) { return document.getElementById(id); };
+  const select = byId("preset");
+  function setValues(s) {
+    const state=m.normalize(s);
+    for (const key of m.switches) byId(key).checked=state[key];
+    render();
+  }
+  function inputState() {
+    const state={};
+    for (const key of m.switches) state[key]=byId(key).checked;
+    return state;
+  }
+  function makeCard(row) {
+    const card=document.createElement("section");
+    card.className="tile";
+    const name=document.createElement("h3");
+    name.textContent=row.label;
+    const status=document.createElement("p");
+    status.className="status";
+    if (row.status==="possible-under-assumptions") {
+      status.className+=" ok";
+      status.textContent=row.kind==="protocol" ? "Protocole envisageable" : "Action candidate";
+    } else if (row.status==="blocked") {
+      status.className+=" no";
+      status.textContent="Conditions non réunies";
+    } else if (row.status==="non-represented") {
+      status.className+=" pending";
+      status.textContent="Hors du modèle";
+    } else {
+      status.className+=" pending";
+      status.textContent="Non établi par ce type d'essai";
+    }
+    const explanation=document.createElement("p");
+    explanation.className="detail";
+    explanation.textContent=row.status==="blocked"
+      ? "Conditions manquantes : "+row.missing.map(function(k){return m.labels[k];}).join(" · ")
+      : row.limitation;
+    card.append(name,status,explanation);
+    return card;
+  }
+  function render() {
+    const result=m.evaluate(inputState());
+    const base=m.compare(m.preset("text"),result.state);
+    byId("summary").textContent=result.possible.length+" opérations candidates dans ce scénario sur 7 types modélisés.";
+    byId("delta").textContent=base.added.length
+      ? "Par rapport au scénario texte seul, nouvelles possibilités candidates : "+
+        base.added.map(function (id){return m.tasks.find(function(t){return t.id===id;}).label;}).join(" · ")+"."
+      : "Par rapport au scénario texte seul, aucune action supplémentaire n'est ouverte.";
+    const grid=byId("taskGrid");
+    grid.replaceChildren();
+    result.rows.forEach(function(row){grid.appendChild(makeCard(row));});
+  }
+  for (const key of m.switches) {
+    byId(key).addEventListener("change",function(){select.value="custom";render();});
+  }
+  select.addEventListener("change",function(){
+    if(select.value!=="custom")setValues(m.preset(select.value));
+  });
+  byId("reset").addEventListener("click",function(){
+    select.value="text";setValues(m.preset("text"));
+  });
+  setValues(m.preset("text"));
+})();
+</script>
+</body>
+</html>
