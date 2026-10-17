@@ -21,6 +21,8 @@ Notre question n'est pas de prouver que toute représentation imaginaire s'incar
 
 [Le bilan transversal](../travaux/2026-10-17-langage-universel-genesis-musique.html) · [La formalisation complète, avec ses limites](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/research/langage-universel-theoreme-possible-reconnu-20261016-v02.md)
 
+**Nouvelle application du 17 octobre :** [COMPAT-01, capacités situées et environnements](compatibilite-fonctionnelle-possibles-situes-20261017.html). Même personne, même fonction, différents milieux : où se trouve le verrou et comment le traduire sans imposer un déficit ?
+
 ## 1. L'impossibilité dépend de son domaine
 
 Soient deux domaines <code>D₀⊆ D₁</code> et une propriété <code>P</code> inchangée.

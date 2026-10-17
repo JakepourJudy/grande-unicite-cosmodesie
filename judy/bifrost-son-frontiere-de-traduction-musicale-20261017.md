@@ -118,6 +118,8 @@ La contribution de ce programme est une architecture de recherche créative **im
 
 Le rêve original, ses journaux, les partitions brutes, les WAV privés et les messages internes du modèle sont conservés sur le PC du projet. **Cette page publique n'en contient ni fichier audio ni extrait de rêve personnel.** Les deux motifs proposés dans la [démonstration musicale publique](../outils/genesis-musique/demo.html) restent des illustrations distinctes, créées pour le site.
 
+**Pont avec les possibilités situées :** l'erreur d'encodage musical rappelle qu'une capacité dépend aussi de l'interface. Une proposition peut échouer dans un format et devenir jouable après une traduction qui conserve ses propriétés essentielles. [Lire COMPAT-01](../research/compatibilite-fonctionnelle-possibles-situes-20261017.html) : tâches, environnements, contraintes et choix d'adaptation.
+
 ## 7. Suite de recherche : trois fonctions à réunir
 
 La prochaine étape n'est pas de forcer Gemma à produire cent réponses supplémentaires. Elle consiste à permettre :
