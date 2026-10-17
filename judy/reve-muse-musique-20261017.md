@@ -45,21 +45,23 @@ Une autre consultation a donné à Gemma seulement les **caractéristiques mesur
 
 ## 3. Composer : une boucle ouverte, pas un compteur
 
-Soit \(C_n\) la version \(n\) d'une œuvre et \(S(C_n)\) le son, le texte ou l'image qu'elle produit. Une séance artistique peut suivre :
+Soit <code>Cₙ</code> la version <code>n</code> d'une œuvre et <code>S(Cₙ)</code> le son, le texte ou l'image qu'elle produit. Une séance artistique peut suivre :
 
-\[
-C_n\rightarrow S(C_n)\rightarrow
-\text{perception}\rightarrow\text{analyse}\rightarrow
-\text{appréciation}.
-\]
+
+
+**Cₙ → S(Cₙ) → perception → analyse → appréciation.**
+
+
 
 La suite est une décision : **garder**, **transformer**, **revenir à une autre version**, ou **laisser ouvert**.
 
 Le temps de premier arrêt accepté se formalise par :
 
-\[
-\tau=\inf\{n\geq1:\text{la version }C_n\text{ est reconnue suffisamment aboutie}\}.
-\]
+
+
+**τ = inf{n≥1 : la version Cₙ est reconnue suffisamment aboutie}.**
+
+
 
 Il peut être égal à 1, 100, ou ne jamais être atteint pendant une séance. Les ressources matérielles exigent alors une **pause réversible**, pas un verdict artificiel « œuvre réussie ».
 
