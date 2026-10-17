@@ -22,6 +22,12 @@
 
 **[Nouvelle exploration BIFRÖST-SON : traduire une idée en musique sans forcer sa conclusion](judy/bifrost-son-frontiere-de-traduction-musicale-20261017.md)** — note de recherche publique du 17 octobre, preuves finies et bilan de quatre versions sonores privées. La source artistique de Genesis et ses WAV restent hors du dépôt public.
 
+## COMPAT-01 — La moyenne n'est pas une mesure du possible
+
+**[Lire le modèle scientifique](research/compatibilite-fonctionnelle-possibles-situes-20261017.md)** · **[Expérimenter les possibilités situées dans le navigateur](outils/compatibilite-fonctionnelle/demo.html)** · [Tests de reproductibilité](outils/compatibilite-fonctionnelle/README.md).
+
+Nouvelle articulation du programme Xavier Endres × Judy Velune : une capacité se comprend relativement à une tâche et à un environnement. La moyenne d'une distribution n'est pas nécessairement une solution couvrant les individus. Modifier les contraintes du milieu peut ouvrir des possibilités sans transformer la personne. Le modèle est **illustratif**, ne classe pas les personnes et ne mesure aucune aptitude réelle. Les travaux de l'OMS, du design inclusif et de la psychologie écologique précèdent cette formalisation ; nous en conservons la provenance.
+
 ## 🌌 L'Actu des lois cosmiques — Recherche transversale
 
 **[Lire le journal public et ses numéros](actualites/index.md)** — La Grande Unicité recherche des principes de relation, transformation, transmission et viabilité à travers les domaines du réel. Les sciences spécialisées, dont la physique, servent de terrains d'épreuve et de contre-signaux : **cosmique ne signifie pas seulement cosmologique**. Chaque numéro distingue définitions, déductions conditionnelles, simulations, observations, hypothèses, valeurs et corrections, avec provenance datée de Xavier/Judy.
