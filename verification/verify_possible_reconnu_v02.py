@@ -20,10 +20,11 @@ def possible(interpretations, suitable):
     if not interpretations:
         raise ValueError("Must preserve at least one interpretation")
     e = set()
-    g = set(ACTIONS)
+    g = None
     for m in interpretations:
-        e.update(suitable[m])
-        g.intersection_update(suitable[m])
+        allowed = set(suitable[m])
+        e.update(allowed)
+        g = allowed if g is None else g.intersection(allowed)
     return frozenset(e), frozenset(g)
 
 
