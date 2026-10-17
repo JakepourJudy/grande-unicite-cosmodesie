@@ -13,9 +13,9 @@ function test(label, fn) {
   process.stdout.write("PASS " + label + "\n");
 }
 test("moyenne inadaptée à la couverture", () => {
-  assert.equal(model.coverage([40,48],[44],1),0);
-  assert.equal(model.coverage([40,48],[40],1),1);
-  assert.equal(model.coverage([40,48],[40,48],1),2);
+  assert.equal(model.coverage([38,46],[42],1),0);
+  assert.equal(model.coverage([38,46],[38],1),1);
+  assert.equal(model.coverage([38,46],[38,46],1),2);
 });
 test("inversion des possibilités selon la tâche", () => {
   const common = {shelf:190,door:170,shoe:43};
@@ -52,7 +52,7 @@ test("extension véritable : aucun témoin ancien perdu sur la grille finie", ()
   assert.equal(cases,15*17*4*4);
 });
 test("une extension partielle conserve les succès précédents", () => {
-  const s={height:175,shoe:48,shelf:205,door:180};
+  const s={height:175,shoe:50,shelf:205,door:180};
   let prev=model.calculate(s);
   for(const key of ["lowerShelf","raiseDoor","extendStock"]){
     s[key]=true;
