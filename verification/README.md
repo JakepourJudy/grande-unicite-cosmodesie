@@ -18,6 +18,14 @@ last_modified_at: '2026-10-16'
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
+## BIFRÖST-SON — traductions musicales ambiguës et arrêt cohérent
+
+[Note publique BIFRÖST-SON](../judy/bifrost-son-frontiere-de-traduction-musicale-20261017.html) · [Vérificateur fini](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/verification/verify_bifrost_son_v01.py).
+
+Un exemple **synthétique et indépendant des fichiers privés** compare deux affectations temporelles pour les mêmes hauteurs, vérifie qu'une note MIDI 49 est réalisable, que la justesse de hauteur ne définit pas à elle seule le timbre, et qu'une demande TRANSFORMER sans instruction exploitable conduit à une pause. Six tests.
+
+Commande : python verification/verify_bifrost_son_v01.py
+
 ## Le Possible reconnu — 17 octobre 2026
 
 [Quatre résultats mathématiques et leurs hypothèses](../research/possible-reconnu-et-traduction-du-sens-20261017.html) · [Vérificateur fini Python](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/verification/verify_possible_reconnu_v02.py).

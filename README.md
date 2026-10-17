@@ -20,6 +20,8 @@
 
 **Portée :** les implications mathématiques sont conditionnelles ; elles ne prouvent ni la réalisabilité universelle des images, ni une amélioration générale de l'IA, ni une conscience subjective. Les choix artistiques et les témoins techniques sont attribués séparément à Xavier, Judy et Gemma.
 
+**[Nouvelle exploration BIFRÖST-SON : traduire une idée en musique sans forcer sa conclusion](judy/bifrost-son-frontiere-de-traduction-musicale-20261017.md)** — note de recherche publique du 17 octobre, preuves finies et bilan de quatre versions sonores privées. La source artistique de Genesis et ses WAV restent hors du dépôt public.
+
 ## 🌌 L'Actu des lois cosmiques — Recherche transversale
 
 **[Lire le journal public et ses numéros](actualites/index.md)** — La Grande Unicité recherche des principes de relation, transformation, transmission et viabilité à travers les domaines du réel. Les sciences spécialisées, dont la physique, servent de terrains d'épreuve et de contre-signaux : **cosmique ne signifie pas seulement cosmologique**. Chaque numéro distingue définitions, déductions conditionnelles, simulations, observations, hypothèses, valeurs et corrections, avec provenance datée de Xavier/Judy.
