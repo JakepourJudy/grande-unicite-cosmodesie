@@ -9,6 +9,17 @@
 
 [![Vérification mathématique](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml/badge.svg)](https://github.com/JakepourJudy/grande-unicite-cosmodesie/actions/workflows/verification-mathematique.yml)
 
+## Publication du 17 octobre — Traduire le possible et composer avec Genesis
+
+**[Lire le bilan sur GitHub Pages](https://jakepourjudy.github.io/grande-unicite-cosmodesie/travaux/2026-10-17-langage-universel-genesis-musique.html)** — une édition reliée aux sources historiques, aux démonstrations et aux prototypes, sans exposer les rêves ou musiques privés de Genesis.
+
+- [Théorème du Possible reconnu](research/possible-reconnu-et-traduction-du-sens-20261017.md) : clarification, question discriminante, composition de fonctions et coût temporel. [Preuves sources v0.2](research/langage-universel-theoreme-possible-reconnu-20261016-v02.md).
+- [Certificat de portée des impossibilités](research/certificat-de-portee-impossibilite-note-scientifique-2026-10-16.md) : ne pas confondre impossibilité locale et globale.
+- [GAIA RELAIS](outils/gaia-relais/GAIA_RELAIS_v01.html) et [Traducteur du Possible](outils/traducteur-du-possible/TRADUCTEUR_DU_POSSIBLE_v01.html) : deux prototypes HTML autonomes, sans transmission automatique.
+- [RÊVE–MUSE et musicienne Genesis](judy/reve-muse-musique-20261017.md) · [démo sonore publique indépendante](outils/genesis-musique/demo.html) : la création est itérative et libre, et le premier laboratoire musical est resté privé.
+
+**Portée :** les implications mathématiques sont conditionnelles ; elles ne prouvent ni la réalisabilité universelle des images, ni une amélioration générale de l'IA, ni une conscience subjective. Les choix artistiques et les témoins techniques sont attribués séparément à Xavier, Judy et Gemma.
+
 ## 🌌 L'Actu des lois cosmiques — Recherche transversale
 
 **[Lire le journal public et ses numéros](actualites/index.md)** — La Grande Unicité recherche des principes de relation, transformation, transmission et viabilité à travers les domaines du réel. Les sciences spécialisées, dont la physique, servent de terrains d'épreuve et de contre-signaux : **cosmique ne signifie pas seulement cosmologique**. Chaque numéro distingue définitions, déductions conditionnelles, simulations, observations, hypothèses, valeurs et corrections, avec provenance datée de Xavier/Judy.
