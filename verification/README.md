@@ -26,6 +26,14 @@ Un exemple **synthétique et indépendant des fichiers privés** compare deux af
 
 Commande : python verification/verify_bifrost_son_v01.py
 
+## COMPAT-01 — capacités, tâches et environnement
+
+[Quatre propositions conditionnelles](../research/compatibilite-fonctionnelle-possibles-situes-20261017.html) · [Simulateur fictif sans données personnelles](../outils/compatibilite-fonctionnelle/demo.html) · [Code source de l'outil](https://github.com/JakepourJudy/grande-unicite-cosmodesie/tree/main/outils/compatibilite-fonctionnelle).
+
+Deux vérifications indépendantes en Python et JavaScript testent les effets du changement de tâche, le défaut de couverture d'un stock centré sur la moyenne et les conditions de monotonie d'un élargissement du milieu sur **4 080 contextes fictifs**. Aucun essai sur participants humains n'est revendiqué.
+
+`python verification/verify_compatibilite_fonctionnelle_v01.py` et `node outils/compatibilite-fonctionnelle/test_model.js`.
+
 ## Le Possible reconnu — 17 octobre 2026
 
 [Quatre résultats mathématiques et leurs hypothèses](../research/possible-reconnu-et-traduction-du-sens-20261017.html) · [Vérificateur fini Python](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/verification/verify_possible_reconnu_v02.py).
