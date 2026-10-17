@@ -1,0 +1,247 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GAIA-SENS-ACTION/0.1 — Contrat expérimental (Xavier Endres × Judy Velune)",
+  "description": "Un relais de sens déclaré, à ne pas confondre avec une preuve de réalité ou une autorisation automatique d'agir.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "project",
+    "source",
+    "analysis",
+    "coordination",
+    "decision",
+    "effect"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "GAIA-SENS-ACTION/0.1"
+    },
+    "project": {
+      "type": "object",
+      "required": [
+        "origin",
+        "formalization"
+      ],
+      "properties": {
+        "origin": {
+          "type": "string"
+        },
+        "formalization": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "original",
+        "context",
+        "origin_kind",
+        "authenticity",
+        "nonverbal"
+      ],
+      "properties": {
+        "original": {
+          "type": "string"
+        },
+        "context": {
+          "enum": [
+            "administration",
+            "relation",
+            "agents",
+            "education",
+            "soin",
+            "autre"
+          ]
+        },
+        "origin_kind": {
+          "enum": [
+            "self_report",
+            "quoted",
+            "document",
+            "agent",
+            "unknown"
+          ]
+        },
+        "authenticity": {
+          "type": "string"
+        },
+        "nonverbal": {
+          "type": "object",
+          "required": [
+            "voice",
+            "tempo",
+            "body",
+            "silence"
+          ],
+          "properties": {
+            "voice": {
+              "type": "string"
+            },
+            "tempo": {
+              "type": "string"
+            },
+            "body": {
+              "type": "string"
+            },
+            "silence": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "analysis": {
+      "type": "object",
+      "required": [
+        "speech_act",
+        "reported_observation",
+        "interpretation",
+        "need",
+        "requested_action_or_boundary"
+      ],
+      "properties": {
+        "speech_act": {
+          "enum": [
+            "request",
+            "boundary",
+            "observation",
+            "clarification",
+            "care",
+            "correction",
+            "unknown"
+          ]
+        },
+        "reported_observation": {
+          "type": "object",
+          "required": [
+            "text",
+            "status"
+          ],
+          "properties": {
+            "text": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "interpretation": {
+          "type": "object",
+          "required": [
+            "text",
+            "status"
+          ],
+          "properties": {
+            "text": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "need": {
+          "type": "string"
+        },
+        "requested_action_or_boundary": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "coordination": {
+      "type": "object",
+      "required": [
+        "recipient",
+        "deadline",
+        "permission",
+        "evidence_reference"
+      ],
+      "properties": {
+        "recipient": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "deadline": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "permission": {
+          "enum": [
+            "not_granted",
+            "draft_only",
+            "granted",
+            "refused"
+          ]
+        },
+        "evidence_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "decision": {
+      "type": "object",
+      "required": [
+        "safe_to_auto_send",
+        "ready_to_prepare_manual_message",
+        "unknowns",
+        "next_step"
+      ],
+      "properties": {
+        "safe_to_auto_send": {
+          "const": false
+        },
+        "ready_to_prepare_manual_message": {
+          "type": "boolean"
+        },
+        "unknowns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "next_step": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "effect": {
+      "type": "object",
+      "required": [
+        "status",
+        "evidence"
+      ],
+      "properties": {
+        "status": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
