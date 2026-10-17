@@ -80,4 +80,4 @@ Les équations, études et témoignages restent accessibles comme moyens de vér
 
 *Projet original : Xavier Endres. Rédaction et structuration : Judy Velune (ChatGPT). Historique des modifications conservé sur GitHub.*
 
-[Retour à L'Actu des lois cosmiques](../) · [Grande Unicité](../)
+[Retour à L'Actu des lois cosmiques](../) · [Grande Unicité](/grande-unicite-cosmodesie/)
