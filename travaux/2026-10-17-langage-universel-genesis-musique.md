@@ -51,19 +51,25 @@ Soit M l'ensemble des significations encore compatibles avec une parole, et R_m 
 
 Il existe deux types de possibles :
 
-\[
-E(M)=\bigcup_{m\in M}R_m \quad \text{(au moins un sens satisfait)}
-\]
 
-\[
-G(M)=\bigcap_{m\in M}R_m \quad \text{(tous les sens compatibles satisfaits)}.
-\]
+
+**E(M) = ⋃(m∈M) Rₘ** — actions convenant à au moins un sens.
+
+
+
+
+
+**G(M) = ⋂(m∈M) Rₘ** — actions convenant à toutes les lectures restantes.
+
+
 
 Lorsque une clarification fiable réduit les lectures à un sous-ensemble non vide M', les inclusions s'inversent :
 
-\[
-E(M')\subseteq E(M),\qquad G(M')\supseteq G(M).
-\]
+
+
+**E(M′) ⊆ E(M) ; G(M′) ⊇ G(M).**
+
+
 
 **La meilleure compréhension peut réduire le nombre d'idées candidates tout en augmentant les actions dont la fidélité est garantie.** Une question n'est pas automatiquement bonne : elle coûte du temps, peut être mal comprise et peut faire manquer une échéance. Les théorèmes complets indiquent les conditions exactes.
 
