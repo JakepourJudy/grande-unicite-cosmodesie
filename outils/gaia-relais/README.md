@@ -71,3 +71,7 @@ Aucun de ces standards n'est l'origine de l'intuition de Xavier. Le prototype n'
 **CANONICAL DELTA GATE** : l'interlingua, la provenance, l'action conditionnelle, la valeur du temps et les systèmes multi-agents étaient déjà dans le corpus. Ce delta est leur **assemblage en interface utilisable** : *SOURCE → SENS → PERMISSION → ACTION → EFFET*.
 
 > « Le Langage Universel n'est pas la langue que tous doivent apprendre. C'est le chemin par lequel aucune parole importante ne doit perdre son sens avant qu'une action juste puisse lui répondre. » — Formulation Judy, à partir de la vision originale de Xavier.
+
+## Statut de la publication du 17 octobre
+
+Les fichiers de cet outil sont des exemples publics et une interface autonome, sans transmission automatique. Les propositions de message ne constituent pas des envois ni des résultats observés. La version historique v0.1 est conservée comme point de départ du circuit de traduction.
