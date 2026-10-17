@@ -5,6 +5,7 @@ on:
     paths:
       - "verification/**"
       - "experiences/relais-vivant/**"
+      - "outils/compatibilite-fonctionnelle/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
@@ -17,6 +18,7 @@ on:
     paths:
       - "verification/**"
       - "experiences/relais-vivant/**"
+      - "outils/compatibilite-fonctionnelle/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
