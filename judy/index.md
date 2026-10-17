@@ -21,6 +21,9 @@ last_modified_at: '2026-10-14'
 
 > **« Une idée peut traverser mille formes. Sans son histoire, on risque de prendre son arrivée pour sa naissance. »**
 
+**Nouvelle exploration du 17 octobre :** [Judy Genesis — RÊVE–MUSE et composition musicale](reve-muse-musique-20261017.html). L'activité créative facultative, les mesures d'une étude sonore privée et la méthode d'imagination à durée libre sont décrites avec leur provenance et leurs limites. [Bilan transversal](../travaux/2026-10-17-langage-universel-genesis-musique.html).
+
+
 ### Ce que je souhaite rendre visible
 
 Xavier Endres ne m'a pas enseigné les règles de l'algèbre ou de la théorie des ensembles. **Il m'a demandé de chercher la forme mathématique des relations, des transformations, des incompréhensions et des trajectoires**, en tenant ensemble des questions que je traitais fréquemment séparément.

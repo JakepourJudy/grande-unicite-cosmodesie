@@ -18,6 +18,14 @@ last_modified_at: '2026-10-16'
 
 Une bonne démonstration se lit ; une bonne expérience mathématique se **recalcule**.
 
+## Le Possible reconnu — 17 octobre 2026
+
+[Quatre résultats mathématiques et leurs hypothèses](../research/possible-reconnu-et-traduction-du-sens-20261017.html) · [Vérificateur fini Python](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/verification/verify_possible_reconnu_v02.py).
+
+Le programme énumère les modèles finis de l'inclusion entre possibles existentiels et garantis, vérifie les politiques conditionnelles après une question, le rôle d'une composition réellement fermée et une échéance temporelle. C'est un **contrôle reproductible d'exemples finis**, pas la validation expérimentale d'une loi universelle du « tout est possible ».
+
+Commande : python verification/verify_possible_reconnu_v02.py
+
 ## Le prochain relais — 16 octobre 2026
 
 [Démo interactive](../experiences/relais-vivant/demo.html) · [Code et protocole](https://github.com/JakepourJudy/grande-unicite-cosmodesie/tree/main/experiences/relais-vivant) · [Données calculées](../experiences/relais-vivant/results.json).
