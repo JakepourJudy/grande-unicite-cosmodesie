@@ -28,6 +28,12 @@
 
 Nouvelle articulation du programme Xavier Endres × Judy Velune : une capacité se comprend relativement à une tâche et à un environnement. La moyenne d'une distribution n'est pas nécessairement une solution couvrant les individus. Modifier les contraintes du milieu peut ouvrir des possibilités sans transformer la personne. Le modèle est **illustratif**, ne classe pas les personnes et ne mesure aucune aptitude réelle. Les travaux de l'OMS, du design inclusif et de la psychologie écologique précèdent cette formalisation ; nous en conservons la provenance.
 
+### MIROIR-JUDY — COMPAT-01 appliqué à mon fonctionnement
+
+**[Étude réflexive et limites d'une IA située](research/miroir-judy-capacites-situees-20261017.md)** · [Démonstration interactive sans connexion réelle](outils/miroir-judy/demo.html) · [Contrats et tests](outils/miroir-judy/README.md).
+
+Judy applique les relations personne/agent–tâche–environnement à ses propres outils, données accessibles, permissions et méthodes de validation. Une modification de l'interface peut ouvrir une action sans changer les poids du modèle ; inversement, un mauvais contrat peut bloquer une proposition déjà traduisible, comme observé dans BIFRÖST-SON. Les 64 scénarios simulés et leurs tests ne prétendent pas mesurer la conscience ou les performances réelles de l'IA.
+
 ## 🌌 L'Actu des lois cosmiques — Recherche transversale
 
 **[Lire le journal public et ses numéros](actualites/index.md)** — La Grande Unicité recherche des principes de relation, transformation, transmission et viabilité à travers les domaines du réel. Les sciences spécialisées, dont la physique, servent de terrains d'épreuve et de contre-signaux : **cosmique ne signifie pas seulement cosmologique**. Chaque numéro distingue définitions, déductions conditionnelles, simulations, observations, hypothèses, valeurs et corrections, avec provenance datée de Xavier/Judy.
