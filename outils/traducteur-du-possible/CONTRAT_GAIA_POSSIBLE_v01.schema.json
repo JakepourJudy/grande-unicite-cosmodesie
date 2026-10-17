@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GAIA-POSSIBLE/0.1 — contrat d’interprétation et de réalisation déclaratif",
+  "description": "Ne constitue ni preuve d’intention secrète ni vérification d’action. Auteur du sens = personne qui le déclare.",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "GAIA-POSSIBLE/0.1"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "direction_conceptuelle": {
+          "type": "string"
+        },
+        "formalisation": {
+          "type": "string"
+        },
+        "statut": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "direction_conceptuelle",
+        "formalisation",
+        "statut"
+      ],
+      "additionalProperties": false
+    },
+    "image": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "original_expression": {
+          "type": "string"
+        },
+        "archetype": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "original_expression",
+        "archetype"
+      ],
+      "additionalProperties": false
+    },
+    "interpretation": {
+      "type": "object",
+      "properties": {
+        "reading_id": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "proposed_by": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "meaning": {
+          "type": "string"
+        },
+        "author_recognition": {
+          "enum": [
+            "yes",
+            "no",
+            "unknown"
+          ]
+        }
+      },
+      "required": [
+        "reading_id",
+        "proposed_by",
+        "title",
+        "meaning",
+        "author_recognition"
+      ],
+      "additionalProperties": false
+    },
+    "function": {
+      "type": "object",
+      "properties": {
+        "essential_invariants": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "omitted_suggestions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "essential_invariants",
+        "omitted_suggestions"
+      ],
+      "additionalProperties": false
+    },
+    "incarnation": {
+      "type": "object",
+      "properties": {
+        "proposal": {
+          "type": "string"
+        },
+        "limits": {
+          "type": "string"
+        },
+        "declared_feasibility": {
+          "enum": [
+            "hypothesis",
+            "existing",
+            "prototype",
+            "no_witness"
+          ]
+        },
+        "first_action": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "proposal",
+        "limits",
+        "declared_feasibility",
+        "first_action"
+      ],
+      "additionalProperties": false
+    },
+    "governance": {
+      "type": "object",
+      "properties": {
+        "sharing": {
+          "enum": [
+            "private",
+            "draft",
+            "allowed"
+          ]
+        },
+        "automatic_external_dispatch": {
+          "const": false
+        }
+      },
+      "required": [
+        "sharing",
+        "automatic_external_dispatch"
+      ],
+      "additionalProperties": false
+    },
+    "witness": {
+      "type": "object",
+      "properties": {
+        "reference_supplied_by_user": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "observed_effect_claimed_by_user": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "independently_verified": {
+          "const": false
+        }
+      },
+      "required": [
+        "reference_supplied_by_user",
+        "observed_effect_claimed_by_user",
+        "independently_verified"
+      ],
+      "additionalProperties": false
+    },
+    "classification": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "schema_version",
+    "created_at",
+    "provenance",
+    "image",
+    "interpretation",
+    "function",
+    "incarnation",
+    "governance",
+    "witness",
+    "classification"
+  ],
+  "additionalProperties": false
+}
