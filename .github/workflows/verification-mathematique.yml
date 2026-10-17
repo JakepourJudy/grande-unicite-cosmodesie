@@ -58,6 +58,11 @@ jobs:
       - name: Vérifier BIFRÖST-SON, les durées et la pause créative
         run: python verification/verify_bifrost_son_v01.py
 
+      - name: Vérifier COMPAT-01, les capacités situées et le modèle Web
+        run: |
+          python verification/verify_compatibilite_fonctionnelle_v01.py
+          node outils/compatibilite-fonctionnelle/test_model.js
+
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py
 
