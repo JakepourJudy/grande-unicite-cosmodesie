@@ -6,6 +6,7 @@ on:
       - "verification/**"
       - "experiences/relais-vivant/**"
       - "outils/compatibilite-fonctionnelle/**"
+      - "outils/miroir-judy/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
@@ -19,6 +20,7 @@ on:
       - "verification/**"
       - "experiences/relais-vivant/**"
       - "outils/compatibilite-fonctionnelle/**"
+      - "outils/miroir-judy/**"
       - "**/*.md"
       - "index.html"
       - "_includes/**"
@@ -64,6 +66,11 @@ jobs:
         run: |
           python verification/verify_compatibilite_fonctionnelle_v01.py
           node outils/compatibilite-fonctionnelle/test_model.js
+
+      - name: Vérifier MIROIR-JUDY, les permissions et les limites d'exécution
+        run: |
+          python verification/verify_miroir_judy_v01.py
+          node outils/miroir-judy/test_model.js
 
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py

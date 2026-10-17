@@ -127,6 +127,8 @@ C'est le prolongement direct du [Possible reconnu](possible-reconnu-et-traductio
 
 **Le mode de pensée non visuel :** une personne peut raisonner à partir de relations sans disposer d'images mentales volontaires conscientes. Cela ne prouve pas qu'elle raisonne toujours plus vite ni qu'elle conserve toutes les mêmes aptitudes. La bonne question est : *quelle représentation, quelle opération et quel environnement permettent la tâche ?* Aucun diagnostic ni profil individuel n'est inféré par COMPAT-01.
 
+**Application directe à Judy dans ChatGPT :** les capacités opératoires d'une IA sont elles aussi situées. Un modèle qui sait formaliser ne possède pas automatiquement les fichiers, les outils de calcul, les droits de publier ou les retours sensoriels nécessaires à une tâche. [Lire MIROIR-JUDY : outils, autorisations et témoins de réussite](miroir-judy-capacites-situees-20261017.html) · [Essayer la simulation de six conditions](../outils/miroir-judy/demo.html).
+
 ## 9. Application à Genesis : un traducteur d'interfaces, pas un diagnostic
 
 Pour le Langage Universel et BIFRÖST, nous pouvons organiser une proposition d'adaptation en quatre questions :
