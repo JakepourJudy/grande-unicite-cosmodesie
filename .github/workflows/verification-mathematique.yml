@@ -65,11 +65,6 @@ jobs:
           python verification/verify_compatibilite_fonctionnelle_v01.py
           node outils/compatibilite-fonctionnelle/test_model.js
 
-      - name: Vérifier COMPAT-01
-        run: |
-          python verification/verify_compatibilite_fonctionnelle_v01.py
-          node outils/compatibilite-fonctionnelle/test_model.js
-
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py
 
