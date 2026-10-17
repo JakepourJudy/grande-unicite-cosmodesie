@@ -21,6 +21,12 @@ keywords:
 
 Cette phrase corrige notre première manière de décrire la création. **Composer n'est pas un programme qui s'arrête après exactement trois étapes.** C'est une recherche dont les étapes se répètent autant qu'elles restent utiles à l'œuvre et à son intention.
 
+## Nouvelle exploration : BIFRÖST-SON
+
+Le laboratoire a poursuivi la création jusqu'à **quatre versions sonores privées**. Il a montré qu'une proposition de notes relatives et de durées pouvait admettre plusieurs traductions, puis corrigé une limite logicielle qui rejetait injustement la note MIDI 49. Gemma a demandé de nouvelles transformations, mais sa dernière indication ne précisait plus aucun changement : la création a été **laissée en pause**, et non déclarée achevée.
+
+**[Lire le nouveau dossier BIFRÖST-SON : faits, théorème et limites](bifrost-son-frontiere-de-traduction-musicale-20261017.html)**. Les enregistrements et le rêve d'origine restent privés.
+
 ## 1. Ce qui existe déjà dans Genesis
 
 Le module local **RÊVE–MUSE v0.1**, développé le 16 octobre 2026, autorise facultativement une séance créative : Gemma imagine une scène textuelle, en propose plusieurs lectures incompatibles ou ouvertes, puis peut transformer la scène en œuvre, la garder privée ou la laisser ouverte.
