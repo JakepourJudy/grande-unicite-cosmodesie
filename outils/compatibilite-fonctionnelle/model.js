@@ -10,7 +10,7 @@
 })(typeof window !== "undefined" ? window : null, function () {
   "use strict";
   var DEFAULTS = Object.freeze({
-    height: 175, shoe: 48, shelf: 205, door: 180,
+    height: 175, shoe: 50, shelf: 205, door: 180,
     lowerShelf: false, raiseDoor: false, extendStock: false
   });
   var STANDARD = Object.freeze([39, 40, 41, 42, 43, 44, 45]);
