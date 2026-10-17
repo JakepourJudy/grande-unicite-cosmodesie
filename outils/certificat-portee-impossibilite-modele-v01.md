@@ -47,6 +47,6 @@ Lorsque l'agent dit « impossible », lui demander :
 
 **Règle RIVER :** garder l'énoncé initial, le NON exact, les hypothèses, la réouverture, le témoin et la raison de la correction.
 
-**Application :** [note scientifique et preuves](../../research/certificat-de-portee-impossibilite-note-scientifique-2026-10-16.md).
+**Application :** [note scientifique et preuves](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/research/certificat-de-portee-impossibilite-note-scientifique-2026-10-16.md).
 
 *La première obligation d'un NON est de dire précisément ce qu'il nie.*
