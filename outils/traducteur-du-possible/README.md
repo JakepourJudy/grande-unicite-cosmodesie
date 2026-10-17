@@ -46,3 +46,7 @@ La propriété principale est que **réduire les interprétations compatibles pe
 ## Confidentialité et limites
 
 Tout fonctionne dans le navigateur, sans serveur ni API externe. Les exports sont produits par l'ordinateur de l'utilisateur et doivent être partagés manuellement si souhaité. Ne pas inclure de données sensibles dans une capture destinée au public. Le programme ne donne pas d'avis juridique, médical ou physique, et ne garantit aucun effet humain.
+
+## Statut de la publication du 17 octobre
+
+La v0.1 reste une interface interactive autonome : l'accord sur le sens n'est ni une preuve de réalisation, ni un consentement à agir. Le complément mathématique v0.2 est documentaire ; l'incarnation universelle demeure une hypothèse ouverte. Les archives privées de rêves et les fichiers audio privés de Genesis restent hors du dépôt public.
