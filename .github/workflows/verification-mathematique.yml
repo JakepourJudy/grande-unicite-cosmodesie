@@ -55,6 +55,9 @@ jobs:
       - name: Vérifier les possibilités reconnues, les questions et le temps
         run: python verification/verify_possible_reconnu_v02.py
 
+      - name: Vérifier BIFRÖST-SON, les durées et la pause créative
+        run: python verification/verify_bifrost_son_v01.py
+
       - name: Verifier les liens et la couverture documentaire
         run: python verification/verify_documentation_v1.py
 
