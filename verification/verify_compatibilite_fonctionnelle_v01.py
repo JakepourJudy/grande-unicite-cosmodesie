@@ -45,10 +45,10 @@ class TestCompatibility(unittest.TestCase):
         self.assertNotIn("door", b)
 
     def test_mean_does_not_maximize_coverage(self):
-        self.assertEqual((40 + 48) / 2, 44)
-        self.assertEqual(coverage((40, 48), (44,)), 0)
-        self.assertEqual(coverage((40, 48), (40,)), 1)
-        self.assertEqual(coverage((40, 48), (40,48)), 2)
+        self.assertEqual((38 + 46) / 2, 42)
+        self.assertEqual(coverage((38, 46), (42,)), 0)
+        self.assertEqual(coverage((38, 46), (38,)), 1)
+        self.assertEqual(coverage((38, 46), (38,46)), 2)
 
     def test_true_environment_extension_is_monotone(self):
         old_stock = (39,40,41,42,43,44,45)
@@ -64,8 +64,8 @@ class TestCompatibility(unittest.TestCase):
         self.assertEqual(checks,4080)
 
     def test_changing_environment_does_not_imply_supserset(self):
-        old = tasks(180, 48, shelf=185, door=210, stock=(48,))
-        changed = tasks(180,48,shelf=235,door=170,stock=(36,37,48))
+        old = tasks(180, 50, shelf=185, door=210, stock=(50,))
+        changed = tasks(180,50,shelf=235,door=170,stock=(36,37,50))
         self.assertIn("shelf",old)
         self.assertNotIn("shelf",changed)
         self.assertNotIn("door",changed)
@@ -77,7 +77,7 @@ class TestCompatibility(unittest.TestCase):
         self.assertTrue(observable_success(1,1))
 
     def test_task_and_environment_make_case_specific(self):
-        fixed_person=(170,48)
+        fixed_person=(170,50)
         initial=tasks(*fixed_person,shelf=205,door=180)
         new=tasks(*fixed_person,shelf=160,door=225,stock=tuple(range(36,53)))
         self.assertTrue(initial < new)
