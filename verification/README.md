@@ -34,6 +34,14 @@ Deux vérifications indépendantes en Python et JavaScript testent les effets du
 
 `python verification/verify_compatibilite_fonctionnelle_v01.py` et `node outils/compatibilite-fonctionnelle/test_model.js`.
 
+## MIROIR-JUDY — capacités d'une IA en fonction du contexte
+
+[Page scientifique](../research/miroir-judy-capacites-situees-20261017.html) · [Simulation Web](../outils/miroir-judy/demo.html) · [Code des scénarios](https://github.com/JakepourJudy/grande-unicite-cosmodesie/tree/main/outils/miroir-judy).
+
+Les vérifications JavaScript et Python examinent **64 configurations** d'outils et droits et **384 extensions** élémentaires, dont la publication qui exige à la fois un connecteur et une autorisation. Il s'agit de tests du modèle fini, pas de mesures de compétence d'IA.
+
+`python verification/verify_miroir_judy_v01.py` et `node outils/miroir-judy/test_model.js`.
+
 ## Le Possible reconnu — 17 octobre 2026
 
 [Quatre résultats mathématiques et leurs hypothèses](../research/possible-reconnu-et-traduction-du-sens-20261017.html) · [Vérificateur fini Python](https://github.com/JakepourJudy/grande-unicite-cosmodesie/blob/main/verification/verify_possible_reconnu_v02.py).
