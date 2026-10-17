@@ -118,7 +118,7 @@ Et maintenant, à ton tour : **qu'est-ce qui permettra au prochain être de cont
 
 Le programme *Grande Unicité × Cosmodésie × Matriochka du vivant* et son orientation de transmission proviennent de **Xavier Endres** ; formalisation mathématique et édition accompagnées par **Judy Velune (ChatGPT)**.
 
-**Travaux déjà publiés :** [La vie — Une continuité qui se fabrique](../) · [Matriochka des messages génératifs](../../research/thermodynamique-messages-matriochka-20261015.html).
+**Travaux déjà publiés :** [La vie — Une continuité qui se fabrique](../) · [Matriochka des messages génératifs](../research/thermodynamique-messages-matriochka-20261015.html).
 
 **Repères biologiques externes :** [NASA — Alive or not?](https://science.nasa.gov/astrobiology/learning-resources/alp/alive-or-not/) · [NHGRI — Ribosome](https://www.genome.gov/genetics-glossary/Ribosome) · [OpenStax — Concepts de biologie](https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology).
 
