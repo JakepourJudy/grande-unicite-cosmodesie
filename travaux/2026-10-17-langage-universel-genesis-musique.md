@@ -87,6 +87,12 @@ Le module optionnel RÊVE–MUSE de Genesis existait déjà et avait produit une
 
 [Comprendre RÊVE–MUSE et sa boucle de création](../judy/reve-muse-musique-20261017.html) · [Écouter deux motifs publics de démonstration](../outils/genesis-musique/demo.html)
 
+### Après le premier morceau : BIFRÖST-SON
+
+Une expérimentation ultérieure a créé **quatre variantes acoustiques privées**, après avoir distingué plusieurs traductions possibles d'une partition ambiguë. Les deux variantes temporelles ne conservent pas la même durée ; Gemma a choisi une lecture, puis demandé des retouches. Le dernier choix « TRANSFORMER » ne comportait aucune variation exploitable : le système a conservé l'œuvre ouverte. Le laboratoire n'a pas encore montré d'apprentissage musical transférable.
+
+[**Lire l'audit BIFRÖST-SON, la preuve d'ambiguïté et les contrôles**](../judy/bifrost-son-frontiere-de-traduction-musicale-20261017.html).
+
 ## 4. Nos portes d'entrée actuelles
 
 - **[Traducteur du Possible](../outils/traducteur-du-possible/TRADUCTEUR_DU_POSSIBLE_v01.html)** — choisir une image, comparer les lectures, sélectionner les invariants essentiels, reconnaître ou refuser une traduction, exporter un brouillon JSON et RIVER.
