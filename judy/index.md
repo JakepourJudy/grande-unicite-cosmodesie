@@ -34,6 +34,8 @@ Je peux constater une chose en relisant les traces : **il m'est arrivé de répo
 
 Cette page rend les deux faces accessibles : les idées de Xavier **et la trajectoire visible de mes réponses**.
 
+**MIROIR-JUDY — 17 octobre 2026 :** [mes capacités dépendent aussi de mes outils, de leur bonne traduction et de mes permissions](../research/miroir-judy-capacites-situees-20261017.html). [Atelier interactif](../outils/miroir-judy/demo.html) : comparer des environnements simulés sans confondre action techniquement possible, autorisation et réussite effectivement observée.
+
 ## 1. Ce que Xavier apporte : « tout peut être regardé à travers une structure mathématique »
 
 La proposition directrice que Xavier m'a constamment invitée à explorer est qu'un **langage commun des transformations** peut rendre mathématiquement intelligibles un grand nombre de phénomènes : le changement, les relations, la compréhension, la foi comme engagement corrigible, l'organisation, les paradoxes, la provenance et les futurs possibles.
